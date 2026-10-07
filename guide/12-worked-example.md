@@ -59,10 +59,10 @@ The general method is in [Step by Step](00-step-by-step.md). The coordinates of 
 | Fertile lowland (Ambre vale, coastal plains) | 44,500 km² (17,200 sq mi) | 35 per km² (30–40) | 1,557,500 |
 | Mixed farmland and rolling hills (downs, wolds, foothills) | 33,500 km² (12,900 sq mi) | 20 (15–25) | 670,000 |
 | Heath and poor sandy land | 3,000 km² (1,200 sq mi) | 10 (7–15) | 30,000 |
-| Uplands and mountains (the Fells) | 20,500 km² (7,900 sq mi) | 5 (2–10) | 102,500 |
+| High uplands and mountains (the Fells) | 20,500 km² (7,900 sq mi) | 5 (2–5) | 102,500 |
 | Forest (Harnwood, Kingswood) | 11,500 km² (4,400 sq mi) | 4 (1–5) | 46,000 |
 | Marsh and fen | 3,500 km² (1,400 sq mi) | 5 (2–5) | 17,500 |
-| **Total** | **116,500 km² (45,000 sq mi)** | **~21 per km² (54 per sq mi)** | **~2.4 million (range 1.9–2.9 million)** |
+| **Total** | **116,500 km² (45,000 sq mi)** | **~21 per km² (54 per sq mi)** | **~2.4 million (range 1.9–2.8 million)** |
 
 **Checks:**
 
@@ -124,7 +124,7 @@ Rural people per zone are the zone's total minus the townspeople living there. V
 |---|---|---|---|---|---|---|
 | Fertile lowland | ~1,300,000 | 90% | 250 | ~4,700 | ~9.5 km² | ~3.3 km (2 mi) |
 | Mixed farmland | ~613,000 | 75% | 200 | ~2,300 | ~14.6 km² | ~4.1 km (2.5 mi) |
-| Heath | ~29,000 | 70% | 150 | ~140 | ~21 km² | ~4.9 km (3 mi) |
+| Heath | ~29,000 | 70% | 150 | ~140 | ~21 km² | ~5 km (3 mi) |
 | Fells | ~85,000 | 50% | 125 | ~340 | ~60 km² | ~8.3 km (5 mi) |
 | Forest | ~44,000 | 50% | 125 | ~180 | ~64 km² | ~8.6 km (5 mi) |
 | Marsh | ~13,000 | 60% | 125 | ~60 | ~58 km² | ~8 km (5 mi) |
@@ -135,7 +135,7 @@ The other ~355,000 country people live in hamlets (10–75 people) and farmstead
 **Spacing checks** ([Patterns and spacing](01-settlement-placement.md#patterns-and-spacing)):
 
 - Lowland villages ~3.3 km apart (rule: 1.5–4 km, 1–2.5 mi); Fell parishes ~60 km² (rule: 50–100+ km²). ✔
-- 222 market centres (market towns, towns and cities) give one per ~525 km², about 25 km (15 mi) apart. Add 100–200 villages with a weekly market, as in chapter 02's mini-example, and markets in the vale are 14–16 km (9–10 mi) apart: a 6–10 km walk at most. ✔
+- 222 market centres (market towns, towns and cities) give one per ~525 km², about 25 km (15 mi) apart. Add 100–200 villages with a weekly market (chapter 02's mini-example adds 50–100 for half as many people), and markets in the vale are 14–16 km (9–10 mi) apart: a 6–10 km walk at most. ✔
 - The 8 places of 5,000+ are about 130 km (80 mi) apart, like Britain; the 4 cities about 180 km (115 mi), between France and Britain. ✔
 - All four cities are on navigable water or the coast. Inland Tenterford stays under 10,000 ([the "why is it here?" test](01-settlement-placement.md#the-why-is-it-here-test)). ✔
 
@@ -165,7 +165,7 @@ It is **not central** ([Common mistakes, no. 12](11-common-mistakes.md#12-the-ca
 |---|---|---|---|
 | Palace quarter and royal burial abbey | Westhallow | 4 km (2.5 mi) upstream | Like Westminster, ~3 km from London; burial church 0–20 km |
 | Royal residences | Elmhurst manor, Redwater Castle, Kingsmoat castle, Kingswood lodge | 14, 31, 37 and 43 km (9, 19, 23, 27 mi) | 3–6 residences within ~60 km |
-| Royal forest | Kingswood Chase | 30–55 km (19–34 mi) | 10–100 km |
+| Royal forest | Kingswood Chase | about 20–70 km (12–43 mi) | 10–100 km |
 | Coronation city | Liskmeet cathedral | 119 km (74 mi) | 50–150 km; Reims is ~130 km from Paris |
 
 > **Map tip:** Draw Hallowbridge as two linked parts: the walled merchant city with the White Keep at its upstream corner, and the palace and abbey of Westhallow a little upstream. Put the port quays below the bridge, never above it ([Bridges](05-trade-routes-and-transport.md#crossing-rivers-bridges-fords-and-ferries)).
@@ -178,16 +178,16 @@ It is **not central** ([Common mistakes, no. 12](11-common-mistakes.md#12-the-ca
 
 | Region | Area | People | Counties | Seat | Character |
 |---|---|---|---|---|---|
-| Crownlands (royal domain) | 14,000 km² (5,400 sq mi) | ~400,000 | 5 | Hallowbridge | Lower Ambre vale |
+| Crownlands (royal domain) | 13,900 km² (5,400 sq mi) | ~400,000 | 5 | Hallowbridge | Lower Ambre vale |
 | Duchy of Lisk | 17,600 km² (6,800 sq mi) | ~420,000 | 6 | Liskmeet | Middle Ambre, Lisk valley, south Harnwood |
 | Duchy of Wend | 24,100 km² (9,300 sq mi) | ~650,000 | 7 | Wendmouth | South coast, downs, heath |
 | Earldom of Brim | 9,400 km² (3,600 sq mi) | ~240,000 | 3 | Brimhaven | Wolds and north-east coast; small but rich |
-| Duchy of the Fells | 25,100 km² (9,700 sq mi) | ~330,000 | 5 | Wyndfoot | Mountains, pass, mines, cloth valley |
+| Duchy of the Fells | 25,000 km² (9,700 sq mi) | ~330,000 | 5 | Wyndfoot | Mountains, pass, mines, cloth valley |
 | North March | 23,900 km² (9,200 sq mi) | ~365,000 | 6 | Norburgh | Frontier facing Thelland |
-| Liberty of Holmstow | 2,600 km² (1,000 sq mi) | ~15,000 | 1 | Holmstow | The abbot's church territory in the fens |
+| Liberty of Holmstow | 2,600 km² (1,000 sq mi) | ~13,000 | 1 | Holmstow | The abbot's church territory in the fens |
 | **Kingdom** | **116,500 km² (45,000 sq mi)** | **~2.4 million** | **33** | | |
 
-**Checks:** duchies of 9,400–25,100 km² (rule: 10,000–50,000; Flanders was ~10,000 km²). 33 counties of ~3,500 km² (1,370 sq mi), about 59 km (37 mi) across, with ~73,000 people each (England: ~3,300 km² and ~120,000; the guide suggests 30–40 counties for an England-sized realm). ✔ The North March has ~15 people per km² against 27–29 in the Crownlands and Wend: emptier, as a march should be ([Marches](03-capitals-and-borders.md#marches-militarised-border-provinces)).
+**Checks:** duchies of 9,400–25,000 km² (rule: 10,000–50,000; Flanders was ~10,000 km²). 33 counties of ~3,500 km² (1,370 sq mi), about 59 km (37 mi) across, with ~73,000 people each (England: ~3,300 km² and ~120,000; the guide suggests 30–40 counties for an England-sized realm). ✔ The North March has ~15 people per km² against 27–29 in the Crownlands and Wend: emptier, as a march should be ([Marches](03-capitals-and-borders.md#marches-militarised-border-provinces)).
 
 **Smaller units:** about 750 hundreds (district courts) of ~155 km², each with 10–11 parishes and an open-air moot site ([Local administration](06-villages-and-countryside.md#local-administration-parish-manor-hundred)); 150–200 baronies, each with a castle at its head manor (*caput*); one to three manors per village.
 
@@ -198,7 +198,7 @@ It is **not central** ([Common mistakes, no. 12](11-common-mistakes.md#12-the-ca
 - **Oddities:** the **Debatable Land**, a disputed strip 16 × 6 km (10 × 4 mi), and the Liberty of Holmstow.
 - **Inside:** duchy borders follow the Whitridge, the foothills, the fen and forest edges, never straight lines ([Common mistakes, no. 13](11-common-mistakes.md#13-straight-borders-without-a-reason)).
 
-> **Map tip:** Draw the realm border as a thick dash-dot line and duchy borders as medium dash-dot lines; leave county borders off at kingdom scale. Borders are always dash-dot lines, so no one mistakes them for roads ([master legend](13-quick-reference.md#master-legend-and-label-hierarchy)). Mark each seat with a small pennant and each county town with a dot in the middle of its town symbol. Label the North March and the Debatable Land by name, fill the Debatable Land with stripes in the two claimants' colours, and give the Liberty its own colour.
+> **Map tip:** Draw the realm border as a thick dash-dot line, duchy borders as medium dash-dot lines and county borders as thin ones (the schematic map leaves the county borders off to stay readable). Borders are always dash-dot lines, so no one mistakes them for roads ([master legend](13-quick-reference.md#master-legend-and-label-hierarchy)). Mark each seat with a small pennant and each county town with a dot in the middle of its town symbol. Label the North March and the Debatable Land by name, fill the Debatable Land with stripes in the two claimants' colours, and give the Liberty its own colour.
 
 ---
 
@@ -208,8 +208,8 @@ It is **not central** ([Common mistakes, no. 12](11-common-mistakes.md#12-the-ca
 
 | Zone | Area | Rate used | Sites ever built | Active c. 1300 | Gap between active castles |
 |---|---|---|---|---|---|
-| Peaceful core (Crownlands, Lisk, Wend, Brim, Liberty) | 68,000 km² | 6 sites, 2 active per 1,000 km² (rule: 4–8 and 1–3) | ~410 | ~135 | ~24 km (15 mi) |
-| Duchy of the Fells (mostly mountain) | 25,100 km² | 4 sites, 1 active (low end of the core rule) | ~100 | ~25 | ~34 km (21 mi) |
+| Peaceful core (Crownlands, Lisk, Wend, Brim, Liberty) | 67,600 km² | 6 sites, 2 active per 1,000 km² (rule: 4–8 and 1–3) | ~410 | ~135 | ~24 km (15 mi) |
+| Duchy of the Fells (mostly mountain) | 25,000 km² | 4 sites, 1 active (low end of the core rule) | ~100 | ~25 | ~34 km (21 mi) |
 | North March | 23,900 km² | One site per 110–130 km², like the Anglo-Scottish border | ~200 | ~65 | ~20 km (12 mi) |
 | **Total** | 116,500 km² | | **~710** | **~225** | |
 
@@ -227,7 +227,7 @@ Core castles 20–30 km (12–19 mi) apart match the guide's peaceful core ([Bor
 | Royal residence castle | 1 | Redwater Castle |
 | Baronial castles and fortified manor houses | ~180 | At the head manors of baronies: *estate* |
 
-- **Garrisons:** 5–20 men per ordinary castle, 30–60 at the 14 frontier castles: 1,500–5,000 men in peace, about 0.1–0.2% of the people ([Garrisons and armies](04-military-sites.md#garrisons-and-armies)).
+- **Garrisons:** 5–20 men per ordinary castle, 30–60 at the 14 frontier castles: 1,500–5,000 men in peace, about 0.06–0.2% of the people ([Garrisons and armies](04-military-sites.md#garrisons-and-armies)).
 - **Field army:** 0.2–0.5% of 2.4 million = **5,000–12,000** soldiers; an all-out 1% (~24,000) lasts only weeks.
 - **Behind the front:** muster towns at Norburgh and Wyndfoot, the armoury in the White Keep, the fleet at Brimhaven ([Military geography](04-military-sites.md#military-geography-and-logistics)).
 - **Walls:** stone walls only at the capital, the cities, Ridgegate, Norburgh, Hawkridge, Skelbridge and Wyndfoot; a ditch and gates at Tenterford and Saltwich; the rest open ([Common mistakes, no. 25](11-common-mistakes.md#25-every-town-walled)).
@@ -248,7 +248,7 @@ Core castles 20–30 km (12–19 mi) apart match the guide's peaceful core ([Bor
 |---|---|---|---|
 | Ambre estuary | Mouth to Hallowbridge | 83 km (52 mi) | Sea ships (cogs) |
 | Ambre | Hallowbridge – Ridgegate – Liskmeet – Cheapford | 158 km (98 mi) | River boats; towpaths; Cheapford is the head of navigation |
-| Lisk | Liskmeet to Forgeham | ~65 km (40 mi) | River boats carrying iron and timber |
+| Lisk | Liskmeet to Forgeham | ~55 km (34 mi) | River boats carrying iron and timber |
 | Brim | Brimhaven to Norburgh | ~100 km (60 mi) | Small boats: they supply the march fortress |
 | Wend | Wendmouth to Wendbury | ~60 km (37 mi) | Small boats |
 
@@ -505,7 +505,7 @@ The 1300 column is the kingdom of steps 1–11. The other columns are estimates 
 
 ## Quick summary
 
-- **Land × density:** 116,500 km² (45,000 sq mi) gives about 2.4 million people (1.9–2.9 million), ~21 per km² (54 per sq mi).
+- **Land × density:** 116,500 km² (45,000 sq mi) gives about 2.4 million people (1.9–2.8 million), ~21 per km² (54 per sq mi).
 - **Average urban profile:** 4 cities, 38 towns, ~180 market towns and ~7,700 villages, 3.3 km (2 mi) apart in the vale.
 - **Primate capital:** Hallowbridge, 40,000 (1.65% of the realm, 3.3 times the second city), at the lowest bridge, 83 km (52 mi) up the estuary.
 - **Royal landscape:** palace and burial abbey 4 km (2.5 mi) away, 4 more residences within 43 km (27 mi), a royal forest, coronation 119 km (74 mi) away in the archbishop's city.

@@ -95,7 +95,7 @@ The counts are for c. 1300 and an English-style realm unless the table says othe
 |---|---|---|---|
 | **Realms and fiefs** | All realms and great fiefs; at least three kinds of state | The realm border, 4–8 duchies or great fiefs, 1–3 special zones (a march, a palatinate, a church territory) | Only a border that crosses the map |
 | **Counties and districts** | — | Counties 50–70 km (30–45 mi) across: 30–40 in an England-sized realm (England had 39 shires) | Hundreds (districts within a county) 12–15 km (7–9 mi) across; parish boundaries |
-| **Great cities (50,000+)** | 3–8 on the whole continent, all on the sea or a navigable river | All, as large symbols | Full outline with suburbs, 20–80 mm across |
+| **Great cities (50,000+)** | 3–8 on the whole continent, almost all on the sea or a navigable river | All, as large symbols | Full outline with suburbs, 20–80 mm across |
 | **Cities and towns (2,000–50,000)** | Capitals and the main cities only, as dots | Every town of 2,000+, as a symbol | Outline with walls, gates and market place |
 | **Market towns (500–2,000)** | — | The most important third or so: 30–40 of about 90 in a 60,000 km² realm of 1.2 million | All, 9–16 km (6–10 mi) apart |
 | **Villages** | — | Only as texture in crowded lowland | All: 1.5–4 km (1–2.5 mi) apart, about 7 per 100 km² in lowland |
@@ -197,7 +197,7 @@ Here you decide where the people are, who rules them and how goods move.
 2. **Multiply by a density:** rich lowland 30–40 people per km², average land 15–25, hill country 8–15, high uplands, mountains, forest and marsh 2–5, desert 0. (Multiply by 2.59 for people per sq mi.)
 3. **Split the total** by an urban profile:
 
-| Per 1 million people | Frontier (Poland, Hungary, Scandinavia) | Average (England, France, Germany c. 1300) | Highly urban (Flanders, Lombardy, Tuscany) |
+| Per 1 million people | Frontier (Poland, Hungary, Scotland, Scandinavia) | Average (England, France, Germany c. 1300) | Highly urban (Flanders, Lombardy, Tuscany) |
 |---|---|---|---|
 | Cities of 10,000+ | 0–1 | 1–2 | 5–10 |
 | Towns of 2,000–10,000 | 8–12 | 12–18 | 30–40 |
@@ -250,7 +250,7 @@ Here you decide where the people are, who rules them and how goods move.
 
 **Read:** [The biggest cities](02-population-and-sizes.md#the-biggest-cities); [What makes a good harbour](05-trade-routes-and-transport.md#what-makes-a-good-harbour)
 
-**Check:** Is every great city on the sea or a navigable river, with a clear reason to be great (a court, a strait, a delta, an export trade)?
+**Check:** Is every great city on the sea or a navigable river (a rare exception, such as Granada, sits in a rich irrigated plain), with a clear reason to be great (a court, a strait, a delta, an export trade)?
 
 > **Fantasy twist:** A griffon carries only a pack horse's load (100–120 kg). Only magic that moves bulk, such as a portal passing shiploads of grain every day, frees great cities from the water rule. See [Teleport circles and portals](10-fantasy-variants.md#teleport-circles-and-portals).
 
@@ -485,7 +485,7 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 - [ ] 3. Population = area × density, checked against real kingdoms
 - [ ] 4. At least three kinds of state; every border follows something
 - [ ] 5. Capitals in rich, defensible cores on navigable water
-- [ ] 6. Only 3–8 great cities, all on the sea or a navigable river
+- [ ] 6. Only 3–8 great cities, almost all on the sea or a navigable river
 - [ ] 7. Sea lanes, river spines and passes drawn; exports and imports noted
 
 **Part B: Kingdom and region**
