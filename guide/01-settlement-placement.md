@@ -180,13 +180,14 @@ Many real names tell you the site type. You can use the same trick for your fant
 
 ## Settlement by terrain and biome
 
-The same rules apply everywhere, but the answer changes with the land. The first ten rows below cover Europe and its nearest neighbours, the steppe and the desert. The last four cover other climates, with examples from Asia, Africa and the far north.
+The same rules apply everywhere, but the answer changes with the land. The first eleven rows below cover Europe and its nearest neighbours, the steppe and the desert. The last four cover other climates, with examples from Asia, Africa and the far north.
 
 | Terrain | Where settlements go | Typical pattern | Density (see [chapter 02](02-population-and-sizes.md)) |
 |---|---|---|---|
 | Fertile river valleys and plains | River terraces, valley edges, crossings | Many nucleated (tightly grouped) villages; towns on the river | Highest: 30–50 per km² (80–130 per sq mi) at peak |
 | Rolling hills | Valley floors, spring lines, sheltered slopes | Villages in valleys; hilltops empty or pasture | Medium |
-| Uplands and mountains | Valley floors, sunny terraces, pass feet | Hamlets and farmsteads; seasonal huts higher up | Low: 2–10 per km² (5–25 per sq mi) |
+| Hill country (farmed valleys with upland grazing) | Valley floors and lower slopes, spring lines | Small villages and hamlets in the valleys; scattered farms; open grazing on the hills above | Lower: 8–15 per km² (21–39 per sq mi) at peak |
+| High uplands, moors and mountains | Sheltered valley floors, sunny terraces, pass feet | Hamlets and farmsteads; seasonal huts higher up | Low: 2–5 per km² (5–13 per sq mi) |
 | Coasts | Sheltered bays, estuaries, river mouths, slightly inland on raided coasts | Chains of fishing villages and ports | Varies |
 | Marsh and fens | Islands of dry ground, fen edges, man-made mounds | Villages on the edge; few inside | Low inside, high on the edge |
 | Forest | Clearings, river valleys through the forest | Strings of new villages pushing in | Low, rising as land is cleared |
@@ -209,6 +210,7 @@ Valleys hold the villages; hilltops hold sheep pasture and sometimes old hill fo
 
 ### Uplands and mountains
 
+- **Two kinds of upland.** Farmed **hill country** (valleys with upland grazing above them) held about 8–15 people per km² (21–39 per sq mi) at the peak around 1300. **High uplands, moors and mountains** held only about 2–5 per km² (5–13 per sq mi). See [chapter 02](02-population-and-sizes.md#by-type-of-land).
 - **Valley floors and terraces** hold permanent villages, usually on the sunny side and on alluvial fans (fan-shaped slopes of gravel where side streams enter the valley) that are safe from the main river's floods.
 - **Altitude bands.** In the Valais (Switzerland), hamlets sit on sunny terraces at about 1,000 m (3,300 ft). Higher hay barns and chalets (*mayens*) sit at 1,500–1,600 m (4,900–5,200 ft). Summer pastures start around 2,000 m (6,600 ft).
 - **Seasonal settlement.** Herds moved up in summer and down in winter (*transhumance*). This is very old in the Alps: archaeology traces it back to about 3000 BC, and written records mention summer pastures by 1204. In northern England and Scotland the summer huts used for the same purpose are called *shielings*.
@@ -231,7 +233,7 @@ In 1000–1300 Europe cleared huge areas of forest. Clearing land for farming wa
 
 ### Steppe and grassland
 
-> **Rule of thumb:** On the steppe, people live in small camps of a few tents that move several times a year. Draw pasture zones and routes, not village dots. Fixed towns are rare and sit on rivers or at the steppe edge.
+> **Rule of thumb:** On the steppe, people live in small camps of a few tents that move several times a year. Label pasture zones and draw routes, not village dots. Fixed towns are rare and sit on rivers or at the steppe edge.
 
 **Why:** Grass is thin, so herds must keep moving to fresh pasture. A big crowd of animals in one place would eat the grass bare in days.
 
@@ -263,11 +265,11 @@ Even a side branch of the court was large. When one of Uzbeg's wives travelled t
 
 The whole system needs a lot of land: steppe nomads lived at under 1–2 people per km² (under 3–5 per sq mi) (see [Population and Settlement Sizes](02-population-and-sizes.md)).
 
-> **Map tip:** On a nomad region, shade summer and winter pastures in two tints. Put a few winter-camp dots in sheltered river valleys, and draw seasonal migration arrows between the zones, with wells and fords on the way. Add one or two fixed towns (a Sarai or a Karakorum) on a river, and frontier markets where the steppe meets farmland. If the ruler's camp matters to your story, draw it as a large ring of tents with a label such as "Khan's Ordu (summer)".
+> **Map tip:** On a nomad region, do not colour the pastures: a soft tint means a language or faith area. Instead, write italic area labels such as "Summer pastures" and "Winter pastures" across the land they cover. Mark a few winter camps in sheltered river valleys with the nomad-camp symbol: 2–3 tiny **open** half-circles (round tents). Do not use dots, because a tiny dot means a farmstead (or, on a kingdom map, a village). Draw the seasonal migration routes between the pastures as dotted lines with arrows, with wells and fords on the way. Add one or two fixed towns (a Sarai or a Karakorum) on a river, and frontier markets where the steppe meets farmland. If the ruler's camp matters to your story, draw it as a large ring of the same open half-circles with a label such as "Khan's Ordu (summer)".
 
 ### Desert
 
-Water decides everything. Settlements are dots and lines: dots at oases, lines along wadis (dry riverbeds that flood sometimes) and along *qanats*. A *qanat* is a gently sloping tunnel that brings groundwater from the foot of the mountains to the fields. They are typical of Iran. Most Iranian qanats are under 5 km (3 mi) long, but some near Kerman measure about 70 km (43 mi). Desert cities such as Yazd and Kerman sit at the foot of mountains where qanats can be dug. Caravan stops sit one day's march apart, about 30–40 km (19–25 mi) (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)).
+Water decides everything. Settlements form islands and lines: green islands at oases, lines along wadis (dry riverbeds that flood sometimes) and along *qanats*. A *qanat* is a gently sloping tunnel that brings groundwater from the foot of the mountains to the fields. They are typical of Iran. Most Iranian qanats are under 5 km (3 mi) long, but some near Kerman measure about 70 km (43 mi). Desert cities such as Yazd and Kerman sit at the foot of mountains where qanats can be dug. Caravan stops sit one day's march apart, about 30–40 km (19–25 mi) (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)).
 
 ### Islands
 
@@ -321,11 +323,11 @@ North of the grain line (the tundra, or treeless arctic plain, and the taiga, th
 - **The winter village.** The centre of each siida was its winter village. Families and extended families gathered there for the winter, then split into smaller groups for the snowless part of the year. Archaeologists have excavated a chain of eight such winter villages along the small River Nukkumajoki near Lake Inari (northern Finland), dated to the late 16th and early 17th centuries. One of them (Nukkumajoki 5) had 8 huts (*goahti*) and 7 hearths in a line (Halinen 2019).
 - **Summer.** The small groups moved to their own seasonal sites: fishing waters, hunting grounds and pastures.
 
-> **Map tip:** Draw shifting fields as scattered clearings of different ages around small villages, with forest in between. Draw wet-rice land as a continuous fine grid along rivers and deltas, with villages strung along the dikes and canals. In the savanna, put a trade town where a desert route meets a river. In the arctic, draw a few winter-village dots by lakes, with dashed seasonal routes out to summer camps; leave the rest empty.
+> **Map tip:** Draw shifting fields as scattered clearings of different ages around small villages, with forest in between. Draw wet-rice land as a continuous fine grid along rivers and deltas, with villages strung along the dikes and canals. In the savanna, put a trade town where a desert route meets a river. In the arctic, mark a few winter villages by lakes and rivers with the village symbol, with dotted seasonal routes out to the summer camps (2–3 tiny open half-circles, as for nomads); leave the rest empty.
 
 > **Fantasy twist:** Dwarves change the mountain rule. A dwarf city can be large and deep inside a mountain, but it still needs food, so expect a busy human or dwarf market town at the mountain gate, on the nearest valley floor. Treat it like a pass town. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Colour or shade your map by terrain type before placing settlements. Then use the table above as a checklist. Plains get dense villages. Uplands get a few hamlets in the valleys. Marshes get a ring of villages around the edge. Deserts get a few oasis dots joined by caravan routes. Rice deltas get the densest carpet of all. Leave the high mountains, deep forest, open steppe and tundra mostly empty.
+> **Map tip:** Before placing settlements, lightly shade your map by terrain type, in pencil or on a layer you hide later. Then use the table above as a checklist. Plains get dense villages. Hill country gets small villages and hamlets in the valleys; high uplands get only a few. Marshes get a ring of villages around the edge. Deserts get a few oases, each drawn as a green belt of gardens with small palm marks around the town or well, joined by caravan routes. Rice deltas get the densest carpet of all. Leave the high mountains, deep forest, open steppe and tundra mostly empty. These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).
 
 ---
 

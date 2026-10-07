@@ -1121,7 +1121,7 @@ The chapters suggest symbols for their own topics. This legend gives one symbol 
 | Castle kept as a prison or mint | Castle icon in the town, labelled with its new use ("prison", "mint") | K, L |
 | Coastal artillery fort (1500s+) | Small round outline with rounded lobes (a rosette, like the plan of Deal Castle, 1539–40), never pointed; a fort with angled bastions takes the star outline | K, L |
 
-A walled town needs no military symbol of its own: use the town or city symbol with battlements. A fortified or moated manor house uses the manor-house square (double outline if moated). The coastal artillery fort symbol is a suggestion: the chapters do not yet draw these forts (see [Coastal defence](09-later-era-1500-1650.md#coastal-defence)).
+A walled town needs no military symbol of its own: use the town or city symbol with battlements. A fortified or moated manor house uses the manor-house square (double outline if moated). The coastal artillery fort is a rosette outline (rounded bastions, like Deal Castle), never pointed; see [Coastal defence](09-later-era-1500-1650.md#coastal-defence).
 
 **Religious and charitable:**
 
