@@ -1,0 +1,59 @@
+{
+ "gaps": [],
+ "fixes": [
+  {
+   "file": "00-step-by-step.md",
+   "kind": "terminology",
+   "instruction": "Densities: Step 2 (around line 185) says 'uplands and mountains hold 2–10 (5–25 per sq mi)' and Step 3 (around line 197) uses old labels 'hills 8–15, uplands, forest and marsh 2–5'. Use chapter 02's current values and labels: hill country 8–15 per km² (21–39 per sq mi) at peak; high uplands, moors, mountains 2–5 (5–13); calculator labels 'hill country' and 'high uplands, mountains, forest and marsh'.",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "00-step-by-step.md",
+   "kind": "terminology",
+   "instruction": "Symbols must match 13's master legend: royal forests are a green dash-dot boundary, not dotted (around lines 107 and 404); ruins are the feature's own symbol drawn broken or grey, not dashed lines (around line 433); faiths are shown with soft colour tints, not a 'religious border' line (around lines 35 and 454).",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "terminology",
+   "instruction": "Densities: the terrain table (around line 189) says 'Uplands and mountains ... Low: 2–10 per km² (5–25 per sq mi)'. Use chapter 02's split: hill country 8–15 per km² (21–39 per sq mi) at peak; high uplands, moors, mountains 2–5 (5–13).",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "terminology",
+   "instruction": "Symbols must match 13's master legend (read 13's 'Master legend and label hierarchy'): nomad winter camps as 2–3 tiny open half-circles (not dots, which mean farmsteads); summer and winter pastures labelled rather than shown with tints (soft tints mean language or faith areas); seasonal routes dotted, not dashed; winter villages with the village symbol; oases as a green belt of gardens with palm marks (not dots). Add the line 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' where the chapter gives symbol advice.",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "terminology",
+   "instruction": "Add a short note (1–2 sentences) beside the 'very urban, rich lowland 50–75' density row: exceptional districts went far higher, e.g. Norfolk had 486,920 people in 1290 (Broadberry, Campbell & van Leeuwen 2011, Table 8B) on about 5,400 km², roughly 90 per km² (230 per sq mi). Mark the per-km² figure as derived.",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "04-military-sites.md",
+   "kind": "terminology",
+   "instruction": "Coastal artillery forts (1500s+): where the chapter mentions Henrician device forts or coastal artillery forts, give the symbol from 13's master legend: a rosette outline (rounded bastions, like Deal Castle's plan), never pointed (pointed outlines are star forts).",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "terminology",
+   "instruction": "Coastal artillery fort: the table of new fortifications lists this type without a symbol. Add 13's symbol: a rosette outline (rounded bastions, like Deal Castle's plan), never pointed.",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "terminology",
+   "instruction": "Look-alike: the dwarf hold gate (a rounded arch ∩ in a mountainside) can be confused with the gallows (a flat-topped Π). Add one clause where the hold gate symbol is given: draw the arch clearly rounded and set into the mountain, unlike the flat-topped gallows Π.",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  },
+  {
+   "file": "12-worked-example.md",
+   "kind": "terminology",
+   "instruction": "Symbol wording in the text must match 13's master legend: around line 286 ('the 4 bridges as bars, the fords as dashes and the ferries as small boats') becomes ')( for a bridge, a short dashed line for a ford, a dotted line with F for a ferry' (a small boat means the head of navigation); around line 361 'Draw ruins grey or dotted' becomes 'Draw ruins with their own symbol, broken or grey'. If the map was restyled in this session, make sure the text describes the map as it now is.",
+   "evidence": "chapter 13 master legend / chapter 02 densities (reported by the 13 update)"
+  }
+ ]
+}

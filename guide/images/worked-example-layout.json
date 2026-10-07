@@ -1425,8 +1425,8 @@
    "name": "Old motte (Liskmeet)",
    "type": "abandoned motte or ringwork (earthwork)",
    "status": "ruin",
-   "x": 470,
-   "y": 398,
+   "x": 476,
+   "y": 389,
    "controls": "nothing now: early castle, given up before 1300"
   },
   {
@@ -1749,10 +1749,10 @@
   }
  ],
  "road_classes": {
-  "royal_highway": "thick line",
-  "regional_road": "medium line",
-  "old_road_in_use": "straight medium line, label 'Old Street'",
-  "pilgrim_road": "dotted line with shell symbols"
+  "royal_highway": "thick solid line",
+  "regional_road": "medium solid line",
+  "old_road_in_use": "straight thick solid line, labelled 'Street' (Old Street, Fell Street)",
+  "pilgrim_road": "ordinary road line with small scallop-shell marks along it"
  },
  "bridges": [
   {
@@ -1986,9 +1986,9 @@
   }
  ],
  "border_classes": {
-  "realm": "thick dashed line",
-  "great_fief": "medium dashed line",
-  "church_liberty": "thin dash-dot line"
+  "realm": "thick dash-dot line",
+  "great_fief": "medium dash-dot line",
+  "church_liberty": "thin dash-dot line (enclave: owner's colour with a thin outline)"
  },
  "frontier_band": {
   "name": "The North March frontier zone (hatch)",

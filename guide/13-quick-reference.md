@@ -1,6 +1,6 @@
 # Quick Reference Cheat Sheet
 
-This sheet puts the guide's working numbers on one page, to keep open while you draw. Every figure is copied from the chapter that owns it, and the link under each table takes you to the full explanation. Numbers describe Europe c. 1300 unless a table says otherwise. The ranges are real: scholars disagree, so pick a value inside the range that fits your region.
+This sheet puts the guide's working numbers on one page, to keep open while you draw. Every figure is copied from the chapter that owns it, and the link under each table takes you to the full explanation (the one figure added here, for Norfolk, names its own source). Numbers describe Europe c. 1300 unless a table says otherwise. The ranges are real: scholars disagree, so pick a value inside the range that fits your region.
 
 **In this chapter:**
 
@@ -69,7 +69,7 @@ Source: [The settlement ladder](02-population-and-sizes.md#the-settlement-ladder
 | Village | 75–500 (English lowland usually 150–300) | 15–100 | Parish church, manor house, mill, smithy, open fields, common pasture | — / tiny dot (notable villages only) / house marks around a church | 7–8 pt |
 | Small market town | 500–2,000 | 100–400 | Weekly market, yearly fair, market place, burgage plots, inns, craftsmen, one parish church, often a hospital | — / small open circle / houses around a market square | 8–9 pt |
 | Town | 2,000–10,000 | 400–2,000 | Usually walled; several parishes, guilds, friaries, hospitals, often a castle, a borough charter, its own council | dot (important ones only) / circle with a ring (battlements on the ring if walled) / outline with wall and gates | 9–10 pt |
-| City | 10,000–50,000 | 2,000–10,000 | Cathedral, many parishes and friaries, suburbs, guilds, law courts, mint; sometimes a university | dot or circle / larger walled symbol / full outline | 11–12 pt, bold or small capitals |
+| City | 10,000–50,000 | 2,000–10,000 | Cathedral, many parishes and friaries, suburbs, guilds, law courts, mint; sometimes a university | dot or circle / circle with a thick battlemented ring (a larger walled symbol) / full outline | 11–12 pt, bold or small capitals |
 | Great city | 50,000+ | 10,000+ | Capital or major port; several markets, university, foreign merchants' quarters, organised water supply; grain by river or sea | large circle with a ring / large walled symbol / full outline with suburbs | 13–14 pt CAPITALS |
 
 A capital takes a filled star in place of its tier symbol (see the [master legend](#master-legend-and-label-hierarchy)).
@@ -118,7 +118,8 @@ Source: [The settlement ladder](02-population-and-sizes.md#the-settlement-ladder
 | Very urban, rich lowland | 50–75 | 130–190 | Flanders and Holland in the 15th century (estimate) |
 | Average mixed farmland | 15–30 | 40–80 | Suffolk ~23–25 in 1086; England ~19 in 1377 |
 | Poorer land, young kingdoms | 7–15 | 18–40 | Hungary ~7 (c. 1200), ~9–11 (c. 1495); Crown of Poland 8.6 (1370), 13 (1500) |
-| Hills, uplands, mountains | 2–10 | 5–25 | Scottish Highlands, Alps, Pyrenees, northern Pennines |
+| Hill country (farmed valleys with upland grazing), peak times | 8–15 | 21–39 | Cumberland and Westmorland about 15–17 in 1290 as whole counties (valleys and coastal plain included); about 6–7 in 1377 |
+| High uplands, moors, mountains | 2–5 | 5–13 | Scottish Highlands, high Alps, Pyrenees, northern Pennines (estimate) |
 | Forest or steppe frontier | 1–5 | 3–13 | Lithuania, the Rus' forest zone (estimate) |
 | Shifting (swidden) farming in tropical forest | about 6 on average; 12–35 in busier districts; at most about 55–56 | about 14 on average; 30–90; at most about 145 | 1950s world average about 6; modern Southeast Asia from 12 in northern Laos to 35 in northern Thailand |
 | Steppe nomads | under 1–2 | under 3–5 | Herders need huge pastures |
@@ -126,7 +127,9 @@ Source: [The settlement ladder](02-population-and-sizes.md#the-settlement-ladder
 | Irrigated river valley | 100+ on the farmed strip | 260+ | Egypt c. 1340 |
 | Wet-rice or lake-garden basin (outside Europe) | 80–125 over a region; 230–300 in a city-and-rice-field zone | 210–325; 600–780 | Yangzi delta ~80 (1102); Valley of Mexico ~100–125 (1519); Greater Angkor ~230–300 (13th century) |
 
-Source: [By type of land](02-population-and-sizes.md#by-type-of-land) and [Density beyond Europe](02-population-and-sizes.md#density-beyond-europe).
+These are typical values, not limits. England's most populous county went far above them: Norfolk had perhaps 490,000 people in 1290 (a model estimate) on about 5,400 km² (2,080 sq mi), roughly 90 per km² (230 per sq mi). It fits the rule of thumb: it had very intensive farming, one of England's largest cities (Norwich) and two busy ports (Lynn and Yarmouth). Keep such a figure for one exceptional district, not a whole realm.
+
+Source: [By type of land](02-population-and-sizes.md#by-type-of-land) and [Density beyond Europe](02-population-and-sizes.md#density-beyond-europe); for Norfolk, [Broadberry, Campbell & van Leeuwen 2011](https://warwick.ac.uk/fac/soc/economics/seminars/seminars/conferences/venice3/programme/english_medieval_population.pdf), Table 8B (486,920 people in 1290), with the area of the modern county; on its farming, Campbell, "Agricultural progress in medieval England: some evidence from eastern Norfolk", *Economic History Review* 36 (1983).
 
 **Quick values for the population calculator** (people = area × density):
 
@@ -134,8 +137,8 @@ Source: [By type of land](02-population-and-sizes.md#by-type-of-land) and [Densi
 |---|---|---|
 | Rich lowland | 30–40 | about 78–104 |
 | Average land | 15–25 | about 39–65 |
-| Hills | 8–15 | about 21–39 |
-| Uplands, forest and marsh | 2–5 | about 5–13 |
+| Hill country | 8–15 | about 21–39 |
+| High uplands, mountains, forest and marsh | 2–5 | about 5–13 |
 | Desert | 0 | 0 |
 
 A hex's area is about 0.866 × (width across the flat sides)²: a 30 km hex is about 780 km², a 30 mi hex about 780 sq mi. Multiply per km² by 2.59 to get per sq mi.
@@ -167,7 +170,7 @@ Source: [By realm and date](02-population-and-sizes.md#by-realm-and-date).
 
 Source: [Feeding towns: the hinterland](02-population-and-sizes.md#feeding-towns-the-hinterland).
 
-> **Map tip:** Before placing villages, lightly shade the map into crowded lowland, ordinary farmland, thin hill country and empty land. Then draw a faint circle at the overland radius around each town. If two circles overlap heavily, shrink one town or put it on water.
+> **Map tip:** Before placing villages, lightly shade the map into crowded lowland, ordinary farmland, thin hill country and empty land. Then draw a faint circle at the overland radius around each town. If two circles overlap heavily, shrink one town or put it on water. Do both in pencil or on a layer you hide later, and remove them from the finished map: in the [master legend](#master-legend-and-label-hierarchy) a soft tint means a language area and a ring around a place belongs to the town symbol.
 
 ---
 
@@ -399,13 +402,13 @@ Source: [How big can a realm be](03-capitals-and-borders.md#how-big-can-a-realm-
 |---|---|
 | Feudal kingdom | One outline with a patchwork of great fiefs inside; royal domain around the capital |
 | City-state and its *contado* | A city with a territory of roughly 20–50 km (12–30 mi) radius; many side by side |
-| League of towns | A network: member towns with a shared symbol, linked by sea routes; no coloured area |
+| League of towns | A network: member towns keep their normal symbols, with names underlined in the league's colour, linked by sea routes; no coloured area |
 | Confederation | A cluster of small units, some jointly ruled subject lands |
 | Composite empire | A big outer border with hundreds of small internal units |
 | Church state | Its own colour, often in scattered pieces |
 | Military-order state | A frontier territory with many castles and commanderies |
-| Maritime empire | A home city plus a chain of coastal dots and islands |
-| Nomadic empire | Huge vague area: pastures, a few capitals, a ring of tributary states |
+| Maritime empire | A home city plus a chain of coastal dots and islands; only these take its colour |
+| Nomadic empire | Huge vague area: pastures, a few capitals, a ring of tributary states in a lighter tint of the empire's colour |
 
 Source: [Kinds of states and how they look on a map](03-capitals-and-borders.md#kinds-of-states-and-how-they-look-on-a-map).
 
@@ -687,7 +690,7 @@ Source: [How many features: England c. 1300 averages](06-villages-and-countrysid
 
 Source: [Footprints: how big to draw them on a local map](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map).
 
-> **Later era (1500s+):** About 45% of England was enclosed by 1500, 47% by 1600 and 71% by 1700 (Wordie's estimate). Show hedged fields in sheep country, and the first drained polders. See [The countryside: enclosure, new crops and drainage](09-later-era-1500-1650.md#the-countryside-enclosure-new-crops-and-drainage).
+> **Later era (1500s+):** About 45% of England was enclosed by 1500, 47% by 1600 and 71% by 1700 (Wordie's estimate). Show hedged fields in sheep country. Polders behind dykes are medieval (Low Countries, from the 11th century), but whole lakes drained by windmills are new (Beemster, by 1612), and so are the drained English Fens. See [The countryside: enclosure, new crops and drainage](09-later-era-1500-1650.md#the-countryside-enclosure-new-crops-and-drainage).
 
 > **Map tip:** For each village, imagine a circle of about 2 km (1.3 mi) radius: open fields inside, a ribbon of meadow along the stream, woods and heath in the gaps between neighbouring circles. Draw parish boundaries through that outer land, along streams, ridges and wood edges.
 
@@ -748,7 +751,7 @@ Source: [Where industry sits in and around a town](07-industry-and-resources.md#
 |---|---|---|
 | Mining town | 1,000–5,000; boom towns 10,000–20,000; camps 20–300 | Up a valley; spoil heaps, shafts, mint, big church, little farmland |
 | Salt town | Small to middle-sized, rich for its size | Brine spring or salt mine; salt roads radiating out |
-| Fishing village | 50–500; seasonal stations swell in season | Beach or cove, boats drawn up, drying racks |
+| Fishing village | 50–500; seasonal stations swell in season | Beach or cove; drying racks or smokehouses as labels ("Fish Racks"). Do not draw boats: a small boat marks the head of navigation |
 | Cloth town | 2,000–10,000; the Flemish giants 20,000–65,000 | Cloth hall, tenter grounds, fulling mills, dyers by the river |
 | Fair town | Often only a small or middle town | Big open fairground, many inns, several roads meeting |
 | Iron or craft town | 1,000–10,000 | Forges and grinding mills along streams |
@@ -841,7 +844,7 @@ Source: [Friaries tell you how big a town is](08-religious-cultural-and-ancient-
 
 Source: [Drawing it all: symbols, density and scale](08-religious-cultural-and-ancient-sites.md#drawing-it-all-symbols-density-and-scale).
 
-> **Later era (1500s+):** Protestant lands close their monasteries (England and Wales 1536–41) and end pilgrimage: draw ruined abbeys and country houses called "Abbey" on one side of a religious border, working monasteries and Jesuit colleges on the other. See [Religion: the Reformation on the map](09-later-era-1500-1650.md#religion-the-reformation-on-the-map).
+> **Later era (1500s+):** Protestant lands close their monasteries (England and Wales 1536–41) and end pilgrimage: draw ruined abbeys and country houses called "Abbey" on one side of the faith divide, working monasteries and Jesuit colleges on the other. Show each faith as a soft colour tint, never as a new line. See [Religion: the Reformation on the map](09-later-era-1500-1650.md#religion-the-reformation-on-the-map).
 
 > **Map tip:** On a kingdom map show only cathedrals, great abbeys, great shrines and universities. Save parish churches, friaries, hospitals and gallows for local maps.
 
@@ -933,6 +936,8 @@ Source: [Cities beyond Europe](02-population-and-sizes.md#cities-beyond-europe).
 | Paper mill | Xàtiva (Spain) by the 12th century; Fabriano (Italy) by 1276 | — |
 | Gunpowder cannon | First European picture, 1326 | Decisive in sieges by the mid-15th century |
 | Tower houses | 14th century | 14th–17th centuries |
+| Polder (drained land behind a dyke) | Low Countries, 11th century; Rijnland water board 1255 | Sea banks and reclaimed marsh spread in the High Middle Ages (Low Countries, the Fens, Romney Marsh) |
+| Navigable canal | Naviglio Grande (Milan): begun 1177, fully navigable 1272 | Short canals in Lombardy and the Low Countries; long canals mostly after 1500 |
 | Pound lock | China by 984; Vreeswijk 1373 or 1385; Damme 1396 | 18 on a Milanese canal, 1452–58 |
 | Canal over a watershed | Stecknitz Canal, 1391–98 (mostly flash locks) | — |
 | Drainage windmill | 1408 (Holland) | — |
@@ -949,7 +954,7 @@ Source: [Cities beyond Europe](02-population-and-sizes.md#cities-beyond-europe).
 | Summit canal with pound locks (**later era**) | Briare Canal, 1604–42 | — |
 | Potato as a field crop (**later era**) | Spain about 1570 | Ireland early 1600s; most of Europe only 1700s–1800s |
 
-Source: [How many mills](06-villages-and-countryside.md#how-many-mills), [Kinds of mill](06-villages-and-countryside.md#kinds-of-mill), [Types of fortification](04-military-sites.md#types-of-fortification), [Bridges](05-trade-routes-and-transport.md#bridges), [Mountain passes](05-trade-routes-and-transport.md#mountain-passes), [Mills, weirs and locks](05-trade-routes-and-transport.md#mills-weirs-and-locks), [Tolls and customs](05-trade-routes-and-transport.md#tolls-and-customs), [Fulling mills and water power](07-industry-and-resources.md#fulling-mills-and-water-power), [Metal and craft towns](07-industry-and-resources.md#metal-and-craft-towns), [Breweries](07-industry-and-resources.md#breweries), [Iron smelting in the forest](07-industry-and-resources.md#iron-smelting-in-the-forest), [Planted "new towns" and bastides](01-settlement-placement.md#planted-new-towns-and-bastides), [Monasteries, friaries and military orders](08-religious-cultural-and-ancient-sites.md#monasteries-friaries-and-military-orders), [Major universities](08-religious-cultural-and-ancient-sites.md#major-universities-and-when-they-began), [29. Mixing eras without reason](11-common-mistakes.md#29-mixing-eras-without-reason), [Timeline of the changes](09-later-era-1500-1650.md#timeline-of-the-changes), [Printing towns](09-later-era-1500-1650.md#printing-towns), [Canals with pound locks](09-later-era-1500-1650.md#canals-with-pound-locks), [Drainage and new land](09-later-era-1500-1650.md#drainage-and-new-land), [New crops](09-later-era-1500-1650.md#new-crops), [Fields and farming systems](06-villages-and-countryside.md#fields-and-farming-systems).
+Source: [How many mills](06-villages-and-countryside.md#how-many-mills), [Kinds of mill](06-villages-and-countryside.md#kinds-of-mill), [Types of fortification](04-military-sites.md#types-of-fortification), [Bridges](05-trade-routes-and-transport.md#bridges), [Mountain passes](05-trade-routes-and-transport.md#mountain-passes), [Mills, weirs and locks](05-trade-routes-and-transport.md#mills-weirs-and-locks), [Tolls and customs](05-trade-routes-and-transport.md#tolls-and-customs), [Fulling mills and water power](07-industry-and-resources.md#fulling-mills-and-water-power), [Metal and craft towns](07-industry-and-resources.md#metal-and-craft-towns), [Breweries](07-industry-and-resources.md#breweries), [Iron smelting in the forest](07-industry-and-resources.md#iron-smelting-in-the-forest), [Planted "new towns" and bastides](01-settlement-placement.md#planted-new-towns-and-bastides), [Monasteries, friaries and military orders](08-religious-cultural-and-ancient-sites.md#monasteries-friaries-and-military-orders), [Major universities](08-religious-cultural-and-ancient-sites.md#major-universities-and-when-they-began), [29. Mixing eras without reason](11-common-mistakes.md#29-mixing-eras-without-reason), [Timeline of the changes](09-later-era-1500-1650.md#timeline-of-the-changes), [Printing towns](09-later-era-1500-1650.md#printing-towns), [Canals with pound locks](09-later-era-1500-1650.md#canals-with-pound-locks), [Drainage and new land](09-later-era-1500-1650.md#drainage-and-new-land), [New crops](09-later-era-1500-1650.md#new-crops), [Fields and farming systems](06-villages-and-countryside.md#fields-and-farming-systems), [Reclaimed land](06-villages-and-countryside.md#reclaimed-land-fens-polders-and-assarts), [4. A huge city with no water transport](11-common-mistakes.md#4-a-huge-city-with-no-water-transport) (Naviglio Grande).
 
 > **Map tip:** Put the date in the title box ("The Kingdom of X, Year 1312"), then run down this table. Use three styles: working features, old features still in use (like an ancient road), and ruins in grey.
 
@@ -970,10 +975,10 @@ Source: [How many mills](06-villages-and-countryside.md#how-many-mills), [Kinds 
 | Field armies | Usually 5,000–20,000 | Total forces of 50,000–150,000+ for great states (paper strength) |
 | Ships | Cogs of 30–200 tons; galleys carrying about 140–250 tons | Carracks and galleons of several hundred to 2,000 tons; Dutch fluyts |
 | Messages | Royal messengers 50–90 km (30–56 mi) a day | Relay posts every 20–40 km (12–25 mi), up to ~150 km (95 mi) a day |
-| Canals | Short, flat, flash locks | Pound locks, summit canals, passenger barge canals |
+| Canals | Short and flat, mostly flash locks; the first pound locks (Damme 1396, Milan 1452–58) | Pound locks spread; summit canals; passenger barge canals |
 | Books | Hand-copied | Printed in 1,300+ places by 1650 |
 | Countryside | Open fields, commons, deserted villages | More enclosure (47% of England by 1600); serf grain estates in the east |
-| Wetlands | Mostly left wet | Polders and drained fens |
+| Wetlands | Mostly left wet; sea banks and small polders on the coasts | Whole lakes drained as polders (Beemster by 1612); inland fens drained |
 | Monasteries | Everywhere | Ruined or converted in Protestant lands; flourishing in Catholic lands |
 | Iron and mining | Bloomeries; steady mining towns | Blast furnaces; sudden boom towns (Joachimsthal, Potosí) |
 
@@ -1000,7 +1005,7 @@ Source: [The big cities](09-later-era-1500-1650.md#the-big-cities).
 |---|---|---|---|
 | Watchtower | 10–15 m tall | a handful | Every few km along raided coasts |
 | Coastal artillery fort | 30–100 m across | 10–30 in peace | Harbour mouths, anchorages, river mouths |
-| Small fort (*sconce*) | 100–250 m across, 4–5 bastions | 50–300 | River crossings, dikes, marsh roads |
+| Small fort (*sconce*) | 100–250 m across, 4–5 bastions | 50–300 | River crossings, dykes, marsh roads |
 | Citadel | 400–700 m across, 4–6 bastions | several hundred to 2,000+ | Edge of a big or rebellious city |
 | Fortress town | 1–2.5 km (0.6–1.5 mi) across, 6–12+ bastions | 1,000–5,000 in war | Frontiers, key river towns, big ports |
 
@@ -1008,7 +1013,7 @@ Bastions sit roughly 200–350 m apart. When one ruler controls the whole land, 
 
 Source: [Sizes and garrisons](09-later-era-1500-1650.md#sizes-and-garrisons) and [When a strong ruler cuts the number of castles](09-later-era-1500-1650.md#when-a-strong-ruler-cuts-the-number-of-castles-france-and-japan).
 
-> **Map tip:** Do not redraw the countryside for a later setting. Keep your medieval villages and market towns, then change the top layer: enlarge the capital and one or two ocean ports, shrink one silted or blockaded port, add star forts only where they pay, post roads, a canal, a polder and a religious border.
+> **Map tip:** Do not redraw the countryside for a later setting. Keep your medieval villages and market towns, then change the top layer: enlarge the capital and one or two ocean ports, shrink one silted or blockaded port, add star forts only where they pay, post roads, a canal, a drained lake and faith areas (soft colour tints, never a new border line).
 
 ---
 
@@ -1046,9 +1051,9 @@ Source: [How danger reshapes settlement](10-fantasy-variants.md#how-danger-resha
 | Dragons | Empty ring around the lair, tribute villages beyond | One cow a week needs a herd of about 250–500 cattle (rough example) |
 | Undead or blights | Like the Black Death | 30–60% dead; walled graveyards outside towns; quarantine islands |
 
-Use no more than three or four of these in any one region.
+Use no more than three or four of these in any one region. A fantasy danger frontier (30–100 km, 20–60 mi) is wider than a real march band (10–50 km, 6–30 mi), but both are drawn with the same hatching; truly wild land beyond it takes dense cross-hatching. For the symbols, see the fantasy group of the [master legend](#master-legend-and-label-hierarchy).
 
-Source: [Dangerous wilderness and monsters](10-fantasy-variants.md#dangerous-wilderness-and-monsters), [Magic, effect by effect](10-fantasy-variants.md#magic-effect-by-effect), [Non-human peoples](10-fantasy-variants.md#non-human-peoples-archetypes-with-real-analogues), [Gods, undead and dangerous seas](10-fantasy-variants.md#gods-undead-and-dangerous-seas), [What changes if: summary table](10-fantasy-variants.md#what-changes-if-summary-table), and for the griffon post [How big can a realm be](03-capitals-and-borders.md#how-big-can-a-realm-be).
+Source: [Dangerous wilderness and monsters](10-fantasy-variants.md#dangerous-wilderness-and-monsters), [Suggested symbols](10-fantasy-variants.md#suggested-symbols), [Magic, effect by effect](10-fantasy-variants.md#magic-effect-by-effect), [Non-human peoples](10-fantasy-variants.md#non-human-peoples-archetypes-with-real-analogues), [Gods, undead and dangerous seas](10-fantasy-variants.md#gods-undead-and-dangerous-seas), [What changes if: summary table](10-fantasy-variants.md#what-changes-if-summary-table), and for the griffon post [How big can a realm be](03-capitals-and-borders.md#how-big-can-a-realm-be).
 
 > **Map tip:** For each fantasy element, write one line: "X exists, so Y changes" ("griffon riders exist, so castles have roofed towers and every lord keeps an aerie"). Then draw the edges where peoples meet: gate towns, trading stones, frontier markets, tribute villages.
 
@@ -1056,9 +1061,9 @@ Source: [Dangerous wilderness and monsters](10-fantasy-variants.md#dangerous-wil
 
 ## Master legend and label hierarchy
 
-> **Rule of thumb:** One symbol, one meaning. A filled star means a capital and nothing else. Borders are always dash-dot lines; routes are always solid or dotted lines.
+> **Rule of thumb:** One symbol, one meaning. A filled star means a capital and nothing else. Borders are always dash-dot lines; routes are always solid or dotted lines; colour fills and tints are for areas only.
 
-The chapters suggest symbols for their own topics, and some clash. This legend gives one symbol per feature for the whole guide. Scale: C = continent, K = kingdom or region, L = local area.
+The chapters suggest symbols for their own topics. This legend gives one symbol per feature for the whole guide, and chapters 02–11 now use it. If a map tip anywhere seems to use a symbol differently, this legend wins. Scale: C = continent, K = kingdom or region, L = local area. Many small works (kilns, racks, shipyards) take a word, not a picture: a new little picture easily looks like a symbol that already means something else.
 
 **Settlements and power:**
 
@@ -1067,17 +1072,28 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 | Farmstead | Tiny dot | L |
 | Hamlet | 2–5 small house marks, no church | L |
 | Village | Tiny dot (K, notable villages only); house marks around a church (L) | K, L |
+| Walled hilltop village (Italian *castello*, or a refuge village in a dangerous land) | Village symbol on the hilltop (a tiny dot at K); a battlemented wall line around the house marks (L) | K, L |
 | Small market town | Small open circle | K |
 | Town | Circle with a ring; battlements on the ring if walled | K |
-| City | Circle with a thick battlemented ring | C (dot), K |
+| Town with only a bank, ditch and gates | Circle with a plain ring, no battlements (K); at L, the town edge drawn as an earthwork (a line with short ticks on the ditch side) with gaps for the gates | K, L |
+| City | Circle with a thick battlemented ring (a larger walled symbol) | C (dot), K |
 | Great city | Large circle with a ring (C); large walled symbol (K) | C, K |
 | Realm capital | Filled star in place of the tier symbol, sized by tier; name in bold capitals | C, K |
+| Dispersed capital (Angkor type) | Filled star on a walled square core with large rectangular reservoirs (*barays*); around it a wide zone of tiny house-mound dots and small ponds among rice fields, with no outer wall | K, L |
 | Duchy or regional seat | Tier symbol with a small pennant (flag) on top | K |
 | County town | Tier symbol with a central dot | K |
+| League member town (Hanse type) | Normal tier symbol; name underlined in the league's colour | C, K |
+| Mint or coinage town | No extra symbol: add "(mint)" or "(coinage town)" to the label | K, L |
+| Mining town | Its tier symbol with crossed hammers beside it | K, L |
 | Coronation or royal burial town | Small crown beside the tier symbol, labelled "(coronations)" or "(royal tombs)" | K |
-| Royal residence or hunting lodge | Small crown on its own | K, L |
+| Royal residence or royal hunting lodge | Small crown on its own (royal places only) | K, L |
+| Lord's or ranger's lodge (not royal) | Small house mark labelled "Lodge" | L |
+| Planted colonial grid town (1500s+) | Ordinary tier symbol (K); a small square grid of blocks around a plaza, with church and council house on the plaza (L) | K, L |
+| Town after a great plague | Open green space inside the walls | L |
+| Nomad camp | 2–3 tiny **open** half-circles (round tents), never filled; the ruler's camp (*ordu*) as a large labelled ring of them | K, L |
 | Manor house | Small open square; double outline if moated | L |
-| Moot (assembly) site | Small lone tree, labelled "Moot" | L |
+| Moot (assembly) site | Small lone tree, labelled "Moot" (or "Thing" for a Norse or Germanic assembly) | L |
+| Border truce meeting place | Small lone tree, labelled "Truce Day" | L |
 | Gallows | Small "Π" on a hill | L |
 
 **Military:**
@@ -1086,6 +1102,7 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 |---|---|---|
 | Great royal castle or fortress | Large castle icon (three towers) | C (greatest only), K |
 | Ordinary castle | Small castle icon (one tower with battlements) | K, L |
+| Toll castle | Small castle icon, with a toll bar and "T" across the river or road | K, L |
 | Motte or small earthwork castle | Small mound with a tower tick on top | L |
 | Tower house, peel or bastle | Small solid square | K (border zones), L |
 | Citadel | Small castle icon at the edge of the town ring | K, L |
@@ -1095,10 +1112,16 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 | Beacon | Flame dot | K, L |
 | Siege castle | Small dashed castle near its target | L (dated maps) |
 | Army or siege camp | **Closed** dashed rectangle with rounded corners, labelled with its name or "camp"; grey for an old or Roman camp. A closed shape, never an open line | K, L (dated maps) |
-| Arsenal or naval base | Anchor plus a castle tower | C, K |
+| Arsenal, naval base or royal shipyard | Anchor plus a castle tower (C, K); at L, a walled yard with slipways next to a rope-walk | C, K, L |
 | Battlefield | Crossed swords and the year | K, L |
 | Star fort or fortress town (1500s+ only) | Five- or six-pointed star **outline** or a star-edged town outline, never filled | K, L |
 | Bastioned citadel (1500s+ only) | Pentagon outline joined to the town | K, L |
+| Castle refitted with gun bastions (1500s+) | Castle icon inside a star outline | K, L |
+| Castle rebuilt as a palace (1500s+) | Castle icon with gardens, labelled "palace"; a royal palace takes the small crown instead | K, L |
+| Castle kept as a prison or mint | Castle icon in the town, labelled with its new use ("prison", "mint") | K, L |
+| Coastal artillery fort (1500s+) | Small round outline with rounded lobes (a rosette, like the plan of Deal Castle, 1539–40), never pointed; a fort with angled bastions takes the star outline | K, L |
+
+A walled town needs no military symbol of its own: use the town or city symbol with battlements. A fortified or moated manor house uses the manor-house square (double outline if moated). The coastal artillery fort symbol is a suggestion: the chapters do not yet draw these forts (see [Coastal defence](09-later-era-1500-1650.md#coastal-defence)).
 
 **Religious and charitable:**
 
@@ -1112,9 +1135,10 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 | Abbey or priory | Church with a square cloister beside it | K (great abbeys), L |
 | Friary | Name only, or a small church inside the town outline | L |
 | Grange | Small open square topped with a cross, or the label "Grange" | L |
-| Military-order commandery | Small church with a shield | K, L |
+| Military-order commandery | Small church with a shield (a farm commandery); a fortified commandery or an order's frontier castle takes a castle icon | K, L |
 | Great shrine | Scallop shell or reliquary, never a star | C, K |
 | Hospital, almshouse, hospice | Small house with a cross; leper house labelled "Lazar House" | K (pass hospices), L |
+| Cemetery outside the town (Jewish, Muslim, plague) | Small walled plot outside a gate, with a name label (e.g. "Jewbury") | L |
 | University | Book, or "U" beside the city name | C, K |
 | Mosque | Dome with a crescent | K (great mosques), L |
 | Synagogue | Lamp, never a star | L |
@@ -1126,27 +1150,57 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 | Head port | Large anchor with a quay; name in capitals | C, K |
 | Member port | Small anchor | K |
 | Anchorage | Anchor in open water, labelled "the Roads" | K |
+| Ordinary shipyard | The label "Shipyard" on the shore; no symbol | L |
 | Inn or caravanserai | Small house on the road; label "Han" or "Caravanserai" in desert | K, L |
 | Fair town | Tier symbol; fair months in the label ("Provins: May and September fairs") | K |
 | Mine or mining district | Crossed hammers (or a pick) | C, K, L |
 | Salt pans | Checkerboard of small rectangles along the shore | K, L |
 | Quarry | Notch in a hillside, with a track to water | K (famous ones), L |
+| Lime, brick or tile kilns; clay pits | Words only: "Limekiln", "Brick Kilns", "Clay Pits" | L |
 | Watermill | Wheel on the stream; leat as a thin blue line | L |
+| Water-powered works (forge, furnace, ore-crushing mill, fulling mill, sugar, paper or powder mill) | Watermill wheel on the stream, labelled with the trade ("Forge", "Furnace", "Walk Mill", "Paper Mill", "Powder Mills") | L |
+| Hammer or furnace pond | One blue pond with a straight dam at its lower end, labelled "Hammer Pond" or "Furnace Pond" | L |
+| Tide mill | Mill wheel on a dam across a tidal creek | L |
+| Ship mill or bridge mill | Small mill wheels in midstream, labelled "ship mills"; or mill wheels on the bridge symbol. Never boats | L |
 | Windmill | X of four sails on a dot or small mound | L |
+| Forest works (charcoal hearths, glasshouse, tar kilns) | A clearing in the wood symbol, labelled with the trade | L |
+| Peat diggings (turbary) | Commons symbol labelled "Turf Fen"; flooded pits as blue lakes with straight, blocky edges | L |
+| Tenter grounds, fair field, fish racks | Open ground labelled "Tenters", "Fair Field" or "Fish Racks" | L |
 | Royal forest | Green dash-dot boundary with a large italic name; villages and fields inside | K, L |
 | Deer park | Rounded pale (fence) line with scattered trees inside | L |
 | Wood | Tree symbols with a firm edge | K, L |
 | Wood-pasture | Scattered single trees on grass | L |
 | Open fields | Unhedged areas with blocks of hatching | L |
 | Enclosed fields | Small irregular polygons | L |
+| Tofts and crofts | A row of narrow plot outlines along the street, each with a small house mark at the street end; crofts as long narrow plots behind | L |
 | Meadow | Pale green band along streams | L |
 | Commons, heath, moor | Tufts or stipple | L |
+| Upper limit of hill farming | No line of its own: the field symbols stop and the moor tufts begin. Push this edge downhill after a plague | L |
 | Fishponds | Small rectangles in a chain along a stream | L |
 | Shielings (summer huts) | Cluster of tiny squares on high pasture | L |
 | Vineyards | Hatched strips on south-facing slopes | K, L |
-| Polder (1500s+) | Grid inside a dike, with mill symbols | K, L |
+| Dyke or sea bank | Bold line with short ticks on the water side | K, L |
+| Polder (Low Countries from the 11th century) | Grid of drains inside a dyke; villages along the dykes; drainage mills only from 1408 | K, L |
+| Rice paddies | Fine grid of small fields along rivers and deltas, with villages on the dykes and on mounds among them | K, L |
+| Rice terraces | Tight parallel lines that follow the contours | K, L |
+| Chinampas (lake gardens) | Narrow parallel green strips with thin blue canals between them, in the shallow edge of a lake | K (as a band), L |
+| Shifting cultivation | Small villages far apart, with scattered clearings of different ages in the forest around them | K, L |
 | Country house (1500s+) | House inside a ring of park trees | K, L |
 | Overseas trading post (1500s+) | Small fort beside a foreign port city, labelled with the company | C |
+
+**Water supply and irrigation:**
+
+| Feature | Symbol | Scale |
+|---|---|---|
+| Well | Blue "W" (the Ordnance Survey abbreviation) | L |
+| Spring | Blue "Spr" (the Ordnance Survey abbreviation) | L |
+| Brine spring or hot spring | Small blue dot labelled "Brine Pit" or "Hot Spring"; on a kingdom map, add "(salt)" or "(baths)" to the town's label instead | K (label only), L |
+| Cistern | The word "Cistern" in blue; no picture | L |
+| Aqueduct | Thin blue line labelled "Aqueduct", drawn on a row of small arches where it crosses a valley | K (great ones), L |
+| Qanat | Straight line of tiny rings (shaft mouths with spoil heaps), much smaller than a market-town circle, ending in green gardens | K, L |
+| Oasis | Green belt of gardens and small palm marks around the town or well | K, L |
+| Irrigation channel | Thin blue line drawn like a mill leat, thinner than a canal | L |
+| Tank (reservoir) | Curved dam line with water behind it and a fan of small fields below; Angkor-type *barays* as large straight-sided rectangles of water | K, L |
 
 **Routes and crossings (always solid or dotted):**
 
@@ -1155,20 +1209,25 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 | Royal highway | Thick solid line | K |
 | Regional road | Medium solid line | K |
 | Local road | Thin solid line | L |
+| Hollow way (sunken lane) | Two thin parallel solid lines | L |
+| Causeway | Solid road line on a bank across marsh, flood plain or shallow lake; where it joins an island city to the shore, leave gaps with bridges for boats | K, L |
 | Roman or older-empire road | Straight thick solid line labelled "Street" or "(Roman)"; grey where abandoned | K, L |
+| Steep or stepped section (roads without carts, Andes type) | Steps or small chevrons ">" on the road line | K, L |
 | Track, bridle way, mule path | Thin dotted line | K, L |
 | Drove road | Broad dotted line (two rows of dots) | K, L |
 | Caravan route | Dotted line with a larger dot at each stage | C, K |
 | Pilgrim road | The ordinary road line with small scallop marks along it | K |
+| Raid trail | Red dotted line with arrowheads pointing into the farmland, named (for example the Muravsky Trail, used by Crimean Tatar raids in the 1500s) | C, K |
 | Sea lane | Dotted line at sea, with arrows where the wind sets the direction, and a season label | C, K |
 | Navigable river | Thicker river line up to the head of navigation, with a small boat there | C, K |
 | Portage | Short dotted line between two rivers, labelled with its length | K |
-| Bridge | Two short curved lines ")(" with the road running through | K, L |
+| Bridge | Two short curved lines ")(" with the road running through; label "rope bridge" where it is one | K, L |
 | Ford | Short dashed line across the river | K, L |
 | Ferry | Short dotted line across the river with "F" | K, L |
 | Toll | One bar across the road or river with a "T" | K, L |
-| Canal (1500s+) | Straight blue line | K, L |
-| Lock | Two short bars close together across the canal | L |
+| Canal | Straight blue line. Medieval canals were short (Naviglio Grande, Milan, 1177–1272; Stecknitz Canal, 1391–98); long canals with many pound locks belong mostly after 1500 | K, L |
+| Lock | Two short bars close together across the river or canal | L |
+| Lighthouse | Small tower with short rays; never a star | K, L |
 | Post station (1500s+) | Small horn on the road | K |
 
 **Boundaries (always the dash-dot family):**
@@ -1178,11 +1237,29 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 | Realm border | Thick dash-dot line, or a coloured band along the inside edge | C, K |
 | Duchy or great fief | Medium dash-dot line | C, K |
 | County | Thin dash-dot line | K |
-| Hundred, parish, manor | Thin dash-dot-dot line | L |
+| Hundred, parish, manor | Thin dash-dot-dot line | K (hundreds, on a county map), L |
+| Boundary stone | The letters "BS" on the boundary line, as on Ordnance Survey maps (which also use "BP" for a boundary post) | L |
 | Disputed border | Two parallel dash-dot lines, or alternating colours | K |
 | March or frontier zone | Hatching, or a fading colour band 10–50 km (6–30 mi) wide | C, K |
 | Enclave | Owner's colour with a thin outline | K |
 | Language or culture area | Soft colour tint only, never a line | C, K |
+| Faith area (mainly 1500s+) | Soft colour tint only, never a new line | C, K |
+
+The march band is the frontier itself. A whole military zone, from the forward forts back to the fortress towns a day or two behind them, can be 30–80 km (20–50 mi) deep, so fortress towns may lie behind the hatched band. A fantasy danger frontier is a wider band than a real march: 30–100 km (20–60 mi).
+
+**Area colours and tints:**
+
+| Feature | How to colour it | Scale |
+|---|---|---|
+| Realm | One pale flat colour per realm, so roads and towns stay readable | C, K |
+| Vassal duchy | A lighter shade of its king's colour | C, K |
+| Church land, palatinate, free city | Its own colour; do not merge it into the kingdom around it | K |
+| League of towns | No area colour: underline the member towns' names in the league's colour | C, K |
+| Nomadic empire | Its colour on the core pastures; the tributary ring in a lighter tint of the same colour | C |
+| Maritime empire | Its colour only on its islands and harbour towns; the land behind keeps the local ruler's colour | C, K |
+| Language, culture or faith areas | A separate layer of soft tints in a hue family that no realm uses (for example, realms in warm colours and languages in cool ones), or a small inset map | C, K |
+| Frontier and wild land | Hatching (march) or dense cross-hatching (fantasy wild land); never a plain tint | C, K |
+| Drafting aids: density zones, hinterland circles, messenger-day lines | Pencil or a hidden layer only; remove before finishing | — |
 
 **Antiquities and older layers:**
 
@@ -1190,29 +1267,54 @@ The chapters suggest symbols for their own topics, and some clash. This legend g
 |---|---|---|
 | Any ruin | The feature's own symbol, broken or grey, labelled "(ruin)" | K (big ones), L |
 | Deserted village | Grey church alone in a field, labelled "(lost village)" | K (a few), L |
+| Drowned village | Grey church standing in the water, labelled "(lost village)" | K (a few), L |
+| Old border dyke or linear earthwork (Offa's Dyke type) | Line with short ticks on the ditch side, grey if no longer used, always labelled with its name | K, L |
 | Hillfort | Oval of rings or hachures on a hill | L |
 | Barrow | Small filled mound; long barrow as a longer mound | L |
 | Standing stone | Small upright tick | L |
 | Stone circle | Small ring of dots | L |
 | Old or Roman camp | Grey closed dashed rectangle with rounded corners, labelled "Camp" | L |
 
-Source: [Map symbols and labels](02-population-and-sizes.md#map-symbols-and-labels), [Symbols and line styles](03-capitals-and-borders.md#symbols-and-line-styles), [Suggested symbols](04-military-sites.md#suggested-symbols), [Symbols and labels](05-trade-routes-and-transport.md#symbols-and-labels), [Suggested symbols](06-villages-and-countryside.md#suggested-symbols), [Suggested symbols](08-religious-cultural-and-ancient-sites.md#suggested-symbols), [Symbols and labels](09-later-era-1500-1650.md#symbols-and-labels), [Mining districts on the map](07-industry-and-resources.md#mining-districts-on-the-map).
+**Fantasy (only if your world has them):**
 
-**Clashes between chapters, and how this legend resolves them:**
-
-| Symbol | Chapters used it for | Use it only for |
+| Feature | Symbol | Scale |
 |---|---|---|
-| Star | Capital (03), great city (02), citadel (04), great shrine (08), star fort (04, 09), synagogue (08) | Filled star = capital. Star outline = star fort, 1500s+ only. Great city = large ringed circle; citadel = castle icon at the town edge; shrine = scallop or reliquary; synagogue = lamp |
-| Ringed or double circle | Town (02), county town (03) | Ringed circle = town. County town = any tier symbol plus a central dot |
-| Circle with a dot | Motte (04), moot site (08) | Neither: motte = mound with a tower tick; moot = lone tree |
-| Small square | Farmstead (02), tower house (04), manor house (06) | Solid square = tower house; open square = manor house; farmstead = tiny dot |
-| Triangle | Watchtower or beacon (04), barrow or standing stone (08) | Triangle = watchtower; beacon = flame dot; barrow = mound; standing stone = tick |
-| Cross | Parish church (06, 08), windmill (06) | Cross = church or chapel; windmill = X of sails on a dot |
-| Short bars | Tolls (05), canal locks (09) | One bar with "T" = toll; paired bars = lock |
-| Dotted line | County border (03), track (05), royal forest (06), pilgrim road (08) | Tracks and other routes only. Borders and forests take dash-dot; pilgrim roads take shell marks on the road |
-| Dashed line | Duchy border (03), sea lane, drove road, portage (05) | Only fords and closed camp outlines. Duchy = dash-dot; sea lane, drove road and portage = dotted |
-| Anchor | Member port, head of navigation (05) | Ports only; head of navigation = small boat |
-| Crown | Coronation town, royal residence (03) | Crown alone = residence; crown beside a town = coronation or burial town; duchy seat = pennant |
+| Wild, monster-held land | Dense cross-hatching (the frontier in front of it takes the march hatching) | C, K |
+| Monster lair | Small skull with the creature's name; leave an empty ring around it | K, L |
+| Blighted or dead land | Pale grey wash with small black dead-tree ticks, labelled ("the Blight"), with watchtower triangles along its edge | C, K |
+| Mage tower or weather tower | Slim tower topped with a small open diamond (no battlements, no spire) | K, L |
+| Academy of magic | Book beside the city name (the university symbol), labelled "Academy" | C, K |
+| Ley line and nexus | Straight chain of small open diamonds in one colour (for example violet); a larger open diamond at the nexus | C, K |
+| Ward stones | Small solid diamonds spaced around the warded area | L |
+| Magical spring or sacred well | Small blue drop, with a green ring of gardens around the town | K, L |
+| Portal | Small spiral beside the town symbol | C, K |
+| Aerie | Small pair of wings on a crag or on a castle icon | K, L |
+| Dwarf hold gate | Small rounded arch (∩) in the mountainside | K, L |
+| Smelter | Small chimney with a curl of smoke | L |
+| Underground road | Thin brown dotted line between hold gates, labelled "(underground)" | K |
+| Frontier market or trading stone | Small pair of scales, labelled with the market days or "Trading Stone" | K, L |
+| Walled graveyard | Small rectangle with a solid wall line and tiny crosses inside, labelled "Graveyard" | L |
+
+Source: [Map symbols and labels](02-population-and-sizes.md#map-symbols-and-labels), [Beyond Europe](02-population-and-sizes.md#beyond-europe-asia-africa-and-the-americas), [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague), [Symbols and line styles](03-capitals-and-borders.md#symbols-and-line-styles), [Drawing the unusual kinds](03-capitals-and-borders.md#drawing-the-unusual-kinds), [Colour and labels](03-capitals-and-borders.md#colour-and-labels), [Suggested symbols](04-military-sites.md#suggested-symbols), [Frontier posts](04-military-sites.md#frontier-posts), [Symbols and labels](05-trade-routes-and-transport.md#symbols-and-labels), [Kinds of roads](05-trade-routes-and-transport.md#kinds-of-roads), [Suggested symbols](06-villages-and-countryside.md#suggested-symbols), [Suggested symbols](07-industry-and-resources.md#suggested-symbols), [Suggested symbols](08-religious-cultural-and-ancient-sites.md#suggested-symbols), [Burial grounds](08-religious-cultural-and-ancient-sites.md#burial-grounds), [What happened to the old castles](09-later-era-1500-1650.md#what-happened-to-the-old-castles), [Planted colonial towns](09-later-era-1500-1650.md#planted-colonial-towns-the-spanish-grid), [Symbols and labels](09-later-era-1500-1650.md#symbols-and-labels), [Suggested symbols](10-fantasy-variants.md#suggested-symbols), [Symbols for the fixes in this chapter](11-common-mistakes.md#symbols-for-the-fixes-in-this-chapter). Ordnance Survey abbreviations ("BS", "BP", "W", "Spr") are cited in chapters 03 and 11.
+
+**Look-alike symbols: keep them apart.**
+
+| Shape | Use it only for | Not for |
+|---|---|---|
+| Star | Filled = realm capital; outline = star fort (1500s+) | Great city (large ringed circle), citadel (castle icon at the town edge), shrine (scallop), synagogue (lamp), lighthouse (tower with rays), portal (spiral) |
+| Ring or dot in a circle | Ring = town; central dot = county town | Motte (mound with a tower tick), moot (lone tree), hinterland circles (pencil only) |
+| Small square | Solid = tower house; open = manor house | Farmstead (tiny dot); tofts (narrow plots with a house mark) |
+| Small rectangles in a chain | Fishponds | Hammer ponds (one pond, straight dam, labelled) |
+| Triangle | Watchtower | Beacon (flame dot), barrow (filled mound), standing stone (tick) |
+| Cross | Church or chapel | Windmill (X of sails on a dot) |
+| Bars across a line | One bar with "T" = toll; two bars = lock | Bridge (")(") |
+| Small boat | Head of navigation | Ferry (dotted line with "F"), ship mills (wheels in midstream), fishing villages (labelled racks) |
+| Dotted line | Routes and tracks | Borders and royal forests (dash-dot), pilgrim roads (shell marks), ley lines (diamonds) |
+| Dashed line | Fords; closed camp outlines | Duchy borders (dash-dot); sea lanes, drove roads, portages (dotted) |
+| Line with ticks | Dyke or sea bank (ticks on the water side); old earthwork (ticks on the ditch side, grey if old, labelled) | Highway (plain thick line) |
+| Soft colour tint | Language, culture or faith areas | Realms (pale flat fills), frontiers (hatching), density zones (pencil) |
+| Crown | Royal places only: alone = residence or lodge; beside a town = coronation or burial town | Duchy seat (pennant), lord's lodge ("Lodge") |
+| Arch shape | ∩ in a mountainside = dwarf hold gate | Gallows ("Π", flat-topped, on a hill by a road) |
 
 **Label hierarchy:**
 
@@ -1242,7 +1344,7 @@ Source: [30. Label clutter](11-common-mistakes.md#30-label-clutter), [Colour and
 
 ## Numbers reconciled between chapters
 
-Where chapters gave different values, this sheet uses the owner chapter's value. Some disagreements are still waiting to be fixed in the chapters themselves.
+Where chapters gave different values, this sheet uses the owner chapter's value. Most of the old disagreements are now fixed in the chapters; the last column says where one remains.
 
 | Topic | Value used on this sheet | Owner chapter | What other chapters say |
 |---|---|---|---|
@@ -1251,18 +1353,19 @@ Where chapters gave different values, this sheet uses the owner chapter's value.
 | Hundreds (English districts) | ~130–150 km² (50–60 sq mi) in 1086, with 812 traceable; ~150–200 km² (60–80 sq mi) by 1316, with about 630 named | [03 The units, top to bottom](03-capitals-and-borders.md#the-units-top-to-bottom) | 06 gives the 1316 figure only |
 | English arable c. 1300 | 11.5 million acres including fallow (about 36% of England), 7.4 million sown | [06 England, the best-measured case](06-villages-and-countryside.md#england-the-best-measured-case) | 02 now agrees: about 2.4 acres (1.0 ha) of arable per person (an earlier draft said 10 million acres) |
 | Peasant walk to market | 6–10 km (4–6 mi) one way | [05 Speed per day](05-trade-routes-and-transport.md#speed-per-day) | 01 now agrees (earlier 4–7 mi) |
-| Active castles, England and Wales after 1066 | one per 250–300 km² (about 95–115 sq mi); about 16–17 km (10–11 mi) apart | [04 Counts and densities](04-military-sites.md#counts-and-densities) | 04 and 11 agree on the area; 08 still prints "100–115 sq mi" (250 km² is about 97 sq mi); 11 gives the spacing as 15–18 km (9–11 mi) |
-| Castle sites, England and Wales | 1,761 (Gatehouse gazetteer) | [04 Counts and densities](04-military-sites.md#counts-and-densities) | 11 now says about 1,700–1,800 (1,761); 08 still says about 1,700 |
-| Castle spacing on a contested border | 4–6 km (2.5–4 mi) | [04 Borderlands and conquered land](04-military-sites.md#borderlands-and-conquered-land) | 04's own county table gives a gap of 4–5 km (2.5–3 mi) for the Welsh March |
+| Active castles, England and Wales after 1066 | one per 250–300 km² (about 95–115 sq mi); about 16–17 km (10–11 mi) apart | [04 Counts and densities](04-military-sites.md#counts-and-densities) | 08 and 11 now agree (earlier drafts printed "100–115 sq mi" and a spacing of 15–18 km) |
+| Castle sites, England and Wales | 1,761 (Gatehouse gazetteer) | [04 Counts and densities](04-military-sites.md#counts-and-densities) | 08 and 11 now say about 1,700–1,800 (1,761) |
+| Castle spacing on a contested border | 4–6 km (2.5–4 mi) | [04 Borderlands and conquered land](04-military-sites.md#borderlands-and-conquered-land) | 04's county table and 11 now agree (an earlier draft gave 4–5 km) |
 | Swidden (shifting) farming density | about 6 per km² (14 per sq mi) on average; 12–35 (30–90) in busier districts; at most about 55–56 (about 145) | [02 By type of land](02-population-and-sizes.md#by-type-of-land) | 01 now agrees (earlier drafts gave only 6 or only 10–35) |
-| Parish churches in hills | about 7–10 km (4–6 mi) apart | [08 Parish churches and chapels](08-religious-cultural-and-ancient-sites.md#parish-churches-and-chapels) | 02 agrees; [00 Step 14](00-step-by-step.md#step-14-place-the-villages) still says 8–15 km (5–9 mi) |
-| Good lowland density | 30–50 per km² (80–130 per sq mi) | [02 Population density](02-population-and-sizes.md#population-density) | 10 converts it as 78–130 per sq mi |
-| Inns on main roads | 15–30 km (10–19 mi) | [05 Inns, hospices and caravanserais](05-trade-routes-and-transport.md#inns-hospices-and-caravanserais) | 01 and 11 convert it as 9–19 mi |
-| Towns over 10,000 on water | Most, with inland exceptions: Coventry (~12,000), Siena (perhaps 50,000), Granada, silver boom towns | [02 Feeding towns](02-population-and-sizes.md#feeding-towns-the-hinterland) | 05 states the rule with no exceptions; 07 adds the boom towns |
-| Towns per city of 10,000+ | about 10 | [02 How many of each kind](02-population-and-sizes.md#how-many-of-each-kind) | 11 says roughly 5–15 |
+| Parish churches in hills | about 7–10 km (4–6 mi) apart | [08 Parish churches and chapels](08-religious-cultural-and-ancient-sites.md#parish-churches-and-chapels) | 02 and [00 Step 14](00-step-by-step.md#step-14-place-the-villages) now agree (00 earlier said 8–15 km) |
+| Good lowland density | 30–50 per km² (80–130 per sq mi) | [02 Population density](02-population-and-sizes.md#population-density) | 10 now agrees (it earlier converted it as 78–130 per sq mi) |
+| Hill and upland density | Hill country 8–15 per km² (21–39 per sq mi); high uplands, moors and mountains 2–5 (5–13) | [02 By type of land](02-population-and-sizes.md#by-type-of-land) | [00 Step 2](00-step-by-step.md#step-2-find-the-good-farmland) and [01's terrain table](01-settlement-placement.md#settlement-by-terrain-and-biome) still give one "uplands and mountains" value of 2–10 (5–25); use 02's two rows |
+| Inns on main roads | 15–30 km (10–19 mi) | [05 Inns, hospices and caravanserais](05-trade-routes-and-transport.md#inns-hospices-and-caravanserais) | 01 and 11 now agree (they earlier converted it as 9–19 mi) |
+| Towns over 10,000 on water | Most, with inland exceptions: Coventry (~12,000), Siena (perhaps 50,000), Granada, silver boom towns | [02 Feeding towns](02-population-and-sizes.md#feeding-towns-the-hinterland) | 05 now points to 02's exceptions; 07 adds the boom towns |
+| Towns per city of 10,000+ | about 10 | [02 How many of each kind](02-population-and-sizes.md#how-many-of-each-kind) | 11 now agrees (earlier roughly 5–15) |
 | Ghent in the 14th century | 40,000–65,000 (estimates vary widely) | [02 The biggest cities](02-population-and-sizes.md#the-biggest-cities) | 07 now agrees (earlier 55,000–70,000) |
 | Market towns, in practice | 9–16 km (6–10 mi) | [01 How far apart](01-settlement-placement.md#how-far-apart-the-numbers) | 02 and 10 now agree (earlier 10–16 km) |
-| Main road on a kingdom map | about 30 km per 1,000 km² (48 mi per 1,000 sq mi) | [05 How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw) | 11 agrees (about 190 red lines on the map; about 4,540 km of real road traced behind them) but converts the ratio as about 50 mi per 1,000 sq mi; 05's own table still calls the 4,540 km "the length of the red route lines" |
+| Main road on a kingdom map | about 30 km per 1,000 km² (48 mi per 1,000 sq mi) | [05 How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw) | 11 now agrees (about 190 red lines on the map; about 4,540 km of real road traced behind them; 48 mi per 1,000 sq mi) |
 | Corsican watchtowers | about 85–90 (a 1617 list counts 86) | [04 Watchtowers](04-military-sites.md#watchtowers-beacons-and-coastal-warning) | 01 and 09 now agree |
 
 > **Map tip:** When two numbers disagree, use the range from the chapter linked in the "Owner" column, and pick a value inside it that suits your region.
