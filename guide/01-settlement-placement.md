@@ -372,6 +372,8 @@ These spacings come from the shared baseline used across this guide.
 | Market towns, legal rule | 6⅔ mi (10.7 km) | The lawyer Bracton (13th century): a new market should not be closer than this to an old one. It was rarely enforced. |
 | Market towns, in practice | 9–16 km (6–10 mi) | 1,746 English markets were recorded by 1300 (one per 75 km² (29 sq mi), ~9 km (6 mi) apart), but many were tiny. In the late 16th century there were ~650 working markets in England and Wales, ~16 km (10 mi) apart. |
 | Peasant walk to market | 6–10 km (4–6 mi) one way | There and back in one day, with time to trade. |
+| Bridge towns on a lowland river | About every 20 km (12 mi) of river; gaps 10–35 km (6–22 mi) | Thames, London to Oxford, c. 1300: 9 road bridges in about 180 km (112 mi) of river. Great rivers had far fewer bridges. See [How often is a river bridged?](05-trade-routes-and-transport.md#how-often-is-a-river-bridged-the-thames-example) |
+| Head ports on a coast | About one per 100–150 km (60–95 mi) of coast | A rough figure from late medieval England's 15 customs head ports; smaller ports and landing places sit between them. See [Port ranks](05-trade-routes-and-transport.md#port-ranks-how-many-ports-on-a-coast) |
 | Towns of 5,000+ | Flanders 35–45 km (22–28 mi); northern Italy 50–60 km (31–37 mi); France, Germany, Iberia 80–95 km (50–59 mi); Britain 130+ km (80+ mi); Poland 180–250 km (110–155 mi) | An upper bound derived from city data. |
 | Cities of 10,000+ | Flanders and Italy 60–90 km (37–56 mi); France, Germany, Iberia 130–170 km (80–105 mi); Britain and Poland 260–400 km (160–250 mi) | Same basis. |
 
@@ -396,8 +398,8 @@ These are rough, derived numbers. Use them as a sanity check, not a rule. Note t
 ### Chains along rivers, coasts and roads
 
 Settlements line up along anything that carries traffic:
-- **Rivers.** On the Rhine between Mainz and Koblenz (about 90 km (56 mi) by river), small towns follow each other every 5–20 km (3–12 mi): Bingen, Bacharach, Oberwesel, St Goar, Boppard. Many had toll castles above them.
-- **Coasts.** On the southern Baltic, Hanseatic ports (members of the Hanse, a league of north German trading towns) such as Wismar, Rostock and Stralsund sit about 50–70 km (30–45 mi) apart in a straight line, each on its own bay or river mouth.
+- **Rivers.** On the Rhine between Mainz and Koblenz (about 90 km (56 mi) by river), small towns follow each other every 5–20 km (3–12 mi): Bingen, Bacharach, Oberwesel, St Goar, Boppard. Many had toll castles above them. Bridges are a separate question: this stretch of the Rhine had ferries, not bridges, but on a settled lowland river such as the Thames a bridge town came about every 20 km (12 mi) (see [How often is a river bridged?](05-trade-routes-and-transport.md#how-often-is-a-river-bridged-the-thames-example)).
+- **Coasts.** On the southern Baltic, Hanseatic ports (members of the Hanse, a league of north German trading towns) such as Wismar, Rostock and Stralsund sit about 50–70 km (30–45 mi) apart in a straight line, each on its own bay or river mouth. Not every port is equal: late medieval England had about one big customs **head port** per 100–150 km (60–95 mi) of coast, with smaller ports and fishing landings between (see [Port ranks](05-trade-routes-and-transport.md#port-ranks-how-many-ports-on-a-coast)).
 - **Roads.** On main roads, inns and stopping places appear every 15–30 km (9–19 mi), so a traveller always finds one within a day's travel. Roman road stations (*mansiones*) were about 25–30 km (16–19 mi) apart, and many later towns grew on them.
 
 ### Clusters and empty spaces
@@ -555,6 +557,8 @@ The Normans, by contrast, gave few new village names in England, because the lan
    - a **church or royal owner**: Bishop's Stortford, Abbots Langley, King's Lynn;
    - a **river**: Stratford-upon-Avon, Newcastle upon Tyne.
 5. **Owners change, names follow.** King's Lynn was "Bishop's Lynn" until 1537, when the town passed from the Bishop of Norwich to Henry VIII.
+
+**Endings change at language lines.** Where two languages meet, the endings switch within a few villages, even inside one realm. In Belgium, north of the Romance–Germanic line, Flemish villages end in Germanic -gem ("home", like German -heim) or -zele ("house, settlement", as in Brussels; spelled -zeele across the border in French Flanders): Wevelgem, Zottegem, Herzele, Bollezeele. South of the line, Romance names such as Soignies and Ottignies ("Otto's lands": a Frankish owner's name with a Romance ending) take over; in Lorraine, -ange (the French spelling of German -ingen: Hayange is German *Hayingen*) on the German-speaking side faces -ville and -court on the French side, and two villages called Audun were told apart as Audun-le-Tiche ("German Audun") and Audun-le-Roman ("Romance Audun"). See [Language lines are not borders](03-capitals-and-borders.md#language-lines-are-not-borders).
 
 ### A method for naming a region
 
