@@ -19,6 +19,8 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else \
 D = json.load(open(LAYOUT))
 W, H = 1000, 800
 random.seed(11)
+import os
+DEBUG = set(filter(None, os.environ.get('MAP_DEBUG', '').split('|')))
 
 # ----------------------------------------------------------------- fonts ---
 FR = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', 200)
@@ -377,36 +379,40 @@ TITLE_BOX = (5, 5, 330, 62)
 PANEL_TOP = [5, 70, 108, 0]     # x0, y0, x1, y1 (y1 computed later)
 PANEL_BOT = [5, 0, 108, 795]
 SCALE_BOX = (655, 752, 995, 795)
-COMPASS = (952, 520, 26)
+PANEL_SEA = [873, 0, 995, 747]
+COMPASS = (952, 468, 26)
 
 LEG_TOP = [
     ('h', 'Settlements'),
     ('capital', 'Capital, 40,000'),
     ('city', 'City (3), 10–12,000'),
     ('town', 'Town (38), 2–8,000'),
-    ('walled', 'Stone town walls'),
+    ('walled', 'Walled town'),
+    ('county', 'County town'),
+    ('seat', 'Duchy, earldom seat'),
     ('market', 'Market town (26)'),
     ('villages', 'Villages (texture)'),
-    ('deserted', 'Deserted village'),
     ('h', 'Church'),
     ('cathedral', 'Cathedral (13)'),
     ('arch', 'Archbishop'),
     ('abbey', 'Abbey, priory'),
-    ('h', 'Castles and sites'),
+    ('commandery', 'Military order'),
+    ('shrine', 'Great shrine'),
+    ('h', 'Castles'),
+    ('great_castle', 'Great castle (5)'),
     ('castle', 'Royal, county castle'),
     ('frontier', 'Frontier castle (10)'),
     ('baronial', 'Baronial castle (25)'),
-    ('motte', 'Ruined motte'),
-    ('hillfort', 'Hillfort, old site'),
     ('residence', 'Royal residence'),
     ('beacon', 'Beacon chain (10)'),
     ('h', 'Industry'),
     ('mine', 'Silver, lead mines'),
-    ('salt', 'Salt'),
+    ('salt', 'Salt pans, brine'),
     ('quarry', 'Quarry, lime'),
-    ('fair', 'Fair'),
     ('mill', 'Fulling mills'),
+    ('vines', 'Vineyards'),
     ('industry', 'Other industry'),
+    ('fair', 'Fair: months in label'),
 ]
 LEG_BOT = [
     ('h', 'Routes'),
@@ -414,15 +420,17 @@ LEG_BOT = [
     ('road', 'Regional road'),
     ('old_road', 'Old imperial road'),
     ('pilgrim', "Pilgrims' Way"),
+    ('mule', 'Mule path'),
     ('sealane', 'Sea lane'),
     ('bridge', 'Bridge'),
     ('ford', 'Ford'),
     ('ferry', 'Ferry'),
     ('pass', 'Pass'),
-    ('port', 'Port (9)'),
+    ('port', 'Head, member port'),
     ('light', 'Lighthouse'),
     ('h', 'Land and water'),
     ('nav', 'Navigable river'),
+    ('boat', 'Head of navigation'),
     ('stream', 'Stream'),
     ('mountains', 'Mountains'),
     ('hills', 'Hills, downs, wolds'),
@@ -438,7 +446,15 @@ LEG_BOT = [
     ('debatable', 'Debatable Land'),
     ('zoom', 'Step 10 local map'),
 ]
-
+# third panel, in the open sea at the bottom right
+LEG_SEA = [
+    ('h', 'Older layers (grey)'),
+    ('ruin', 'Ruin, labelled "(ruin)"'),
+    ('deserted', 'Lost village'),
+    ('motte', 'Abandoned motte'),
+    ('hillfort', 'Hillfort'),
+    ('dyke', 'Old dyke'),
+]
 
 
 ROW = 10.2
@@ -453,8 +469,10 @@ def panel_height(rows, title):
 
 PANEL_TOP[3] = PANEL_TOP[1] + panel_height(LEG_TOP, 'KEY')
 PANEL_BOT[1] = PANEL_BOT[3] - panel_height(LEG_BOT, None)
+PANEL_SEA[1] = PANEL_SEA[3] - panel_height(LEG_SEA, None)
 BLOCK.add(tuple(PANEL_TOP), 'panel')
 BLOCK.add(tuple(PANEL_BOT), 'panel')
+BLOCK.add(tuple(PANEL_SEA), 'panel')
 BLOCK.add(TITLE_BOX, 'panel')
 BLOCK.add(SCALE_BOX, 'panel')
 BLOCK.add((COMPASS[0] - COMPASS[2] - 2, COMPASS[1] - COMPASS[2] - 13, COMPASS[0] + COMPASS[2] + 2,
@@ -491,6 +509,28 @@ def star_pts(x, y, R, r, n=5, rot=-90):
 # "Master legend and label hierarchy"): one symbol, one meaning; borders are
 # dash-dot lines, routes are solid or dotted lines, dashes only for fords.
 RUIN_FILL = '#b9b0a0'
+REALM_DASH = '6 2 1.5 2'          # thick dash-dot
+FIEF_DASH = '4 1.8 1.1 1.8'       # medium dash-dot
+LIBERTY_DASH = '3 1.5 0.8 1.5'    # thin dash-dot
+DISPUTE_DASH = '2.2 1 0.6 1'
+FOREST_DASH = '3.6 1.5 0.9 1.5'   # royal forest: green dash-dot
+OLD_ROAD = '#6a4a2e'
+
+
+def dyke_svg(pts):
+    """Old dyke (earthwork bank): a grey line with short ticks on the north side."""
+    out = []
+    L_ = path_len(pts)
+    d = 1.5
+    while d < L_ - 1:
+        (x, y), a = point_at(pts, d)
+        nx, ny = -math.sin(a), math.cos(a)
+        if ny > 0:
+            nx, ny = -nx, -ny
+        out.append('M%s,%sl%s,%s' % (f1(x), f1(y), f1(nx * 2.2), f1(ny * 2.2)))
+        d += 3.2
+    return ('<path d="%s" fill="none" stroke="%s" stroke-width="1.1"/>' % (poly_d(pts, closed=False), C['grey']) +
+            '<path d="%s" stroke="%s" stroke-width="0.7"/>' % (''.join(out), C['grey']))
 
 
 def g_capital(x, y, k=1.0):
@@ -657,9 +697,36 @@ def g_cross(x, y, arch=False, k=1.0):
 
 
 def g_abbey(x, y):
-    return (circ(x, y, 2.9, '#fffaf0', C['purple'], 0.9) +
-            '<path d="M%s,%sV%sM%s,%sH%s" stroke="%s" stroke-width="0.9"/>' % (
-                f1(x), f1(y - 1.9), f1(y + 1.9), f1(x - 1.3), f1(y - 0.6), f1(x + 1.3), C['purple']))
+    """Abbey or priory: a church with a square cloister beside it."""
+    return ('<rect x="%s" y="%s" width="6.4" height="2.2" fill="%s" stroke="#fffaf0" stroke-width="0.4"/>' % (
+        f1(x - 3.2), f1(y - 3.1), C['purple']) +
+        '<rect x="%s" y="%s" width="3.6" height="3.6" fill="#fffaf0" stroke="%s" stroke-width="0.9"/>' % (
+            f1(x - 0.4), f1(y - 0.6), C['purple']))
+
+
+def g_commandery(x, y):
+    """Military-order commandery: a small church with a shield."""
+    sx, sy = x + 2.3, y + 0.9
+    shield = 'M%s,%sH%sV%sQ%s,%s %s,%sQ%s,%s %s,%sZ' % (
+        f1(sx - 1.9), f1(sy - 1.8), f1(sx + 1.9), f1(sy + 0.2), f1(sx + 1.9), f1(sy + 1.9), f1(sx), f1(sy + 2.7),
+        f1(sx - 1.9), f1(sy + 1.9), f1(sx - 1.9), f1(sy + 0.2))
+    return ('<path d="%s" fill="%s"/>' % (church_path(x - 1.2, y, 0.85), C['purple']) +
+            '<path d="%s" fill="#fffaf0" stroke="%s" stroke-width="0.7"/>' % (shield, C['purple']) +
+            '<path d="M%s,%sV%sM%s,%sH%s" stroke="%s" stroke-width="0.6"/>' % (
+                f1(sx), f1(sy - 1.4), f1(sy + 2.1), f1(sx - 1.3), f1(sy - 0.2), f1(sx + 1.3), C['purple']))
+
+
+def g_scallop(x, y, k=1.0):
+    """Great shrine: a scallop shell (never a star)."""
+    R = 3.2 * k
+    d = 'M%s,%sA%s,%s 0 0 1 %s,%sL%s,%sH%sZ' % (
+        f1(x - R), f1(y + 0.4 * k), f1(R), f1(R), f1(x + R), f1(y + 0.4 * k), f1(x + 0.7 * k), f1(y + 2.8 * k),
+        f1(x - 0.7 * k))
+    ribs = ''.join('M%s,%sL%s,%s' % (f1(x), f1(y + 2.6 * k), f1(x + R * 0.92 * math.cos(a)),
+                                    f1(y + 0.4 * k - R * 0.92 * math.sin(a)))
+                   for a in [math.radians(v) for v in (35, 65, 90, 115, 145)])
+    return ('<path d="%s" fill="#f0cf6e" stroke="#7a5208" stroke-width="0.6" stroke-linejoin="round"/>' % d +
+            '<path d="%s" stroke="#7a5208" stroke-width="0.4"/>' % ribs)
 
 
 def g_crown(x, y):
@@ -668,25 +735,41 @@ def g_crown(x, y):
         [(x + a, y + b) for a, b in pts])
 
 
-def g_anchor(x, y):
-    d = ('M%s,%sV%s' % (f1(x), f1(y - 2.4), f1(y + 3.4)) +
-         'M%s,%sH%s' % (f1(x - 1.9), f1(y - 1.0), f1(x + 1.9)) +
-         'M%s,%sQ%s,%s %s,%s' % (f1(x - 3.1), f1(y + 1.2), f1(x), f1(y + 5.2), f1(x + 3.1), f1(y + 1.2)))
-    return ('<circle cx="%s" cy="%s" r="1" fill="none" stroke="#1f4f6a" stroke-width="0.9"/>' % (f1(x), f1(y - 3.3)) +
-            '<path d="%s" fill="none" stroke="#1f4f6a" stroke-width="1.05" stroke-linecap="round"/>' % d)
+def g_anchor(x, y, k=1.0, quay=False):
+    """Port: a large anchor with a quay (head port) or a small anchor (member port)."""
+    d = ('M%s,%sV%s' % (f1(x), f1(y - 2.4 * k), f1(y + 3.4 * k)) +
+         'M%s,%sH%s' % (f1(x - 1.9 * k), f1(y - 1.0 * k), f1(x + 1.9 * k)) +
+         'M%s,%sQ%s,%s %s,%s' % (f1(x - 3.1 * k), f1(y + 1.2 * k), f1(x), f1(y + 5.2 * k), f1(x + 3.1 * k),
+                                 f1(y + 1.2 * k)))
+    s = ('<circle cx="%s" cy="%s" r="%s" fill="none" stroke="#1f4f6a" stroke-width="%s"/>' % (
+        f1(x), f1(y - 3.3 * k), f1(1.0 * k), f1(0.9 * min(k, 1.15))) +
+        '<path d="%s" fill="none" stroke="#1f4f6a" stroke-width="%s" stroke-linecap="round"/>' % (
+            d, f1(1.05 * min(k, 1.2))))
+    if quay:
+        s += '<rect x="%s" y="%s" width="%s" height="1.6" fill="#1f4f6a"/>' % (
+            f1(x - 4.6 * k), f1(y + 5.0 * k), f1(9.2 * k))
+    return s
 
 
 def g_light(x, y):
-    rays = ''.join('M%s,%sL%s,%s' % (f1(x + 2.4 * math.cos(a)), f1(y + 2.4 * math.sin(a)),
-                                    f1(x + 5 * math.cos(a)), f1(y + 5 * math.sin(a)))
-                   for a in [i * math.pi / 4 for i in range(8)])
-    return ('<path d="%s" stroke="#d08a10" stroke-width="0.8"/>' % rays +
-            circ(x, y, 1.9, '#ffd84a', '#7a5208', 0.6))
+    """Lighthouse: a small tower with short rays."""
+    ly = y - 2.6
+    rays = ''.join('M%s,%sL%s,%s' % (f1(x + 1.9 * math.cos(a)), f1(ly + 1.9 * math.sin(a)),
+                                    f1(x + 3.9 * math.cos(a)), f1(ly + 3.9 * math.sin(a)))
+                   for a in [math.radians(v) for v in (180, 215, 250, 290, 325, 0)])
+    return ('<path d="%s" stroke="#d08a10" stroke-width="0.8" stroke-linecap="round"/>' % rays +
+            '<path d="M%s,%sL%s,%sL%s,%sL%s,%sZ" fill="%s"/>' % (
+                f1(x - 1.6), f1(y + 3.6), f1(x - 0.9), f1(y - 1.6), f1(x + 0.9), f1(y - 1.6), f1(x + 1.6),
+                f1(y + 3.6), C['ink']) +
+            circ(x, ly, 1.25, '#ffd84a', '#7a5208', 0.5))
 
 
 def g_beacon(x, y):
-    return '<path d="M%s,%sL%s,%sL%s,%sZ" fill="#e07b24" stroke="#6b3010" stroke-width="0.6"/>' % (
-        f1(x - 2.3), f1(y + 2.1), f1(x), f1(y - 2.8), f1(x + 2.3), f1(y + 2.1))
+    """Beacon: a flame dot."""
+    return ('<path d="M%s,%sQ%s,%s %s,%sQ%s,%s %s,%sQ%s,%s %s,%sZ" fill="#f2a33a" stroke="#6b3010" stroke-width="0.4"/>' % (
+        f1(x - 1.2), f1(y - 0.6), f1(x - 1.7), f1(y - 2.6), f1(x - 0.1), f1(y - 4.6), f1(x + 0.3), f1(y - 3.0),
+        f1(x + 1.4), f1(y - 2.3), f1(x + 1.6), f1(y - 1.1), f1(x + 1.2), f1(y - 0.6)) +
+        circ(x, y + 0.5, 1.55, '#e07b24', '#6b3010', 0.5))
 
 
 def g_mine(x, y):
@@ -698,10 +781,12 @@ def g_mine(x, y):
 
 
 def g_salt(x, y):
-    return ('<rect x="%s" y="%s" width="5.6" height="5.6" fill="#ffffff" stroke="#3d6f86" stroke-width="0.8"/>' % (
-        f1(x - 2.8), f1(y - 2.8)) +
-        '<path d="M%s,%sV%sM%s,%sH%s" stroke="#3d6f86" stroke-width="0.6"/>' % (
-            f1(x), f1(y - 2.8), f1(y + 2.8), f1(x - 2.8), f1(y), f1(x + 2.8)))
+    """Salt pans: a checkerboard of small rectangles."""
+    cells = ''.join('M%s,%sh2v1.8h-2Z' % (f1(x - 3 + 2 * i), f1(y - 1.8 + 1.8 * j))
+                    for i in range(3) for j in range(2) if (i + j) % 2 == 0)
+    return ('<rect x="%s" y="%s" width="6" height="3.6" fill="#ffffff" stroke="#3d6f86" stroke-width="0.7"/>' % (
+        f1(x - 3), f1(y - 1.8)) +
+        '<path d="%s" fill="#3d6f86"/>' % cells)
 
 
 def g_quarry(x, y):
@@ -711,17 +796,20 @@ def g_quarry(x, y):
             f1(x - 2.1), f1(y + 0.4), f1(x), f1(y + 1.2), f1(x + 2.1), f1(y + 0.4), C['ink']))
 
 
-def g_fair(x, y):
-    return ('<path d="M%s,%sV%s" stroke="%s" stroke-width="0.9"/>' % (f1(x - 1.5), f1(y + 3.2), f1(y - 3.6), C['ink']) +
-            '<path d="M%s,%sL%s,%sL%s,%sZ" fill="%s"/>' % (f1(x - 1.5), f1(y - 3.6), f1(x + 2.8), f1(y - 2.4),
-                                                          f1(x - 1.5), f1(y - 1.2), C['red']))
-
-
 def g_mill(x, y):
+    """Mill: a wheel on the stream."""
     d = ''.join('M%s,%sL%s,%s' % (f1(x - 2.6 * math.cos(a)), f1(y - 2.6 * math.sin(a)),
                                  f1(x + 2.6 * math.cos(a)), f1(y + 2.6 * math.sin(a)))
-                for a in (math.pi / 4, 3 * math.pi / 4))
-    return circ(x, y, 2.6, '#fffaf0', C['ink'], 0.8) + '<path d="%s" stroke="%s" stroke-width="0.7"/>' % (d, C['ink'])
+                for a in [i * math.pi / 4 for i in range(4)])
+    return (circ(x, y, 2.6, '#fffaf0', C['ink'], 0.8) + '<path d="%s" stroke="%s" stroke-width="0.5"/>' % (d, C['ink']) +
+            circ(x, y, 0.8, C['ink']))
+
+
+def g_vines(x, y):
+    """Vineyards: hatched strips on a slope."""
+    d = ''.join('M%s,%sL%s,%s' % (f1(x - 3 + 2 * i), f1(y + 2.4), f1(x - 1.4 + 2 * i), f1(y - 2.4))
+                for i in range(3))
+    return '<path d="%s" stroke="#6d3b5a" stroke-width="1.0" stroke-linecap="round"/>' % d
 
 
 def g_industry(x, y):
@@ -730,43 +818,58 @@ def g_industry(x, y):
 
 
 def g_bridge(x, y, ang):
-    # two bars parallel to the river, crossing it
-    ca, sa = math.cos(ang), math.sin(ang)
-    nx, ny = -sa, ca
+    """Bridge: two short curved lines ')(' with the road running through.
+    ang is the river's direction; the road crosses it at a right angle."""
+    ua, ub = math.cos(ang), math.sin(ang)     # along the river
+    ra, rb = -ub, ua                         # along the road
     out = []
-    for off in (-1.7, 1.7):
-        cx, cy = x + ca * off, y + sa * off
-        out.append('M%s,%sL%s,%s' % (f1(cx - nx * 4), f1(cy - ny * 4), f1(cx + nx * 4), f1(cy + ny * 4)))
-    return '<path d="%s" stroke="%s" stroke-width="1.2"/>' % (''.join(out), C['ink'])
+    for s in (-1, 1):
+        e, m = 3.1 * s, 1.5 * s                # end and middle offsets from the road
+        c = 2 * m - e
+        p0 = (x + ua * e - ra * 3.9, y + ub * e - rb * 3.9)
+        p1 = (x + ua * e + ra * 3.9, y + ub * e + rb * 3.9)
+        cc = (x + ua * c, y + ub * c)
+        out.append('M%s,%sQ%s,%s %s,%s' % (f1(p0[0]), f1(p0[1]), f1(cc[0]), f1(cc[1]), f1(p1[0]), f1(p1[1])))
+    return '<path d="%s" fill="none" stroke="%s" stroke-width="1.15" stroke-linecap="round"/>' % (''.join(out), C['ink'])
 
 
 def g_ford(x, y, ang):
-    ca, sa = math.cos(ang), math.sin(ang)
-    nx, ny = -sa, ca
-    out = []
-    for off in (-1.4, 1.4):
-        cx, cy = x + ca * off, y + sa * off
-        out.append('M%s,%sL%s,%s' % (f1(cx - nx * 4.2), f1(cy - ny * 4.2), f1(cx + nx * 4.2), f1(cy + ny * 4.2)))
-    return '<path d="%s" stroke="%s" stroke-width="1" stroke-dasharray="1.4 1.1"/>' % (''.join(out), C['road'])
+    """Ford: a short dashed line across the river."""
+    ra, rb = -math.sin(ang), math.cos(ang)
+    return '<path d="M%s,%sL%s,%s" stroke="%s" stroke-width="1.3" stroke-dasharray="1.7 1.1"/>' % (
+        f1(x - ra * 5), f1(y - rb * 5), f1(x + ra * 5), f1(y + rb * 5), C['road'])
 
 
-def g_ferry(x, y):
+def letter_f(x, y, h=4.4):
+    """A small 'F' drawn as lines (so it is a symbol, not a text label)."""
+    return ('<path d="M%s,%sV%sH%sM%s,%sH%s" fill="none" stroke="%s" stroke-width="0.9"/>' % (
+        f1(x), f1(y + h / 2), f1(y - h / 2), f1(x + h * 0.55), f1(x), f1(y - h * 0.05), f1(x + h * 0.45),
+        C['ink']))
+
+
+def g_ferry(x, y, ang):
+    """Ferry: a short dotted line across the river with 'F'."""
+    ra, rb = -math.sin(ang), math.cos(ang)
+    ua, ub = math.cos(ang), math.sin(ang)
+    fx, fy = x + ua * 3.4 - ra * 3.6, y + ub * 3.4 - rb * 3.6
+    return ('<path d="M%s,%sL%s,%s" stroke="%s" stroke-width="1.3" stroke-dasharray="0.1 1.9" stroke-linecap="round"/>' % (
+        f1(x - ra * 5), f1(y - rb * 5), f1(x + ra * 5), f1(y + rb * 5), C['ink']) +
+        letter_f(fx - 1, fy))
+
+
+def g_boat(x, y):
+    """Head of navigation: a small boat."""
     return ('<path d="M%s,%sQ%s,%s %s,%sZ" fill="#1f4f6a"/>' % (f1(x - 3.4), f1(y - 0.6), f1(x), f1(y + 3.6),
                                                              f1(x + 3.4), f1(y - 0.6)) +
             '<path d="M%s,%sV%sL%s,%sZ" fill="#1f4f6a"/>' % (f1(x - 0.2), f1(y - 1), f1(y - 4.2), f1(x + 2.2), f1(y - 1.4)))
 
 
-def g_pass(x, y, ang):
-    ca, sa = math.cos(ang), math.sin(ang)
-    nx, ny = -sa, ca
-    out = []
-    for side in (-1, 1):
-        # arc on each side of the road, bulging towards the road
-        p0 = (x + ca * -4 + nx * side * 4.5, y + sa * -4 + ny * side * 4.5)
-        p1 = (x + ca * 4 + nx * side * 4.5, y + sa * 4 + ny * side * 4.5)
-        cc = (x + nx * side * 1.6, y + ny * side * 1.6)
-        out.append('M%s,%sQ%s,%s %s,%s' % (f1(p0[0]), f1(p0[1]), f1(cc[0]), f1(cc[1]), f1(p1[0]), f1(p1[1])))
-    return '<path d="%s" fill="none" stroke="%s" stroke-width="1.3"/>' % (''.join(out), C['ink'])
+def g_pass(x, y, ang=0.0):
+    """Pass: a saddle between two peaks (the ')(' mark now means a bridge)."""
+    d = 'M%s,%sL%s,%sQ%s,%s %s,%sL%s,%s' % (
+        f1(x - 5), f1(y + 2.2), f1(x - 2.8), f1(y - 2.6), f1(x), f1(y + 2.4), f1(x + 2.8), f1(y - 2.6),
+        f1(x + 5), f1(y + 2.2))
+    return '<path d="%s" fill="none" stroke="%s" stroke-width="1.3" stroke-linejoin="round"/>' % (d, C['ink'])
 
 
 # ----------------------------------------------------------------- lines ---
@@ -811,10 +914,11 @@ SYMR = {}   # name -> symbol radius for labels
 
 # manual attachment offsets for crowded places: name -> {'castle': (dx,dy), 'cross': (dx,dy)}
 ATTACH = {
-    'Hallowbridge': {'castle': (-9, -8), 'cross': (0, -12.5)},
-    'Liskmeet': {'castle': (-8.5, -7), 'cross': (8.5, -8.5)},
-    'Norburgh': {'castle': (7.5, -6.5), 'cross': (-7.5, -7.5)},
-    'Holmstow': {'cross': (-6.0, -6.5)},
+    'Hallowbridge': {'castle': (-10.5, -10.5), 'cross': (0, -13.5)},
+    'Liskmeet': {'castle': (-8.5, -7), 'cross': (8.5, -8.5),
+                 'crown': [(-10, 7), (10, 7.5), (0, 11), (-13, 0), (13, 0), (-15, -8), (-4, -17)]},
+    'Norburgh': {'castle': (8.5, -6.5), 'cross': (-8.0, -7.5)},
+    'Holmstow': {'cross': (-7.0, -6.5), 'shrine': (0, 9.5)},
     'Wyndfoot': {'castle': (-7, -6.5), 'cross': (7, -7)},
     'Ridgegate': {'castle': (-7, -6.5), 'cross': (7, -7)},
     'Kingsmoat': {'castle': (6.5, -5.5), 'crown': (-7, -5)},
@@ -832,19 +936,27 @@ PORT_AT = {
     'Saltcove': (386, 777),
 }
 
+# duchy and regional seats (pennant), from the region list in chapter 12, step 4
+SEATS = {'Liskmeet', 'Wendmouth', 'Brimhaven', 'Wyndfoot', 'Norburgh', 'Holmstow'}
+# great royal castles and fortresses (three-tower icon): the White Keep, Wyndgap Castle
+# and the three county castles rebuilt as concentric castles
+GREAT = {n for n, s in S.items() if s.get('castle') and ('concentric' in s['castle'] or 'White Keep' in s['castle'])}
+HEAD_PORTS = {'Hallowbridge', 'Brimhaven', 'Wendmouth'}
+
 for name, s in S.items():
     x, y = s['x'], s['y']
     tier = s['tier']
     walled = name in WALLED and tier == 'town'
+    county = bool(s.get('county_seat'))
     if tier == 'capital':
         snip = g_capital(x, y)
-        r = 7.6
+        r = 8.8
     elif tier == 'city':
-        snip = g_city(x, y)
-        r = 6.0
+        snip = g_city(x, y, county)
+        r = 6.2
     elif tier == 'town':
-        snip = g_town(x, y, walled)
-        r = 5.4 if walled else 3.4
+        snip = g_town(x, y, walled, county)
+        r = 5.0 if walled else 4.2
     else:
         snip = g_market(x, y)
         r = 2.6
@@ -853,26 +965,55 @@ for name, s in S.items():
     att = ATTACH.get(name, {})
     # castles at county towns (and the White Keep at the capital)
     if s.get('castle'):
+        great = name in GREAT
         dx, dy = att.get('castle', (r + 2.2, -(r + 2.2)))
         cx, cy = x + dx, y + dy
-        kind = 'royal' if tier == 'capital' else 'county'
-        add_sym((cx - 2.8, cy - 3, cx + 2.8, cy + 3), 'C:' + name, g_castle(cx, cy, kind), 'castle ' + name)
+        if great:
+            add_sym((cx - 4.7, cy - 4.5, cx + 4.7, cy + 3.2), 'C:' + name, g_castle(cx, cy, 'great'), 'castle ' + name)
+        else:
+            add_sym((cx - 2.8, cy - 3, cx + 2.8, cy + 3), 'C:' + name, g_castle(cx, cy, 'county'), 'castle ' + name)
     if name in cathedrals:
         arch = s.get('cathedral') == 'archbishop'
         dx, dy = att.get('cross', (-(r + 2.2), -(r + 2.4)))
         cx, cy = x + dx, y + dy
-        k = 1.25 if arch else 1.0
-        add_sym((cx - 2.6 * k, cy - 3.6 * k, cx + 2.6 * k, cy + 3.4 * k), 'X:' + name,
-                g_cross(cx, cy, arch, k), 'cathedral ' + name)
+        if arch:
+            k = 1.25
+            add_sym((cx - 2.6 * k, cy - 3.6 * k, cx + 2.6 * k, cy + 3.4 * k), 'X:' + name,
+                    g_cross(cx, cy, True, k), 'cathedral ' + name)
+        else:
+            add_sym((cx - 3.4, cy - 4.0, cx + 3.4, cy + 3.1), 'X:' + name, g_cathedral(cx, cy), 'cathedral ' + name)
+    if name in SEATS:
+        px, py = x + att.get('pennant', (0, 0))[0], y - r + 0.3 + att.get('pennant', (0, 0))[1]
+        add_sym((px - 0.6, py - 6.6, px + 4.4, py), 'Pn:' + name, g_pennant(px, py), 'seat ' + name)
     if 'crown' in att:
-        dx, dy = att['crown']
+        cands = att['crown'] if isinstance(att['crown'], list) else [att['crown']]
+        best_c = None
+        for dx, dy in cands:
+            rc = (x + dx - 3.4, y + dy - 3, x + dx + 3.4, y + dy + 2.4)
+            if SYM.hits(rc, 0.8) or BLOCK.hits(rc, 1.0):
+                continue
+            cst = LINES.cost(rc)
+            if best_c is None or cst < best_c[0] - 1e-9:
+                best_c = (cst, dx, dy)
+        dx, dy = (best_c[1], best_c[2]) if best_c else cands[0]
         add_sym((x + dx - 3.4, y + dy - 3, x + dx + 3.4, y + dy + 2.4), 'R:' + name,
                 g_crown(x + dx, y + dy), 'residence ' + name)
+    if 'shrine' in att:
+        dx, dy = att['shrine']
+        add_sym((x + dx - 3.4, y + dy - 3, x + dx + 3.4, y + dy + 3), 'Sh:' + name,
+                g_scallop(x + dx, y + dy), 'shrine ' + name)
 
 # ports
 for p in D['ports']:
     ax, ay = PORT_AT[p['name']]
-    add_sym((ax - 3.3, ay - 4.5, ax + 3.3, ay + 4.6), 'P:' + p['name'], g_anchor(ax, ay), 'port ' + p['name'])
+    if p['name'] in HEAD_PORTS:
+        k = 1.3
+        add_sym((ax - 4.7 * k, ay - 4.5 * k, ax + 4.7 * k, ay + 6.7 * k), 'P:' + p['name'],
+                g_anchor(ax, ay, k, quay=True), 'port ' + p['name'])
+    else:
+        k = 0.85
+        add_sym((ax - 3.3 * k, ay - 4.5 * k, ax + 3.3 * k, ay + 4.6 * k), 'P:' + p['name'], g_anchor(ax, ay, k),
+                'port ' + p['name'])
 
 # lighthouse on Ness Castle
 NESS = (855, 425)
@@ -892,7 +1033,7 @@ for c in D['castles']:
     if st == 'ruin':
         if n == 'Old Harrow castle':
             continue  # drawn as the Old Harrow hillfort
-        add_sym((x - 2.8, y - 2.8, x + 2.8, y + 2.8), 'M:' + n, g_motte(x, y), n)
+        add_sym((x - 3.3, y - 3.6, x + 3.3, y + 2.5), 'M:' + n, g_motte(x, y), n)
         continue
     if 'foreign' in n:
         add_sym((x - 2.6, y - 2.8, x + 2.6, y + 2.8), 'F:' + n, g_castle(x, y, 'foreign'), n)
@@ -906,6 +1047,9 @@ for c in D['castles']:
         continue
     if n == 'Ness Castle':
         x, y = NESS
+    if 'concentric' in t:
+        add_sym((x - 4.7, y - 4.5, x + 4.7, y + 3.2), 'K:' + n, g_castle(x, y, 'great'), n)
+        continue
     add_sym((x - 3.2, y - 3.4, x + 3.2, y + 3.4), 'K:' + n, g_castle(x, y, 'royal'), n)
 
 add_sym((LIGHT[0] - 4.2, LIGHT[1] - 4.2, LIGHT[0] + 4.2, LIGHT[1] + 4.2), 'L:light', g_light(*LIGHT), 'lighthouse')
@@ -922,15 +1066,18 @@ for r_ in D['royal_residences']:
     add_sym((x - 3.4, y - 3, x + 3.4, y + 2.4), 'R:' + n, g_crown(x, y), n)
 
 # monasteries
-ABBEY_AT = {'Westhallow Abbey': (672, 414), 'Abbotsmere Abbey': (490, 579), 'Temple Ambre': (575, 417.5)}
+ABBEY_AT = {'Westhallow Abbey': (667, 414.5), 'Abbotsmere Abbey': (490, 579), 'Temple Ambre': (575, 417.5)}
 for m in D['monasteries']:
     n = m['name']
     if n == 'Holmstow Abbey':
         continue  # the cathedral cross at Holmstow
     x, y = ABBEY_AT.get(n, (m['x'], m['y']))
-    add_sym((x - 3.1, y - 3.1, x + 3.1, y + 3.1), 'A:' + n, g_abbey(x, y), n)
+    if 'commandery' in m['order']:
+        add_sym((x - 3.6, y - 3.6, x + 4.4, y + 3.8), 'A:' + n, g_commandery(x, y), n)
+        continue
+    add_sym((x - 3.3, y - 3.2, x + 3.3, y + 3.1), 'A:' + n, g_abbey(x, y), n)
 # Westhallow palace crown next to its abbey
-add_sym((672 - 3.4, 421.5 - 3, 672 + 3.4, 421.5 + 2.4), 'R:Westhallow', g_crown(672, 422), 'Westhallow palace')
+add_sym((667 - 3.4, 422.5 - 3, 667 + 3.4, 422.5 + 2.4), 'R:Westhallow', g_crown(667, 422.5), 'Westhallow palace')
 
 # ruins and old layers
 for r_ in D['ruins_and_old_layers']:
@@ -941,10 +1088,11 @@ for r_ in D['ruins_and_old_layers']:
     x, y = r_['x'], r_['y']
     if 'walled town' in k:
         snip = g_ruin_town(x, y)
-        rr = 4.5
+        rr = 5.1
     elif 'deserted' in k:
         snip = g_deserted(x, y)
-        rr = 3
+        add_sym((x - 3.1, y - 4.5, x + 3.1, y + 2.7), 'U:' + n, snip, n)
+        continue
     elif 'stone circle' in k:
         snip = g_stones(x, y)
         rr = 3.8
@@ -952,9 +1100,11 @@ for r_ in D['ruins_and_old_layers']:
         snip = g_barrows(x, y)
         rr = 4.4
     elif n == 'Old Harrow':
-        snip = g_hillfort(x, y) + '<path d="M%s,%sV%sM%s,%sH%s" stroke="%s" stroke-width="0.9"/>' % (
-            f1(x), f1(y - 1.8), f1(y + 1.6), f1(x - 1.2), f1(y - 0.6), f1(x + 1.2), C['grey'])
-        rr = 4
+        # hillfort rings with the ruined church (grey) inside
+        snip = (g_hillfort(x, y).replace('rx="2.4" ry="1.6"', 'rx="5.4" ry="3.9"') +
+                '<path d="%s" fill="%s" stroke="%s" stroke-width="0.5"/>' % (church_path(x, y + 0.3, 0.7), RUIN_FILL,
+                                                                             C['grey']))
+        rr = 5.6
     else:
         snip = g_hillfort(x, y)
         rr = 4
@@ -964,9 +1114,11 @@ for r_ in D['ruins_and_old_layers']:
 IND_GLYPH = {
     'Silverhope mines': g_mine, 'Leadgill mines': g_mine, 'Orsdale mines': g_mine,
     'Saltwich brine pits': g_salt, 'Saltings salterns': g_salt, 'Salthithe': g_salt,
-    'Chalkhythe quarries': g_quarry, 'Cheapford fair meadow': g_fair, 'Gullhaven strand': g_fair,
-    'Tenter valley mills': g_mill,
+    'Chalkhythe quarries': g_quarry, 'Cheapford fair meadow': None, 'Gullhaven strand': None,
+    'Tenter valley mills': g_mill, 'Abbotsmere vineyards': g_vines,
 }
+# fairs have no symbol of their own (chapter 13): the fair months go in the town's label
+FAIRS = {'Cheapford': 'wool fair, Sept.', 'Gullhaven': 'herring fair, Sept.–Nov.'}
 IND_AT = {
     'Silverhope mines': (186, 321), 'Leadgill mines': (226, 289), 'Orsdale mines': (186, 394),
     'Saltwich brine pits': (749, 478), 'Cheapford fair meadow': (388, 446),
@@ -983,23 +1135,28 @@ for it in D['industry']:
     n = it['name']
     x, y = IND_AT.get(n, (it['x'], it['y']))
     fn = IND_GLYPH.get(n, g_industry)
+    if fn is None:
+        continue
     IND_POS[n] = (x, y)
     add_sym((x - 3, y - 3.4, x + 3, y + 3.2), 'I:' + n, fn(x, y), n)
 
 # beacons
 for b in D['beacons']:
     x, y = b['x'], b['y']
-    add_sym((x - 2.5, y - 3, x + 2.5, y + 2.3), 'Bc', g_beacon(x, y), 'beacon')
+    add_sym((x - 2.1, y - 4.8, x + 2.1, y + 2.3), 'Bc', g_beacon(x, y), 'beacon')
 
 # passes
 wy = D['passes'][0]
-add_sym((wy['x'] - 5, wy['y'] - 6, wy['x'] + 5, wy['y'] + 6), 'Pass:Wyndgap',
-        g_pass(wy['x'], wy['y'], math.atan2(432 - 436, 130 - 145)), 'Wyndgap pass')
+add_sym((wy['x'] - 5.4, wy['y'] - 3.2, wy['x'] + 5.4, wy['y'] + 3), 'Pass:Wyndgap',
+        g_pass(wy['x'], wy['y']), 'Wyndgap pass')
 cg = D['passes'][1]
-add_sym((cg['x'] - 5, cg['y'] - 6, cg['x'] + 5, cg['y'] + 6), 'Pass:Carrow',
-        g_pass(cg['x'], cg['y'], math.atan2(650 - 640, 120 - 172)), 'Carrow Gap')
+add_sym((cg['x'] - 5.4, cg['y'] - 3.2, cg['x'] + 5.4, cg['y'] + 3), 'Pass:Carrow',
+        g_pass(cg['x'], cg['y']), 'Carrow Gap')
 
 # river crossings, drawn beside the town symbol that shares the spot
+
+
+NAV_HEAD_SHIFT = 13
 
 
 def river_mark(river, x, y, shift):
@@ -1032,12 +1189,15 @@ for kind, rv, x, y, sh in CROSS:
         rr = 4.2
     elif kind == 'ford':
         snip = g_ford(px, py, ang)
-        rr = 4.2
+        rr = 4.4
     else:
-        px, py = px, py + 0.5
-        snip = g_ferry(px, py)
-        rr = 3.6
+        snip = g_ferry(px, py, ang)
+        rr = 5.0
     add_sym((px - rr, py - rr, px + rr, py + rr), 'X%s:%s,%s' % (kind, x, y), snip, kind)
+
+# head of navigation on the Ambre (Cheapford): a small boat on the river
+(bx_, by_), _ = river_mark('Ambre', 380, 438, NAV_HEAD_SHIFT)
+add_sym((bx_ - 3.6, by_ - 4.4, bx_ + 3.6, by_ + 3.2), 'Boat', g_boat(bx_, by_), 'head of navigation')
 
 # zoom box
 zb = D['zoom_box']
@@ -1166,6 +1326,9 @@ def place_point_label(name, blk, x, y, r, own=(), prefs=None, gaps=(2.0, 5.0, 9.
             left, top, w, h, anchor = block_rect(blk, pos, x, y, r, g)
             rect = (left, top, left + w, top + h)
             if not label_ok(rect, ignore=own):
+                if DEBUG and name in DEBUG:
+                    sys.stderr.write('%s %s g=%s blocked by sym=%s lab=%s\n' % (
+                        name, pos, g, SYM.hits(rect, 0.6, ignore=own), LAB.hits(rect, 1.0)))
                 continue
             cost = base + gi * 4.0
             cost += line_w * LINES.cost(rect)
@@ -1189,12 +1352,11 @@ order = sorted(D['settlements'], key=lambda s: (
 
 FORCE = {
     # name: (position, gap) chosen after looking at the render
-    'Temple Ambre': ('N', 2.6),
-    'Westhallow': ('NW', 1.6),
+    'Westhallow\n(royal tombs)': ('NW', 1.6),
 }
 SUB = {
     'Hallowbridge': None,
-    'Liskmeet': 'archbishop, university',
+    'Liskmeet': 'university · (coronations)',
     'Holmstow': "St Aldwen's shrine",
 }
 
@@ -1204,7 +1366,8 @@ for s in order:
     if t == 'capital':
         lines = [L(n.upper(), 12, bold=True, ls=0.6)]
     elif t == 'city':
-        lines = [L(n, 11, bold=True)]
+        # cities in bold capitals; this also puts the two head ports in capitals
+        lines = [L(n.upper(), 10, bold=True, ls=0.4)]
     elif t == 'town':
         if s['population'] >= 5000:
             lines = [L(n, 9.6, bold=True)]
@@ -1214,6 +1377,8 @@ for s in order:
         lines = [L(n, 7.4, italic=False, fill=C['ink2'])]
     if SUB.get(n):
         lines.append(L(SUB[n], 6.6, italic=True, fill=C['purple']))
+    if n in FAIRS:
+        lines.append(L(FAIRS[n], 6.4, italic=True, fill=C['feature_text']))
     blk = Block(lines)
     own = ('S:' + n,)
     if t == 'capital':
@@ -1229,7 +1394,7 @@ SITE_LABELS = [
     ('Wyndgap Castle', 145, 436, 3.4, 'site'),
     ('Ness Castle', NESS[0], NESS[1], 3.4, 'site'),
     ('Redwater Castle', 630, 395, 3.4, 'site'),
-    ('Westhallow', 672, 418, 4.5, 'site'),
+    ('Westhallow\n(royal tombs)', 667, 418, 4.5, 'site'),
     ('Elmhurst', 664, 432, 3.4, 'site'),
     ('Kingswood lodge', 630, 352, 3.4, 'site'),
     ('Harnvale Abbey', 470, 215, 3.1, 'church'),
@@ -1238,12 +1403,12 @@ SITE_LABELS = [
     ('Stillwater Abbey', 392, 627, 3.1, 'church'),
     ('Mirefield Abbey', 742, 238, 3.1, 'church'),
     ('Sallowhope Charterhouse', 168, 525, 3.1, 'church'),
-    ('Wendchester', 524, 726, 4.5, 'ruin'),
-    ('Old Harrow', 245, 470, 4.0, 'ruin'),
+    ('Wendchester (ruin)', 524, 726, 5.1, 'ruin'),
+    ('Old Harrow (ruin)', 245, 470, 5.6, 'ruin'),
     ('The Grey Wives', 185, 600, 3.8, 'ruin'),
-    ('Old Harnvale', 476, 222, 3, 'ruin'),
-    ('Lostwick', 622, 352, 3, 'ruin'),
-    ('Skelby', 620, 110, 3, 'ruin'),
+    ('Old Harnvale (lost village)', 476, 222, 3, 'ruin'),
+    ('Lostwick (lost village)', 622, 352, 3, 'ruin'),
+    ('Skelby (lost village)', 620, 110, 3, 'ruin'),
     ('Chalkhythe', 558, 451, 3.2, 'ind'),
     ('Wyndgap', 130, 432, 5.0, 'pass'),
     ('Carrow Gap', 172, 640, 5.0, 'pass'),
@@ -1269,7 +1434,8 @@ SITE_OWN = {
 }
 for text, x, y, r, st in SITE_LABELS:
     sty = STYLE[st]
-    blk = Block([L(text, sty['size'], bold=sty.get('bold', False), italic=sty['italic'], fill=sty['fill'])])
+    blk = Block([L(t_, sty['size'], bold=sty.get('bold', False), italic=sty['italic'], fill=sty['fill'])
+                 for t_ in text.split('\n')])
     place_point_label(text, blk, x, y, r, own=(), gaps=(1.6, 4.0, 7.0, 10.0), force=FORCE.get(text))
 
 # industry tags
@@ -1489,7 +1655,7 @@ region_specs = [
     ('Duchy of the Fells', [L('DUCHY OF', 6.8, ls=1.6, fill=REG), L('THE FELLS', 10.5, ls=2.4, fill=REG)],
      (200, 430), 70),
     ('North March', [L('THE NORTH MARCH', 9.6, ls=2.4, fill=REG)], (470, 165), 70),
-    ('Earldom of Brim', [L('EARLDOM OF', 6.8, ls=1.6, fill=REG), L('BRIM', 10.5, ls=3, fill=REG)], (800, 290), 70),
+    ('Earldom of Brim', [L('EARLDOM OF', 6.8, ls=1.6, fill=REG), L('BRIM', 10.5, ls=3, fill=REG)], (770, 265), 45),
     ('Duchy of Wend', [L('DUCHY OF', 6.8, ls=1.6, fill=REG), L('WEND', 10.5, ls=3, fill=REG)], (560, 625), 60),
 ]
 for name, lines, anc, rad in region_specs:
@@ -1502,7 +1668,7 @@ marsh_polys = {m['name']: m['pts'] for m in D['marshes']}
 TERRAIN = [
     ('The Harnwood', [L('THE HARNWOOD', 8.6, ls=2.2, fill=C['green_text'], italic=True)], (505, 240), 55,
      forest_polys['The Harnwood']),
-    ('Kingswood Chase', [L('Kingswood Chase', 6.8, italic=True, fill=C['green_text'])], (640, 335), 26, None),
+    ('Kingswood Chase', [L('Kingswood Chase', 7.6, italic=True, fill=C['green_text'])], (640, 335), 26, None),
     ('Holm Fens', [L('Holm Fens', 7.4, italic=True, fill='#3c6e5c')], (815, 352), 30, marsh_polys['Holm Fens']),
     ('The Saltings', [L('The Saltings', 6.4, italic=True, fill='#3c6e5c')], (800, 432), 30, None),
     ('Brackenheath', [L('Brackenheath', 7.0, italic=True, fill='#7d5551')], (628, 540), 40,
@@ -1538,13 +1704,13 @@ place_area_label('The Fells', Block([L('THE FELLS', 11, ls=4, fill=C['mtn_line']
 place_area_label('Ambre estuary', Block([L('Ambre estuary', 6.6, italic=True, fill=C['water_text'])]),
                  (812, 412), radius=14, step=1, avoid_sea=False, halo=C['sea'], line_w=0.2)
 place_area_label('Grey Sea', Block([L('THE GREY SEA', 11, ls=4, italic=True, fill=C['water_text'])]),
-                 (930, 640), radius=60, step=4, avoid_sea=False, halo=C['sea'], w_dist=0.02, rot=-90)
+                 (930, 585), radius=60, step=4, avoid_sea=False, halo=C['sea'], w_dist=0.02, rot=-90)
 place_area_label('Thelland', Block([L('KINGDOM OF THELLAND', 9.5, ls=3, fill='#7b6d58')]),
                  (520, 28), radius=60, step=4, avoid_sea=False, halo=C['bg'])
 place_area_label('Morvane', Block([L('KINGDOM OF', 6.8, ls=1.5, fill='#7b6d58'), L('MORVANE', 9.5, ls=2.4, fill='#7b6d58')]),
                  (55, 450), radius=40, step=2, avoid_sea=False, halo=C['bg'])
 place_area_label('east crossing', Block([L('to the eastern kingdoms,', 6.2, italic=True, fill=C['water_text']),
-                                         L('2–5 days by sea', 6.2, italic=True, fill=C['water_text'])]),
+                                         L('2–5 days by sea, Mar.–Nov.', 6.2, italic=True, fill=C['water_text'])]),
                  (950, 372), radius=24, step=2, avoid_sea=False, halo=C['sea'])
 place_area_label('frontier band', Block([L('frontier band, 30 km', 6.2, italic=True, fill=C['border'])]),
                  (840, 92), radius=40, step=2, avoid_sea=True)
@@ -1738,27 +1904,40 @@ LEG_FS = 6.9
 
 def leg_row(kind, x, y):
     """Draw a legend sample centred at (x, y)."""
+    water = lambda dy=0: '<path d="M%s,%sh16" stroke="%s" stroke-width="2"/>' % (f1(x - 8), f1(y + dy), C['river'])
     if kind == 'capital':
-        return g_capital(x, y, 0.85)
+        return g_capital(x, y, 0.72)
     if kind == 'city':
-        return g_city(x, y)
+        return g_city(x, y, county=False, k=0.85)
     if kind == 'town':
         return g_town(x, y)
     if kind == 'walled':
         return g_town(x, y, True)
+    if kind == 'county':
+        return g_town(x, y, False, True)
+    if kind == 'seat':
+        return g_town(x - 2, y + 2.2, False, True, k=0.75) + g_pennant(x - 2, y - 0.6)
     if kind == 'market':
         return g_market(x, y)
     if kind == 'villages':
         return ''.join(circ(x + dx, y + dy, 0.65, '#8f7a5c') for dx, dy in
                        ((-5, -2), (-1, 1.5), (3, -2.5), (5.5, 2), (-4, 3), (1, -3.5)))
     if kind == 'deserted':
-        return g_deserted(x, y)
+        return g_deserted(x, y + 0.6)
+    if kind == 'ruin':
+        return g_ruin_town(x, y)
     if kind == 'cathedral':
-        return g_cross(x, y)
+        return g_cathedral(x, y + 0.4, 0.95)
     if kind == 'arch':
         return g_cross(x, y, True, 1.1)
     if kind == 'abbey':
-        return g_abbey(x, y)
+        return g_abbey(x, y + 0.3)
+    if kind == 'commandery':
+        return g_commandery(x - 1, y)
+    if kind == 'shrine':
+        return g_scallop(x, y - 0.6, 0.95)
+    if kind == 'great_castle':
+        return '<path d="%s" fill="%s"/>' % (great_castle_path(x, y + 0.6, 0.85), C['ink'])
     if kind == 'castle':
         return g_castle(x, y, 'royal')
     if kind == 'frontier':
@@ -1766,55 +1945,64 @@ def leg_row(kind, x, y):
     if kind == 'baronial':
         return g_castle(x, y, 'baronial')
     if kind == 'motte':
-        return g_motte(x, y)
+        return g_motte(x, y + 0.6)
     if kind == 'hillfort':
         return g_hillfort(x, y)
+    if kind == 'dyke':
+        return dyke_svg([(x - 8, y + 1.2), (x + 8, y + 1.2)])
     if kind == 'residence':
         return g_crown(x, y)
     if kind == 'beacon':
-        return g_beacon(x, y)
+        return g_beacon(x, y + 1.2)
     if kind == 'mine':
         return g_mine(x, y)
     if kind == 'salt':
         return g_salt(x, y)
     if kind == 'quarry':
         return g_quarry(x, y)
-    if kind == 'fair':
-        return g_fair(x, y)
     if kind == 'mill':
         return g_mill(x, y)
+    if kind == 'vines':
+        return g_vines(x, y)
     if kind == 'industry':
         return g_industry(x, y)
+    if kind == 'fair':
+        return ('<text x="%s" y="%s" font-size="5.6" font-style="italic" text-anchor="middle" fill="%s">Sept.</text>' % (
+            f1(x), f1(y + 2), C['feature_text']))
     if kind == 'royal_road':
-        return '<path d="M%s,%sh15" stroke="%s" stroke-width="2.1"/>' % (f1(x - 7.5), f1(y), C['road'])
+        return '<path d="M%s,%sh16" stroke="%s" stroke-width="2.1"/>' % (f1(x - 8), f1(y), C['road'])
     if kind == 'road':
-        return '<path d="M%s,%sh15" stroke="%s" stroke-width="0.9"/>' % (f1(x - 7.5), f1(y), C['road2'])
+        return '<path d="M%s,%sh16" stroke="%s" stroke-width="0.9"/>' % (f1(x - 8), f1(y), C['road2'])
     if kind == 'old_road':
-        return ('<path d="M%s,%sh15" stroke="%s" stroke-width="2.4"/>' % (f1(x - 7.5), f1(y), C['road']) +
-                '<path d="M%s,%sh15" stroke="%s" stroke-width="0.9"/>' % (f1(x - 7.5), f1(y), '#fbf3df'))
+        return '<path d="M%s,%sh16" stroke="%s" stroke-width="2.0"/>' % (f1(x - 8), f1(y), OLD_ROAD)
     if kind == 'pilgrim':
-        return '<path d="M%s,%sh15" stroke="%s" stroke-width="1.3" stroke-dasharray="0.1 2.4" stroke-linecap="round"/>' % (
-            f1(x - 7.5), f1(y), C['purple'])
+        return ('<path d="M%s,%sh16" stroke="%s" stroke-width="0.9"/>' % (f1(x - 8), f1(y + 1.2), C['road2']) +
+                g_scallop(x - 3.5, y, 0.62) + g_scallop(x + 4.5, y, 0.62))
+    if kind == 'mule':
+        return '<path d="M%s,%sh16" stroke="%s" stroke-width="1.1" stroke-dasharray="0.1 2.1" stroke-linecap="round"/>' % (
+            f1(x - 7.5), f1(y), C['road2'])
     if kind == 'sealane':
-        return '<path d="M%s,%sh15" stroke="#5d93ab" stroke-width="0.8" stroke-dasharray="3 2"/>' % (f1(x - 7.5), f1(y))
+        return '<path d="M%s,%sh16" stroke="#5d93ab" stroke-width="1.1" stroke-dasharray="0.1 2.4" stroke-linecap="round"/>' % (
+            f1(x - 7.5), f1(y))
     if kind == 'bridge':
-        return ('<path d="M%s,%sh15" stroke="%s" stroke-width="2"/>' % (f1(x - 7.5), f1(y), C['river']) +
+        return (water() + '<path d="M%s,%sv10" stroke="%s" stroke-width="0.9"/>' % (f1(x), f1(y - 5), C['road2']) +
                 g_bridge(x, y, 0))
     if kind == 'ford':
-        return ('<path d="M%s,%sh15" stroke="%s" stroke-width="2"/>' % (f1(x - 7.5), f1(y), C['river']) +
-                g_ford(x, y, 0))
+        return (water() + g_ford(x, y, 0))
     if kind == 'ferry':
-        return ('<path d="M%s,%sh15" stroke="%s" stroke-width="2"/>' % (f1(x - 7.5), f1(y + 0.5), C['river']) +
-                g_ferry(x, y))
+        return (water() + g_ferry(x - 2, y, 0))
     if kind == 'pass':
-        return g_pass(x, y, 0)
+        return g_pass(x, y + 0.4)
     if kind == 'port':
-        return g_anchor(x, y - 0.6)
+        return g_anchor(x - 4, y - 1.6, 1.0, quay=True) + g_anchor(x + 5, y - 0.4, 0.8)
     if kind == 'light':
-        return g_light(x, y)
+        return g_light(x, y + 0.6)
     if kind == 'nav':
         return '<path d="M%s,%sq4,-3 7.5,0t7.5,0" fill="none" stroke="%s" stroke-width="2.3"/>' % (
             f1(x - 7.5), f1(y), C['river'])
+    if kind == 'boat':
+        return ('<path d="M%s,%sq4,-3 7.5,0t7.5,0" fill="none" stroke="%s" stroke-width="2.3"/>' % (
+            f1(x - 7.5), f1(y + 2), C['river']) + g_boat(x, y + 0.4))
     if kind == 'stream':
         return '<path d="M%s,%sq4,-3 7.5,0t7.5,0" fill="none" stroke="%s" stroke-width="0.9"/>' % (
             f1(x - 7.5), f1(y), C['river'])
@@ -1831,8 +2019,8 @@ def leg_row(kind, x, y):
                 '<use xlink:href="#tree" x="%s" y="%s"/>' % (f1(x - 3.5), f1(y + 0.5)) +
                 '<use xlink:href="#tree" x="%s" y="%s"/>' % (f1(x + 3.5), f1(y - 0.2)))
     if kind == 'royal_forest':
-        return '<path d="M%s,%sh15" stroke="#4d7a3a" stroke-width="1.1" stroke-dasharray="0.1 2.3" stroke-linecap="round"/>' % (
-            f1(x - 7.5), f1(y))
+        return '<path d="M%s,%sh16" stroke="#4d7a3a" stroke-width="1.0" stroke-dasharray="%s"/>' % (
+            f1(x - 8), f1(y), FOREST_DASH)
     if kind == 'marsh':
         return ('<rect x="%s" y="%s" width="16" height="9" fill="%s"/>' % (f1(x - 8), f1(y - 4.5), C['marsh_tint']) +
                 '<use xlink:href="#tuft" x="%s" y="%s"/>' % (f1(x - 3), f1(y + 2.5)) +
@@ -1842,22 +2030,22 @@ def leg_row(kind, x, y):
                 ''.join(circ(x + dx, y + dy, 0.6, C['heath_dot']) for dx, dy in
                         ((-5, -2), (-2, 1.5), (1, -2), (4, 1.8), (6, -1.5), (-5.5, 2.5))))
     if kind == 'realm':
-        return '<path d="M%s,%sh15" stroke="%s" stroke-width="2.2" stroke-dasharray="6 2 1.5 2"/>' % (
-            f1(x - 7.5), f1(y), C['border'])
+        return '<path d="M%s,%sh16" stroke="%s" stroke-width="2.2" stroke-dasharray="%s"/>' % (
+            f1(x - 8), f1(y), C['border'], REALM_DASH)
     if kind == 'fief':
-        return '<path d="M%s,%sh15" stroke="%s" stroke-width="1.1" stroke-dasharray="4 2.2" opacity="0.85"/>' % (
-            f1(x - 7.5), f1(y), C['border'])
+        return '<path d="M%s,%sh16" stroke="%s" stroke-width="1.1" stroke-dasharray="%s" opacity="0.85"/>' % (
+            f1(x - 8), f1(y), C['border'], FIEF_DASH)
     if kind == 'liberty':
         return ('<rect x="%s" y="%s" width="16" height="9" fill="#ece0f2"/>' % (f1(x - 8), f1(y - 4.5)) +
-                '<path d="M%s,%sh15" stroke="%s" stroke-width="0.9" stroke-dasharray="3 1.5 0.8 1.5"/>' % (
-                    f1(x - 7.5), f1(y), C['purple']))
+                '<path d="M%s,%sh16" stroke="%s" stroke-width="0.9" stroke-dasharray="%s"/>' % (
+                    f1(x - 8), f1(y), C['purple'], LIBERTY_DASH))
     if kind == 'band':
         return '<rect x="%s" y="%s" width="16" height="9" fill="url(#hatch)" stroke="none"/>' % (f1(x - 8), f1(y - 4.5))
     if kind == 'debatable':
-        return '<rect x="%s" y="%s" width="16" height="9" fill="url(#xhatch)" stroke="%s" stroke-width="0.6" stroke-dasharray="1.5 1"/>' % (
-            f1(x - 8), f1(y - 4.5), C['border'])
+        return '<rect x="%s" y="%s" width="16" height="9" fill="url(#stripes)" stroke="%s" stroke-width="0.6" stroke-dasharray="%s"/>' % (
+            f1(x - 8), f1(y - 4.5), C['border'], DISPUTE_DASH)
     if kind == 'zoom':
-        return '<rect x="%s" y="%s" width="9" height="9" fill="none" stroke="%s" stroke-width="0.9" stroke-dasharray="2 1.2"/>' % (
+        return '<rect x="%s" y="%s" width="9" height="9" fill="none" stroke="%s" stroke-width="0.8"/>' % (
             f1(x - 4.5), f1(y - 4.5), C['ink'])
     raise ValueError(kind)
 
@@ -1909,9 +2097,10 @@ P.append('<clipPath id="land"><path d="%s"/></clipPath>' % LAND_D)
 P.append('<clipPath id="seaopen"><path d="%s"/></clipPath>' % SEA_OPEN_D)
 P.append('<pattern id="hatch" width="5" height="5" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">'
          '<rect width="1.1" height="5" fill="%s" opacity="0.32"/></pattern>' % C['border'])
-P.append('<pattern id="xhatch" width="3" height="3" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">'
-         '<rect width="0.8" height="3" fill="%s" opacity="0.6"/><rect width="3" height="0.8" fill="%s" opacity="0.6"/></pattern>' % (
-             C['border'], C['border']))
+# alternating colours of the two claimants (Daravel red, Thelland grey-brown)
+P.append('<pattern id="stripes" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">'
+         '<rect width="2" height="4" fill="%s" opacity="0.55"/><rect x="2" width="2" height="4" fill="#7b6d58" '
+         'opacity="0.45"/></pattern>' % C['border'])
 # mountain glyph: base at (0,0), width 14, height 9
 P.append('<g id="mtn"><path d="M-7,0L-1.2,-9L7,0Z" fill="%s"/><path d="M-1.2,-9L7,0H1.6L0.4,-4.2Z" fill="%s"/>'
          '<path d="M-7,0L-1.2,-9L7,0" fill="none" stroke="%s" stroke-width="0.8" stroke-linejoin="round"/></g>' % (
@@ -1947,8 +2136,8 @@ fb = D['frontier_band']['pts']
 P.append('<path d="%s" fill="url(#hatch)"/>' % (segs_d(cr_segments(fb[:19])) + 'L' +
                                                  segs_d(cr_segments(fb[19:]))[1:] + 'Z'))
 dl = D['debatable_land']['pts']
-P.append('<path d="%s" fill="url(#xhatch)" stroke="%s" stroke-width="0.7" stroke-dasharray="1.5 1"/>' % (
-    poly_d(dl), C['border']))
+P.append('<path d="%s" fill="url(#stripes)" stroke="%s" stroke-width="0.7" stroke-dasharray="%s"/>' % (
+    poly_d(dl), C['border'], DISPUTE_DASH))
 P.append('</g>')
 
 # village texture and terrain glyphs
@@ -1962,8 +2151,8 @@ P.append('<g>%s</g>' % ''.join(terrain))
 
 # Kingswood Chase legal boundary
 rf = D['royal_forest_boundary']['pts']
-P.append('<path d="%s" fill="none" stroke="#4d7a3a" stroke-width="1.1" stroke-dasharray="0.1 2.3" stroke-linecap="round"/>' %
-         (segs_d(cr_segments(rf, closed=True)) + 'Z'))
+P.append('<path d="%s" fill="none" stroke="#4d7a3a" stroke-width="1.0" stroke-dasharray="%s"/>' %
+         (segs_d(cr_segments(rf, closed=True)) + 'Z', FOREST_DASH))
 
 # sea + water lining
 P.append('<path d="%s" fill="%s"/>' % (SEA_D, C['sea']))
@@ -1978,7 +2167,8 @@ P.append('<path d="%s" fill="none" stroke="%s" stroke-width="1.1" stroke-linejoi
 # sea lanes
 for sr in D['sea_routes']:
     segs = cr_segments(sr['pts'])
-    P.append('<path d="%s" fill="none" stroke="#5d93ab" stroke-width="0.8" stroke-dasharray="3 2"/>' % segs_d(segs))
+    P.append('<path d="%s" fill="none" stroke="#5d93ab" stroke-width="1.1" stroke-dasharray="0.1 2.4" '
+             'stroke-linecap="round"/>' % segs_d(segs))
 
 # rivers
 for rv in rivers:
@@ -2010,8 +2200,7 @@ for rv in rivers:
 # Thelling Dyke (old earthwork)
 dyke = [r_ for r_ in D['ruins_and_old_layers'] if 'pts' in r_][0]
 dsegs = cr_segments(dyke['pts'])
-P.append('<path d="%s" fill="none" stroke="%s" stroke-width="1.6" stroke-dasharray="0.8 1.6"/>' % (
-    segs_d(dsegs), C['grey']))
+P.append(dyke_svg(dyke_pts))
 
 # borders
 for b in D['borders']:
@@ -2019,14 +2208,14 @@ for b in D['borders']:
     cls = b['class']
     if cls == 'realm':
         P.append('<path d="%s" fill="none" stroke="#fbf3df" stroke-width="3.6" opacity="0.7"/>' % segs_d(segs))
-        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="2.2" stroke-dasharray="6 2 1.5 2"/>' % (
-            segs_d(segs), C['border']))
+        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="2.2" stroke-dasharray="%s"/>' % (
+            segs_d(segs), C['border'], REALM_DASH))
     elif cls == 'great_fief':
-        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="1.1" stroke-dasharray="4 2.2" opacity="0.85"/>' % (
-            segs_d(segs), C['border']))
+        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="1.1" stroke-dasharray="%s" opacity="0.85"/>' % (
+            segs_d(segs), C['border'], FIEF_DASH))
     else:
-        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="0.9" stroke-dasharray="3 1.5 0.8 1.5"/>' % (
-            segs_d(segs), C['purple']))
+        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="0.9" stroke-dasharray="%s"/>' % (
+            segs_d(segs), C['purple'], LIBERTY_DASH))
 
 # roads
 for rd in roads:
@@ -2040,11 +2229,15 @@ for rd in roads:
     d = segs_d(segs) if segs else poly_d(pts, closed=False)
     cls = rd['class']
     if cls == 'old_road_in_use':
-        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="2.4" stroke-linejoin="round"/>' % (d, C['road']))
-        P.append('<path d="%s" fill="none" stroke="#fbf3df" stroke-width="0.9" stroke-linejoin="round"/>' % d)
+        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="2.0" stroke-linejoin="round"/>' % (d, OLD_ROAD))
     elif cls == 'pilgrim_road':
-        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="1.4" stroke-dasharray="0.1 2.4" '
-                 'stroke-linecap="round"/>' % (d, C['purple']))
+        P.append('<path d="%s" fill="none" stroke="%s" stroke-width="0.9" stroke-linejoin="round"/>' % (d, C['road2']))
+        L_ = path_len(pts)
+        dd = 9.0
+        while dd < L_ - 6:
+            (sx_, sy_), _ = point_at(pts, dd)
+            P.append(g_scallop(sx_, sy_ - 1.2, 0.62))
+            dd += 17.0
 for rd in roads:
     segs, pts = road_geo[rd['name']]
     d = segs_d(segs) if segs else poly_d(pts, closed=False)
@@ -2052,11 +2245,11 @@ for rd in roads:
         P.append('<path d="%s" fill="none" stroke="%s" stroke-width="2.1" stroke-linejoin="round" stroke-linecap="round"/>' % (
             d, C['road']))
 # mule path over the Carrow Gap
-P.append('<path d="%s" fill="none" stroke="%s" stroke-width="0.9" stroke-dasharray="2 1.5"/>' % (
+P.append('<path d="%s" fill="none" stroke="%s" stroke-width="1.1" stroke-dasharray="0.1 2.1" stroke-linecap="round"/>' % (
     segs_d(cr_segments(D['passes'][1]['path'])), C['road2']))
 
 # zoom box
-P.append('<rect x="%s" y="%s" width="%s" height="%s" fill="none" stroke="%s" stroke-width="0.9" stroke-dasharray="2 1.2"/>' % (
+P.append('<rect x="%s" y="%s" width="%s" height="%s" fill="none" stroke="%s" stroke-width="0.8"/>' % (
     ZOOM[0], ZOOM[1], ZOOM[2] - ZOOM[0], ZOOM[3] - ZOOM[1], C['ink']))
 
 # symbols and labels
@@ -2134,7 +2327,8 @@ P.append('</svg>')
 svg = '\n'.join(P)
 leg2, y_end2 = legend_panel(LEG_BOT, PANEL_BOT[0], PANEL_BOT[1], PANEL_BOT[2])
 leg2_y0 = PANEL_BOT[1]
-svg = svg.replace('</svg>', '<g data-nocheck="1">%s</g>\n</svg>' % leg2)
+leg3, y_end3 = legend_panel(LEG_SEA, PANEL_SEA[0], PANEL_SEA[1], PANEL_SEA[2])
+svg = svg.replace('</svg>', '<g data-nocheck="1">%s%s</g>\n</svg>' % (leg2, leg3))
 open(OUT, 'w').write(svg)
 sys.stderr.write('top legend ends at %.1f; bottom legend %.1f-%.1f\n' % (y_end1, leg2_y0, y_end2))
 sys.stderr.write('FAILED: %s\n' % failed)
