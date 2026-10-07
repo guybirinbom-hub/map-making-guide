@@ -39,7 +39,7 @@ These densities come from England, where the counts are good. England covers abo
 | Market (chartered) | 1,746 recorded by 1300 | ~75 km² (29 sq mi) | ~13 | Shown for comparison (baseline) |
 | Religious house (monks, canons, nuns, friars) | ~900 (1530s) | ~145 km² (56 sq mi) | ~7 | Average only ~13 people each |
 | Hospital or almshouse | 800–1,100 founded c. 1080–1540 (estimates vary) | ~120–160 km² (46–62 sq mi) | ~6–8 | Not all open at the same time |
-| Castle in use | 500–600 at one time (England and Wales) | ~250–300 km² (100–115 sq mi) | ~3–4 | See [chapter 04](04-military-sites.md) |
+| Castle in use | 500–600 at one time (England and Wales) | ~250–300 km² (95–115 sq mi) | ~3–4 | See [chapter 04](04-military-sites.md) |
 | Leper house | ~300 (estimates vary) | ~430 km² (166 sq mi) | ~2 | Mostly founded 1100–1350 |
 | Friary | 183 (1530s) | ~700 km² (270 sq mi) | ~1.4 | Only in towns |
 | Cathedral | 17 (from 1133) | ~7,600 km² (2,950 sq mi) | 0.13 | Plus 4 in Wales |
@@ -433,7 +433,7 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 | **Round barrows** (Bronze Age burial mounds) | ~2,800–3,800 years | Many thousands in England; often in groups (barrow cemeteries) | Ridges and skylines, chalk downs | New burials in the early Middle Ages; meeting places; gallows sites; boundary markers |
 | **Stone circles and standing stones** | ~3,800–4,600 years | About 1,300 circles in Britain and Ireland | Uplands, moors, river valleys | Feared, Christianised or destroyed. At Avebury, villagers toppled and buried stones in the early 1300s. One man, a barber-surgeon, was found under a fallen stone, with coins of the 1320s. A church was built just west of the Avebury henge (a prehistoric ring of bank and ditch) in the 900s. |
 | **Deserted villages** | Recent: most emptied after 1350, so they matter most for maps set in 1350–1500 | About 3,000 known in England; 1,500+ emptied c. 1350–1520 | Clay lowlands and poor land; sheep country | House platforms, hollow lanes and a lone church in a sheep field (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)) |
-| **Abandoned castles** | Up to ~250 years in 1300; more by 1500 | England and Wales had ~1,700 castle sites, but only 500–600 in use at once | Hills, river crossings, old borders | Grass-covered mottes (earth mounds) and ruined towers; stone robbed for houses (see [chapter 04](04-military-sites.md)) |
+| **Abandoned castles** | Up to ~250 years in 1300; more by 1500 | England and Wales had about 1,700–1,800 castle sites (the Gatehouse gazetteer lists 1,761), but only 500–600 in use at once | Hills, river crossings, old borders | Grass-covered mottes (earth mounds) and ruined towers; stone robbed for houses (see [chapter 04](04-military-sites.md)) |
 
 ### How old things were reused
 

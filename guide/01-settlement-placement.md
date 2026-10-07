@@ -406,7 +406,7 @@ These are rough, derived numbers. Use them as a sanity check, not a rule. Note t
 Settlements line up along anything that carries traffic:
 - **Rivers.** On the Rhine between Mainz and Koblenz (about 90 km (56 mi) by river), small towns follow each other every 5–20 km (3–12 mi): Bingen, Bacharach, Oberwesel, St Goar, Boppard. Many had toll castles above them. Bridges are a separate question: this stretch of the Rhine had ferries, not bridges, but on a settled lowland river such as the Thames a bridge town came about every 20 km (12 mi) (see [How often is a river bridged?](05-trade-routes-and-transport.md#how-often-is-a-river-bridged-the-thames-example)).
 - **Coasts.** On the southern Baltic, Hanseatic ports (members of the Hanse, a league of north German trading towns) such as Wismar, Rostock and Stralsund sit about 50–70 km (30–45 mi) apart in a straight line, each on its own bay or river mouth. Not every port is equal: late medieval England had about one big customs **head port** per 100–150 km (60–95 mi) of coast, with smaller ports and fishing landings between (see [Port ranks](05-trade-routes-and-transport.md#port-ranks-how-many-ports-on-a-coast)).
-- **Roads.** On main roads, inns and stopping places appear every 15–30 km (9–19 mi), so a traveller always finds one within a day's travel. Roman road stations (*mansiones*) were about 25–30 km (16–19 mi) apart, and many later towns grew on them.
+- **Roads.** On main roads, inns and stopping places appear every 15–30 km (10–19 mi), so a traveller always finds one within a day's travel. Roman road stations (*mansiones*) were about 25–30 km (16–19 mi) apart, and many later towns grew on them.
 
 ### Clusters and empty spaces
 

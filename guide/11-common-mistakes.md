@@ -287,7 +287,7 @@ Use the speeds in [Speed per day](05-trade-routes-and-transport.md#speed-per-day
 
 > **Fantasy twist:** Teleport circles, flying mounts or fast magic messengers shrink travel time only for the few who can use them. Grain, stone and armies still move at cart and boat speed, so towns still need farmland and waterways. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Draw main roads in one style and tracks in another. Put a small inn or village symbol every 15–30 km (9–19 mi) on main roads, a caravanserai every 30–40 km (19–25 mi) in desert, and a hospice at each high pass. Write travel days on long routes: for example, 1,300 km (800 mi) by camel caravan at 25–40 km (15–25 mi) a day takes about 5–7 weeks. Check every port: is it in a bay, an estuary, a river mouth or a valley gap?
+> **Map tip:** Draw main roads in one style and tracks in another. Put a small inn or village symbol every 15–30 km (10–19 mi) on main roads, a caravanserai every 30–40 km (19–25 mi) in desert, and a hospice at each high pass. Write travel days on long routes: for example, 1,300 km (800 mi) by camel caravan at 25–40 km (15–25 mi) a day takes about 5–7 weeks. Check every port: is it in a bay, an estuary, a river mouth or a valley gap?
 
 ---
 

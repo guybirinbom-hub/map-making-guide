@@ -26,8 +26,8 @@ Every settlement rule in this guide comes from six inputs. Each fantasy element 
 | Input | The realistic rule (see chapter) | Fantasy elements that change it |
 |---|---|---|
 | **Water** | Every settlement needs reliable water. Desert towns exist only at oases, rivers or *qanats* (underground water channels). See [Where Settlements Are Built](01-settlement-placement.md). | Water magic, gods, cursed or poisoned rivers |
-| **Food** | About 1 ha (2.5 acres) of arable land per person. Good lowland holds 30–50 people per km² (78–130 per sq mi). A town of 10,000 needs farmland within 21–27 km (13–17 mi). See [Population and Settlement Sizes](02-population-and-sizes.md). | Fertility magic, weather control, healing (more mouths) |
-| **Defence** | Towns of 2,000+ are usually walled. A castle controls about 15–30 km (10–20 mi) around it. See [Castles, Forts and Military Outposts](04-military-sites.md). | Monsters, flying enemies, magical wards, undead |
+| **Food** | About 1 ha (2.5 acres) of arable land per person. Good lowland holds 30–50 people per km² (80–130 per sq mi). A town of 10,000 needs farmland within 21–27 km (13–17 mi). See [Population and Settlement Sizes](02-population-and-sizes.md). | Fertility magic, weather control, healing (more mouths) |
+| **Defence** | Towns of 2,000+ are usually walled. A castle controls about 15–30 km (10–19 mi) around it. See [Castles, Forts and Military Outposts](04-military-sites.md). | Monsters, flying enemies, magical wards, undead |
 | **Travel cost** | Land : river : sea cost ≈ 8 : 4 : 1. Towns over 10,000 sit on navigable water. See [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md). | Portals, flying mounts, dangerous seas, guarded roads |
 | **Threats** | War, raids, famine, plague | Monsters, dragons, raiding peoples, blights, angry gods |
 | **Resources** | Ore, salt, stone and timber create special towns. See [Industry, Resources and Special Towns](07-industry-and-resources.md). | Magic crystals, ley lines, monster parts, dragon hoards |
@@ -99,7 +99,7 @@ Roads through dangerous country need clearing, patrols and safe stops. All three
 
 - **Clearing:** England's Statute of Winchester (1285) ordered highways between market towns to be cleared for 200 feet (about 60 m) on each side. Ditches, undergrowth and bushes had to go, so that no robber could hide close to the road. Big trees such as oaks could stay if the ground under them was kept clear. The gates of walled towns were to be shut from sunset to sunrise, and a night watch kept.
 - **Patrols:** in the 12th century, towns and peasants in northern Spain formed brotherhoods (*hermandades*) to police the pilgrim road to Santiago. In 1476 the Catholic Monarchs (Isabella and Ferdinand) set up the Santa Hermandad, a kingdom-wide police force with power over crimes on roads and in open country. The Knights Templar were founded c. 1119–1120 to protect pilgrims on the roads of the Holy Land.
-- **Safe stops:** the hospice on the Great St Bernard Pass in the Alps was founded in 1049 (the traditional date) to shelter travellers. Put such stops a day's travel apart: 15–30 km (10–20 mi) on foot roads, 30–40 km (19–25 mi) on caravan routes.
+- **Safe stops:** the hospice on the Great St Bernard Pass in the Alps was founded in 1049 (the traditional date) to shelter travellers. Put such stops a day's travel apart: 15–30 km (10–19 mi) on foot roads, 30–40 km (19–25 mi) on caravan routes.
 
 The opposite also happened. Muslim raiders from al-Andalus set up a base at Fraxinetum on the Provence coast in about 889. From about 906 until they were driven out in 972–973, they held some or all of the western Alpine passes. The chronicler Flodoard wrote in 951 that they let travellers to Rome pass only after paying tribute. **A monster that holds a pass becomes a toll-collector.** Traffic either pays, fights, or finds another pass.
 
@@ -114,7 +114,7 @@ Kings paid people to fight dangerous animals:
 
 Wolves were rare or gone in England by about 1500. They survived in Scotland until the 1600s or later. Organised hunting with royal support worked, but it took centuries.
 
-> **Map tip:** Put hunters' or rangers' lodges at forest edges, at fords and passes, and where a road enters the wild. Space them about a day's patrol apart, 15–30 km (10–20 mi), which matches a castle's control radius. A monster-hunting order is a military order (like the Templars): give it castles on the frontier and a chapter house (its headquarters building) in a city.
+> **Map tip:** Put hunters' or rangers' lodges at forest edges, at fords and passes, and where a road enters the wild. Space them about a day's patrol apart, 15–30 km (10–19 mi), which matches a castle's control radius. A monster-hunting order is a military order (like the Templars): give it castles on the frontier and a chapter house (its headquarters building) in a city.
 
 ### "Points of light": use it for frontiers, not whole kingdoms
 
@@ -140,7 +140,7 @@ The best real comparison is the most densely farmed land in medieval Europe: Fla
 
 | Strength of the magic | Treat the region like | Rural density | Share living in towns | Farmland radius for a town of 10,000 |
 |---|---|---|---|---|
-| None | Good lowland c. 1300 | 30–50 per km² (78–130 per sq mi) | 10–15% | 21–27 km (13–17 mi) |
+| None | Good lowland c. 1300 | 30–50 per km² (80–130 per sq mi) | 10–15% | 21–27 km (13–17 mi) |
 | Moderate (+50% yield) | Between the rows | 40–60 per km² (100–155 per sq mi) | 15–20% | ~15–19 km (9–12 mi) |
 | Strong (about 2× yield) | Flanders and Holland (15th century) | 50–75 per km² (130–190 per sq mi) | 20–40% | ~12–15 km (7–9 mi) |
 | Very strong (3× or more) | Nothing in medieval Europe | Higher still | Higher still | Small. The limit becomes water, fuel and transport, not food |

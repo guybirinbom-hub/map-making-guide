@@ -128,7 +128,7 @@ The numbers below count **every castle site ever built** in the period, includin
 |---|---|---|---|
 | England and Wales overall | 1,761 sites (Gatehouse gazetteer) | ~86 km² (33 sq mi) | ~9 km (6 mi) |
 | Peaceful eastern England (Norfolk, Essex, Kent, Suffolk, Lincolnshire) | 22–45 per county | 130–250 km² (50–95 sq mi) | 11–16 km (7–10 mi) |
-| Welsh March (Herefordshire, Shropshire, Monmouthshire, Pembrokeshire, Glamorgan) | 60–127 per county | 17–28 km² (7–11 sq mi) | 4–5 km (2.5–3 mi) |
+| Welsh March (Herefordshire, Shropshire, Monmouthshire, Pembrokeshire, Glamorgan) | 60–127 per county | 17–28 km² (7–11 sq mi) | 4–6 km (2.5–4 mi) |
 | North-west Wales (Caernarfonshire), conquered 1283 | 21 | ~71 km² (27 sq mi) | ~8 km (5 mi), but a few very large royal castles |
 | Anglo-Scottish border (Northumberland, Cumberland) | 32–46 per county | 110–130 km² (42–50 sq mi) | ~11 km (7 mi), plus hundreds of tower houses not counted here |
 | German-speaking lands | ~14,000 | ~35–40 km² (14–15 sq mi) (estimate) | ~6 km (4 mi) |
@@ -452,7 +452,7 @@ The "active" column assumes about one-third of sites are in use at once, as in E
 - Types change with time: earth-and-timber mottes and ringworks (c. 1000–1150), stone keeps and curtain walls (1150–1250), concentric castles and town walls (1250–1350), then tower houses and fortified manors (1350–1500). From the 1500s come star forts and artillery forts.
 - Best sites: fords, bridges, passes, spurs, river bends, confluences, headlands, and hills above towns. German castles were mostly on high ground; English castles mostly beside villages and towns.
 - England and Wales had about 1,761 castle sites (one per ~86 km², or 33 sq mi), but only 500–600 were in use at one time: an active castle every 16–17 km (10–11 mi).
-- Border zones are roughly 5–10× denser: the Welsh March had one castle site per 17–28 km² (7–11 sq mi), a gap of 4–5 km (about 3 mi). In a peaceful core, working castles stand about 20–30 km (12–19 mi) apart. Conquest chains put a castle about every day's march (20–40 km, 12–25 mi) along a coast or river.
+- Border zones are roughly 5–10× denser: the Welsh March had one castle site per 17–28 km² (7–11 sq mi), a gap of 4–6 km (2.5–4 mi). In a peaceful core, working castles stand about 20–30 km (12–19 mi) apart. Conquest chains put a castle about every day's march (20–40 km, 12–25 mi) along a coast or river.
 - Castles pair with towns: castle at the edge of town, on the high point or by the river, with the market at its gate.
 - Garrisons were tiny: 5–20 in peace, 30–60 for a new frontier castle, a few hundred (rarely up to about 1,200) in a great siege. Only giant frontier fortresses held 2,000 or more.
 - Field armies were about 0.2–0.5% of a realm's population: 10,000–15,000 for England in the 1300s, briefly 32,000 at most.

@@ -299,7 +299,7 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 **Rules:**
 - Open-field land gives tight (nucleated) villages. Hills, forest and marsh give hamlets and lone farms. A road, valley stream or dyke gives villages in a line.
-- Lowland villages stand 1.5–4 km (1–2.5 mi) apart: on terraces above the floods, along spring lines and on the edge between two kinds of land. In hills, parish churches stand 8–15 km (5–9 mi) apart, with hamlets between.
+- Lowland villages stand 1.5–4 km (1–2.5 mi) apart: on terraces above the floods, along spring lines and on the edge between two kinds of land. In hills, parish churches stand about 7–10 km (4–6 mi) apart, with hamlets between.
 - A typical village has 30–60 households (150–300 people), with fields within about 2 km (1.3 mi). Land use forms rings: gardens, then arable, then pasture, then wood and waste at the parish edge. Meadow follows the streams.
 
 **Read:** [Sizes, territory and walking distances](06-villages-and-countryside.md#sizes-territory-and-walking-distances)

@@ -82,7 +82,7 @@ A sailing ship can be faster than anything on land, or it can sit in port for tw
 **Map advice:**
 - Bulk goods (grain, timber, stone, salt, wine) follow water.
 - Bulk goods travel more than 30–50 km (19–31 mi) over land only when they are valuable, or in war or famine.
-- Towns above 10,000 people sit on navigable water or the coast. See [feeding towns](02-population-and-sizes.md#feeding-towns-the-hinterland).
+- Most towns above 10,000 people sit on navigable water or the coast (inland exceptions: see [chapter 02](02-population-and-sizes.md)). See [feeding towns](02-population-and-sizes.md#feeding-towns-the-hinterland).
 
 > **Fantasy twist:** A griffon or a teleport circle that carries 100 kg is a pack horse with wings. It changes the speed of news, letters and luxuries, not the price of bread. Only magic that moves *bulk* cheaply (wind-calling for ships, golem wagons, river spirits that tow barges) lets big cities grow away from water. See [Fantasy Variants](10-fantasy-variants.md).
 
