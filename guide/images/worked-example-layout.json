@@ -2085,7 +2085,7 @@
    "castle": "royal citadel (White Keep)",
    "cathedral": true,
    "port": true,
-   "notes": "lowest bridge on the Ambre at the tidal limit; royal palace quarter of Westhallow 3 km upstream",
+   "notes": "lowest bridge on the Ambre at the tidal limit; royal palace quarter of Westhallow about 4 km upstream",
    "land": "lowland"
   },
   {
@@ -5511,11 +5511,11 @@
      ],
      [
       420,
-      300
+      310
      ],
      [
       270,
-      130
+      205
      ],
      [
       260,
@@ -5533,15 +5533,15 @@
      ],
      [
       640,
-      250
+      260
      ],
      [
       640,
-      150
+      172
      ],
      [
       750,
-      120
+      180
      ]
     ]
    },
@@ -5649,11 +5649,11 @@
      ],
      [
       200,
-      260
+      300
      ],
      [
       270,
-      130
+      205
      ]
     ]
    },
@@ -5685,7 +5685,7 @@
      ],
      [
       750,
-      120
+      180
      ]
     ]
    },
@@ -5732,7 +5732,7 @@
     "name": "Thornwick",
     "tier": "village",
     "x": 270,
-    "y": 130,
+    "y": 205,
     "households": 70,
     "people": "315-350",
     "features": "church, two manors (Thornwick Hall, moated; the bishop's manor), ferry over the Ambre"
@@ -5741,7 +5741,7 @@
     "name": "Kettlebury",
     "tier": "village",
     "x": 750,
-    "y": 120,
+    "y": 180,
     "households": 60,
     "people": "270-300",
     "features": "church, Kettlebury Court (moated), watermill"
@@ -5820,7 +5820,7 @@
     "name": "Fennick End",
     "tier": "hamlet",
     "x": 640,
-    "y": 150,
+    "y": 172,
     "households": 8
    },
    {
@@ -5920,20 +5920,20 @@
   "manors": [
    {
     "name": "Thornwick Hall",
-    "x": 300,
-    "y": 150,
+    "x": 305,
+    "y": 220,
     "moated": true
    },
    {
     "name": "Bishop's manor, Thornwick",
-    "x": 240,
-    "y": 140,
+    "x": 235,
+    "y": 215,
     "moated": false
    },
    {
     "name": "Kettlebury Court",
-    "x": 780,
-    "y": 150,
+    "x": 785,
+    "y": 200,
     "moated": true
    },
    {
@@ -6020,70 +6020,70 @@
     "village": "Leyford",
     "cx": 560,
     "cy": 440,
-    "radius": 120,
+    "radius": 110,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Thornwick",
     "cx": 270,
-    "cy": 130,
-    "radius": 180,
+    "cy": 205,
+    "radius": 160,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Kettlebury",
     "cx": 750,
-    "cy": 120,
-    "radius": 170,
+    "cy": 180,
+    "radius": 150,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Ashlade",
     "cx": 140,
     "cy": 400,
-    "radius": 160,
+    "radius": 150,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Stanmere",
     "cx": 810,
     "cy": 560,
-    "radius": 190,
+    "radius": 170,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Oxlade",
     "cx": 525,
     "cy": 690,
-    "radius": 150,
+    "radius": 140,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Hollowell",
     "cx": 760,
     "cy": 330,
-    "radius": 160,
+    "radius": 140,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Upper Ley",
     "cx": 485,
     "cy": 880,
-    "radius": 140,
+    "radius": 130,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Crossby",
     "cx": 290,
     "cy": 600,
-    "radius": 160,
+    "radius": 150,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    },
    {
     "village": "Brackenhurst",
     "cx": 880,
     "cy": 890,
-    "radius": 130,
+    "radius": 120,
     "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
    }
   ],

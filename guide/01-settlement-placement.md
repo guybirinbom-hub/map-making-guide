@@ -193,6 +193,10 @@ The same rules apply everywhere, but the answer changes with the land.
 | Desert | Oases, wadis, *qanat* lines | Isolated clusters; caravan stops | Near zero between oases |
 | Islands | Sheltered side, inland on raided islands | One main port; villages on fertile patches | Varies |
 | Cold north | Sheltered fjords, coastal lowlands | Scattered farms; very few towns | Very low |
+| Tropical forest and monsoon uplands | Ridges and river banks; towns only on rivers and coasts | Small villages that move their fields every few years (shifting cultivation); paths, not roads | Low: world average about 6 per km² (14 per sq mi) in the 1950s; at most about 50–60 per km² (130–150 per sq mi) |
+| Wet-rice lowlands and deltas | Mounds, dikes, river levees and canal banks between the paddies | Continuous rice fields with villages packed along the water lines | Very high: Song China averaged roughly 30–40 per km² (80–100 per sq mi) over the whole empire; Greater Angkor about 230–300 per km² (600–780 per sq mi) over its core (derived) |
+| Savanna and Sahel (dry grassland south of the Sahara) | Desert-edge river ports, wells, seasonal rivers | Trade towns where caravans meet boats; farming villages by water; herders moving with the rains | Low, higher along rivers |
+| Tundra and northern forest (taiga) | Lakes and rivers for winter villages; open fells and coasts in summer | A few winter villages; families scatter to seasonal camps | Extremely low |
 
 ### Fertile river valleys and plains
 
@@ -222,11 +226,43 @@ People lived **around** marshes, not in them. The fen edge was rich: fish, eels,
 
 In 1000–1300 Europe cleared huge areas of forest. Clearing land for farming was called **assarting** in England (from French *essarter*, to grub out). Clearings show up in place names (-ley, -field, -royd, -sart, -rode). In Germany, new forest villages were often laid out as **Waldhufendörfer** ("forest-strip villages"): a line of farms along a road or stream, each with a long strip of land running back into the forest. This form appeared around 1000 in the northern Black Forest and spread east with German settlers in the 12th–13th centuries.
 
-**A "forest" was not always a forest.** A medieval English "forest" was a **legal** area for royal hunting, not always woodland. At its peak, in the late 12th and early 13th centuries, about a third of the land of southern England was royal forest. Villages existed inside it, but clearing land needed the king's permission, and people who cleared without it were fined or charged rent.
+**A "forest" was not always a forest.** A medieval English "forest" was a **legal** area for royal hunting that could include villages and fields; clearing land in it needed the king's permission. See [Royal forests](06-villages-and-countryside.md#royal-forests).
 
 ### Steppe and grassland
 
-Nomads lived in camps, not villages. They often had fixed winter camps in sheltered river valleys and moved to open pastures in summer. Towns appeared only on big rivers and at the steppe edge, where farmers, nomads and merchants met. Sarai, the Golden Horde's capital, was founded by Batu Khan in the 1240s–1250s on the lower Volga and grew into a large city. Kiev stands on high river bluffs on the Dnieper, near the line where forest meets steppe.
+> **Rule of thumb:** On the steppe, people live in small camps of a few tents that move several times a year. Draw pasture zones and routes, not village dots. Fixed towns are rare and sit on rivers or at the steppe edge.
+
+**Why:** Grass is thin, so herds must keep moving to fresh pasture. A big crowd of animals in one place would eat the grass bare in days.
+
+**Fixed places.** Towns appeared only on big rivers and at the steppe edge, where farmers, nomads and merchants met. Sarai, the Golden Horde's capital, was founded by Batu Khan in the 1240s–1250s on the lower Volga and grew into a large city. Karakorum, the Mongol capital, got its walls in 1235 (see [Capitals, Realms and Borders](03-capitals-and-borders.md)). Kiev stands on high river bluffs on the Dnieper, near the line where forest meets steppe.
+
+**Camp sizes.** Nomad camps came in three sizes:
+
+| Camp | What it is | Size | Example |
+|---|---|---|---|
+| Herding camp | A few round felt tents (*ger* or *yurt*), one family in each, sharing the herding work | Usually 2–10 families | The Mongolian *khot ail* ("camp group") today |
+| Ring camp | A circle of tents with the wagons and animals inside and the chief's tent in the middle; used by chiefs, at big gatherings and in danger | A whole clan or tribe | The Mongol *güre'en* (also written *kuriyen*). The word later meant any fortified camp, and then the Mongol army unit of "a thousand" |
+| The ruler's camp (*ordu*, the origin of the word "horde") | A moving town around the khan's great tent, with officials, guards, craftsmen and traders | Many thousands of people and animals | Ibn Battuta saw Khan Uzbeg's camp in 1332: "a vast city on the move with its inhabitants, with mosques and bazaars in it, and the smoke of the kitchens rising in the air" |
+
+Even a side branch of the court was large. When one of Uzbeg's wives travelled to Constantinople in 1332, Ibn Battuta counted an escort of 5,000 troops under an amir (a commander), her own 500 horsemen, about 200 maidservants, about 400 carts, 2,000 horses, 300 oxen and 200 camels.
+
+**How often and how far they move.** Medieval figures are scarce, so modern Mongolia is the best guide. (Some modern herders move by truck, so a few distances are longer than in the past.)
+
+| Measure | Typical value | Source |
+|---|---|---|
+| Camps used in a year | Usually about 4–10; GPS loggers on 142 households found 2–14 camps in 9 months | Teickner et al. 2020; an earlier survey (Ganbold 2015) found 4–8 |
+| Distance from one camp to the next | Typically about 12 km (7 mi); some families move about 36 km (22 mi) or more each time | Teickner et al. 2020 |
+| Total distance in a year | Most families under 170 km (105 mi); a few over 300 km (190 mi) | Teickner et al. 2020 |
+| Dry desert pasture (Dzungarian Gobi) | About 9 moves a year; 70–123 km (43–76 mi) between summer and winter camps | Michler et al. 2022 |
+
+**Where the camps go:**
+- **Winter camps** sit in sheltered places out of the wind, such as valleys and the foot of hills, where the snow is not too deep for the animals to graze. Each family returns to its own winter site year after year, so these sites have stone pens for the animals. They are the most "fixed" points of nomad life.
+- **Summer camps** spread out over open pasture near water: rivers, lakes and wells.
+- **Spring and autumn camps** sit between the two, often along the migration route.
+
+The whole system needs a lot of land: steppe nomads lived at under 1–2 people per km² (under 3–5 per sq mi) (see [Population and Settlement Sizes](02-population-and-sizes.md)).
+
+> **Map tip:** On a nomad region, shade summer and winter pastures in two tints. Put a few winter-camp dots in sheltered river valleys, and draw seasonal migration arrows between the zones, with wells and fords on the way. Add one or two fixed towns (a Sarai or a Karakorum) on a river, and frontier markets where the steppe meets farmland. If the ruler's camp matters to your story, draw it as a large ring of tents with a label such as "Khan's Ordu (summer)".
 
 ### Desert
 
@@ -238,7 +274,47 @@ An island usually has one main port on the sheltered side, facing the nearest ma
 
 ### Cold north
 
-Growing grain is hard, so people lived on scattered farms with hay meadows and animals, along sheltered fjords and coastal strips. Towns were very few. Norway had only a handful, such as Bergen, Trondheim and Oslo, all on the coast or a fjord. Medieval Iceland had no towns at all: foreign traders came in summer to seasonal trading places such as Gásir. Norse Greenland had around 500 farms in its Eastern Settlement and maybe 100 in its Western Settlement, deep in the fjords. Estimates of its peak population vary: recent ones say about 2,000–3,000, while some older ones were higher.
+Growing grain is hard, so people lived on scattered farms with hay meadows and animals, along sheltered fjords and coastal strips. Towns were very few. Norway had only a handful, such as Bergen, Trondheim and Oslo, all on the coast or a fjord. Medieval Iceland had no towns at all: foreign traders came in summer to seasonal trading places such as Gásir. At the end of the 11th century, Bishop Gizur Ísleifsson counted about 4,560 farmers in Iceland who were rich enough to pay the assembly tax (the count is recorded in Ari's *Book of the Icelanders*). That gives you a sense of scale: a whole country of a few thousand farms, and not one town. Norse Greenland had around 500 farms in its Eastern Settlement and maybe 100 in its Western Settlement, deep in the fjords. Estimates of its peak population vary: recent ones say about 2,000–3,000, while some older ones were higher.
+
+### Tropical forest and monsoon uplands
+
+**Rule:** In hot, wet forest, farmers usually practise **shifting cultivation** (also called *swidden* or slash-and-burn): they clear and burn a patch of forest, farm it for a year or two, then let it grow back for many years while they clear another patch.
+
+**Why:** Tropical forest soils lose their fertility fast once cleared. A long fallow (rest period) lets the forest rebuild it. So each village needs a large area of forest of different ages around it.
+
+**Numbers:** Population stays low. In the 1950s the FAO (the UN's food and farming agency) estimated about 200 million shifting cultivators worldwide, at an average of only about 6 people per km² (14 per sq mi). A later FAO review quoted an upper limit of about 56 people per km² (145 per sq mi) for traditional systems; above that, fallows get too short and the soil fails.
+
+**Pattern:** Small villages on ridges or river banks, linked by footpaths. Some villages move every few years to follow the fields. Towns grow only where boats can reach them: on big rivers and coasts.
+
+### Wet-rice lowlands and deltas
+
+**Rule:** Where monsoon rain or rivers can flood level fields, **wet rice** (rice grown in flooded fields called paddies) feeds far more people per km² than European grain land. These are the most crowded farming landscapes of the medieval world.
+
+**Why:** A flooded paddy keeps its fertility year after year and can give one or even two harvests a year. But it needs water control: dikes, canals, reservoirs and terraces. Whoever builds and runs the water works shapes the map (for local water features, see [Villages, Farms and the Countryside](06-villages-and-countryside.md)).
+
+**Numbers and examples:**
+- **Song China** (960–1279) held about 3.1 million km² (1.2 million sq mi) in 980. A census of 1102 recorded about 20.5 million households, and estimates of the population around 1100 range from about 90 to over 120 million. That is roughly 30–40 people per km² (80–100 per sq mi) over the whole empire (derived), with most people packed into the rice lands of the south.
+- **Greater Angkor** (Cambodia, peak in the 13th century) had about 700,000–900,000 people spread over about 3,000 km² (1,160 sq mi) of houses, ponds, embankments and rice fields (Klassen et al. 2021). That is about 230–300 people per km² (600–780 per sq mi) (derived). Lidar (laser scanning from the air) shows houses built on small mounds, each with a little pond, in a grid between the fields.
+
+**Pattern:** An unbroken carpet of paddies. Villages sit on anything slightly higher than the fields: river levees, dikes, canal banks and man-made mounds. Rivers and canals are the roads.
+
+### Savanna and Sahel
+
+The savanna is open grassland with scattered trees; the Sahel is its dry northern edge, next to the Sahara. Rain falls in one short season, so water decides everything.
+
+- **Towns** grow where the desert meets a great river, because there camel caravans from the Sahara meet river boats. **Timbuktu** (Mali) was founded as a seasonal Tuareg camp around 1100 and grew into a great trading and scholarly town about 13–15 km (8–9 mi) north of the Niger, with a river port at Kabara. **Gao** sits on the Niger itself. See the trans-Saharan routes in [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md#real-trade-networks-to-copy).
+- **Farming villages** sit by wells, seasonal rivers and the river flood plain.
+- **Herders** move north into the short-lived Sahel pastures in the rainy season, and back south to moister land, rivers and harvested fields in the dry season (a pattern still followed today). It works like the steppe migrations above, but the timing follows rain, not snow.
+
+### Tundra and northern forest
+
+North of the grain line (the tundra, or treeless arctic plain, and the taiga, the great northern conifer forest) nobody farms. In northern Scandinavia, the Sámi lived by hunting wild reindeer, fishing and trapping, and kept small tame herds for transport. Large-scale reindeer herding came later, as many communities shifted to it between the 16th and 19th centuries.
+
+- **The siida.** The traditional Sámi community was the *siida*, a group of up to about 12 families who shared a territory. It moved between several seasonal sites during the year, with a different task at each: fishing, hunting, trapping or grazing.
+- **The winter village.** The centre of each siida was its winter village. Families and extended families gathered there for the winter, then split into smaller groups for the snowless part of the year. Archaeologists have excavated a chain of eight such winter villages along the small River Nukkumajoki near Lake Inari (northern Finland), dated to the late 16th and early 17th centuries. One of them (Nukkumajoki 5) had 8 huts (*goahti*) and 7 hearths in a line (Halinen 2019).
+- **Summer.** The small groups moved to their own seasonal sites: fishing waters, hunting grounds and pastures.
+
+> **Map tip:** Draw shifting fields as scattered clearings of different ages around small villages, with forest in between. Draw wet-rice land as a continuous fine grid along rivers and deltas, with villages strung along the dikes and canals. In the savanna, put a trade town where a desert route meets a river. In the arctic, draw a few winter-village dots by lakes, with dashed seasonal routes out to summer camps; leave the rest empty.
 
 > **Fantasy twist:** Dwarves change the mountain rule. A dwarf city can be large and deep inside a mountain, but it still needs food, so expect a busy human or dwarf market town at the mountain gate, on the nearest valley floor. Treat it like a pass town. See [Fantasy Variants](10-fantasy-variants.md).
 
@@ -294,7 +370,7 @@ These spacings come from the shared baseline used across this guide.
 | Villages, lowland | 1.5–4 km (1–2.5 mi) | England c. 1300: one parish per ~14 km² (5.4 sq mi), about 4 km (2.5 mi) church to church. Upland parishes cover 50–100+ km² (20–40+ sq mi). |
 | Market towns, legal rule | 6⅔ mi (10.7 km) | The lawyer Bracton (13th century): a new market should not be closer than this to an old one. It was rarely enforced. |
 | Market towns, in practice | 9–16 km (6–10 mi) | 1,746 English markets were recorded by 1300 (one per 75 km² (29 sq mi), ~9 km (6 mi) apart), but many were tiny. In the late 16th century there were ~650 working markets in England and Wales, ~16 km (10 mi) apart. |
-| Peasant walk to market | 6–10 km (4–7 mi) one way | There and back in one day, with time to trade. |
+| Peasant walk to market | 6–10 km (4–6 mi) one way | There and back in one day, with time to trade. |
 | Towns of 5,000+ | Flanders 35–45 km (22–28 mi); northern Italy 50–60 km (31–37 mi); France, Germany, Iberia 80–95 km (50–59 mi); Britain 130+ km (80+ mi); Poland 180–250 km (110–155 mi) | An upper bound derived from city data. |
 | Cities of 10,000+ | Flanders and Italy 60–90 km (37–56 mi); France, Germany, Iberia 130–170 km (80–105 mi); Britain and Poland 260–400 km (160–250 mi) | Same basis. |
 
@@ -403,7 +479,7 @@ Empty space is as realistic as settled space. Here is where medieval people avoi
 
 > **Rule of thumb:** On a realistic map, a lot of land is empty or only lightly used. Mountains, marsh cores, heaths, forests and borders should look thin.
 
-> **Later era (1500s+):** Two changes. First, drainage begins to turn empty marshes and shallow lakes into farmland with new farms and villages (the Beemster lake in Holland, drained by 1612; the English Fens, 1630s–1650s). Second, Barbary corsair (North African pirate) raids make some Mediterranean coasts **more** dangerous: Genoa built about 90 watchtowers around the coast of Corsica between 1530 and 1620, and coastal villages stayed inland and uphill. See [What Changes After 1500](09-later-era-1500-1650.md).
+> **Later era (1500s+):** Two changes. First, drainage begins to turn empty marshes and shallow lakes into farmland with new farms and villages (the Beemster lake in Holland, drained by 1612; the English Fens, 1630s–1650s). Second, Barbary corsair (North African pirate) raids make some Mediterranean coasts **more** dangerous: Genoa built about 85–90 watchtowers around the coast of Corsica between 1530 and 1620 (a 1617 list counts 86), and coastal villages stayed inland and uphill. See [What Changes After 1500](09-later-era-1500-1650.md).
 
 > **Fantasy twist:** Monsters push people together. Where wolves, trolls or raiding beasts are real dangers, expect fewer lone farms, more walled villages, and settlements on defensible sites even in peaceful kingdoms. The "empty" lands become truly empty: no charcoal burners in the cursed forest. See [Fantasy Variants](10-fantasy-variants.md).
 

@@ -39,6 +39,7 @@ These are the guide's shared numbers. Use them for every journey on your map.
 | Horse cart or wagon | 30–40 | 20–25 | Horses can double the speed of oxen |
 | Pack horse or mule train | 20–40 | 12–25 | Loads: horse 100–120 kg, mule 150–180 kg, donkey 80–100 kg |
 | Camel caravan | 25–40 | 15–25 | About 230 kg per camel |
+| Cattle or sheep drove | 16–30 | 10–20 | About 3 km/h (2 mph), grazing on the way: about 16 km (10 mi) a day in hills, up to 30 km (20 mi) in lowlands. Figures mostly from the 1700s–1800s; see [Drove roads](#drove-roads) |
 | Army with baggage | 13–20 | 8–12 | Forced march 30–55 km (20–35 mi) for a few days |
 | Rider, many days | 30–50 | 20–30 | — |
 | Royal messenger with fresh horses | 50–90 | 30–56 | 30–40 mi normal, 52–56 mi when urgent |
@@ -122,6 +123,28 @@ Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, re
 - **Charity.** Building or mending roads and bridges counted as a pious work. For example, in 1474 Maud Heath gave land and houses to pay for a raised footway (a causeway) from Wick Hill across the flood plain of the River Avon to Chippenham in Wiltshire. A charity still looks after it from her gift, more than 500 years later.
 - **Lords who took tolls** were supposed to keep the road or bridge in repair. Many did not.
 
+### Drove roads
+
+> **Rule of thumb:** A drove moves at the speed of a grazing cow: about 16–30 km (10–20 mi) a day, with a field or pasture for the night at the end of each day's stage.
+
+**Why:** Live animals walk themselves to market, so they are the one farm product that can cross a kingdom cheaply over land. But they must eat and drink on the way, or they arrive thin and sell for less. So drovers move slowly, let the animals graze, and keep to open hill tracks and broad green lanes. They avoid towns, crops and, where they can, tolls. One Welsh account says drovers "would lose a day goin' round sooner'n they'd pass a [toll] gate".
+
+**When:** Cattle were driven from Wales to England from at least the 13th century. There are records of cattle driven from Wales to London, and sheep from Lincolnshire to York, in the early 14th century. Scottish drovers were being licensed by 1359. The great age of droving came later, in the 1600s–1800s, and most of the numbers below come from that time. Use them as the best guide we have for the Middle Ages too.
+
+| Item | Number | Where and when |
+|---|---|---|
+| Speed | About 3 km/h (2 mph). About 16 km (10 mi) a day in steep hill country, up to 30 km (20 mi) a day in the lowlands | Scotland and Wales, 18th–19th c. |
+| Cattle herd | Usually 100–400 head, with 4–8 drovers and their dogs | Welsh droves, 19th c. |
+| Sheep flock | 1,500–2,000 sheep, about 19–23 km (12–14 mi) a day | Welsh flocks driven to southern England |
+| Journey time | North Wales to Kent: about three weeks | Same |
+| Overnight halts (*stances*) | About 16 km (10 mi) apart on average | Scotland, 19th-c. court case |
+| Width of a drove road | 12–27 m (40–90 ft), much wider than a pack-horse track | Britain |
+| Hoof care | Cattle were shod before the long trek, and re-shod on the way | Wales, 19th c. |
+
+**A Mediterranean example.** In Castile, the Mesta (a guild of sheep owners, with a royal charter from 1273) moved huge flocks between summer pastures in the north and winter pastures in the south. From 1436 to 1549 more than 2.5 million sheep made this journey each year. Flocks from León and Old Castile walked 550–750 km (340–470 mi) each way, along legally protected sheep walks (*cañadas*) that no one could farm, build on or block.
+
+> **Map tip:** Draw a drove road as a broad dashed line from upland breeding grounds (hills, moors, mountain pastures) to a lowland fair or a big city. Put a halt with a pasture and water every 16–25 km (10–15 mi), and a large livestock fair near the end. Keep the route off the main highway where you can: along ridges, across commons and around towns. Inns along it can have names like "Drovers' Arms".
+
 ### Road quality by season
 
 - **Summer:** dry, hard roads; carts move well.
@@ -162,7 +185,7 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were onl
 | Krämerbrücke, Erfurt | 1325 (in stone) | Lined with shops and houses |
 | Ponte Vecchio, Florence | 1345 | Shops on the bridge |
 
-**How many?** For England, the historian David Harrison found that there were almost as many bridges in 1250 as in 1750. By the end of the Middle Ages most were solid, well-built structures that were repaired regularly, and most important crossings in a settled lowland country had a bridge. On the biggest rivers, bridges stayed rare. London Bridge was the only Thames bridge in London until Putney Bridge opened in 1729; the next bridge upstream was at Kingston, about 30 km (19 mi) up the river.
+**How many?** For England, the historian David Harrison found that there were almost as many bridges in 1250 as in 1750. By the end of the Middle Ages most were solid, well-built structures that were repaired regularly, and most important crossings in a settled lowland country had a bridge. On the biggest rivers, bridges stayed rare. London Bridge was the only Thames bridge in London until Putney Bridge opened in 1729; the next bridge upstream was at Kingston, about 33 km (20 mi) up the river (see [the Thames example](#how-often-is-a-river-bridged-the-thames-example) below).
 
 **Who paid?**
 - **Old duties** on certain lands or villages to repair a bridge.
@@ -173,7 +196,35 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were onl
 
 **A bridge blocks ships.** Old London Bridge had such thick piers that the water level could differ by up to 1.8 m (6 ft) from one side to the other, making rapids. Sea ships unloaded *below* the bridge, so the port grew downstream of it.
 
-> **Map tip:** Use three symbols: a bridge (two short lines across the river), a ford (a dashed line across the river) and a ferry (a small boat or "F"). Put a settlement at almost every bridge on a main road. Put the main port of a river just **downstream** of the lowest bridge. On a great river, draw only a few fixed bridges, often tens of km apart, and ferries in between.
+### How often is a river bridged? The Thames example
+
+> **Rule of thumb:** On a navigable lowland river in a settled kingdom, put a bridge about every 20 km (12 mi) of river, with gaps of 10–35 km (6–22 mi). Each bridge has a town. Put ferries and fords in the gaps.
+
+**Why:** A bridge is expensive, so it is built only where main roads must cross. Each one pulls the roads of a whole district towards it. A second bridge close by would split the traffic and the tolls, so bridges spread out along a river at roughly the spacing of market towns.
+
+**Numbers:** The River Thames from London to Oxford is about 180 km (112 mi) long by river. By about 1300 it had nine road bridges, and a tenth (Marlow) was added in the 14th century. That is one bridge every 20–22 km (12–14 mi) on average.
+
+| Bridge town | Distance from London Bridge by river (approx.) | First record of a bridge |
+|---|---|---|
+| London | 0 | Stone bridge 1176–1209 (earlier bridges since Roman times) |
+| Kingston | 33 km (20 mi) | 12th century: a timber bridge on stone approaches. The only Thames bridge between London and Staines until 1729 |
+| Staines | 57 km (35 mi) | Repairs with wood from Windsor Forest ordered in 1222 |
+| Windsor | 69 km (43 mi) | Probably 12th century; tolls on boats passing under it recorded by 1172; oaks granted for a new bridge in 1242 |
+| Maidenhead | 80 km (50 mi) | A wooden bridge c. 1280; "almost broken down" by 1297, when a toll (pontage) was granted for repairs |
+| Marlow | 91 km (57 mi) | Perhaps 1309; certainly by the reign of Edward III (1327–77) |
+| Henley | 104 km (65 mi) | Recorded 1232; timber on stone piers, with chapels and granaries |
+| Reading (Caversham) | 120 km (75 mi) | Recorded 1231, with a chapel of St Anne on it |
+| Wallingford | 145 km (90 mi) | Mentioned 1141; first stone bridge in the 13th century |
+| Abingdon | 166 km (103 mi) | Built 1416–22, with a second bridge at Culham and a causeway between them |
+| Oxford (Grandpont, now Folly Bridge) | 179 km (111 mi) | Stone bridge c. 1085 |
+
+Distances are measured on today's river and rounded, so treat them as rough. The gaps between bridges ranged from about 11 km (7 mi), from Staines to Windsor, to about 34 km (21 mi), from Wallingford to Oxford before Abingdon had its bridge.
+
+**A new bridge can make one town and break another.** Abingdon's bridges (1416–22) were paid for by a town guild and two of its members, a London merchant and his wife. They replaced a ferry, so traffic that had crossed the Thames at Wallingford could now cross at Abingdon instead. The completion of the Abingdon bridge badly damaged trade at Wallingford, 21 km (13 mi) downstream.
+
+**On the greatest rivers, bridges are much rarer.** Compare the Rhine below Basel, where Cologne had no fixed bridge for centuries (see [Ferries](#ferries)).
+
+> **Map tip:** Use three symbols: a bridge (two short lines across the river), a ford (a dashed line across the river) and a ferry (a small boat or "F"). Put a settlement at almost every bridge on a main road. Put the main port of a river just **downstream** of the lowest bridge. On a settled lowland river, draw a bridge town about every 20 km (12 mi) of river, with ferries and fords between. On a great river, draw only a few fixed bridges, often 50 km (30 mi) or more apart, and ferries in between.
 
 > **Fantasy twist:** A troll that charges travellers is just a strict toll collector. Traffic keeps using the bridge as long as the toll is cheaper than the detour. If the detour is short, the troll starves.
 

@@ -1,6 +1,6 @@
 # Villages, Farms and the Countryside
 
-Most people in the Middle Ages lived in villages, hamlets and farms. Between 85% and 95% of people lived in the country, so most of any realistic map is countryside. This chapter is for local-area maps: one parish, one valley, one barony or one county. It tells you what a village looks like and what is inside it. It shows how fields, woods and pastures are arranged, where mills, parks, ponds and barns go, and how far apart everything is.
+Most people in the Middle Ages lived in villages, hamlets and farms. Between 85% and 95% of people lived in the country, so most of any realistic map is countryside. This chapter is for local-area maps: one parish, one valley, one barony or one county. It tells you what a village looks like and what is inside it. It shows how fields, woods and pastures are arranged, how much of a whole realm they cover, where mills, parks, ponds and barns go, and how far apart everything is.
 
 **In this chapter:**
 
@@ -8,6 +8,7 @@ Most people in the Middle Ages lived in villages, hamlets and farms. Between 85%
 - [Sizes, territory and walking distances](#sizes-territory-and-walking-distances)
 - [Fields and farming systems](#fields-and-farming-systems)
 - [Woods, forests and hunting grounds](#woods-forests-and-hunting-grounds)
+- [How much of the map is fields and woods](#how-much-of-the-map-is-fields-and-woods)
 - [Mills and water management](#mills-and-water-management)
 - [Other rural features](#other-rural-features)
 - [Reclaimed land: fens, polders and assarts](#reclaimed-land-fens-polders-and-assarts)
@@ -167,6 +168,23 @@ In the Mediterranean the rings have different crops. In the hill villages of Laz
 
 In Egypt, villages sat on mounds above the Nile flood, with basins of fields that the flood watered each year. In Syria, the Ghouta of Damascus was a belt of irrigated orchards around the city, fed by channels from the Barada river.
 
+### Rice, tanks and lake gardens (Asia and the Americas)
+
+> **Rule of thumb:** Wet rice needs flat, flooded fields. On slopes people build **terraces**; on dry plains they store the monsoon rain in **tanks** (reservoirs held back by an earth dam, called a *bund*); in shallow lakes they build **raised garden beds**. Each system ties a group of villages to one shared water source, so villages, temples and fields line up along the water.
+
+**Why:** A rice field (a *paddy*) must hold standing water, so it needs a level surface with a low bank round it. Water has to pass from field to field down the slope, so farmers form groups that build and run the canals together. Temples or village councils often decide who gets water and when.
+
+| Landscape | Where and when | Numbers and facts | How to draw it |
+|---|---|---|---|
+| **Subak** (a cooperative irrigation group) | Bali (Indonesia). UNESCO dates the system back to the 9th century; networks of water temples have managed whole river basins since the 11th century | About 1,200 subak (UNESCO; a 2019 estimate gives about 1,560). Each has 50–400 farmers who share water from one source; a subak covers from a few hectares to almost 800 ha (2,000 acres). It is built of canals, tunnels and weirs. Temples mark the water sources and the points where water is divided; the lake temple Pura Ulun Danu Batur is the chief water temple. The UNESCO site covers about 19,500 ha (195 km², 75 sq mi) | Terraces in contour bands down a volcano's slopes, forest above them, small temples at springs, weirs and canal splits |
+| **Mountain rice terraces** | Honghe Hani terraces, Yunnan (south-west China), built up over about 1,300 years (UNESCO) | The UNESCO site covers 16,603 ha (166 km², 64 sq mi) with 82 villages. In places there are over 3,000 terraces between the forest edge and the valley floor | Four bands down the slope: forest on top (the water source), then villages, then terraces, then the river |
+| **Village tank cascade** | Dry zone of Sri Lanka; developed over nearly 2,000 years (FAO) | A chain of small tanks down one shallow valley; each tank spills into the one below, and the paddy lies below each dam. About 14,200 village tanks are known in Sri Lanka, on average one per 2.6 km² (1 sq mi) in the dry-zone provinces. One studied area today (Palugaswewa, 187 km² or 72 sq mi) has 78 tanks in 12 cascades and 37 villages; each tank watered up to about 75 ha (190 acres). A village had one main tank; the local saying "tank, stupa, village, temple" names the four parts of every village | A curved earth dam across a shallow valley, the water behind it, a sluice in the dam, a fan of paddy below; the village on dry ground beside it; several tanks in a chain |
+| **Royal tank** | Parakrama Samudra, at Polonnaruwa (Sri Lanka). King Parakramabahu I (reigned 1153–1186) joined several tanks into one lake; its oldest part, Topa Wewa, dates from about 386 AD | About 22 km² (2,200 ha, 8.5 sq mi) of water. The bund is about 14 km (8.5 mi) long and 12 m (40 ft) high. It waters about 7,300 ha (18,000 acres) of paddy | A big lake behind a long dam beside the royal city, with canals fanning out below |
+| **Chinampas** (raised beds built in a lake) | Lakes Xochimilco and Chalco, Valley of Mexico. The earliest securely dated beds are from 1150–1350; they spread over the lake beds after about 1400, when the Aztec Triple Alliance needed food for its capital, Tenochtitlan | Long, narrow beds built up from layers of plants and mud, with canoe canals between them. Britannica gives 6–10 m (20–35 ft) wide and 100–200 m (330–650 ft) long; other sources give smaller beds. Willows planted at the edges hold the soil | Narrow parallel green strips with thin blue canals between them, in the shallow edge of a lake, with canoe routes to the city |
+| **Angkor** (Khmer Empire) | Cambodia, 9th–16th centuries | A low-density settlement spread over about 1,000 km² (390 sq mi) of water works (Evans et al. 2007): houses on low mounds with household ponds; local temples (a mound about 20 m square, with a moat and a small pond to the east); rice fields, embankments, canals and roads. Huge rectangular reservoirs (*barays*): the West Baray, begun in the 11th century, is about 7.8 × 2.1 km (4.8 × 1.3 mi). Whether the barays mainly watered fields or were mainly religious symbols is debated | A grid of rice fields and embankments dotted with small mounds, each with a pond; temple mounds with moats; straight canals and raised roads; one or two giant rectangular reservoirs near the centre |
+
+> **Map tip:** Draw rice terraces as tight bands that follow the contour lines, and keep forest on the hilltops above them as the water source. Draw a tank as a curved dam across a shallow valley, with the water behind it, a sluice in the dam and a fan of paddy below; put the village on dry ground at one side and its temple close by. Chain several tanks down one valley. Put water temples at springs, weirs and the points where canals split, and put houses on low mounds above the flooded fields.
+
 ### Orchards, vineyards and gardens
 
 - **Gardens and orchards** sit next to the houses (ring 1). Orchards give apples, pears, cherries and plums in the north, and figs, almonds and citrus in the south. Normandy and the west of England are cider country.
@@ -219,6 +237,56 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 > **Map tip:** Do not paint a royal forest as solid trees. Draw its boundary as a dotted line with a name ("Forest of ..."), and inside it show woods, heath, villages and fields. Give a county 1–3 royal forests in the hunting country nearest the king's palaces. Draw deer parks as rounded enclosures of 0.5–1 km (0.3–0.6 mi) across, next to castles and great manor houses, with a lodge inside. Put rabbit warrens on sandy heaths.
 
 > **Later era (1500s+):** Charcoal for blast furnaces and glassworks raised the value of coppice, and more woods were enclosed and managed. Many deer parks became landscaped parks around country houses. Forest law faded away by the mid-17th century.
+
+---
+
+## How much of the map is fields and woods
+
+> **Rule of thumb:** In a settled lowland kingdom c. 1300, colour about **a third** of the land as ploughland and about **a tenth** as woods. Most of the rest is pasture, heath, moor and marsh. Hill country has far less ploughland. After a great plague, cut the ploughland by a quarter to a third and turn it into pasture and scrub.
+
+**Why:** Ploughland follows people. Each person needed about 1 ha (2.5 acres) of arable land (see [Population and Settlement Sizes](02-population-and-sizes.md)), so the fields were largest when the population peaked, c. 1300. Woods were cleared for new fields until the Black Death stopped it. One open-field parish can be almost all arable, like Milton Ernest ([above](#village-territory)), but a whole kingdom also has hills, heaths, marshes and wooded parish edges.
+
+### England, the best-measured case
+
+England covers about 13 million ha (32 million acres, 130,000 km²).
+
+| Date | Arable land, fallow included | Share of England | Sown that year | What was happening |
+|---|---|---|---|---|
+| 1300 | 11.5 million acres (4.7 million ha) | ~36% | 7.4 million acres (3.0 million ha) | Population near its medieval peak (about 4.5–5 million) |
+| 1380 | 8.7 million acres (3.5 million ha) | ~27% | 5.2 million acres (2.1 million ha) | After the Black Death (about 2.5 million people in 1377) |
+| 1450 | 7.6 million acres (3.1 million ha) | ~24% | 4.6 million acres (1.8 million ha) | Population at its low point (about 1.9 million) |
+| 1600 | 8.9 million acres (3.6 million ha) | ~28% | 6.7 million acres (2.7 million ha) | Population growing again; less land left fallow |
+
+These figures come from Broadberry, Campbell and others (2010, Table 1); the shares are worked out from England's area. "Arable" here counts the fallow field too. Only the sown part grew a crop in any one year, but on a map fallow looks like part of the open fields, so colour it as fields.
+
+| Date | Woodland and wood-pasture | Notes |
+|---|---|---|
+| 1086 | ~15% of England | Rackham's estimate from Domesday Book |
+| c. 1349 | perhaps ~7% | About half the 1086 figure, after two and a half centuries of clearing (Royal Forestry Society summary; a rough estimate) |
+| After 1349 | Stopped falling; some land went back to scrub and wood | Pollen records from north-west Europe show birch and hazel spreading over abandoned grazing land by the late 14th century (Yeloff and van Geel 2007) |
+
+Woods were spread very unevenly. Heavy clays, steep slopes and parish edges kept more wood; "champion" (open-field) parishes such as Milton Ernest had almost none.
+
+**A "forest" is not tree cover.** At its peak, royal forest covered about a third of southern England, but this was a legal zone that included villages, fields and heath as well as woods (see [Royal forests](#royal-forests)). Do not add it to the woodland share.
+
+### A land budget for a whole realm
+
+| Land | Share of a settled lowland kingdom c. 1300 | Basis |
+|---|---|---|
+| Ploughland (open fields, fallow included) | 35–40% | England: ~36% in 1300 |
+| Woodland and wood-pasture | 7–15% | England: ~15% in 1086, perhaps ~7% by 1349 |
+| Meadow | about 5% | Milton Ernest: 81 of 1,600 acres. More along big rivers, less in dry or hilly country |
+| Deer parks | nearly 2% | Rackham's ~3,200 parks (see [above](#parks-chases-warrens-and-lodges)); parks overlap with wood-pasture |
+| Villages, gardens and roads | a few per cent | 7% in Milton Ernest (84 acres of village and 28 of roads); less where people are few |
+| Pasture, heath, moor, fen, marsh and other common waste | the rest, roughly a third to a half | Worked out as what is left |
+
+**Hill country is different.** An upland parish of 50–100 km² (20–40 sq mi) with 100–500 people needs only about 100–500 ha of arable, so only about 1–10% of its land is ploughed (worked out from this chapter's own numbers). The rest is rough grazing, moor and wood.
+
+**After a plague:** England's arable shrank by about a quarter between 1300 and 1380, and by about a third by 1450. The lost fields became sheep and cattle pasture, and some went back to scrub and wood. Whole villages were deserted (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)).
+
+> **Map tip:** On a kingdom map of settled lowland, colour about a third of the land as fields, in broad patches around each cluster of villages. Spread the woods in many separate patches (on parish edges, heavy clay, steep slopes and hunting grounds) adding up to about a tenth, not one solid block. Give the rest to pasture, heath, moor and marsh, mostly on poor soil, hills and wet ground. In hill country, shrink the fields to small patches in the valleys. Show royal forests as a named boundary line, not as solid trees.
+
+> **Later era (1500s+):** By 1600 English arable had climbed back to about 28% of the land, and much less of it lay fallow: 2.2 of 8.9 million acres in 1600, against 4.1 of 11.5 million in 1300. More of the sown land grew peas, beans and other crops. Enclosure also turned some fields into hedged pasture (see [above](#fields-and-farming-systems)).
 
 ---
 
@@ -389,6 +457,8 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 | Commons, heath, moor | Tufts or stipple |
 | Fishponds | Small rectangles in a chain along a stream |
 | Summer huts (shielings) | Tiny squares in a cluster on high ground |
+| Rice terraces | Tight parallel lines that follow the contours |
+| Tank (reservoir) | Curved dam line with water behind it and a fan of small fields below |
 | Boundary | Dash-dot line along streams and ridges |
 
 ### A method for a local map
@@ -413,10 +483,10 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - 85–95% of people lived in the countryside. On a local map, almost all the land is fields, pasture, wood or waste, and almost all of it has an owner and a name.
 - Open-field arable gives tight nucleated or green villages; uplands, forest and marsh give hamlets and farmsteads; valleys and dykes give strip villages in a line.
 - A typical lowland village has 30–60 households (150–300 people), a territory of 5–15 km² (2–6 sq mi), and lies 1.5–4 km (1–2.5 mi) from its neighbours.
-- Fields lie within about 2 km (1.3 mi) of the houses. Beyond 3–4 km (2–2.5 mi), people build outlying farms or switch to pasture.
-- Land use forms rings: gardens and orchards, then arable, then pasture, then wood and waste at the parish edge. Meadow follows the streams.
+- Land use forms rings: gardens and orchards, then arable within about 2 km (1.3 mi) of the houses, then pasture, then wood and waste at the parish edge. Meadow follows the streams. Beyond 3–4 km (2–2.5 mi), people build outlying farms or switch to pasture.
+- Across a whole settled lowland kingdom c. 1300, about a third of the land is ploughland (England: ~36%, fallow included), 7–15% is woodland, and most of the rest is pasture, heath, moor and marsh. After a plague, ploughland shrinks by a quarter to a third.
 - Open-field strips were about 200 m (220 yd) long and ¼–1 acre in size, ploughed into ridge and furrow. Systems had two or three great fields, one left fallow each year.
-- Uplands used infield-outfield and summer shielings; the Mediterranean used terraces, canals, norias and qanats; Castile moved over 2.5 million sheep each year, some of them 550–750 km (340–470 mi).
+- Uplands used infield-outfield and summer shielings; the Mediterranean used terraces, canals, norias and qanats; wet-rice lands used terraces, tanks and shared canals with water temples (Bali, Sri Lanka, Angkor), and the Aztecs built raised beds in lakes; Castile moved over 2.5 million sheep each year, some of them 550–750 km (340–470 mi).
 - Mills: 5,624–6,000+ in Domesday England (1086); about 10,000–15,000 by 1300 (estimates vary), roughly one per village. Windmills in England from 1185; tide mills from the 7th century.
 - A medieval "forest" is a legal hunting area, not just trees. Royal forest covered about a third of southern England at its peak. There were about 3,200 deer parks c. 1300, usually 40–80 ha (100–200 acres) with rounded outlines.
 - Many manors have moats (about 6,000 moated sites are known in England), dovecotes and fishponds. Monasteries have granges and great barns.
@@ -431,8 +501,10 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 
 - Bartlett, Robert. *The Making of Europe: Conquest, Colonization and Cultural Change 950–1350* (1993). On German eastward settlement and new villages.
 - Beresford, Maurice and Hurst, John. *Wharram Percy: Deserted Medieval Village* (1990).
+- Broadberry, Stephen, Campbell, Bruce, Klein, Alexander, Overton, Mark and van Leeuwen, Bas. "English economic growth, 1270–1700", CAGE Working Paper 21, University of Warwick (2010). Table 1 gives English arable land, sown and fallow, 1270–1700. Published in full as *British Economic Growth, 1270–1870* (2015).
 - Chisholm, Michael. *Rural Settlement and Land Use: An Essay in Location* (1962). On distance from farm to field.
 - Dyer, Christopher. *Making a Living in the Middle Ages: The People of Britain 850–1520* (2002).
+- Evans, Damian, Pottier, Christophe, Fletcher, Roland and others. "A comprehensive archaeological map of the world's largest preindustrial settlement complex at Angkor, Cambodia", *Proceedings of the National Academy of Sciences* 104 (2007): 14277–14282.
 - Glick, Thomas F. *Irrigation and Society in Medieval Valencia* (1970).
 - Hall, David. *The Open Fields of England* (2014).
 - Hodgen, Margaret T. "Domesday water mills", *Antiquity* 13 (1939).
@@ -440,6 +512,8 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - Hutchings, J. B. "Milton Ernest: a field survey", *Bedfordshire Archaeological Journal* 4 (1969): 69–78.
 - Klein, Julius. *The Mesta: A Study in Spanish Economic History, 1273–1836* (1920).
 - Langdon, John. *Mills in the Medieval Economy: England 1300–1540* (2004).
+- Lansing, J. Stephen. *Priests and Programmers: Technologies of Power in the Engineered Landscape of Bali* (1991). The classic study of Bali's water temples.
+- Morehart, Christopher. "The political ecology of chinampa landscapes in the Basin of Mexico", in *Water and Power in Past Societies* (2018).
 - Rackham, Oliver. *The History of the Countryside* (1986) and *Trees and Woodland in the British Landscape* (1976, revised 1990).
 - Roberts, Brian K. *The Making of the English Village* (1987).
 - Roberts, Brian K. and Wrathmell, Stuart. *An Atlas of Rural Settlement in England* (2000).
@@ -448,6 +522,7 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - Vaughan, Rowland. *Most Approved and Long Experienced Water-Workes* (1610). On his "floated" water meadows in the Golden Valley, Herefordshire.
 - Williamson, Tom. *Shaping Medieval Landscapes: Settlement, Society, Environment* (2003).
 - Wordie, J. R. "The chronology of English enclosure, 1500–1914", *Economic History Review* 36 (1983).
+- Yeloff, Dan and van Geel, Bas. "Abandonment of farmland and vegetation succession following the Eurasian plague pandemic of AD 1347–52", *Journal of Biogeography* 34 (2007): 575–582.
 
 **Web pages consulted**
 
@@ -463,4 +538,14 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - University of Valencia, irrigation canals of l'Horta de València: https://www.uv.es/horta-valencia-chair/en/heritage-catalogue/irrigation-canals-l-horta-de-valencia/irrigation-canals-l-horta-de-valencia.html
 - Dutch Wikipedia, *Poldermolen* (first drainage windmill near Alkmaar, 1408): https://nl.wikipedia.org/wiki/Poldermolen
 - Italian Wikipedia, *Tratturo Magno* (L'Aquila–Foggia, 244 km; the Dogana of 1447): https://it.wikipedia.org/wiki/Tratturo_Magno
-- Wikipedia (starting points; follow their citations): [Open-field system](https://en.wikipedia.org/wiki/Open-field_system), [Ridge and furrow](https://en.wikipedia.org/wiki/Ridge_and_furrow), [Waldhufendorf](https://en.wikipedia.org/wiki/Waldhufendorf), [Rundling](https://en.wikipedia.org/wiki/Rundling), [Angerdorf](https://en.wikipedia.org/wiki/Angerdorf), [Watermill](https://en.wikipedia.org/wiki/Watermill), [Windmill](https://en.wikipedia.org/wiki/Windmill), [Tide mill](https://en.wikipedia.org/wiki/Tide_mill), [Horse mill](https://en.wikipedia.org/wiki/Horse_mill), [Royal forest](https://en.wikipedia.org/wiki/Royal_forest), [Deer park (England)](https://en.wikipedia.org/wiki/Deer_park_(England)), [Hatfield Forest](https://en.wikipedia.org/wiki/Hatfield_Forest), [Coppicing](https://en.wikipedia.org/wiki/Coppicing), [Pollarding](https://en.wikipedia.org/wiki/Pollarding), [Pannage](https://en.wikipedia.org/wiki/Pannage), [Qanat](https://en.wikipedia.org/wiki/Qanat), [Noria](https://en.wikipedia.org/wiki/Noria), [Terrace (earthworks)](https://en.wikipedia.org/wiki/Terrace_(earthworks)), [Mesta](https://en.wikipedia.org/wiki/Mesta), [Shieling](https://en.wikipedia.org/wiki/Shieling), [Polder](https://en.wikipedia.org/wiki/Polder), [Water board (Netherlands)](https://en.wikipedia.org/wiki/Water_board_(Netherlands)), [The Fens](https://en.wikipedia.org/wiki/The_Fens), [Romney Marsh](https://en.wikipedia.org/wiki/Romney_Marsh), [Assart](https://en.wikipedia.org/wiki/Assart), [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)), [Moot hill](https://en.wikipedia.org/wiki/Moot_hill), [Great Coxwell Barn](https://en.wikipedia.org/wiki/Great_Coxwell_Barn), [Tithe barn](https://en.wikipedia.org/wiki/Tithe_barn), [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange), [Animal pound (Pinfold)](https://en.wikipedia.org/wiki/Pinfold), [Sunken lane](https://en.wikipedia.org/wiki/Sunken_lane), [Beating the bounds](https://en.wikipedia.org/wiki/Beating_the_bounds), [Wayside cross](https://en.wikipedia.org/wiki/Wayside_cross), [Lime kiln](https://en.wikipedia.org/wiki/Lime_kiln), [Dovecote](https://en.wikipedia.org/wiki/Dovecote), [English wine](https://en.wikipedia.org/wiki/English_wine), [Polish wine](https://en.wikipedia.org/wiki/Polish_wine), [Virgate](https://en.wikipedia.org/wiki/Virgate), [Sherwood Forest](https://en.wikipedia.org/wiki/Sherwood_Forest), [Clarendon Palace](https://en.wikipedia.org/wiki/Clarendon_Palace), [Cranborne Chase](https://en.wikipedia.org/wiki/Cranborne_Chase), [Nendrum Monastery](https://en.wikipedia.org/wiki/Nendrum_Monastery), [Quern-stone](https://en.wikipedia.org/wiki/Quern-stone), [Dartmoor crosses](https://en.wikipedia.org/wiki/Dartmoor_crosses), [Beemster](https://en.wikipedia.org/wiki/Beemster), [Schermer](https://en.wikipedia.org/wiki/Schermer), [Rowland Vaughan](https://en.wikipedia.org/wiki/Rowland_Vaughan), [Laxton, Nottinghamshire](https://en.wikipedia.org/wiki/Laxton,_Nottinghamshire).
+- Broadberry et al., "English economic growth, 1270–1700" (working paper, PDF): https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/21.2010_broadberry_complete.pdf
+- Royal Forestry Society, "A brief history of British woodlands" (PDF): https://rfs.org.uk/wp-content/uploads/2021/05/7.-A-Brief-History-of-British-Woodlands.pdf
+- The Open University, OpenLearn, "Woodland history": https://www.open.edu/openlearn/nature-environment/natural-history/neighbourhood-nature/content-section-1.3
+- Herefordshire Through Time, medieval woodland: https://htt.herefordshire.gov.uk/herefordshires-past/the-medieval-period/countryside-and-landscape/woodland
+- UNESCO World Heritage, Cultural Landscape of Bali Province (the subak system): https://whc.unesco.org/en/list/1194
+- UNESCO World Heritage, Cultural Landscape of Honghe Hani Rice Terraces: https://whc.unesco.org/en/list/1111
+- FAO, GIAHS proposal for the Cascaded Tank-Village System in the dry zone of Sri Lanka (2017, PDF): https://fao.org/fileadmin/templates/giahs_assets/GIAHS_test/02_GIAHS_around_the_world/01_Designated_sites/02_Asia_and_the_Pacific/07_Sri_Lanka/Mar_6th_rev_GIAHS_Proposal_Sri_Lanka_March_2017.pdf
+- Amazing Lanka, Parakrama Samudraya: https://amazinglanka.com/wp/parakrama-samudraya/
+- Evans et al. 2007 (Angkor map), full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC1964867
+- Britannica, "Chinampa": https://www.britannica.com/topic/chinampa
+- Wikipedia (starting points; follow their citations): [Open-field system](https://en.wikipedia.org/wiki/Open-field_system), [Ridge and furrow](https://en.wikipedia.org/wiki/Ridge_and_furrow), [Waldhufendorf](https://en.wikipedia.org/wiki/Waldhufendorf), [Rundling](https://en.wikipedia.org/wiki/Rundling), [Angerdorf](https://en.wikipedia.org/wiki/Angerdorf), [Watermill](https://en.wikipedia.org/wiki/Watermill), [Windmill](https://en.wikipedia.org/wiki/Windmill), [Tide mill](https://en.wikipedia.org/wiki/Tide_mill), [Horse mill](https://en.wikipedia.org/wiki/Horse_mill), [Royal forest](https://en.wikipedia.org/wiki/Royal_forest), [Deer park (England)](https://en.wikipedia.org/wiki/Deer_park_(England)), [Hatfield Forest](https://en.wikipedia.org/wiki/Hatfield_Forest), [Coppicing](https://en.wikipedia.org/wiki/Coppicing), [Pollarding](https://en.wikipedia.org/wiki/Pollarding), [Pannage](https://en.wikipedia.org/wiki/Pannage), [Qanat](https://en.wikipedia.org/wiki/Qanat), [Noria](https://en.wikipedia.org/wiki/Noria), [Terrace (earthworks)](https://en.wikipedia.org/wiki/Terrace_(earthworks)), [Mesta](https://en.wikipedia.org/wiki/Mesta), [Shieling](https://en.wikipedia.org/wiki/Shieling), [Polder](https://en.wikipedia.org/wiki/Polder), [Water board (Netherlands)](https://en.wikipedia.org/wiki/Water_board_(Netherlands)), [The Fens](https://en.wikipedia.org/wiki/The_Fens), [Romney Marsh](https://en.wikipedia.org/wiki/Romney_Marsh), [Assart](https://en.wikipedia.org/wiki/Assart), [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)), [Moot hill](https://en.wikipedia.org/wiki/Moot_hill), [Great Coxwell Barn](https://en.wikipedia.org/wiki/Great_Coxwell_Barn), [Tithe barn](https://en.wikipedia.org/wiki/Tithe_barn), [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange), [Animal pound (Pinfold)](https://en.wikipedia.org/wiki/Pinfold), [Sunken lane](https://en.wikipedia.org/wiki/Sunken_lane), [Beating the bounds](https://en.wikipedia.org/wiki/Beating_the_bounds), [Wayside cross](https://en.wikipedia.org/wiki/Wayside_cross), [Lime kiln](https://en.wikipedia.org/wiki/Lime_kiln), [Dovecote](https://en.wikipedia.org/wiki/Dovecote), [English wine](https://en.wikipedia.org/wiki/English_wine), [Polish wine](https://en.wikipedia.org/wiki/Polish_wine), [Virgate](https://en.wikipedia.org/wiki/Virgate), [Sherwood Forest](https://en.wikipedia.org/wiki/Sherwood_Forest), [Clarendon Palace](https://en.wikipedia.org/wiki/Clarendon_Palace), [Cranborne Chase](https://en.wikipedia.org/wiki/Cranborne_Chase), [Nendrum Monastery](https://en.wikipedia.org/wiki/Nendrum_Monastery), [Quern-stone](https://en.wikipedia.org/wiki/Quern-stone), [Dartmoor crosses](https://en.wikipedia.org/wiki/Dartmoor_crosses), [Beemster](https://en.wikipedia.org/wiki/Beemster), [Schermer](https://en.wikipedia.org/wiki/Schermer), [Rowland Vaughan](https://en.wikipedia.org/wiki/Rowland_Vaughan), [Laxton, Nottinghamshire](https://en.wikipedia.org/wiki/Laxton,_Nottinghamshire), [Subak (irrigation)](https://en.wikipedia.org/wiki/Subak_(irrigation)), [Honghe Hani Rice Terraces](https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces), [Parakrama Samudra](https://en.wikipedia.org/wiki/Parakrama_Samudra), [Chinampa](https://en.wikipedia.org/wiki/Chinampa), [Lake Chalco](https://en.wikipedia.org/wiki/Lake_Chalco), [West Baray](https://en.wikipedia.org/wiki/West_Baray).

@@ -9,10 +9,11 @@ Most medieval towns grew because of farming and trade. Some towns grew for a dif
 - [Salt](#salt)
 - [Stone, clay and lime](#stone-clay-and-lime)
 - [Forest industries](#forest-industries)
+- [Peat diggings](#peat-diggings)
 - [Textiles](#textiles)
 - [Fishing](#fishing)
 - [Shipbuilding, naval stores and arsenals](#shipbuilding-naval-stores-and-arsenals)
-- [Metalworking, crafts, leather and drink](#metalworking-crafts-leather-and-drink)
+- [Metalworking, crafts, leather, drink and sugar](#metalworking-crafts-leather-drink-and-sugar)
 - [Where industry sits in and around a town](#where-industry-sits-in-and-around-a-town)
 - [Special town types and how to spot them](#special-town-types-and-how-to-spot-them)
 - [Quick summary](#quick-summary)
@@ -58,6 +59,7 @@ Then there are two more pulls:
 | Lime | Limestone or chalk plus fuel | Limestone edges, building sites, ports | Kilns, not towns |
 | Timber | Forest plus a river that can float logs | Upland forests above rivers | Rafting villages; a timber market in a river town |
 | Charcoal, glass, potash, tar | Woodland | Deep forest | Temporary camps; glasshouses that move |
+| Peat (turf) | A fen or bog, plus a river or canal to a fuel-hungry town | Wet lowlands with few trees | Turf commons beside fen villages; flooded pits that become lakes |
 | Wool | Grazing land | Downs, limestone hills, uplands, dry plateaus | Sheep villages, monastic farms, wool market towns |
 | Cloth | Wool, fulling water, dyes, skilled labour | Towns; fulling mills in hill valleys | Cloth towns; rural weaving villages |
 | Dye plants (woad, madder) | Rich arable land | Plains near cloth regions | Woad towns and woad mills |
@@ -65,6 +67,7 @@ Then there are two more pulls:
 | Cod (stockfish) | Cold, dry, windy spring weather | Arctic coasts | Fishing stations, drying racks, one big trading port |
 | Ships | Oak, pine, tar, hemp, iron | Sheltered estuaries near forest and rivers | Shipyards; walled state arsenals |
 | Wine | Sunny slopes and a river for export | South-facing river slopes | Wine villages; an export port downriver |
+| Sugar cane | Frost-free land, irrigation water, a crushing mill, fuel for boiling, a port | Irrigated coastal plains in the warm south (Cyprus, Sicily, Valencia) | A fortified estate centre with a mill and boiling house; cane villages; a loading port |
 | Beer | Clean water and grain | Grain regions; towns | Brewing towns |
 
 > **Map tip:** For every industry you draw, check three things on the map: the resource, the fuel and the way out (a river, a coast or a road to one). If one is missing, move the industry or add what is missing.
@@ -302,7 +305,7 @@ Medieval forests were not empty wilderness. They were working landscapes full of
 - Charcoal was made in **clamps**: a dome of stacked logs covered with turf and earth, burned slowly for 6–8 days (several weeks for very large ones).
 - It takes roughly 4–8 kg of wood to make 1 kg of charcoal. A traditional clamp turns about a quarter of the wood's weight into charcoal on average; small, careless burns do worse.
 - Charcoal is light but crumbles if carried far, so it was made in the woods near where it would be used. The burners lived in huts next to the clamp to watch it day and night.
-- Woods for charcoal were usually **coppiced**: cut to the stump and allowed to regrow, giving poles every 10–20 years.
+- Woods for charcoal were usually **coppiced**: cut to the stump and allowed to regrow, giving poles every few years. Medieval cycles were mostly under 10 years; the 10–20-year cycles of charcoal woods (such as the Siegerland *Hauberg*) belong mostly to the 1500s and later (see [Managed woodland](06-villages-and-countryside.md#managed-woodland)).
 
 ### Iron smelting in the forest
 
@@ -330,6 +333,43 @@ How much forest does an ironworks need? In the Weald, historians estimate that a
 > **Fantasy twist:** If the forest is home to elves, spirits or monsters, charcoal burners, glassmakers and tar boilers become the frontier people of your world. They need permission, guards or a truce. A realm that cannot cut its forests cannot make iron or glass, and must import them.
 
 > **Map tip:** Draw a forest with small clearings: a charcoal hearth, a glasshouse, a forge by a stream with its pond, a woodcutters' hamlet. Add one track out of the forest to a river. Mark a few clearings as abandoned ("Old Glasshouse"). Forest industries leave no towns, only hamlets with names like Coalpit, Furnace, Hammer or, in German lands, Glashütte (glass hut).
+
+---
+
+## Peat diggings
+
+> **Rule of thumb:** Where wood is scarce in wet lowlands, people dig peat for fuel. Big peat diggings fill with water and turn into lakes. So some "natural" lakes on a real map are really old fuel pits.
+
+**Why:** Peat (also called turf) is half-rotted plant matter that builds up over thousands of years in fens and bogs. Cut into blocks and dried, it burns well. Where the woods had been cleared and towns needed fuel (eastern England, Holland, Flanders, Frisia), peat was dug on a large scale and sent to town by boat. In low land a pit soon goes below the water table, so it fills with water. Waves then eat away the soft peat banks, and the lakes grow.
+
+Fen villages often had **turbary** (the right to cut turf or peat on a common; see [chapter 06](06-villages-and-countryside.md#meadow-pasture-commons-and-waste)). Each village dug inside its own boundary, so the diggings follow parish lines.
+
+### Real example: the Norfolk Broads (England)
+
+- The Broads are 63 shallow lakes, most less than 4 m (13 ft) deep, joined by rivers. Today they have over 200 km (120 mi) of navigable waterways.
+- They are flooded medieval peat pits. Peat was dug here for fuel from the 12th to the 14th centuries, by monasteries and villages, and sold to **Norwich** and **Great Yarmouth**. The records of Norwich Cathedral Priory show that large amounts of peat were dug, in what was then one of the most crowded parts of England.
+- Each parish dug inside its own boundary, so the shapes of the broads still follow old parish boundaries. Banks of uncut peat (baulks) were left between neighbouring diggings. Some still separate one broad from the next, and roads cross the wet ground on causeways.
+- The water rose (a wetter climate and a rising sea level). By the end of the 14th century almost all the diggings had been given up and had flooded.
+- People forgot. Until the 1950s most people thought the Broads were natural. The botanist Joyce Lambert and her colleagues showed that they have almost vertical sides and flat floors, like dug pits, and published the proof in 1960.
+- Size: most broads are small, from a few hectares up to about 1.4 km² (0.5 sq mi) for the largest, Hickling Broad.
+
+### Real example: the Haarlemmermeer (Holland)
+
+Between Haarlem, Leiden and Amsterdam, peat cutting for fuel (much of it by people from Haarlem) and storms turned a few small lakes into one big inland sea. The Dutch called the growing lake the "water wolf".
+
+| Date | What the map shows |
+|---|---|
+| 13th century | Three or four separate peat lakes (the old Haarlemmermeer, the Spieringmeer, the Leidsemeer and the Oude Meer), with farmland and villages on the strips of land between them. One Dutch timeline gives about 9,100 ha (91 km², 35 sq mi) for all of them around 1250; other estimates are lower. |
+| 1477–1508 | Storms (such as the flood of 1477) break through the strips. By 1508 the old Haarlemmermeer and the Spieringmeer have joined. |
+| Late 1500s | The lakes have become one lake. |
+| c. 1650 | About 15,000 ha (150 km², 58 sq mi). |
+| 1848 | About 16,850 ha (169 km², 65 sq mi). It was then pumped dry by 1852. |
+
+Villages such as Nieuwerkerk and Rietwijk were swallowed, and the village of Aalsmeer lost more than half of its land.
+
+> **Later era (1500s+):** After about 1530, Dutch diggers began to dredge peat from under the water with a net on a long pole. They dried the wet peat on long, narrow strips of land left between the pits (*legakkers*). This made whole lake districts shaped like a comb of thin strips and long water channels, such as the Loosdrechtse and Vinkeveense Plassen in the north-west of the province of Utrecht. From the 1600s, Dutch investors pumped many lakes dry with windmills (the Beemster by 1612); see [Drainage and new land](09-later-era-1500-1650.md#drainage-and-new-land).
+
+> **Map tip:** Draw peat lakes with straight or blocky edges, not smooth round ones, and leave narrow banks (baulks) and causeways between them. Put a "turbary" or "Turf Fen" common beside each fen village, and a river or canal carrying turf boats to the nearest town. The Broads lie within about 30 km (19 mi) of Norwich, along its rivers. For a map set a century or more after the digging, turn the pits into a chain of lakes, and mark a drowned village or two (label it, for example, "Drowned Church" or "Old Fenby, lost to the water").
 
 ---
 
@@ -448,7 +488,7 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 **Great arsenals:**
 - **Venice Arsenal.** Begun around 1104 (the exact date is uncertain). Expanded with the *Arsenale Nuovo* (c. 1320) and again in 1473. It covered about 45 hectares (110 acres), around 15% of the city, and was surrounded by a wall about 3.2 km (2 mi) long. Popular accounts say it employed "some 16,000 people" in the early 1500s and could produce nearly a ship a day using standard parts. The regular skilled workforce was probably smaller; estimates vary.
-- **Barcelona**: the royal shipyards (*Drassanes*), built in two stages, from about 1283 to 1328 and from 1328 to 1390.
+- **Barcelona**: the royal shipyards (*Drassanes*), ordered by Peter III in 1285 and enlarged in 1328–90.
 - **Seville**: the *Atarazanas* (shipyards), built under Alfonso X from 1252 outside the walls, by the river, with 17 long brick halls.
 - **Rouen**: the French royal galley yard (*Clos des Galées*), founded in the 1290s (usually dated 1294) with Genoese help.
 
@@ -456,7 +496,7 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 ---
 
-## Metalworking, crafts, leather and drink
+## Metalworking, crafts, leather, drink and sugar
 
 ### Metal and craft towns
 
@@ -497,6 +537,23 @@ Metal craft towns sit on trade routes, close to (but not inside) iron or copper 
 - Vines grew farther north than today. Domesday Book (1086) lists over 40 vineyards in southern England.
 
 > **Map tip:** Draw vineyards as hatched strips on south- or south-east-facing slopes along a river, with villages at the foot of the slope. Put a wine port where the river meets the sea or a big river, with warehouses and a customs house. Label the region's wine ("Claret", "Rhenish"). For beer, there is no need to draw anything; just note "famous breweries" for a town of 2,000 or more.
+
+### Sugar estates (Mediterranean)
+
+> **Rule of thumb:** Sugar is a southern crop with a factory attached. It needs a warm coastal plain, river water for irrigation, a mill, fuel and a port, all close together.
+
+**Why:** Sugar cane needs a frost-free climate and a lot of water. Mediterranean summers are dry, so the fields must be irrigated from a river. Cane is heavy and bulky, so it is crushed near the fields, in a mill turned by water or by animals. The juice is then boiled in big copper cauldrons, which burns a lot of fuel. The finished sugar was a luxury, sold far away, so the estate needs a port.
+
+Sugar came to the Mediterranean from the Islamic world. Crusaders met it in the Holy Land, and early in the 12th century Venice acquired villages near Tyre (in today's Lebanon) and set up sugar estates there. In the late Middle Ages the main Christian producers were Cyprus, Sicily and, from the 15th century, the coast of Valencia. Venice was Europe's chief sugar refining and trading centre in the 15th century.
+
+**Real examples:**
+- **Kolossi** (Cyprus). In 1210 King Hugh I gave the fief of Kolossi, about 60 villages from the fertile plain at the mouth of the Kouris River up into the hills, to the Knights Hospitaller. It became their main estate on the island. Beside the castle are the remains of a sugar factory, a 14th-century mill for crushing cane and an aqueduct that brought water to it. The tower that stands today was built in 1454. Kolossi is about 14 km (9 mi) west of the port of Limassol.
+- **The great Cypriot owners.** Sugar was one of Cyprus's main exports. The three best-studied sugar works belonged to the island's biggest landowners: the Lusignan kings at Kouklia, the Hospitallers at Kolossi and the Venetian Cornaro family at Episkopi. The royal works at Kouklia-Stavros was built in the late 13th century and worked until the end of the 16th century.
+- **Gandia** (Valencia, Spain). In the early 15th century, sugar-making methods were brought from Sicily with the help of Sicilian masters. Around Gandia there were 4 sugar mills by 1433 and 14 by about 1500. In 1500 the industry there employed some 500 people and 220 animals.
+
+> **Later era (1500s+):** Sugar moves out into the Atlantic: to Madeira (cane brought in by the Portuguese in the 1420s; a large producer by the 1490s), the Canary Islands, and then Brazil and the Caribbean, on plantations worked by enslaved Africans. The Mediterranean sugar estates, with their higher costs, slowly decline.
+
+> **Map tip:** In a warm southern kingdom, draw one or two sugar districts on irrigated coastal plains: small square cane fields, straight water channels from a river, and a sugar mill and boiling house fed by an aqueduct. Put a fortified estate tower beside the works (the older castle at Kolossi was wrecked by Mamluk raiders in the 1420s), and a loading port within a short cart trip, like Kolossi and Limassol. A sugar district is a cluster of several mills, not one big town. Label it "Sugar Mill" or "the Commandery".
 
 ---
 
@@ -541,10 +598,9 @@ Most towns are market towns. These are the special ones. Each has a "signature" 
 
 ### Fair towns
 
-A **fair** was a big market held once or a few times a year, often for days or weeks, where long-distance merchants met. A **market** was weekly and local (see [chapter 02](02-population-and-sizes.md)).
+A **fair** was a big market held once or a few times a year, often for days or weeks, where long-distance merchants met. A **market** was weekly and local (see [Trade nodes](05-trade-routes-and-transport.md#trade-nodes-markets-fairs-staples-and-entrepots)).
 
-- The **Champagne fairs** (eastern France) were the meeting point of Flemish cloth and Italian merchants in the late 12th and 13th centuries. Six fairs moved in a yearly cycle between four towns: Lagny-sur-Marne (January), Bar-sur-Aube (spring), Provins (May and September) and Troyes (June and November). Each fair lasted several weeks; accounts differ on exactly how long, and up to about six weeks is often given. There were set phases: about eight days for setting up, then days for cloth, for leather and for spices, and finally a few days for settling accounts. The Counts of Champagne protected merchants and their roads.
-- They declined after Champagne passed to the French crown in 1285, and when Genoese and Venetian ships began sailing directly to Flanders (Bruges).
+- The **Champagne fairs** (eastern France, late 12th and 13th centuries) were six fairs a year in four towns (Lagny, Bar-sur-Aube, Provins and Troyes) where Flemish cloth met Italian merchants. Their calendar, trading phases and decline are described in [The Champagne fairs](05-trade-routes-and-transport.md#the-champagne-fairs).
 - Later great fairs: Frankfurt (autumn fair privileged in 1240, a spring fair added in 1330), Geneva and then Lyon in the 15th century, Medina del Campo in Castile.
 - Fair towns are often **not** big cities. Their signature is a large open space, many inns and storage buildings, and good roads from several directions. Neighbouring Champagne fair towns were about 45–65 km (28–40 mi) apart in a straight line, two or three days by road, so merchants could move from one fair to the next.
 
@@ -566,11 +622,12 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Every realm needs salt: brine springs (with huge fuel needs), rock-salt mines, or sea-salt pans on warm coasts. Salt roads run from the source to the nearest navigable water.
 - Stone travels far only by water; clay lowlands build in brick. Kilns and clay pits sit outside the walls.
 - Forests are industrial: charcoal hearths, forges with ponds, moving glasshouses (150–200 kg of wood per kg of glass), tar and potash.
-- Cloth needs wool, fulling water and dyes. Fulling mills put cloth villages along fast hill streams; great cloth towns (Ghent about 55,000–65,000; Florence) imported wool.
+- In wet, treeless lowlands people dig peat, and big diggings flood into blocky lakes: the 63 Norfolk Broads (dug 12th–14th centuries) and the ever-growing Haarlemmermeer.
+- Cloth needs wool, fulling water and dyes. Fulling mills put cloth villages along fast hill streams; great cloth towns (Ghent perhaps 40,000–65,000; Florence) imported wool.
 - Preserved fish travels far: Scania herring (a beach market every autumn), Lofoten stockfish through Bergen (about 4,000 tonnes a year in the 1300s).
 - Shipyards are everywhere along shores; state arsenals (Venice, Barcelona, Seville) are walled factories in great ports.
 - Clean water upstream, dirty trades (tanners, dyers, butchers) downstream and outside the walls; fire trades at the edge.
-- Give every special town a visible reason on the map: a mine, pans, a fairground, vineyards, a harbour.
+- Give every special town a visible reason on the map: a mine, pans, a fairground, vineyards, a harbour, or (in the warm south) a sugar mill among irrigated cane fields.
 
 ---
 
@@ -588,6 +645,7 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Hatcher, J. (1973). *English Tin Production and Trade before 1550*. Oxford: Clarendon Press.
 - Helle, K. (2020). "Bergen's role in the medieval North Atlantic trade". *AmS-Skrifter*. https://journals.uis.no/index.php/AmS-Skrifter/article/view/254
 - Klein, J. (1920). *The Mesta: A Study in Spanish Economic History, 1273–1836*. Cambridge, MA: Harvard University Press.
+- Lambert, J. M., Jennings, J. N., Smith, C. T., Green, C. & Hutchinson, J. N. (1960). *The Making of the Broads: A Reconsideration of their Origin in the Light of New Evidence*. Royal Geographical Society Research Memoir No. 3. London: Royal Geographical Society.
 - Lane, F. C. (1934). *Venetian Ships and Shipbuilders of the Renaissance*. Baltimore: Johns Hopkins Press.
 - Multhauf, R. P. (1978). *Neptune's Gift: A History of Common Salt*. Baltimore: Johns Hopkins University Press.
 - Nedkvitne, A. (2014). *The German Hansa and Bergen 1100–1600*. Cologne: Böhlau.
@@ -598,6 +656,8 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Spufford, P. (1988). *Money and its Use in Medieval Europe*. Cambridge: Cambridge University Press.
 - Unger, R. W. (2004). *Beer in the Middle Ages and the Renaissance*. Philadelphia: University of Pennsylvania Press.
 - Villani, G. *Nuova Cronica* (14th century), book XII, for the Florentine wool industry in the 1330s.
+- von Wartburg, M.-L. (2001). "The Archaeology of Cane Sugar Production: A Survey of Twenty Years of Research in Cyprus". *The Antiquaries Journal* 81: 305–335. https://doi.org/10.1017/S0003581500072218
+- Williamson, T. (1997). *The Norfolk Broads: A Landscape History*. Manchester: Manchester University Press.
 
 **Web pages consulted**
 
@@ -646,6 +706,17 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Wikipedia: *Wealden iron industry* — https://en.wikipedia.org/wiki/Wealden_iron_industry
 - Wikipedia: *Charcoal burner* — https://en.wikipedia.org/wiki/Charcoal_burner
 - Wikipedia: *Charcoal* (yield from wood) — https://en.wikipedia.org/wiki/Charcoal
+- Wikipedia: *The Broads* — https://en.wikipedia.org/wiki/The_Broads
+- Wikipedia: *Joyce Lambert* (dating, parish boundaries, turbary) — https://en.wikipedia.org/wiki/Joyce_Lambert
+- Wikipedia: *Hickling Broad* — https://en.wikipedia.org/wiki/Hickling_Broad
+- Norfolk Heritage Explorer: NHER 13509, Rollesby Broad complex (baulks, parish boundaries, causeways) — https://nhe.esdm.co.uk/Monument/MNF13509
+- Norfolk Record Office blog: "The Norfolk Broads revealed as man-made features: the discoveries of Dr Joyce M. Lambert" — https://norfolkrecordofficeblog.org/2016/05/13/the-norfolk-broads-revealed-as-man-made-features-the-discoveries-of-dr-joyce-m-lambert
+- Visit the Broads (Broads Authority): peat digging and Norwich Cathedral records — https://www.visitthebroads.co.uk/?p=290
+- Wikipedia: *Haarlemmermeer* — https://en.wikipedia.org/wiki/Haarlemmermeer
+- Dutch Wikipedia: *Haarlemmermeer (meer)* (the lakes, 1477 and 1508, lost villages) — https://nl.wikipedia.org/wiki/Haarlemmermeer_(meer)
+- Flevolands Geheugen: *Draining the Haarlemmermeer* (9,100 ha to 16,850 ha) — https://www.flevolandsgeheugen.nl/page/12278/draining-the-haarlemmermeer
+- Gemalen.nl: *Jaartallen geschiedenis Haarlemmermeer tot 1800* (2002 timeline; areas in 1250, c. 1650 and 1742) — https://www.gemalen.nl/download/verhalen/haarlemmermeer_tot_1800.pdf
+- Dutch Wikipedia: *Vervening* (peat digging; wet dredging after 1530) — https://nl.wikipedia.org/wiki/Vervening
 - Wikipedia: *Fulling* — https://en.wikipedia.org/wiki/Fulling
 - Wikipedia: *Isatis tinctoria* (woad) — https://en.wikipedia.org/wiki/Isatis_tinctoria
 - Wikipedia: *Sack (unit)* — https://en.wikipedia.org/wiki/Sack_(unit)
@@ -663,6 +734,7 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - "Torrfisk fra Lofoten" PGI application (UK government) — https://assets.publishing.service.gov.uk/media/66585ad87b792ffff71a8549/Torrfisk_fra_Lofoten.pdf
 - Wikipedia: *Venetian Arsenal* — https://en.wikipedia.org/wiki/Venetian_Arsenal
 - Wikipedia: *Royal Shipyards of Seville* — https://en.wikipedia.org/wiki/Royal_Shipyards_of_Seville
+- Wikipedia: *Barcelona Royal Shipyard* (ordered 1285, enlarged 1328–90) — https://en.wikipedia.org/wiki/Barcelona_Royal_Shipyard
 - Wikipedia: *Maritime Museum of Barcelona* — https://en.wikipedia.org/wiki/Maritime_Museum_of_Barcelona
 - Wikipedia: *Plate armour* (Milan and the Missaglia family) — https://en.wikipedia.org/wiki/Plate_armour
 - German Wikipedia: *Passauer Wolf* — https://de.wikipedia.org/wiki/Passauer_Wolf
@@ -675,6 +747,14 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Wikipedia: *History of Bordeaux wine* — https://en.wikipedia.org/wiki/History_of_Bordeaux_wine
 - Wikipedia: *Tun (unit)* — https://en.wikipedia.org/wiki/Tun_(unit)
 - Wikipedia: *Gamay* (the 1395 ban) — https://en.wikipedia.org/wiki/Gamay
+- Wikipedia: *Kolossi Castle* — https://en.wikipedia.org/wiki/Kolossi_Castle
+- Wikipedia: *Kolossi* (the 1210 fief of about 60 villages) — https://en.wikipedia.org/wiki/Kolossi
+- Cyprus Deputy Ministry of Tourism: *Kolossi Medieval Castle* (14th-century sugar mill) — https://www.visitcyprus.com/?p=469146
+- Museum of the Order of St John: Kolossi and Hospitaller sugar — https://museumstjohn.org.uk/?p=19075
+- Paphos Life: *The ancient sugar factory at Kouklia* — https://www.paphoslife.com/blog/sugar_factory/2
+- Wikipedia: *History of sugar* (Tyre estates, Venice, Madeira) — https://en.wikipedia.org/wiki/History_of_sugar
+- Wikipedia: *Trapiche* (sugar mills at Gandia) — https://en.wikipedia.org/wiki/Trapiche
+- Wikipedia: *Trappeto* (a Sicilian sugar mill of 1480) — https://en.wikipedia.org/wiki/Trappeto
 - Wikipedia: *Champagne fairs* — https://en.wikipedia.org/wiki/Champagne_fairs
 - Wikipedia: *Frankfurt Trade Fair* — https://en.wikipedia.org/wiki/Frankfurt_Trade_Fair
 - Wikipedia: *Karlovy Vary* — https://en.wikipedia.org/wiki/Karlovy_Vary

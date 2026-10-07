@@ -1,6 +1,6 @@
 # Capitals, Realms and Borders
 
-A map is not only towns and roads. It is also a pattern of power: who rules where, from which city, and where one ruler's land stops and another's begins. This chapter explains where capitals were built and why, what you find in and around them, how big kingdoms, duchies and counties were, and what borders really looked like in the Middle Ages. It ends with practical advice for drawing realms, capitals and borders on your map.
+A map is not only towns and roads. It is also a pattern of power: who rules where, from which city, and where one ruler's land stops and another's begins. This chapter explains where capitals were built and why, what you find in and around them, how big kingdoms, duchies and counties were, and what borders really looked like in the Middle Ages, including why language lines rarely match them. It ends with practical advice for drawing realms, capitals and borders on your map.
 
 **In this chapter:**
 
@@ -9,6 +9,7 @@ A map is not only towns and roads. It is also a pattern of power: who rules wher
 - [What is in and around a capital](#what-is-in-and-around-a-capital)
 - [Political units and their sizes](#political-units-and-their-sizes)
 - [Borders and frontiers](#borders-and-frontiers)
+- [Language lines are not borders](#language-lines-are-not-borders)
 - [Kinds of states and how they look on a map](#kinds-of-states-and-how-they-look-on-a-map)
 - [How big can a realm be](#how-big-can-a-realm-be)
 - [Drawing realms, borders and capitals](#drawing-realms-borders-and-capitals)
@@ -138,6 +139,28 @@ The forces that fixed capitals were:
 | University (later) | Trains lawyers, clerks and priests for government and church | Many capitals founded one: Prague 1348, Kraków 1364, Vienna 1365 |
 | Royal chapel or relic church | Holds relics that give the king holy status | Sainte-Chapelle, Paris (1248), built for the Crown of Thorns |
 
+### How many mints?
+
+> **Rule of thumb:** Early medieval kingdoms struck coins in many towns. Later, strong kings closed most mints and kept a few they could control. In loose realms, the opposite happened: more and more lords got the right to mint.
+
+A mint was often a small workshop of a few moneyers (coin makers), not a big building. England is the best-recorded case:
+
+| England | Number of mints | Notes |
+|---|---|---|
+| Æthelred II (978–1016) | About 70 (one standard catalogue lists 73) | Mostly in boroughs (fortified towns, *burhs*), from London and York down to small places such as Lydford in Devon. A single coin type was struck at 60 or more places. |
+| Henry II, 1154–58 | Nearly 50 | — |
+| Henry II's recoinage of 1158 | 30 during the recoinage, then only 12 kept open | A *recoinage* is when old coins are called in and struck again as new ones. |
+| Henry II's death, 1189 | 9 | — |
+| Henry III (1216–72), between recoinages | 4: London, Canterbury, Bury St Edmunds and Durham | The capital plus three old church centres. For a big recoinage (1247), many old mints were briefly reopened. |
+
+The Holy Roman Empire went the other way. From the 10th century, kings granted the right to mint to bishops, from the 11th century to lay princes, and later to towns. By the 12th century the empire was split into many regional coin areas, each with its own penny (*Pfennig*).
+
+- **Early medieval or newly united realm:** a mint in most fortified towns.
+- **Centralised kingdom of the High or Late Middle Ages:** a mint in the capital, one to three church or regional centres, and one at each big silver mine (see [Industry, Resources and Special Towns](07-industry-and-resources.md#mining-and-metals)).
+- **Loose realm (an empire of princes, a land of city-states):** a mint in every princely seat, many bishops' cities and the big free towns.
+
+> **Map tip:** Mints are too small for a symbol on a kingdom map, but they are good detail for a town description or a regional map. Use the number of mints to show what kind of realm it is: many mints for an old or loose realm, three or four for a strong, centralised one.
+
 ### Ceremonial cities: coronation and burial
 
 The city where a ruler is **crowned** or **buried** is often not the city where he governs. The ceremonial city is usually an older place, where the dynasty or the church first became strong. It keeps that role for centuries, even after the government has moved elsewhere.
@@ -167,7 +190,7 @@ Within about one day's ride of a fixed capital you usually find:
 | The ruler's favourite abbeys and burial church | 0–20 km (0–12 mi) | Westminster, Saint-Denis |
 | Estates of courtiers and officials | Within 1–2 days' ride | Nobles' town houses in the capital and country manors in the home counties |
 
-**Royal forests** were a legal zone, not just woodland. Inside them, deer and trees were protected by special forest law, and villages, fields and heath could all lie inside a "forest". At their peak, in the late 12th and early 13th centuries, royal forests covered about one-third of southern England. Kings used them for hunting and to raise money from fines and licences.
+**Royal forests** were legal hunting zones that could contain villages, fields and heath as well as woods (see [Royal forests](06-villages-and-countryside.md#royal-forests)). Kings used them for hunting and to raise money from fines and licences.
 
 > **Map tip:** Around your capital, draw 3–6 small royal residences within about 60 km (37 mi), at least one big royal forest with a hunting lodge, a great abbey or burial church close by, and, if you want, a separate coronation town within 50–150 km (30–90 mi). Label royal forests in the same colour as the crown's land. These details make a capital feel real.
 
@@ -185,7 +208,7 @@ Within about one day's ride of a fixed capital you usually find:
 | Kingdom | 10,000–450,000 km² (4,000–175,000 sq mi) | 0.1–17 million | Capital or itinerant court | Navarre ~10,000–12,000 km² (~100,000 people c. 1300); Scotland ~79,000; Portugal ~89,000; England 130,000; Hungary 280,000–325,000; France was the giant |
 | Duchy or principality (great fief) | 10,000–50,000 km² (4,000–19,000 sq mi) | 0.5–2 million (estimates) | A ducal city with castle, cathedral and court | Rough areas, based on the matching modern regions: Normandy ~30,000 km²; Brittany ~34,000 km²; Flanders (a county, but as powerful as a duchy) ~10,000 km² |
 | County (shire) | 1,000–10,000 km² (400–4,000 sq mi); England averaged ~3,300 km² | 20,000–300,000; England averaged ~120,000 | County town with castle, sheriff and county court | 39 English shires: Rutland 394 km² (152 sq mi) to Yorkshire ~15,700 km² (6,067 sq mi). Hungary had ~70 counties in the 15th century, averaging ~4,000–4,500 km². |
-| Hundred or wapentake (English sub-county district) | Average ~130–150 km² (50–60 sq mi); range 4.6–982 km² (2–380 sq mi) | 2,000–10,000 | A meeting place, often open-air: a mound, a ford, a crossroads, a stone | 812 hundreds can be traced in Domesday Book (1086), from Worth in Kent (4.6 km²) to Salford in Lancashire (982 km²); roughly 10–12 parishes each |
+| Hundred or wapentake (English sub-county district) | Average ~130–150 km² (50–60 sq mi) in 1086, ~150–200 km² (60–80 sq mi) by 1316; range 4.6–982 km² (2–380 sq mi) | 2,000–10,000 | A meeting place, often open-air: a mound, a ford, a crossroads, a stone | 812 hundreds can be traced in Domesday Book (1086), from Worth in Kent (4.6 km²) to Salford in Lancashire (982 km²); roughly 10–12 parishes each in 1086; after mergers about 630 named hundreds remained by 1316, with 10–15 parishes each |
 | Barony, lordship, honour (a great lord's group of estates) | Very variable: a few manors to 100+ | — | The *caput* (head manor), usually with a castle | A great baron's manors were often scattered across several counties |
 | Knight's fee (land expected to support one knight) | 1–2 manors; no fixed size | — | A manor house | England had only about 5,000–6,000 knights' fees (1166 survey) |
 | Manor | 2–10 km² (one village, part of one, or several) | 50–500 | Manor house, often moated | The village of Elton (Huntingdonshire) had 37 recorded households in 1086 (roughly 170–190 people), split among three manors |
@@ -212,13 +235,32 @@ Within about one day's ride of a fixed capital you usually find:
 
 | Realm | Count | Source |
 |---|---|---|
-| England c. 1300 | 1 kingdom; 39 shires (plus special zones such as the Palatinate of Durham); about 800 hundreds (812 in Domesday); ~9,500 parishes; 5,000–6,000 knights' fees | Domesday; 1166 survey; baseline |
+| England c. 1300 | 1 kingdom; 39 shires (plus special zones such as the Palatinate of Durham); about 630 hundreds (628 named in a 1316 inquest; 812 can be traced in Domesday Book, 1086); ~9,500 parishes; 5,000–6,000 knights' fees | Domesday; 1166 survey; 1316 inquest; baseline |
 | France c. 1200 | Royal domain plus 6 great lay fiefs: the duchies of Burgundy, Normandy and Aquitaine and the counties of Flanders, Champagne and Toulouse (the six lay "peers of France", fixed c. 1180), plus many lesser counties | Peerage of France |
 | Hungary | ~37 counties named for 1038 (many of them disputed), ~45–50 (c. 1074), ~70 (late 14th and 15th centuries) | Wikipedia *Administrative divisions of the Kingdom of Hungary* |
 | Carolingian Empire c. 800 | Somewhere between about 110 and 600 counties (estimates vary widely) | Wikipedia *Carolingian Empire* |
 | Holy Roman Empire 1521 | About 400 *imperial estates* (territories and cities with a place in the imperial diet). About 53 were ecclesiastical principalities (archbishops and bishops, three of the archbishops being electors) and 87 were free and imperial cities. The rest were secular princes, counts and lords, abbots and abbesses. | Worms register of 1521 |
+| China (for comparison) | About 1,230 counties (*xian*) under the Song (960–1279); about 1,385 under the Ming (1368–1644) | Skinner 1977 |
 
 > **Map tip:** For a kingdom the size of England (130,000 km², 50,000 sq mi), draw 30–40 counties, each about 50–70 km (30–45 mi) across, each with a county town near its middle. Group them into 4–8 bigger regions held by great lords or old duchies. Draw duchy borders with a thicker line than county borders. Leave 1–3 special zones (a march, a palatinate, a church territory) with their own colour or hatching.
+
+### A different model: the bureaucratic empire (China)
+
+> **Rule of thumb:** An empire run by salaried officials gives a much more regular map than feudal Europe: county seats of similar size, spread fairly evenly, each one a walled government town, with market towns between them and few private castles.
+
+**Why it is different.** In imperial China the basic unit was the county (*xian*). A magistrate ran it. He was an official appointed by the central government, not a lord who inherited the land. A magistrate could not serve in his home county (the "rule of avoidance", strictly enforced from the 6th century), and he was moved to a new post after a few years (in Ming times usually two or three). Nobody owned a county, so counties were not split by inheritance, scattered by marriage or turned into private lordships. Their number also stayed surprisingly steady from one dynasty to the next.
+
+| Feature | Numbers | Source |
+|---|---|---|
+| Number of counties | Song: about 1,230. Ming: about 1,385. A recent study argues that the Song also had hundreds of "administrative towns" with officials doing county-like work. | Skinner 1977; Han and Sng 2023 |
+| Average county size | About 2,000–2,500 km² (770–970 sq mi) in Song China: about 1,230 counties on 2.5–3.1 million km² (derived; area estimates vary). That is a little smaller than an average English shire (~3,300 km²). | Derived |
+| Spacing of county seats | About 45–55 km (28–34 mi) apart on average (derived from the area above). Closer on crowded river plains, much farther apart in hills and on the frontier. | Derived |
+| City walls | Of all administrative cities (county seats and above): 62% walled in 1368, 70% in 1393, 80% in 1469, 90% in 1540 and 95% in 1576 | Xue et al. 2021 |
+| Below the county seat | Periodic market towns. In Skinner's model, each "standard market town" served about 18 villages (6 close by, 12 farther out) and roughly 6,000–12,000 people. Markets met on fixed days of a ten-day cycle, for example days 1, 4 and 7. A bigger market nearby used other days (for example 2, 5 and 8), so traders could visit both. | Skinner 1964–65 |
+
+Be careful with Skinner's market figures. They come from the 19th and 20th centuries, when China was far more crowded than medieval Europe. Use them for the pattern, not for exact numbers in 1000–1500.
+
+> **Map tip:** For a bureaucratic empire, draw county seats as walled towns of similar size, spread fairly evenly about 45–55 km (28–34 mi) apart on good farmland, closer on crowded plains and farther apart in the hills. Give each one a regular wall, often a rectangle on flat land. Group every few counties into a prefecture, with a bigger city as its seat. Fill the gaps with unwalled market towns, each in the middle of its ring of villages. Draw few or no private castles: in this kind of state, the walls belong to the government's towns.
 
 > **Fantasy twist:** Other peoples may divide land differently. Dwarf holds might be counted by mountain or mine, not area; elves by forest; a sea people by islands or harbours. Keep the same rule: one seat per unit, one unit per day or two of travel.
 
@@ -280,6 +322,31 @@ Other frontier words that survive as place names: *Extremadura* (often explained
 > **Map tip:** Draw lines where settled farmland meets, and a hatched band (a "march") across mountains, forests and war zones. Put paired castles facing each other where a main road crosses the border. Add one or two odd features: an enclave, a tiny buffer state, a disputed strip. These make borders look historical rather than planned. Castle spacing along frontiers is covered in [Castles, Forts and Military Outposts](04-military-sites.md).
 
 > **Fantasy twist:** Monsters behave like an extra enemy. A monster-haunted forest or mountain becomes a frontier zone even between friendly realms, with marcher lords, watchtowers and wide empty bands. A magical barrier (a ward line, a cursed river) can create a sharp line border even in wilderness.
+
+---
+
+## Language lines are not borders
+
+> **Rule of thumb:** A language line is not a political border. It is usually older and it moves much more slowly. Land changes hands across a language line many times while the line itself stays put. When a language line does move, it creeps a few villages at a time over centuries.
+
+### Why they differ
+
+- **Villagers stay put.** When the lord or king changes, the villagers keep speaking what their grandparents spoke. Language follows who settled and farmed the land long ago, not who rules it now.
+- **Realms are built across language lines.** Marriage, inheritance and war join lands with different languages into one realm, and split lands with one language between several.
+- **Lines move by slow pressure.** A language spreads when towns, lords, the church and trade use it. Its rival survives longest in remote villages. A language can also jump in all at once, when a ruler brings in settlers.
+
+### Real examples
+
+| Example | What happened | What it shows |
+|---|---|---|
+| The Romance–Germanic line in today's Belgium | It took shape as Frankish settlers moved in, roughly between the 4th and 10th centuries. After about the 10th century it hardly moved in what is now Belgium. (Farther west, the coast from Boulogne to Dunkirk became French-speaking only in the later Middle Ages.) Medieval states sat across it: the County of Flanders held Romance-speaking (Picard) Lille and Douai, and the Prince-Bishopric of Liège held Romance-speaking (Walloon) Liège and the Dutch-speaking County of Loon. The line became a legal boundary only in 1962–63. | A stable line, with realms on both sides of it |
+| Breton in Brittany | Breton reached its farthest east in the 9th century, roughly from the bay of Mont-Saint-Michel to Donges on the Loire (the "Loth line", named after the linguist Joseph Loth). Even then the region's chief cities, Rennes and Nantes, stayed Romance-speaking. After that the line moved west: to about Dinan–Pornichet by the 12th century, and to about Binic–Guérande by 1588. That is roughly 30–80 km (20–50 mi) in seven centuries (derived from these places). | A slow retreat inside one realm, with the capital on the "wrong" side of the line |
+| Transylvanian Saxons (a language island) | King Géza II of Hungary (1141–62) began bringing German-speaking settlers to the thinly settled south-eastern edge of his kingdom, to farm it and defend it. The *Diploma Andreanum* (1224) gave them self-government on their own "Royal Land". Their chief towns included Hermannstadt (Sibiu), Kronstadt (Brașov) and Bistritz (Bistrița), and they built about 300 villages with fortified churches. In 1848 the Royal Land still held 271 villages, market towns and towns. | A language island planted by a ruler, lasting for centuries inside another language area |
+| Mudéjar villages in Valencia | After James I of Aragon conquered Valencia (1230s–40s), whole villages of Muslims (*Mudéjars*) kept their Arabic speech and their faith under Christian lords. In the late 1300s they may still have been a majority of the countryside. See [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md#muslims-under-christian-rule). | The border moved at once; the language of the villages did not |
+
+> **Map tip:** Draw languages or cultures as a separate layer: a soft tint or a thin dotted coloured line, never the same line as a border. Let it cross borders, and let one realm hold two or three language areas. Sometimes put the capital on the "wrong" side of the line, like Rennes. Change the place-name endings across the line, for example German-style *-ingen* and *-heim* on one side and French-style *-ville* and *-court* on the other (see [Reading place names](01-settlement-placement.md#reading-place-names)). Add one to three language islands where a ruler planted settlers: on an empty frontier, in a mining district or around a new town.
+
+> **Fantasy twist:** Long-lived peoples change their speech slowly, so elf or dwarf language lines can be even older and more stable than human ones. A dwarf hold or an elven wood inside a human kingdom is a language island: give it its own place names, even if a human king rules the land around it.
 
 ---
 
@@ -415,9 +482,11 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 - Before c. 1200 most western courts travelled. German kings moved between royal palaces and manors about 30 km (19 mi) apart. Fixed capitals came with archives, law courts and money taxes: Paris and Westminster in the 12th–14th centuries, Madrid only in 1561. The Holy Roman Empire never had one.
 - Coronation and burial cities are often different from the governing city, and keep their role for centuries.
 - Around a capital, draw 3–6 royal residences and hunting forests within about 60 km (37 mi). At their peak (late 12th and early 13th centuries), royal forests covered about one-third of southern England.
-- Typical sizes: kingdom 10,000–450,000 km²; duchy 10,000–50,000 km²; county 1,000–10,000 km² (England averaged ~3,300 km² and ~120,000 people); hundred ~130–150 km²; manor 2–10 km².
-- Borders are lines in settled land and wide zones (marches) in empty land. They follow old boundaries, crests, rivers, forests and wasteland.
-- Marches, buffer states, enclaves and contested strips were normal. Add some.
+- Mints shrink as kings get stronger: about 70 in late Anglo-Saxon England, 9 in 1189, normally 4 under Henry III. Loose realms like the Holy Roman Empire had more and more.
+- Typical sizes: kingdom 10,000–450,000 km²; duchy 10,000–50,000 km²; county 1,000–10,000 km² (England averaged ~3,300 km² and ~120,000 people); hundred ~130–150 km² in 1086 (~150–200 km² by 1316); manor 2–10 km².
+- A bureaucratic empire (China) looks more regular: about 1,230–1,385 counties, each with a walled seat roughly 45–55 km (28–34 mi) from the next, and periodic market towns between them.
+- Borders are lines in settled land and wide zones (marches) in empty land. They follow old boundaries, crests, rivers, forests and wasteland. Marches, buffer states, enclaves and contested strips were normal: add some.
+- Language lines are older and slower than borders. Draw them as a separate layer that crosses borders, and add a few language islands of planted settlers.
 - Medieval political maps are patchworks: kingdoms, city-states, leagues, church states, maritime chains and nomadic empires side by side. Europe c. 1500 had about 500 political units.
 - Direct rule reaches roughly 500–700 km (300–450 mi), about 8–12 days' messenger travel. Beyond that, rulers need viceroys, vassals, sea routes or relays.
 
@@ -427,6 +496,7 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 
 **Books and articles**
 
+- Allen, Martin. *Mints and Money in Medieval England*. Cambridge University Press, 2012 (chapter 2, "The centralisation of minting, 1158–1278": nearly 50 mints in 1154–58, 9 in 1189, normally 4 under Henry III).
 - Bartlett, Robert. *The Making of Europe: Conquest, Colonization and Cultural Change 950–1350*. 1993.
 - Bernhardt, John W. *Itinerant Kingship and Royal Monasteries in Early Medieval Germany, c. 936–1075*. Cambridge University Press, 1993.
 - Braudel, Fernand. *The Mediterranean and the Mediterranean World in the Age of Philip II*. 1949; English translation 1972.
@@ -434,17 +504,32 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 - Davies, R. R. *Lordship and Society in the March of Wales, 1282–1400*. 1978.
 - Dollinger, Philippe. *The German Hansa*. 1970.
 - Engel, Pál. *The Realm of St Stephen: A History of Medieval Hungary, 895–1526*. 2001.
+- Han, Yidan, and Tuan-Hwee Sng. "Revisiting Skinner: Counting Counties in Song China". Working paper, March 2023 (quotes Skinner's county counts and argues for extra Song "administrative towns").
 - Herlihy, David, and Christiane Klapisch-Zuber. *Tuscans and Their Families: A Study of the Florentine Catasto of 1427*. Yale University Press, 1985.
 - Hill, Mary C. *The King's Messengers, 1199–1377*. 1961.
 - Lane, Frederic C. *Venice: A Maritime Republic*. 1973.
+- North, J. J. *English Hammered Coinage*, vol. 1. 3rd ed., 1994 (73 named mints for Æthelred II).
 - Reynolds, Susan. *Kingdoms and Communities in Western Europe, 900–1300*. 1984.
 - Sardella, Pierre. *Nouvelles et spéculations à Venise au début du XVIe siècle*. 1948.
+- Skinner, G. William. "Marketing and Social Structure in Rural China", Parts I–III. *Journal of Asian Studies* 24 (1964–65).
+- Skinner, G. William (ed.). *The City in Late Imperial China*. Stanford University Press, 1977 (county counts by dynasty, p. 19).
 - Tilly, Charles (ed.). *The Formation of National States in Western Europe*. 1975.
+- Xue, Qiaofeng, Xiaobin Jin, Yinong Cheng, Xuhong Yang and Yinkang Zhou. "The dataset of walled cities and urban extent in late imperial China in the 15th–19th centuries". *Earth System Science Data* 13 (2021): 5071–5085.
 
 **Web pages consulted**
 
 - Wikipedia: [Itinerant court](https://en.wikipedia.org/wiki/Itinerant_court); [Kaiserpfalz](https://en.wikipedia.org/wiki/Kaiserpfalz); [Court of Common Pleas (England)](https://en.wikipedia.org/wiki/Court_of_Common_Pleas_(England)); [Battle of Fréteval](https://en.wikipedia.org/wiki/Battle_of_Fr%C3%A9teval); [Trésor des Chartes](https://en.wikipedia.org/wiki/Tr%C3%A9sor_des_Chartes); [Royal forest](https://en.wikipedia.org/wiki/Royal_forest); [Golden Bull of 1356](https://en.wikipedia.org/wiki/Golden_Bull_of_1356); [Timeline of Aachen](https://en.wikipedia.org/wiki/Timeline_of_Aachen); [Timeline of Kraków](https://en.wikipedia.org/wiki/Timeline_of_Krak%C3%B3w); [Coronation of the Hungarian monarch](https://en.wikipedia.org/wiki/Coronation_of_the_Hungarian_monarch); [Kingdom of Hungary (1301–1526)](https://en.wikipedia.org/wiki/Kingdom_of_Hungary_(1301%E2%80%931526)); [Administrative divisions of the Kingdom of Hungary](https://en.wikipedia.org/wiki/Administrative_divisions_of_the_Kingdom_of_Hungary); [Buda Castle](https://en.wikipedia.org/wiki/Buda_Castle); [Peerage of France](https://en.wikipedia.org/wiki/Peerage_of_France); [Knight-service](https://en.wikipedia.org/wiki/Knight-service); [List of ancient counties of England by area in 1891](https://en.wikipedia.org/wiki/List_of_ancient_counties_of_England_by_area_in_1891); [Welsh Marches](https://en.wikipedia.org/wiki/Welsh_Marches); [March (territory)](https://en.wikipedia.org/wiki/March_(territory)); [Spanish March](https://en.wikipedia.org/wiki/Spanish_March); [Debatable Lands](https://en.wikipedia.org/wiki/Debatable_Lands); [Pale of Calais](https://en.wikipedia.org/wiki/Pale_of_Calais); [Comtat Venaissin](https://en.wikipedia.org/wiki/Comtat_Venaissin); [Andorra](https://en.wikipedia.org/wiki/Andorra); [Prince-bishop](https://en.wikipedia.org/wiki/Prince-bishop); [Imperial Estate](https://en.wikipedia.org/wiki/Imperial_Estate); [Hanseatic League](https://en.wikipedia.org/wiki/Hanseatic_League); [Old Swiss Confederacy](https://en.wikipedia.org/wiki/Old_Swiss_Confederacy); [Stato da Màr](https://en.wikipedia.org/wiki/Stato_da_M%C3%A0r); [Domini di Terraferma](https://en.wikipedia.org/wiki/Domini_di_Terraferma); [Republic of Florence](https://en.wikipedia.org/wiki/Republic_of_Florence); [Karakorum](https://en.wikipedia.org/wiki/Karakorum); [Sarai (city)](https://en.wikipedia.org/wiki/Sarai_(city)); [Edirne](https://en.wikipedia.org/wiki/Edirne).
 - More Wikipedia pages used in fact-checking: [Exchequer](https://en.wikipedia.org/wiki/Exchequer); [Chambre des comptes](https://en.wikipedia.org/wiki/Chambre_des_comptes); [Parlement of Paris](https://en.wikipedia.org/wiki/Parlement_of_Paris); [Sainte-Chapelle](https://en.wikipedia.org/wiki/Sainte-Chapelle); [Aachen Cathedral](https://en.wikipedia.org/wiki/Aachen_Cathedral); [Karlštejn Castle](https://en.wikipedia.org/wiki/Karl%C5%A1tejn_Castle); [Niepołomice Castle](https://en.wikipedia.org/wiki/Niepo%C5%82omice_Castle); [Madinat al-Zahra](https://en.wikipedia.org/wiki/Madinat_al-Zahra); [Bursa](https://en.wikipedia.org/wiki/Bursa); [Henry II, Duke of Austria](https://en.wikipedia.org/wiki/Henry_II,_Duke_of_Austria); [Margraviate of Brandenburg](https://en.wikipedia.org/wiki/Margraviate_of_Brandenburg); [Leges Marchiarum](https://en.wikipedia.org/wiki/Leges_Marchiarum); [Treaty of York](https://en.wikipedia.org/wiki/Treaty_of_York); [Berwick-upon-Tweed](https://en.wikipedia.org/wiki/Berwick-upon-Tweed); [Scots' Dike](https://en.wikipedia.org/wiki/Scots%27_Dike); [Offa's Dyke](https://en.wikipedia.org/wiki/Offa%27s_Dyke); [Sound Dues](https://en.wikipedia.org/wiki/Sound_Dues); [Baarle-Hertog](https://en.wikipedia.org/wiki/Baarle-Hertog); [Kingdom of Navarre](https://en.wikipedia.org/wiki/Kingdom_of_Navarre); [Carolingian Empire](https://en.wikipedia.org/wiki/Carolingian_Empire); [Counties (Detached Parts) Act 1844](https://en.wikipedia.org/wiki/Counties_(Detached_Parts)_Act_1844); [Malbork Castle](https://en.wikipedia.org/wiki/Malbork_Castle); [Arezzo](https://en.wikipedia.org/wiki/Arezzo); [History of Madrid](https://en.wikipedia.org/wiki/History_of_Madrid); [Philip II of Spain](https://en.wikipedia.org/wiki/Philip_II_of_Spain); [Warsaw](https://en.wikipedia.org/wiki/Warsaw).
+- Wikipedia pages for the language, China and mint sections: [Transylvanian Saxons](https://en.wikipedia.org/wiki/Transylvanian_Saxons); [Villages with fortified churches in Transylvania](https://en.wikipedia.org/wiki/Villages_with_fortified_churches_in_Transylvania); [Joseph Loth](https://en.wikipedia.org/wiki/Joseph_Loth); [Walloon Flanders](https://en.wikipedia.org/wiki/Walloon_Flanders); [County of Loon](https://en.wikipedia.org/wiki/County_of_Loon); [Mudéjar](https://en.wikipedia.org/wiki/Mud%C3%A9jar); [Song dynasty](https://en.wikipedia.org/wiki/Song_dynasty) (area estimates after Taagepera 1997); [County magistrate](https://en.wikipedia.org/wiki/County_magistrate); [Rule of avoidance](https://en.wikipedia.org/wiki/Rule_of_avoidance); [History of the English penny (1154–1485)](https://en.wikipedia.org/wiki/History_of_the_English_penny_(1154%E2%80%931485)); [Right of coinage in the Holy Roman Empire](https://en.wikipedia.org/wiki/Right_of_coinage_in_the_Holy_Roman_Empire); [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)) (the 1316 inquest: 628 named hundreds).
+- Other-language Wikipedia: French [Frontière linguistique bretonne](https://fr.wikipedia.org/wiki/Fronti%C3%A8re_linguistique_bretonne) (stages of the Breton retreat); Dutch [Taalgrens in België](https://nl.wikipedia.org/wiki/Taalgrens_in_Belgi%C3%AB) (formation of the Belgian language line).
+- Canon of Flanders, [The Establishment of the Language Border](https://www.canonvanvlaanderen.be/?p=7340) (the laws of 1962–63).
+- Ohio University, Encyclopedia of 1848 Revolutions, [The Transylvanian Saxons in 1848](https://people.ohio.edu/chastain/rz/transax.htm) (271 villages, boroughs and towns on the Royal Land).
+- Xue et al. 2021, [Earth System Science Data article (PDF)](https://essd.copernicus.org/articles/13/5071/2021/essd-13-5071-2021.pdf) (walled cities 1368–1576).
+- Han and Sng 2023, [Revisiting Skinner (PDF)](https://sites.northwestern.edu/cfeh/files/2023/03/Session2_RevisitingSkinner.pdf).
+- Corbett, John, and Stacy Rebich. [G. William Skinner: Marketing in Rural China, 1964–1965](https://escholarship.org/uc/item/51x4g3qh). CSISS Classics, UC Santa Barbara, 2004 (18 villages per standard market area; ten-day market cycles).
+- "Learning from the countryside", *Journal of Chinese Architecture and Urbanism* 5(4), 2023, [p. 42](https://article.accscience.com/read-online/full-issue/JCAU/5-4/files/basic-html/page42.html) (Skinner's 6,000–12,000 people per market community).
+- Cambridge University Press, [The centralisation of minting, 1158–1278](https://www.cambridge.org/core/product/BAB60F5AA97FCDDD4729311D2BAB950B) (chapter page for Allen 2012).
+- CoinWeek, [Medieval English Coins – The Coins of Æthelred the Unready](https://coinweek.com/ancient-coins/medieval-english-coins-the-coins-of-aethelred-the-unready/) (Michael Shutterly, 2021: one type struck at no fewer than 64 mints).
 - Magna Carta Project (University of East Anglia), [Clause 17](https://magnacarta.cmp.uea.ac.uk/read/magna_carta_1215/Clause_17).
 - Archaeology Data Service, [Domesday Shires and Hundreds of England](https://archaeologydataservice.ac.uk/archives/collections/view/1003676/) (Brookes 2020), with its [general guide (PDF)](https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-3676-1/dissemination/LoG_GeneralGuide.pdf) giving 812 hundreds and the 4.6–982 km² size range.
 - Leicestershire history, [Manors and Estates](https://leicestershirehistory.co.uk/?p=330) (1279 Hundred Rolls figures).
@@ -453,4 +538,4 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 - McGraw-Hill, [Speed of News Traveling to Venice (map, c. 1500)](https://highered.mheducation.com/sites/dl/free/0076632857/314986/Speed_of_News_Traveling_to_Venice1.pdf).
 - Xixerone (travel site), [When and why Madrid became the capital of Spain](https://xixerone.com/en/when-and-why-madrid-became-the-capital-of-spain).
 
-Population, area and travel-speed figures follow the guide's shared baseline (Broadberry, Campbell et al.; Russell 1972; McEvedy & Jones 1978; Hill 1961). Figures marked "estimate" (duchy populations, county population ranges, travel-time zones) are derived by this guide from area × density and are not measured values.
+Population, area and travel-speed figures follow the guide's shared baseline (Broadberry, Campbell et al.; Russell 1972; McEvedy & Jones 1978; Hill 1961). Figures marked "estimate" or "derived" (duchy populations, county population ranges, travel-time zones, Chinese county sizes and spacing, the distance of the Breton retreat) are worked out by this guide from area, density or map distances and are not measured values.

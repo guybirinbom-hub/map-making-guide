@@ -55,16 +55,7 @@ Each mistake has three parts: **Why it looks wrong**, **Fix** and **Exception** 
 
 **Why it looks wrong:** In the Middle Ages, 85–95% of people lived in the countryside, and most were farmers. Each farmer could feed only a few town-dwellers. A city surrounded by forest, swamp or "wilderness" right up to its walls has nothing to eat.
 
-**Fix:** Draw a ring of fields, villages and mills around every town. Put gardens and orchards next to the walls, grain farther out, and pasture and woodland at the edge. Use these radii (from the shared baseline; real radii are larger when towns compete for food):
-
-| Town size | Farmland radius, good lowland | Farmland radius, poor land | Notes |
-|---|---|---|---|
-| 1,000 | 7–8 km (4–5 mi) | ~18 km (11 mi) | No water transport needed |
-| 10,000 | 21–27 km (13–17 mi) | ~55 km (35 mi) | A river or coast extends supply 2–10× along the waterway |
-| 50,000 | 46–59 km (29–37 mi) | ~125 km (78 mi) | Must have river or sea supply |
-| 100,000 | 65–84 km (40–52 mi) | ~180 km (110 mi) | Only possible by water |
-
-More detail is in [Feeding towns: the hinterland](02-population-and-sizes.md#feeding-towns-the-hinterland).
+**Fix:** Draw a ring of fields, villages and mills around every town. Put gardens and orchards next to the walls, grain farther out, and pasture and woodland at the edge. As a rule, a town of 1,000 needs farmland within about 7–8 km (4–5 mi) on good lowland, a town of 10,000 within 21–27 km (13–17 mi), and anything over 50,000 needs river or sea supply. The full table, including poor land, is in [Feeding towns: the hinterland](02-population-and-sizes.md#feeding-towns-the-hinterland).
 
 **Exception:** Cities with good water transport could eat grain grown hundreds of kilometres away (see mistake 4). Mining camps, salt works and frontier fortresses in barren land imported their food, like Taghaza.
 
@@ -83,7 +74,7 @@ More detail is in [Feeding towns: the hinterland](02-population-and-sizes.md#fee
 
 > **Later era (1500s+):** Canals with pound locks (a chamber with a gate at each end, which raises or lowers boats) appeared in the Low Countries in the late 14th century. Eighteen were built on a Milanese canal, the Naviglio di Bereguardo, in 1452–58. After 1500, canals and canalised rivers (rivers deepened and fitted with locks) spread, so an inland city can grow if you draw its canal. Madrid, made the permanent seat of the Spanish court in 1561, grew large without a navigable river, but feeding it was a constant problem. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Map tip:** Draw water first, then farmland, then towns. Shade a farmland ring around each town using the table above. Then check: does every town over 10,000 touch navigable water? If not, add a canal, an irrigated plain or a caravan route, or make the town smaller.
+> **Map tip:** Draw water first, then farmland, then towns. Shade a farmland ring around each town using the radii above. Then check: does every town over 10,000 touch navigable water? If not, add a canal, an irrigated plain or a caravan route, or make the town smaller.
 
 ---
 
@@ -104,9 +95,9 @@ Use this table to check the numbers on your map. It is for settled lowland in th
 
 ### 5. Too few settlements
 
-**Why it looks wrong:** Many fantasy maps show five towns in an area the size of England. Real England c. 1300 had about 9,500 parishes, more than 600 boroughs (towns with special legal rights) and about 1,746 places with a market grant, all on 130,000 km² (50,000 sq mi). A traveller in settled lowland passed a village every 2–4 km (1–2.5 mi).
+**Why it looks wrong:** Many fantasy maps show five towns in an area the size of England. Real England c. 1300 had about 9,500 parishes, more than 600 boroughs (towns with special legal rights) and about 1,746 places with a market grant, all on 130,000 km² (50,000 sq mi). A traveller in settled lowland passed a village every 1.5–4 km (1–2.5 mi).
 
-A related mistake is to space villages a day's journey apart, about 30–40 km (19–25 mi). That is the distance between overnight stops for a traveller, not between villages.
+A related mistake is to space villages a day's journey apart, about 25–35 km (15–22 mi). That is a traveller's day on foot, not the distance between villages.
 
 **Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or small dots to stand for the villages. At local scale, draw villages 1.5–4 km (1–2.5 mi) apart in good land. See [Villages, Farms and the Countryside](06-villages-and-countryside.md).
 
@@ -169,7 +160,7 @@ A related mistake is to space villages a day's journey apart, about 30–40 km (
 | Venice, Milan, Florence, Genoa | 85,000–150,000 each |
 | London | 60,000–100,000 |
 | York, Bristol (1377, after the plague) | ~11,000 and ~9,500 |
-| The next ten or so English towns (1377) | 4,000–5,000 each |
+| The next ten or so English towns (1377) | about 3,500–5,500 each |
 
 **Fix:** In England and France c. 1300, the largest city held only about 1–2% of the realm's people (this guide's estimate from baseline numbers). Size the capital from the realm's population, then make the next cities much smaller. See [The rank-size rule and primate cities](02-population-and-sizes.md#the-rank-size-rule-and-primate-cities).
 
@@ -267,7 +258,7 @@ A new pass can make a region rich. The Gotthard route ran through Uri, and contr
 
 **Fix:** Put a stop at every day's stage: 30–40 km (19–25 mi) apart on plains and desert, and 10 km (6 mi) or less in mountains. Each stop needs a well, cistern or oasis. Along trade roads these stops were often *caravanserais*: walled inns built around a courtyard for travellers and their animals.
 
-**Real example:** The Darb Zubaydah pilgrim road ran about 1,300 km (800 mi) from Kufa in Iraq to Mecca. It had 27 main stations, on average about 50 km (30 mi) apart, with smaller rest stops between them, plus wells, cisterns, reservoirs and dams. It was built and kept up mainly under the Abbasid caliphs, between 750 and 1258. Trans-Saharan caravans moved from oasis to well. Ibn Battuta took 25 days from Sijilmasa to Taghaza in 1352.
+**Real example:** The Darb Zubayda pilgrim road ran about 1,300 km (800 mi) from Kufa in Iraq to Mecca. It had 27 main stations, on average about 50 km (30 mi) apart, with smaller rest stops between them, plus wells, cisterns, reservoirs and dams. It was built and kept up mainly under the Abbasid caliphs, between 750 and 1258. Trans-Saharan caravans moved from oasis to well. Ibn Battuta took 25 days from Sijilmasa to Taghaza in 1352.
 
 **Exception:** A route can cross a waterless stretch of a few days if travellers carry water in skins and know the way. Draw it as a dangerous "dry stretch" and write the number of days on it.
 
@@ -288,17 +279,7 @@ A new pass can make a region rich. The Gotthard route ran through Uri, and contr
 
 **Why it looks wrong:** Many maps have no scale, or a scale that breaks the story: an army crosses a 2,000 km (1,250 mi) empire in a week, or a "nearby" town is 300 km (190 mi) away. Readers notice.
 
-| Mode | km per day | mi per day |
-|---|---|---|
-| Walking traveller | 25–35 | 15–22 |
-| Large army with baggage | 13–20 | 8–12 |
-| Ox cart | 15–25 | 10–15 |
-| Horse cart | 30–40 | 20–25 |
-| Rider, many days on one horse | 30–50 | 20–30 |
-| Royal messenger with changes of horse | 50–90 | 30–56 |
-| River boat, downstream | 40–100 | 25–60 |
-| River boat, upstream | 10–20 | 6–12 |
-| Sailing ship, voyage average | 40–100 | 25–60 |
+Use the speeds in [Speed per day](05-trade-routes-and-transport.md#speed-per-day): for example, a walker 25–35 km (15–22 mi) a day, an army with baggage 13–20 km (8–12 mi), a royal messenger 50–90 km (30–56 mi), and a sailing ship 40–100 km (25–60 mi) as a voyage average.
 
 **Fix:** Draw a scale bar first. Measure the important journeys and write them down. A kingdom 500 km (310 mi) wide is 15–20 days' walk across, and 25–40 days for an army. Popular gaming rules are often too fast. *Dungeons & Dragons* (5th edition) has travellers on foot cover 24 miles (39 km) a day at a normal pace and 30 miles (48 km) at a fast pace. That is a good day for a rider on a road, but too fast for walkers over many days, and much too fast for armies and carts.
 
@@ -338,10 +319,14 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 | Situation | One castle per | Average spacing | Real basis |
 |---|---|---|---|
-| Newly conquered or contested land (11th–12th centuries) | 250–300 km² (95–115 sq mi), or about 3,000–4,000 people | 15–18 km (9–11 mi) | England and Wales after 1066: 500–600 in use on about 150,000 km² (58,000 sq mi) |
+| Whole realm after a conquest: castles in use at one time (11th–12th centuries) | 250–300 km² (95–115 sq mi), or about 3,000–4,000 people | 15–18 km (9–11 mi) | England and Wales after 1066: 500–600 in use on about 150,000 km² (58,000 sq mi) |
+| March or contested border (all castle sites) | 17–28 km² (7–11 sq mi) | 4–6 km (2.5–4 mi) | Welsh March (see [chapter 04](04-military-sites.md#borderlands-and-conquered-land)) |
+| Peaceful core of a kingdom (castles in use) | — | 20–30 km (12–19 mi) (estimate) | Eastern England: a castle in each county town plus a few baronial seats (see [chapter 04](04-military-sites.md#borderlands-and-conquered-land)) |
 | Royal castle chain along a frontier | — | 20–40 km (12–25 mi) along the line | Edward I's North Wales castles, all supplied by sea |
 | Fragmented lordship (many small towers, all periods together) | ~10 km² (4 sq mi) | 3–4 km (2–2.5 mi) | Switzerland: ~4,000 sites on 41,000 km² (16,000 sq mi) |
 | Popular gaming rule | 50,000 people | — | Less than one-tenth of what Norman England actually had |
+
+**Fix:** Do not spread the national average evenly. It mixes very different zones: the Welsh March had roughly 5–10 times as many castle sites per km² as peaceful eastern England. Put most castles along borders, at river crossings and around rich towns, and keep the safe middle of the realm thinner.
 
 **Exception:** Peaceful, centralised realms needed fewer working castles. Many early earth-and-timber castles were abandoned within a century or two. So a late medieval map can show fewer working castles and more castle ruins.
 
@@ -417,9 +402,9 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 **Why it looks wrong:** If everything was built at once, the map looks like a stage set. Real medieval landscapes were full of older things:
 
-| Older layer | Numbers (Britain and England) |
+| Older layer | Numbers (Britain and Ireland) |
 |---|---|
-| Iron Age hillforts (earth-walled hilltop enclosures, c. 700 BC–AD 43) | Over 2,000 in Britain; nearly 600 in Wales |
+| Iron Age hillforts (earth-walled hilltop enclosures, c. 700 BC–AD 43) | 4,147 in Britain and Ireland (Atlas of Hillforts, 2017; see [Ancient and ruined layers](08-religious-cultural-and-ancient-sites.md#ancient-and-ruined-layers)), most of them in Britain (Scotland about 1,700, England about 1,220) |
 | Roman roads, forts, walls and towns | Many roads still in use in the Middle Ages |
 | Early castles abandoned or replaced | Of ~1,700 castle sites in England and Wales, only 500–600 were in use at any one time |
 | Deserted villages | More than 3,000 known in England from all periods; at least 1,500 abandoned c. 1350–1520, most in the 15th century when fields were turned into sheep pasture |
@@ -518,7 +503,7 @@ Answer yes or no. Every "no" is a place to look again.
 - Roads end at something and cross mountains at passes. Bridges over big rivers are few, and desert routes need water every 30–40 km (19–25 mi).
 - Ports need shelter. Dunwich and Bruges show what happens when a harbour fails.
 - Draw a scale bar. Walkers make 25–35 km (15–22 mi) a day and armies only 13–20 km (8–12 mi).
-- Every castle controls something. Contested land had about one castle per 250–300 km² (95–115 sq mi), but only about one English borough in four to six was walled.
+- Every castle controls something. After 1066 England and Wales had about one castle in use per 250–300 km² (95–115 sq mi), and contested borders far more (a castle site every 4–6 km, or 2.5–4 mi, in the Welsh March). Only about one English borough in four to six was walled.
 - Give every region food plus a speciality, and every remote town a reason.
 - Add ruins and older layers, pick a date, and keep later inventions off the map.
 - Label from big to small, above-right of (or directly above) points, with 2–3 fonts at most.
@@ -539,6 +524,7 @@ Answer yes or no. Every "no" is a place to look again.
 - Ibn Battuta. *The Travels of Ibn Battuta* (journeys 1325–1354; trans. H. A. R. Gibb).
 - Imhof, Eduard. "Positioning Names on Maps." *The American Cartographer* 2 (1975).
 - Jones, Diana Wynne. *The Tough Guide to Fantasyland*. 1996 (a satire of fantasy clichés, including maps).
+- Lock, Gary, and Ian Ralston. *Atlas of Hillforts of Britain and Ireland*. Online database, University of Oxford, University of Edinburgh and University College Cork, 2017 (4,147 sites).
 - Masschaele, James. "Transport Costs in Medieval England." *Economic History Review* 46 (1993).
 - Ross, S. John. *Medieval Demographics Made Easy*. First written 1993; the current PDF is version 1.10 (copyright 1993, 1999–2018).
 - Salter, Mike. *Medieval Walled Towns*. Malvern: Folly Publications, 2013.
@@ -564,6 +550,7 @@ Answer yes or no. Every "no" is a place to look again.
 - Archaeology Data Service, [The Routes and Roads of the Gough Map: GIS Database](https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm) (about 190 route lines, nine-tenths with distances).
 - Gatehouse Gazetteer, [Salter, *Medieval Walled Towns* (2013)](https://gatehouse-gazetteer.info/Books/booktext/mwtms.html).
 - Medievalists.net, [Creighton, "Castles of Communities": medieval town defences in England, Wales and Gascony](https://www.medievalists.net/2010/08/castles-of-communities-medieval-town-defences-in-england-wales-and-gascony/).
+- University of Edinburgh, [Experts map hillforts of UK and Ireland](https://cahss.ed.ac.uk/news-events/news/current-news/experts-map-hill-forts-of-uk-and-ireland) (4,147 sites: 1,695 in Scotland, 1,224 in England); Smithsonian Magazine, [Explore Ancient British Isles Hill Forts with a New Online Atlas](https://www.smithsonianmag.com/smart-news/explore-ancient-british-isles-hill-forts-using-new-online-atlas-180963803/) (2017).
 - English Heritage, [History of Berwick-upon-Tweed Castle and Ramparts](https://www.english-heritage.org.uk/visit/places/berwick-upon-tweed-castle-and-ramparts/history/).
 - Britannica, [Kutná Hora](https://www.britannica.com/place/Kutna-Hora).
 

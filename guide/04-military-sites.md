@@ -1,6 +1,6 @@
 # Castles, Forts and Military Outposts
 
-Castles are the most "fantasy" feature on a medieval map, and also the easiest to get wrong. Real castles were not scattered at random. Each one controlled something: a road, a river crossing, a town, a border or an estate. This chapter explains what fortifications were for, the main types and their dates, where they were built, how many there were and how far apart, how big their garrisons and armies were, how armies moved and were fed, and how to draw all of this on your map.
+Castles are the most "fantasy" feature on a medieval map, and also the easiest to get wrong. Real castles were not scattered at random. Each one controlled something: a road, a river crossing, a town, a border or an estate. This chapter explains what fortifications were for, the main types and their dates, where they were built, how many there were and how far apart, how big their garrisons and armies were, how armies moved, camped and were fed, and how to draw all of this on your map.
 
 **In this chapter:**
 
@@ -11,6 +11,7 @@ Castles are the most "fantasy" feature on a medieval map, and also the easiest t
 - [Castles and towns](#castles-and-towns)
 - [Garrisons and armies](#garrisons-and-armies)
 - [Military geography and logistics](#military-geography-and-logistics)
+- [Camps and siege towns](#camps-and-siege-towns)
 - [Outposts in wild and contested land](#outposts-in-wild-and-contested-land)
 - [Watchtowers, beacons and coastal warning](#watchtowers-beacons-and-coastal-warning)
 - [Where battles happen](#where-battles-happen)
@@ -230,7 +231,7 @@ Army speeds follow the guide's shared baseline (details in [Trade Routes, Roads 
 |---|---|
 | Large army with baggage | 13–20 km (8–12 mi) |
 | Army living off the land | 10–26 km (6–16 mi) |
-| Forced march, a few days only | 30–55 km (20–35 mi). Harold's march south in 1066 averaged about 43 km (27 mi) a day. |
+| Forced march, a few days only | 30–55 km (20–35 mi). Harold's march north to Yorkshire in 1066 covered about 300 km (185 mi) in perhaps 5–7 days (often said to be only four), about 43–60 km (27–37 mi) a day, probably partly mounted. |
 | Mounted force with spare horses | 55–65 km (35–40 mi) |
 
 **Campaign season.** Most campaigns ran from late spring, when there was grass for the horses, until after the harvest in autumn. Winter campaigns were rare. A vassal usually owed only **40 days** of military service a year, so feudal armies melted away during long sieges. There were exceptions: the Teutonic Order often raided Lithuania in winter, because then the rivers and marshes were frozen and could be crossed. Galley fleets mostly stayed in port in winter.
@@ -256,6 +257,55 @@ Army speeds follow the guide's shared baseline (details in [Trade Routes, Roads 
 > **Map tip:** For each realm, mark one or two muster towns near each threatened border, one main armoury (usually the capital), and one naval base if it has a coast. Draw the obvious invasion route between two rival realms: the shortest sea crossing or the easiest river valley. Then fortify both ends of it.
 
 > **Fantasy twist:** Magic that feeds armies (conjured food, bottomless wagons) removes the river rule. Armies could then march straight across dry land and besiege for months. That one change would make castles far less useful. If you allow it, make it rare and costly. See [Fantasy Variants](10-fantasy-variants.md).
+
+---
+
+## Camps and siege towns
+
+> **Rule of thumb:** An army that stays in one place for more than a few weeks turns its camp into a town, with streets, a market, workshops and a defended edge, all fed by boat or by the main road. Most of these camps vanish when the war ends. A few become real towns.
+
+**Why camps matter.** A field army of 10,000–30,000 people (see [Garrisons and armies](#garrisons-and-armies)) is bigger than almost every town in its own kingdom. When it stops for a long siege or for the winter, it needs shelter, food markets, smiths, carpenters and stables. It also needs a defended edge, because it can be attacked from the besieged town and by a relief army from outside. Merchants, servants and other camp followers come with it. So a long siege camp looks and works like a town of timber, thatch and canvas. Like the castles in [Military geography and logistics](#military-geography-and-logistics), it sits where boats or a main road can supply it.
+
+### Kinds of camp
+
+| Kind | How long it lasts | What it looks like | Size | Real examples |
+|---|---|---|---|---|
+| Overnight marching camp | One night to a few days | Roman armies: rows of tents inside a bank and ditch. Medieval armies: tents and rough shelters, usually with only light defences | Roman camps from under 1 ha to 67 ha (165 acres); most 10–18 ha (25–45 acres) | Roman camps in Scotland, a day's march apart along the campaign roads |
+| Winter camp | One winter, several months | Naturally strong ground beside a river, with boats drawn up, workshops and trading | Torksey: at least 55 ha (136 acres) | The Viking "Great Army" at Torksey, England, winter 872–73 |
+| Siege camp-town | Months, up to about a year | Timber houses and huts around the besieged town, a market, stables, a fenced or ditched edge, and the commander's own quarters | For an army of about 10,000–30,000 | Calais 1346–47; Neuss 1474–75 |
+| Permanent siege town | Built to last | A small walled town on a planned grid, built to show the enemy that the besiegers will not leave | Santa Fe: about 335 × 260 m (1,100 × 850 ft), about 9 ha (22 acres) | Santa Fe near Granada, 1491 |
+
+### Camps that became towns (or nearly did)
+
+- **Torksey, 872–73 (England; earlier than this guide's baseline period).** The Viking Great Army spent the winter on higher ground beside the River Trent, partly surrounded by marsh. The camp covered at least 55 ha (136 acres), bigger than York at the time, and held several thousand people, including warriors, craftworkers and traders. They repaired boats, melted looted silver and gold into ingots, made and traded goods. After the army left, Torksey grew into an important Anglo-Saxon *burh* (fortified town) with a pottery industry. Archaeologists see the camp as a trigger for the later town.
+- **Calais, 1346–47 (northern France).** Edward III besieged Calais for 11 months (4 September 1346 to 3 August 1347). His army built a temporary town on firm ground in the marsh, along the causeway road about 800 m (half a mile) from the walls. They called it *Villeneuve-la-Hardie* ("Bold New Town"). It had timber halls for the king and nobles, market halls, stables and thousands of huts of brushwood and thatch. Markets were held twice a week, and observers said its meat and cloth markets looked like those of Arras or Amiens. At its height it held more people than any English town except London. Supplies came by sea: 853 ships with 24,000 sailors served the siege at one time or another. It did not survive as a town: once Calais fell, Edward expelled the French townspeople and settled English colonists inside the captured city instead.
+- **Neuss, 1474–75 (Rhineland, Germany).** Charles the Bold, Duke of Burgundy, surrounded Neuss, a fortified town of about 4,000 people, with an army of about 14,000 (estimates run from 13,000 to 20,000). He expected a siege of a few days or weeks. It lasted about ten months, from 29 July 1474 until a relief army sent by the Emperor and peace talks ended it in late May and June 1475. By mid-August 1474 the town was completely shut in. Charles kept his court in the camp in great luxury. His courtier Olivier de La Marche is quoted as calling the camp "like a city", with craftsmen, merchants, barbers, inns and taverns, and even windmills. Disease still spread through it.
+- **Santa Fe, 1491 (near Granada, Spain).** In the last campaign against the Muslim kingdom of Granada, Ferdinand and Isabella set up their royal camp in April 1491 on the open plain (the *Vega*), about 10 km (6 mi) west of the city and within sight of its walls. They began building a real walled town almost at once. In July 1491 a fire destroyed much of the tent camp. Older accounts say the town was built only after the fire, but recent research shows building had already begun. Chroniclers say the work took about eighty days. In October 1491 the royal court's historian, Peter Martyr, described it as nearly rectangular, about 400 by 312 paces (about 335 × 260 m, 1,100 × 850 ft), with battlemented walls, moats and towers, a square in the middle and a gate in each of the four sides. Two main streets crossed at that square, and the moat was filled from the plain's irrigation channels. Granada agreed to surrender in November 1491. In 1492 the camp became a town (*villa*), and its land was shared out among about 200 settler households. Santa Fe still exists; some of its gates still stand, and the old grid can still be seen.
+
+### Roman marching camps as old earthworks
+
+Roman armies on campaign built a defended camp at the end of each day's march. On a medieval map these camps are part of the older layer of the landscape: low banks in moorland or marks in fields (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)).
+
+- **How many:** nearly 500 are recorded in Britain, almost half of them in Scotland. No other Roman province has so many known, mostly because of aerial photography.
+- **Shape:** the classic "playing-card" plan, a rectangle with rounded corners, made of one earth bank (**rampart**) and an outer ditch. Many real camps are less regular.
+- **Gates:** most often 4 or 6, sometimes fewer (the Roman writer Hyginus describes a model camp with six). Each gate was a gap in the bank, usually guarded by a short bank and ditch set in front of it (a *titulus*), so attackers could not rush straight in.
+- **Where:** beside Roman roads and forts, often just after a river crossing. Near some frontier forts, at river crossings and road junctions, are "gathering grounds" where armies camped again and again before a campaign.
+- **Spacing:** camps built on the same campaign lie about a day's march apart: in Scotland mostly 11–24 km (7–15 mi), less across hills.
+
+| Camp size | Area | Roughly how wide (estimate) | Examples (Scotland) |
+|---|---|---|---|
+| Small | 1–5 ha (2.5–12 acres) | 100–220 m (330–720 ft) | Pennymuir II, 3.9 ha (9.7 acres) |
+| Common | 10–18 ha (25–45 acres) | 320–420 m (1,050–1,400 ft) | Pennymuir I: almost 18 ha (44 acres), 520 × 343 m (1,710 × 1,125 ft), probably six gates |
+| Large campaign series | 25 ha (63 acres) | about 500 m (1,650 ft) | About 20 camps in two lines north of the Forth, from the Stirling area towards Stracathro |
+| Very large campaign series | 45–67 ha (110–165 acres) | 670–820 m (0.4–0.5 mi) | Camps north of the Forth (45–54 ha) and on Dere Street, the main Roman road north through southern Scotland (67 ha) |
+
+**How many soldiers?** Pennymuir I is said to have had room for two full legions, roughly 8,000–12,000 men. That is very roughly 500–700 soldiers per hectare (estimate). So an army of 10,000 in a tight, ordered camp needs about 15–20 ha (35–50 acres). A looser medieval camp, with baggage, horses and camp followers, spread far wider: the Viking camp at Torksey covered at least 55 ha for several thousand people.
+
+> **Map tip:** On a local map of a siege, draw the besieged town first. Then draw the camp as a rectangle or ring of huts and tents on dry ground beside the main road or the river landing, a few hundred metres to about 1 km (0.6 mi) from the walls, with a market square and the commander's quarters inside. Give it a name, as real soldiers did (*Villeneuve-la-Hardie*). For 10,000 soldiers, allow about 15–20 ha, roughly 400 × 450 m (1,300 × 1,500 ft), and more for horses and followers. On a kingdom map a siege camp is only a symbol, and only on a map with a date. On a later map, leave old camps as rectangular earthworks labelled "Camp" or "Roman Camp", or, if the besiegers won and stayed, as a small grid-planned town with a religious or military name (*Santa Fe* means "Holy Faith").
+
+> **Later era (1500s+):** Santa Fe's plan, two main streets crossing at a central square with a gate at each end, is often seen as a forerunner of the grid towns that Spain planted in the Americas. See [What Changes After 1500](09-later-era-1500-1650.md).
+
+> **Fantasy twist:** Where monsters roam the wilds, every army halt needs a defended camp, as the Romans built every evening. Draw chains of square earthwork camps a day's march apart along old campaign roads, and let a few of them grow into towns.
 
 ---
 
@@ -354,6 +404,7 @@ The defender usually picks ground with a slope in front and protected flanks: wo
 | Coastal tower | Small circle on a headland | Later era especially |
 | Arsenal or naval base | Anchor plus a castle tower | |
 | Siege castle | Small dashed castle near its target | Short-lived; show only for a dated map |
+| Army or siege camp | Dashed rectangle with rounded corners, labelled with its name or "camp" | Dated maps only. An old Roman or abandoned camp: the same outline drawn grey, labelled "Camp" |
 | Battlefield | Crossed swords and the year | |
 | Star fort (1500s+) | Five- or six-pointed star outline | Later era only |
 | Ruin | Any symbol drawn broken, grey or dotted, labelled "(ruin)" | |
@@ -363,7 +414,7 @@ The defender usually picks ground with a slope in front and protected flanks: wo
 - In England only about one-third of all castle sites were in use at any one time. The rest were abandoned, never finished, or replaced.
 - So a map dated 1300 should show many **abandoned mottes and ringworks** from the 1070s–1150s, especially in old border zones that are now peaceful.
 - By 1450, many 12th-century castles were half-ruined. The crown kept up only the important ones.
-- Old hillforts and Roman forts are often reused (Old Sarum, Pevensey). Others stay as grassy earthworks with names like "Castle Hill" or "Camp". Ancient ruins in general are covered in [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md).
+- Old hillforts and Roman forts are often reused (Old Sarum, Pevensey). Others stay as grassy earthworks with names like "Castle Hill" or "Camp" (old army camps are covered in [Camps and siege towns](#camps-and-siege-towns)). Ancient ruins in general are covered in [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md).
 
 > **Rule of thumb:** For every active castle, draw one or two ruins or earthworks in long-settled land. In a peaceful core, more ruins; in a newly conquered frontier, almost none (everything there is new).
 
@@ -404,6 +455,7 @@ The "active" column assumes about one-third of sites are in use at once, as in E
 - Garrisons were tiny: 5–20 in peace, 30–60 for a new frontier castle, a few hundred (rarely up to about 1,200) in a great siege. Only giant frontier fortresses held 2,000 or more.
 - Field armies were about 0.2–0.5% of a realm's population: 10,000–15,000 for England in the 1300s, briefly 32,000 at most.
 - Armies march 13–20 km (8–12 mi) a day, campaign from late spring to autumn, and follow rivers and coasts for supply. A stationary army eats out the land within weeks.
+- Long sieges and winter quarters turn camps into temporary towns with markets (Calais 1346–47, Neuss 1474–75); a few became real towns (Torksey, Santa Fe 1491). Roman marching camps (nearly 500 known in Britain, mostly 10–25 ha, a day's march apart) survive as rectangular "camp" earthworks.
 - Add muster towns near borders, an armoury in the capital, an arsenal at the main port, toll castles on river gorges and beacon chains from the border to the capital.
 - Battles happen at crossings, near sieges and on roads to capitals and ports, and are named after the nearest village.
 
@@ -416,6 +468,7 @@ The "active" column assumes about one-third of sites are in use at once, as in E
 - Ayton, Andrew, and Philip Preston. *The Battle of Crécy, 1346*. Boydell, 2005.
 - Bartlett, Robert. *The Making of Europe: Conquest, Colonization and Cultural Change 950–1350*. 1993.
 - Brown, R. Allen. *English Castles*. 3rd ed. 1976.
+- Burne, Alfred H. *The Crécy War*. 1955; reprinted 1999.
 - Contamine, Philippe. *War in the Middle Ages*. 1980; English translation 1984.
 - Coulson, Charles. *Castles in Medieval Society: Fortresses in England, France, and Ireland in the Central Middle Ages*. Oxford University Press, 2003.
 - Creighton, Oliver. *Castles and Landscapes: Power, Community and Fortification in Medieval England*. 2002.
@@ -423,15 +476,25 @@ The "active" column assumes about one-third of sites are in use at once, as in E
 - Curry, Anne. *Agincourt: A New History*. 2005.
 - Duffy, Christopher. *Siege Warfare: The Fortress in the Early Modern World 1494–1660*. 1979.
 - Gillingham, John. "Richard I and the Science of War in the Middle Ages." In *War and Government in the Middle Ages*, ed. J. Gillingham and J. C. Holt, 1984.
+- Hadley, Dawn M., and Julian D. Richards. "The Winter Camp of the Viking Great Army, AD 872–3, Torksey, Lincolnshire." *The Antiquaries Journal* 96 (2016): 23–67.
+- Hadley, Dawn M., Julian D. Richards, et al. "Torksey after the Vikings: Urban Origins in England." *The Antiquaries Journal* (2023).
 - Haldon, John. *Warfare, State and Society in the Byzantine World, 565–1204*. 1999.
+- Jones, Rebecca H. *Roman Camps in Scotland*. Society of Antiquaries of Scotland, 2011. [Open-access edition](https://books.socantscot.org/digital-books/catalog/book/26) (chapters on distribution, field evidence, "series" of camps, and the gazetteer).
 - Kennedy, Hugh. *Crusader Castles*. Cambridge University Press, 1994.
 - King, D. J. Cathcart. *Castellarium Anglicanum*. 1983.
+- Lambert, Craig L. *Shipping the Medieval Military: English Maritime Logistics in the Fourteenth Century*. Boydell, 2011.
 - Lane, Frederic C. *Venice: A Maritime Republic*. 1973.
 - Liddiard, Robert. *Castles in Context: Power, Symbolism and Landscape, 1066 to 1500*. 2005.
+- López Medina, Celia María, Diego Arcauz Stembert, José María Martín Civantos, et al. "El sistema defensivo del real de Santa Fe (Granada)." *Revista del CEHGR* 38 (2026): 33–49. Online at [cehgr.es](https://cehgr.es/index.php/cehgr/article/download/188/115/142).
+- Montoya Martínez, Jesús. "Santa Fe (Sancte Foy, en francés; Sancta Fée, Santafé, en castellano): hagiónimo aplicable al «Campamento de Santa Fe»." Online at [medievalistas.es](https://medievalistas.es/wp-content/uploads/attachments/00342.pdf).
 - Parker, Geoffrey. *The Military Revolution: Military Innovation and the Rise of the West, 1500–1800*. 1988.
+- Peinado Santaella, Rafael G. *La fundación de Santa Fe (1491–1520): Estudios y documentos*. Universidad de Granada, 1995.
 - Prestwich, Michael. *Armies and Warfare in the Middle Ages: The English Experience*. 1996.
+- Putnam, Ruth. *Charles the Bold, Last Duke of Burgundy, 1433–1477*. 1908 (Project Gutenberg edition).
+- Sumption, Jonathan. *The Hundred Years War I: Trial by Battle*. 1990.
 - Taylor, Arnold. *The Welsh Castles of Edward I*. 1986.
 - Turnbull, Stephen. *Crusader Castles of the Teutonic Knights (1): The Red-Brick Castles of Prussia 1230–1466*. Osprey, 2003.
+- Vaughan, Richard. *Charles the Bold: The Last Valois Duke of Burgundy*. 1973; reprinted 2002.
 - Verbruggen, J. F. *The Art of Warfare in Western Europe during the Middle Ages*. 1954; English translation 1977, 2nd ed. 1997.
 
 **Web pages consulted**
@@ -440,8 +503,13 @@ The "active" column assumes about one-third of sites are in use at once, as in E
 - Bret Devereaux, A Collection of Unmitigated Pedantry, [Logistics, How Did They Do It, Part I: The Problem](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/) (2022; rations and fodder) and [Part II: Foraging](https://acoup.blog/2022/07/29/collections-logistics-how-did-they-do-it-part-ii-foraging/) (2022).
 - English Heritage, [The great siege of Dover Castle, 1216](https://english-heritage.org.uk/visit/inspire-me/blog/blog-posts/the-great-siege-of-dover-castle-1216).
 - University of Southampton, [The truth about Agincourt](https://cdn.southampton.ac.uk/news/2016/05/the-truth-about-agincourt.page) (Anne Curry's figures).
-- Wikipedia: [Castle](https://en.wikipedia.org/wiki/Castle); [Castles in Great Britain and Ireland](https://en.wikipedia.org/wiki/Castles_in_Great_Britain_and_Ireland); [Concentric castle](https://en.wikipedia.org/wiki/Concentric_castle); [Shell keep](https://en.wikipedia.org/wiki/Shell_keep); [Motte-and-bailey castle](https://en.wikipedia.org/wiki/Motte-and-bailey_castle); [Harlech Castle](https://en.wikipedia.org/wiki/Harlech_Castle); [Conwy Castle](https://en.wikipedia.org/wiki/Conwy_Castle); [Caernarfon Castle](https://en.wikipedia.org/wiki/Caernarfon_Castle); [Caerphilly Castle](https://en.wikipedia.org/wiki/Caerphilly_Castle); [Framlingham Castle](https://en.wikipedia.org/wiki/Framlingham_Castle); [Safed](https://en.wikipedia.org/wiki/Safed); [Siege of Kenilworth](https://en.wikipedia.org/wiki/Siege_of_Kenilworth); [Licence to crenellate](https://en.wikipedia.org/wiki/Licence_to_crenellate); [Tower house](https://en.wikipedia.org/wiki/Tower_house); [Tower houses in Britain and Ireland](https://en.wikipedia.org/wiki/Tower_houses_in_Britain_and_Ireland); [Fortified church](https://en.wikipedia.org/wiki/Fortified_church); [Defensive wall](https://en.wikipedia.org/wiki/Defensive_wall); [Murage](https://en.wikipedia.org/wiki/Murage); [Pont Valentré](https://en.wikipedia.org/wiki/Pont_Valentr%C3%A9); [Monnow Bridge](https://en.wikipedia.org/wiki/Monnow_Bridge); [Old Sarum](https://en.wikipedia.org/wiki/Old_Sarum); [Siege castle](https://en.wikipedia.org/wiki/Siege_castle); [Krak des Chevaliers](https://en.wikipedia.org/wiki/Krak_des_Chevaliers); [Gormaz Castle](https://en.wikipedia.org/wiki/Gormaz_Castle); [Thughur](https://en.wikipedia.org/wiki/Thughur); [Fortifications of the Maghreb](https://en.wikipedia.org/wiki/Fortifications_of_the_Maghreb); [Ribat of Monastir](https://en.wikipedia.org/wiki/Ribat_of_Monastir); [Ribat of Sousse](https://en.wikipedia.org/wiki/Ribat_of_Sousse); [Montfort Castle](https://en.wikipedia.org/wiki/Montfort_Castle); [Albi Cathedral](https://en.wikipedia.org/wiki/Albi_Cathedral); [Ordensburg](https://en.wikipedia.org/wiki/Ordensburg); [Malbork Castle](https://en.wikipedia.org/wiki/Malbork_Castle); [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar); [Commandery (feudalism)](https://en.wikipedia.org/wiki/Commandery_(feudalism)); [Robber baron (feudalism)](https://en.wikipedia.org/wiki/Robber_baron_(feudalism)); [Pfalzgrafenstein Castle](https://en.wikipedia.org/wiki/Pfalzgrafenstein_Castle); [Sooneck Castle](https://en.wikipedia.org/wiki/Sooneck_Castle); [Rhine Gorge](https://en.wikipedia.org/wiki/Rhine_Gorge); [Bastide](https://en.wikipedia.org/wiki/Bastide); [Byzantine beacon system](https://en.wikipedia.org/wiki/Byzantine_beacon_system); [Genoese towers in Corsica](https://en.wikipedia.org/wiki/Genoese_towers_in_Corsica); [Venetian Arsenal](https://en.wikipedia.org/wiki/Venetian_Arsenal); [Barcelona Royal Shipyard](https://en.wikipedia.org/wiki/Barcelona_Royal_Shipyard); [Battle of Hastings](https://en.wikipedia.org/wiki/Battle_of_Hastings); [Battle of Falkirk](https://en.wikipedia.org/wiki/Battle_of_Falkirk); [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy); [Siege of Calais (1346–1347)](https://en.wikipedia.org/wiki/Siege_of_Calais_(1346%E2%80%931347)); [Battle of Agincourt](https://en.wikipedia.org/wiki/Battle_of_Agincourt); [Battle of Lincoln (1217)](https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1217)); [Device Forts](https://en.wikipedia.org/wiki/Device_Forts); [Bastion fort](https://en.wikipedia.org/wiki/Bastion_fort).
+- Wikipedia: [Castle](https://en.wikipedia.org/wiki/Castle); [Castles in Great Britain and Ireland](https://en.wikipedia.org/wiki/Castles_in_Great_Britain_and_Ireland); [Concentric castle](https://en.wikipedia.org/wiki/Concentric_castle); [Shell keep](https://en.wikipedia.org/wiki/Shell_keep); [Motte-and-bailey castle](https://en.wikipedia.org/wiki/Motte-and-bailey_castle); [Harlech Castle](https://en.wikipedia.org/wiki/Harlech_Castle); [Conwy Castle](https://en.wikipedia.org/wiki/Conwy_Castle); [Caernarfon Castle](https://en.wikipedia.org/wiki/Caernarfon_Castle); [Caerphilly Castle](https://en.wikipedia.org/wiki/Caerphilly_Castle); [Framlingham Castle](https://en.wikipedia.org/wiki/Framlingham_Castle); [Safed](https://en.wikipedia.org/wiki/Safed); [Siege of Kenilworth](https://en.wikipedia.org/wiki/Siege_of_Kenilworth); [Licence to crenellate](https://en.wikipedia.org/wiki/Licence_to_crenellate); [Tower house](https://en.wikipedia.org/wiki/Tower_house); [Tower houses in Britain and Ireland](https://en.wikipedia.org/wiki/Tower_houses_in_Britain_and_Ireland); [Fortified church](https://en.wikipedia.org/wiki/Fortified_church); [Defensive wall](https://en.wikipedia.org/wiki/Defensive_wall); [Murage](https://en.wikipedia.org/wiki/Murage); [Pont Valentré](https://en.wikipedia.org/wiki/Pont_Valentr%C3%A9); [Monnow Bridge](https://en.wikipedia.org/wiki/Monnow_Bridge); [Old Sarum](https://en.wikipedia.org/wiki/Old_Sarum); [Siege castle](https://en.wikipedia.org/wiki/Siege_castle); [Krak des Chevaliers](https://en.wikipedia.org/wiki/Krak_des_Chevaliers); [Gormaz Castle](https://en.wikipedia.org/wiki/Gormaz_Castle); [Thughur](https://en.wikipedia.org/wiki/Thughur); [Fortifications of the Maghreb](https://en.wikipedia.org/wiki/Fortifications_of_the_Maghreb); [Ribat of Monastir](https://en.wikipedia.org/wiki/Ribat_of_Monastir); [Ribat of Sousse](https://en.wikipedia.org/wiki/Ribat_of_Sousse); [Montfort Castle](https://en.wikipedia.org/wiki/Montfort_Castle); [Albi Cathedral](https://en.wikipedia.org/wiki/Albi_Cathedral); [Ordensburg](https://en.wikipedia.org/wiki/Ordensburg); [Malbork Castle](https://en.wikipedia.org/wiki/Malbork_Castle); [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar); [Commandery (feudalism)](https://en.wikipedia.org/wiki/Commandery_(feudalism)); [Robber baron (feudalism)](https://en.wikipedia.org/wiki/Robber_baron_(feudalism)); [Pfalzgrafenstein Castle](https://en.wikipedia.org/wiki/Pfalzgrafenstein_Castle); [Sooneck Castle](https://en.wikipedia.org/wiki/Sooneck_Castle); [Rhine Gorge](https://en.wikipedia.org/wiki/Rhine_Gorge); [Bastide](https://en.wikipedia.org/wiki/Bastide); [Byzantine beacon system](https://en.wikipedia.org/wiki/Byzantine_beacon_system); [Genoese towers in Corsica](https://en.wikipedia.org/wiki/Genoese_towers_in_Corsica); [Venetian Arsenal](https://en.wikipedia.org/wiki/Venetian_Arsenal); [Barcelona Royal Shipyard](https://en.wikipedia.org/wiki/Barcelona_Royal_Shipyard); [Battle of Hastings](https://en.wikipedia.org/wiki/Battle_of_Hastings); [Battle of Falkirk](https://en.wikipedia.org/wiki/Battle_of_Falkirk); [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy); [Siege of Calais (1346–1347)](https://en.wikipedia.org/wiki/Siege_of_Calais_(1346%E2%80%931347)); [Battle of Agincourt](https://en.wikipedia.org/wiki/Battle_of_Agincourt); [Battle of Stamford Bridge](https://en.wikipedia.org/wiki/Battle_of_Stamford_Bridge); [Siege of Neuss](https://en.wikipedia.org/wiki/Siege_of_Neuss); [Santa Fe, Spain](https://en.wikipedia.org/wiki/Santa_Fe,_Spain); [Battle of Lincoln (1217)](https://en.wikipedia.org/wiki/Battle_of_Lincoln_(1217)); [Device Forts](https://en.wikipedia.org/wiki/Device_Forts); [Bastion fort](https://en.wikipedia.org/wiki/Bastion_fort).
 - Dictionary entry [Bale](https://wehd.com/7/Bale_sb2.html) (quotes the wording of the Scottish beacon act of 1455).
-- German Wikipedia: [Rheinzoll](https://de.wikipedia.org/wiki/Rheinzoll) (numbers of Rhine toll stations, 12th–14th centuries); French Wikipedia: [Clos des Galées](https://fr.wikipedia.org/wiki/Clos_des_Galées) (Rouen royal galley yard).
+- German Wikipedia: [Rheinzoll](https://de.wikipedia.org/wiki/Rheinzoll) (numbers of Rhine toll stations, 12th–14th centuries) and [Belagerung von Neuss](https://de.wikipedia.org/wiki/Belagerung_von_Neuss) (army size, encirclement, end of the siege); French Wikipedia: [Clos des Galées](https://fr.wikipedia.org/wiki/Clos_des_Galées) (Rouen royal galley yard); Spanish Wikipedia: [Santa Fe (Granada)](https://es.wikipedia.org/wiki/Santa_Fe_(Granada)) (the "eighty days" tradition).
+- Stadt Neuss, [press release on the exhibition "Neuss 1474"](https://neuss.de/fileadmin/Pressedienst/pdf/20240411-0.pdf) (11 April 2024; army of 14,000, town of about 4,000, ten-month siege).
+- History of the Germans podcast, ["The Siege that Woke Up an Empire"](https://historyofthegermans.com/2025/11/neuss/) (quotes Olivier de La Marche on the Burgundian camp at Neuss).
+- Archivo Municipal de Santa Fe, ["El documento de la vitrina", June–September 2022](https://archivomunicipaldesantafe.es/plugins/arDatalibB5Plugin/images/exposiciones/documento_de_la_vitrina/vitrina_1.pdf) (founding documents of Santa Fe; Peter Martyr's description of October 1491; the 1492 land grants).
+- [Pennymuir marching camp](https://scotlandstartshere.com/point-of-interest/pennymuir-marching-camp/) (Scotland Starts Here) and History Hit, [Pennymuir Roman Camps](https://www.historyhit.com/locations/pennymuir-roman-camps/) (capacity of the largest camp).
+- Sci.News, ["Archaeologists Uncover Viking Army Camp in England"](https://www.sci.news/archaeology/viking-army-camp-04877.html) (summary of Hadley and Richards 2016); University of York, ["Torksey after the Vikings: urban origins in England"](https://pure.york.ac.uk/portal/en/publications/torksey-after-the-vikings-urban-origins-in-england/) (abstract).
 
-Population figures, travel speeds, total castle counts, the control-radius heuristic and the Harlech and Safed garrisons follow the guide's shared baseline. Figures marked "estimate" (gaps between castles, active-castle densities outside England, cartloads per day, beacon spacing, army shares of population, distances between Edward I's and the Teutonic Order's castles, and distances from Ashkelon to its ring of castles, measured in straight lines on a modern map) are derived by this guide from the sources above and are not measured values.
+Population figures, travel speeds, total castle counts, the control-radius heuristic and the Harlech and Safed garrisons follow the guide's shared baseline. Figures marked "estimate" (gaps between castles, active-castle densities outside England, cartloads per day, beacon spacing, army shares of population, distances between Edward I's and the Teutonic Order's castles, distances from Ashkelon to its ring of castles and from Santa Fe to Granada, measured in straight lines on a modern map; the widths of Roman camps, worked out from their areas; and soldiers per hectare and camp sizes for an army of 10,000, worked out from the Pennymuir figures) are derived by this guide from the sources above and are not measured values. Harold's march follows the baseline's 5–7 days; the traditional figure of four days would mean about 75 km (46 mi) a day.
