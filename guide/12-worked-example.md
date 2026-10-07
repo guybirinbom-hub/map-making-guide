@@ -1,6 +1,6 @@
 # Worked Example: Populating a Kingdom
 
-This chapter builds one invented kingdom from an empty terrain map to a full kingdom map and one local map. It uses only the guide's own numbers, shows every calculation in a table, and links each number to the chapter that owns it. Treat it as a template: put in your own areas and land types and redo the arithmetic. The kingdom, its places and its history are invented; the real examples quoted come from the other chapters.
+This chapter builds one invented kingdom from an empty terrain map to a full kingdom map and one local map, and then redraws it at four dates. It uses the guide's own numbers, shows every calculation in a table, and links each number to the chapter that owns it. Treat it as a template: put in your own areas and land types and redo the arithmetic. The kingdom, its places and its history are invented; the real examples quoted come from the other chapters and from the sources at the end.
 
 **In this chapter:**
 
@@ -16,6 +16,7 @@ This chapter builds one invented kingdom from an empty terrain map to a full kin
 - [Step 9: Ruins and older layers](#step-9-ruins-and-older-layers)
 - [Step 10: Zoom in on the Leyford area](#step-10-zoom-in-on-the-leyford-area)
 - [Step 11: A fantasy variant](#step-11-a-fantasy-variant)
+- [Step 12: The same kingdom at four dates](#step-12-the-same-kingdom-at-four-dates)
 - [Quick summary](#quick-summary)
 - [Sources and further reading](#sources-and-further-reading)
 
@@ -23,7 +24,7 @@ The general method is in [Step by Step](00-step-by-step.md). The coordinates of 
 
 ![Schematic map of the worked-example kingdom](images/worked-example-kingdom.svg)
 
-*Daravel c. 1300, drawn from the layout file. It shows the capital, the 3 cities, all 38 towns and 26 of the ~180 market towns; the ~7,700 villages appear only as texture. Also shown: the 13 cathedrals, the White Keep, the 31 county castles, the 13 other royal and frontier castles, 25 baronial castles, the 9 ports, the 4 bridges on the Ambre and the beacon chain.*
+*Daravel c. 1300, drawn from the layout file with the symbols of the [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). It shows the capital, the 3 cities, all 38 towns and 26 of the ~180 market towns; the ~7,700 villages appear only as texture. Also shown: the 13 cathedrals, the White Keep, the 31 county castles, the 13 other royal and frontier castles, 25 baronial castles, the 9 ports (4 head ports), the 4 bridges on the Ambre and the beacon chain. The master legend has no pass symbol and gives ")(" to bridges, so the two passes take a small saddle mark.*
 
 ---
 
@@ -197,7 +198,7 @@ It is **not central** ([Common mistakes, no. 12](11-common-mistakes.md#12-the-ca
 - **Oddities:** the **Debatable Land**, a disputed strip 16 × 6 km (10 × 4 mi), and the Liberty of Holmstow.
 - **Inside:** duchy borders follow the Whitridge, the foothills, the fen and forest edges, never straight lines ([Common mistakes, no. 13](11-common-mistakes.md#13-straight-borders-without-a-reason)).
 
-> **Map tip:** Draw the realm border thick, duchy borders as medium dashes and county borders not at all at kingdom scale. Label the North March and the Debatable Land by name, and give the Liberty its own colour.
+> **Map tip:** Draw the realm border as a thick dash-dot line and duchy borders as medium dash-dot lines; leave county borders off at kingdom scale. Borders are always dash-dot lines, so no one mistakes them for roads ([master legend](13-quick-reference.md#master-legend-and-label-hierarchy)). Mark each seat with a small pennant and each county town with a dot in the middle of its town symbol. Label the North March and the Debatable Land by name, fill the Debatable Land with stripes in the two claimants' colours, and give the Liberty its own colour.
 
 ---
 
@@ -235,7 +236,7 @@ Core castles 20–30 km (12–19 mi) apart match the guide's peaceful core ([Bor
 
 > **Later era (1500s+):** Put bastioned star forts at Skelbridge and Norburgh, a citadel at Hallowbridge and low gun forts at the estuary mouth. Turn most inland castles into ruins, palaces or manor houses ([Gunpowder and the new fortifications](09-later-era-1500-1650.md#gunpowder-and-the-new-fortifications)).
 
-> **Map tip:** On the kingdom map draw the White Keep, the 31 county castles, the 13 other royal and frontier castles, about one major baronial castle per 2,000–3,000 km² (about 25) and a few grey ruined mottes. Leave the other ~155 baronial castles for local maps.
+> **Map tip:** On the kingdom map draw the White Keep, the 31 county castles, the 13 other royal and frontier castles, about one major baronial castle per 2,000–3,000 km² (about 25) and a few grey ruined mottes. Give the five great fortresses (the White Keep, Wyndgap and the three concentric castles) the large three-tower icon and every other castle the small one-tower icon; draw each beacon as a flame dot and each abandoned motte as a grey mound with a tower tick. Leave the other ~155 baronial castles for local maps.
 
 ---
 
@@ -266,7 +267,7 @@ About 900 km of royal highway needs an inn every 15–30 km (10–19 mi): **30�
 - **Crossings:** the Ambre has only 4 fixed bridges: Hallowbridge, Ridgegate (71 km upstream), Liskmeet (51 km further) and Wyndfoot (95 km further). Between them: fords at Cheapford and Ambrefold, ferries at Kingsferry and Thornwick ([Crossing rivers](05-trade-routes-and-transport.md#crossing-rivers-bridges-fords-and-ferries)).
 - **Passes:** the Wyndgap is a low cart pass with a hospice near the summit, a toll, a castle and a chain of villages down to Wyndfoot. The Carrow Gap is a summer mule path with no towns ([Mountain passes](05-trade-routes-and-transport.md#mountain-passes)).
 - **Tolls:** pontage and port customs at Hallowbridge; bridge tolls at Ridgegate and Liskmeet; the Wyndgap; the Skel bridge into Thelland ([Tolls](05-trade-routes-and-transport.md#tolls-and-customs)).
-- **Ports:** Hallowbridge (below the bridge), Ambremouth (outport, pilots and the only lighthouse), Brimhaven (royal shipyard), Wendmouth, Gullhaven, Meremouth, Coldhaven, Seacombe, Saltcove. Sea lanes hug the coast; one open-sea crossing runs east ([The sea](05-trade-routes-and-transport.md#the-sea-ships-harbours-and-sea-lanes)).
+- **Ports:** about 600 km (370 mi) of open coast needs 4–6 head ports at one per 100–150 km. Daravel has 4 head ports (the customs ports): Hallowbridge (below the bridge), Brimhaven (royal shipyard), Wendmouth and Gullhaven (herring). Its 5 member ports are Ambremouth (outport, pilots and the only lighthouse), Meremouth, Coldhaven, Seacombe and Saltcove. Sea lanes hug the coast; one open-sea crossing runs east, sailed from March to November only, as in the North Sea ([The sea](05-trade-routes-and-transport.md#the-sea-ships-harbours-and-sea-lanes); [Sailing seasons](05-trade-routes-and-transport.md#sailing-seasons)).
 
 **Travel times** at the guide's [speeds per day](05-trade-routes-and-transport.md#speed-per-day): walker 25–35 km, ox cart 15–25 km, royal messenger 50–90 km, river boat 40–100 km downstream and 10–20 km upstream, sailing ship 40–100 km.
 
@@ -283,7 +284,7 @@ About 900 km of royal highway needs an inn every 15–30 km (10–19 mi): **30�
 
 An army with baggage (13–20 km a day) needs 9–13 days to reach the Skel bridge, so the North March must hold out alone for about two weeks.
 
-> **Map tip:** Draw the navigable Ambre thicker up to Cheapford, the 4 bridges as bars, the fords as dashes and the ferries as small boats. Write the travel days on the long roads ("Norburgh 4 days"). Every road must end somewhere: a town, a port, a pass, a mine or a shrine ([Drawing the route network](05-trade-routes-and-transport.md#drawing-the-route-network)).
+> **Map tip:** Draw the navigable Ambre thicker up to Cheapford, with a small boat at the head of navigation. Draw the 4 bridges as ")(" with the road running through, each ford as a short dashed line across the river and each ferry as a short dotted line with an "F" ([Symbols and labels](05-trade-routes-and-transport.md#symbols-and-labels)). Draw head ports as a large anchor with a quay and write their names in capitals; member ports get a small anchor. Sea lanes and the mule path are dotted lines; the season goes in the label ("2–5 days by sea, Mar.–Nov."). Write the travel days on the long roads ("Norburgh 4 days"). Every road must end somewhere: a town, a port, a pass, a mine or a shrine ([Drawing the route network](05-trade-routes-and-transport.md#drawing-the-route-network)).
 
 ---
 
@@ -319,7 +320,7 @@ Each big abbey has 5–40 granges (outlying farms), most within about 25 km (15 
 
 **The pilgrimage:** the shrine of the invented national saint, St Aldwen, is at **Holmstow Abbey** on its fen island. The Pilgrims' Way runs 87 km (54 mi) from the capital to the pilgrim town of Stowford, then by causeway or boat to the shrine: 4–5 stages of about 20 km (12 mi), with a hospice at Stowford and a leper house on the last stretch ([Pilgrimage](08-religious-cultural-and-ancient-sites.md#pilgrimage-shrines-routes-and-hostels)).
 
-> **Map tip:** At kingdom scale, show only the 13 cathedrals (with a bigger symbol for Liskmeet), the great abbeys, the shrine and the university. Save the 8,000 parish churches and the friaries for local and town maps.
+> **Map tip:** At kingdom scale, show only the 13 cathedrals (a church front with two towers; a double cross beside Liskmeet for the archbishop), the great abbeys (a church with a square cloister beside it), Temple Ambre (a small church with a shield), the shrine (a scallop shell, never a star) and the university. A small crown beside Liskmeet labelled "(coronations)" and beside Westhallow labelled "(royal tombs)" marks the two royal churches. Save the 8,000 parish churches and the friaries for local and town maps.
 
 ---
 
@@ -334,13 +335,15 @@ Each big abbey has 5–40 granges (outlying farms), most within about 25 km (15 
 | Sea salt | Salterns boiling sea water on the Saltings; small output, as in the north | Marsh-edge hamlets |
 | Stone and lime ([Stone](07-industry-and-resources.md#stone-clay-and-lime)) | Whitridge limestone right beside the Ambre | Chalkhythe quarries and kilns |
 | Iron, charcoal, glass ([Forest industries](07-industry-and-resources.md#forest-industries)) | Ore, coppice and streams of the Harnwood; iron goes down the Lisk | Forgeham (2,800), forge ponds, a glasshouse |
-| Wool and cloth ([Textiles](07-industry-and-resources.md#textiles)) | Sheep on the Fells, downs and wolds; fulling mills on the Tenter Water | Tenterford (8,000), Cheapford wool fair (3,800), Brimhaven wool exports |
-| Fish ([Fishing](07-industry-and-resources.md#fishing)) | Autumn herring; Saltwich salt | Gullhaven herring fair (3,000); fishing hamlets a few km apart |
+| Wool and cloth ([Textiles](07-industry-and-resources.md#textiles)) | Sheep on the Fells, downs and wolds; fulling mills on the Tenter Water | Tenterford (8,000), Cheapford wool fair in September (3,800), Brimhaven wool exports |
+| Fish ([Fishing](07-industry-and-resources.md#fishing)) | Autumn herring; Saltwich salt | Gullhaven herring fair, late September to November (3,000); fishing hamlets a few km apart |
 | Ships, wine, brick | Harnwood oak via the Brim; south slopes; estuary clay | Royal shipyard at Brimhaven; monastic vineyards at Abbotsmere; brickfields at Hallowbridge |
 
 Every region still grows its own grain first; the mining towns buy food from the vale through Wyndfoot ([Common mistakes, no. 26](11-common-mistakes.md#26-single-product-economies)).
 
-> **Map tip:** Give each special place a visible reason: crossed hammers at Silverhope, salt pans on the Saltings, a quarry notch at Chalkhythe, a fair meadow at Cheapford, tenter frames at Tenterford. Label the three roads out of Saltwich "Salt Road".
+The fair dates copy real ones. Stourbridge Fair near Cambridge, one of the biggest English fairs, was held around Holy Cross Day (14 September), after the harvest. The free herring fair at Great Yarmouth began at Michaelmas (29 September) and lasted about 40 days, the main herring season on that coast ([Fishing](07-industry-and-resources.md#fishing)).
+
+> **Map tip:** Give each special place a visible reason: crossed hammers at Silverhope, salt pans (a small checkerboard) on the Saltings and at Saltwich, a quarry notch at Chalkhythe, a mill wheel on the Tenter Water, an anchor with a castle tower for the royal shipyard at Brimhaven. A fair gets no symbol of its own: write the months in the town's label ("Cheapford, wool fair, Sept."). Label the three roads out of Saltwich "Salt Road".
 
 ---
 
@@ -358,7 +361,7 @@ Every region still grows its own grain first; the mining towns buy food from the
 | Abandoned castles | ~485 mottes and ringworks; show about 10 | |
 | Deserted villages | Few in 1300: Old Harnvale (cleared by Cistercians), Lostwick (royal forest), Skelby (burnt in raids) | Most came after 1350 ([Deserted villages](01-settlement-placement.md#deserted-medieval-villages)) |
 
-> **Map tip:** Draw ruins grey or dotted. If you redate the map to 1450, add dozens of "lost village" symbols in the clay vale, shrink the towns inside their walls and turn hill fields back into pasture.
+> **Map tip:** Draw ruins in grey with their own symbol and label them "(ruin)": Wendchester is a grey walled-town symbol, Old Harrow a grey church inside hillfort rings. A deserted village is a grey church alone in a field, labelled "(lost village)". Keep dotted lines for paths and draw the Thelling Dyke as a grey line with short ticks for the bank. If you redate the map to 1450, add dozens of "lost village" symbols in the clay vale, shrink the towns inside their walls and turn hill fields back into pasture ([Step 12](#step-12-the-same-kingdom-at-four-dates)).
 
 ---
 
@@ -401,7 +404,7 @@ The local map covers 10 × 10 km (6 × 6 mi), 100 km² (39 sq mi), of rich vale 
 - **Mills:** three brooks run north into the Ambre; the Ley's four mills are 1.6–2.8 km apart; the navigable Ambre has no mill weir; Crossby, with no stream, has the windmill ([Mills](06-villages-and-countryside.md#mills-and-water-management)).
 - **Roads:** the King's Way, cleared 200 ft (61 m) each side under the Statute of Winchester; lanes from every village to Leyford like spokes; drove tracks to the heath; a lane to the Thornwick ferry.
 
-> **Map tip:** At this scale every square kilometre has an owner and a name. Draw parish boundaries as dash-dot lines along brooks and wood edges, put a mill on every village's stream, and keep empty white space only for the heath, which you label.
+> **Map tip:** At this scale every square kilometre has an owner and a name. Draw parish boundaries as thin dash-dot-dot lines along brooks and wood edges, put a mill on every village's stream, and keep empty white space only for the heath, which you label.
 
 ---
 
@@ -432,6 +435,74 @@ Apply the real rules first, then change one input and follow the chain ([The met
 
 ---
 
+## Step 12: The same kingdom at four dates
+
+> **Rule of thumb:** A new date changes the numbers, not the geography. Rivers, passes, bridges, the capital's site and most village sites stay where they are. The number of people, towns, markets, fields, woods and working castles changes, and some places become ruins.
+
+**Why:** Each kind of place follows the population, but at its own speed ([Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague)):
+
+- **Villages come first and last longest.** Most lowland villages already existed by 1100 (Domesday Book, 1086, names 13,418 places), so growth mostly made them bigger. New villages appeared mainly in forest, fen, heath and upland.
+- **Markets, towns, castles and abbeys multiply** in the 1100s and 1200s. In Kent, market places grew from under 20 in 1200 to more than 80 by 1350, if every charter became a working market (McLain 1997). England's religious houses grew from 61 in 1066 to about 400 by 1154 (Webber 2006).
+- **After the Black Death** towns shrink inside their walls, the worst fields go back to grass or scrub, and villages on poor land are given up, mostly in the 1400s.
+- **After 1500** most of the new growth goes to the capital and the ports ([What changes after 1500](09-later-era-1500-1650.md#what-changes-and-what-stays-the-same)).
+
+**The scaling factors.** England is the best-measured realm, so use its curve unless you have a reason not to:
+
+| England | 1086 | 1290–1300 | 1400 | 1450 | 1600 |
+|---|---|---|---|---|---|
+| People | 1.71 million | 4.75 million (1290) | 2.08 million | 1.90 million | ~4.1 million |
+| Share of the 1290 peak | 36% | 100% | 44% | 40% | ~86% |
+| Arable land, fallow included | — | 11.5 million acres (1300) | 8.7 million acres (1380) | 7.6 million acres | 8.9 million acres |
+| Woodland and wood-pasture | ~15% | ~7% (c. 1349) | stopped falling; scrub on abandoned land | — | — |
+
+Sources: people from Broadberry, Campbell and van Leeuwen (2011, Table 6), with 1600 from [chapter 09](09-later-era-1500-1650.md#how-many-people); arable land from Broadberry and others (2010, Table 1); woodland from Rackham's Domesday estimate and a Royal Forestry Society summary ([How much of the map is fields and woods](06-villages-and-countryside.md#how-much-of-the-map-is-fields-and-woods)).
+
+England fell further than most of Europe. Europe as a whole went from about 70–80 million in 1300 to about 50–60 million by 1400–1450, a loss of a quarter to a third ([Realm populations](02-population-and-sizes.md#realm-populations-and-areas)). So for 1400, an England-like Daravel keeps about 1.05 million people and a Daravel with the European average keeps 1.6–1.8 million. The table uses about 1.2 million.
+
+### Daravel at four dates
+
+The 1300 column is the kingdom of steps 1–11. The other columns are estimates made with the factors above; treat every number as a range.
+
+| Tier or feature | 1100 | 1300 | 1400 | 1600 |
+|---|---|---|---|---|
+| People | ~1.0 million (0.9–1.4 million) | ~2.4 million | ~1.2 million (1.0–1.8 million) | ~2.4 million (2.0–2.8 million) |
+| Density | ~9 per km² (22 per sq mi) | ~21 (54) | ~10 (27) | ~21 (54) |
+| Capital (Hallowbridge) | 10,000–15,000 (1–1.5% of the realm) | 40,000 | 20,000–25,000 (about half, like London between c. 1300 and 1377) | 80,000–160,000 (2–4 times its medieval size) |
+| Other cities of 10,000+ | 0–1 (Liskmeet, the old imperial city) | 3 | 0–1 | 2–4, the ports first |
+| Towns of 2,000–10,000 | 10–15 | 38 | 10–15 (most small towns drop below 2,000) | 30–40 |
+| Market centres (market towns, towns and cities) | 50–80 | ~222, plus 100–200 village markets | ~200; most village markets lapse | 130–160 market places in all |
+| Villages | 6,000–6,500, most of them smaller (100–150 people) | ~7,700 | 7,000–7,500, many half empty; 10–25% gone by 1500 | 6,000–7,000 |
+| Ploughland, fallow included | ~10,000 km² (~9%) | ~24,000 km² (~21%) | 16,000–18,000 km² (a quarter to a third less) | 18,000–21,000 km² (less fallow, better yields) |
+| Woods | 15–20% | ~10% | ~11–12%: scrub and birch on abandoned edges | ~10% |
+| Castles in use | 300–400, almost all earth and timber | ~225; the important ones stone | 150–200, plus tower houses in the North March | the royal fortresses, 2–3 star forts, gun forts at the estuary; most others are ruins or houses |
+| Religious houses | ~100, almost all Benedictine | ~730 (75 friaries) | ~700 | ~730 if the realm stays Catholic; none working if it turns Protestant |
+
+**How the counts were made:**
+
+- **People:** 1300 × England's share of the peak (1100: about 40%), or the European loss for 1400. Density is people ÷ 116,500 km².
+- **Capital:** the guide's rule that a strong kingdom's capital holds 1–2% of its people ([Rank-size rule](02-population-and-sizes.md#the-rank-size-rule-and-primate-cities)); in 1100 the court still travels, so take the low end. London fell from 60,000–100,000 c. 1300 to about 35,000 in 1377.
+- **Villages:** in 1100, about 90% of the vale villages, 80% of the hill villages and a third of the villages in the Fells, forest, fen and heath (~720 in 1300). For 1500, Germany lost about 23.5% of its settlements between 1300 and 1500 (about 170,000 down to 130,000), and England has more than 3,000 known deserted villages ([Deserted villages](01-settlement-placement.md#deserted-medieval-villages)).
+- **Towns:** in England the towns of 1377 were only half to two-thirds of their pre-plague size, and about 30 towns of 2,000–10,000 remained for 2.5 million people ([The settlement ladder](02-population-and-sizes.md#the-settlement-ladder)). At that rate Daravel's 3 cities fall into the town tier, and all but one of its 29 small towns (2,000–3,600 people) fall below 2,000. The 1100 count is an estimate in proportion to the people and the markets.
+- **Markets in 1100:** about a fifth of the 1300 number, following Kent's growth from under 20 market places in 1200 to more than 80 by 1350.
+- **Markets in 1600:** only about 39% of the market places of c. 1300 still worked c. 1600 in England. 39% of Daravel's 320–420 market places is about 130–160.
+- **Ploughland:** about 1 ha (2.5 acres) per person at the peak; after the plague, England's arable fell by a quarter (1380) to a third (1450).
+- **Castles and abbeys:** see [Types of fortification](04-military-sites.md#types-of-fortification), [Timeline of the changes](09-later-era-1500-1650.md#timeline-of-the-changes) and [the dissolution of the monasteries](09-later-era-1500-1650.md#religion-the-reformation-on-the-map). The 1100, 1400 and 1600 castle counts are estimates.
+
+### What to redraw at each date
+
+| Date | Add | Remove, shrink or turn grey |
+|---|---|---|
+| **1100** | An earth-and-timber motte at most county towns and at many manors; old Benedictine abbeys; a bigger Harnwood and more woods in the clay vale; a travelling court with several royal residences ([What exists by which date](13-quick-reference.md#what-exists-by-which-date)) | Two-thirds or more of the market towns and towns; all friaries (they arrive in the 1220s) and the Cistercian valley abbeys; stone county castles (only the White Keep stands in stone); the Tenter Water fulling mills (first recorded in England in 1185); most villages in the Fells, fen and heath |
+| **1300** | Everything in steps 1–11: farms high up the valley sides, suburbs outside the gates | Only the older layers of step 9 |
+| **1400** | Grey "(lost village)" churches on poor land (a few dozen now, hundreds by 1500); sheep pasture on old ploughland; scrub at the forest edges; gardens and empty plots inside the walls; tower houses and fortified manors in the North March | Most village markets; some small towns drop to market-town size; castles no longer kept up turn grey |
+| **1600** | A capital 2–4 times bigger with suburbs far outside the walls; star forts at Skelbridge and Norburgh, a citadel at Hallowbridge, gun forts at the estuary mouth; a post station every 20–40 km (12–25 mi) on the royal highways (about 23–45 on 900 km); country houses in parks | Most inland castles (ruins, palaces or manor houses); if Protestant, the abbeys become grey ruins labelled "(ruin)" or houses called "Abbey", St Aldwen's shrine is destroyed and the Pilgrims' Way empties; more than half the market places of 1300 |
+
+> **Later era (1500s+):** The 1600 column is the medieval map with a new top layer, not a new map. Villages, market spacing and walking distances stay the same; the capital, the ports, the forts and the post roads change ([What changes and what stays the same](09-later-era-1500-1650.md#what-changes-and-what-stays-the-same)).
+
+> **Map tip:** Keep one base map with the terrain, rivers, roads and village dots. Draw each date as a separate overlay, and change the symbols, not the coastline: smaller or fewer town symbols in 1100 and 1400, grey ruins and lost villages from 1400, star forts and post horns in 1600. Put the date in the title cartouche, because a reader cannot judge the map without it.
+
+---
+
 ## Quick summary
 
 - **Land × density:** 116,500 km² (45,000 sq mi) gives about 2.4 million people (1.9–2.9 million), ~21 per km² (54 per sq mi).
@@ -442,8 +513,10 @@ Apply the real rules first, then change one input and follow the chain ([The met
 - **Castles:** ~710 sites, ~225 in use: 20–30 km (12–19 mi) apart in the core, a forward line every 29–43 km (18–27 mi), a beacon chain, a field army of 5,000–12,000.
 - **Routes:** water first; ~900 km of royal highway with an inn every 15–30 km; 4 bridges on the Ambre; one cart pass; Liskmeet is 3½–5 days' walk from the capital.
 - **Church:** ~8,000 parishes, 13 dioceses, ~730 religious houses (~75 friaries), 1 university, 1 great shrine.
-- **Industry:** one mining district, two salt sources, one cloth region, two fairs, a quarry, an iron forest and 9 ports, each with a visible reason.
-- **Time and fantasy:** add old roads, ruins and abandoned mottes; then change one or two fantasy inputs and follow the consequences.
+- **Industry:** one mining district, two salt sources, one cloth region, two fairs (months in the label), a quarry, an iron forest and 9 ports (4 head ports), each with a visible reason.
+- **Older layers and fantasy:** add old roads, grey ruins, lost villages and abandoned mottes; then change one or two fantasy inputs and follow the consequences.
+- **Four dates:** about 1.0 million people in 1100, 2.4 million in 1300, 1.2 million in 1400 and 2.4 million again in 1600. Keep the geography; change the counts, the ploughland, the woods, the castles and the ruins.
+- **Symbols:** use the [master legend](13-quick-reference.md#master-legend-and-label-hierarchy): a filled star for the capital, dash-dot lines for borders, solid or dotted lines for routes, ")(" for bridges, grey for ruins.
 
 ---
 
@@ -455,7 +528,9 @@ All numbers come from the chapters of this guide and the shared baseline ([resea
 
 - Beresford, Maurice, and H. P. R. Finberg (1973). *English Medieval Boroughs: A Handlist*. Newton Abbot: David & Charles.
 - Bosker, Maarten, Eltjo Buringh and Jan Luiten van Zanden (2013). "From Baghdad to London: Unraveling Urban Development in Europe, the Middle East, and North Africa, 800–1800." *Review of Economics and Statistics* 95(4): 1418–1437.
+- Broadberry, Stephen, Bruce M. S. Campbell, Alexander Klein, Mark Overton and Bas van Leeuwen (2010). "English Economic Growth, 1270–1700." CAGE Working Paper 21, University of Warwick. (Table 1: English arable land, 1270–1700.)
 - Broadberry, Stephen, Bruce M. S. Campbell, Alexander Klein, Mark Overton and Bas van Leeuwen (2015). *British Economic Growth, 1270–1870*. Cambridge: Cambridge University Press.
+- Broadberry, Stephen, Bruce M. S. Campbell and Bas van Leeuwen (2011). "English Medieval Population: Reconciling Time Series and Cross Sectional Evidence." Working paper, University of Warwick. (Table 6: English population, 1086–1541.)
 - Christaller, Walter (1933). *Die zentralen Orte in Süddeutschland*. Jena: Gustav Fischer.
 - Creighton, Oliver (2002). *Castles and Landscapes: Power, Community and Fortification in Medieval England*. London: Continuum.
 - Dyer, Christopher (2002). *Making a Living in the Middle Ages: The People of Britain 850–1520*. New Haven: Yale University Press.
@@ -464,8 +539,10 @@ All numbers come from the chapters of this guide and the shared baseline ([resea
 - Knowles, David, and R. Neville Hadcock (1971). *Medieval Religious Houses: England and Wales*. 2nd ed. London: Longman.
 - Langdon, John, and Jordan Claridge (2011). "Transport in medieval England." *History Compass* 9(11): 864–875.
 - Masschaele, James (1993). "Transport costs in medieval England." *Economic History Review* 46(2): 266–279.
+- McLain, Bradley A. (1997). "Factors in market establishment in medieval England: the evidence from Kent 1086–1350." *Archaeologia Cantiana* 117. (Kent's market places: under 20 in 1200, more than 80 by 1350.)
 - Rackham, Oliver (1986). *The History of the Countryside*. London: J. M. Dent.
 - Roberts, Brian K., and Stuart Wrathmell (2000). *An Atlas of Rural Settlement in England*. London: English Heritage.
+- Webber, Teresa (2006). "Monastic and cathedral book collections in the late eleventh and twelfth centuries." In Elisabeth Leedham-Green and Teresa Webber (eds), *The Cambridge History of Libraries in Britain and Ireland*, vol. 1. Cambridge: Cambridge University Press. (English religious houses: 61 in 1066, 400 by 1154.)
 
 **Web pages consulted**
 
@@ -476,3 +553,12 @@ All numbers come from the chapters of this guide and the shared baseline ([resea
 - Hundred (county division) (Wikipedia): https://en.wikipedia.org/wiki/Hundred_(county_division)
 - Archaeology Data Service, *Domesday Shires and Hundreds of England*: https://archaeologydataservice.ac.uk/archives/collections/view/1003676/
 - Bremen cog (Wikipedia): https://en.wikipedia.org/wiki/Bremen_cog
+- Broadberry, Campbell and van Leeuwen, *English Medieval Population* (PDF): https://warwick.ac.uk/fac/soc/economics/seminars/seminars/conferences/venice3/programme/english_medieval_population.pdf
+- Broadberry and others, *English Economic Growth, 1270–1700* (CAGE Working Paper 21, PDF): https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/21.2010_broadberry_complete.pdf
+- CAGE, total arable acreage of England 1270–1870 (chart): https://warwick.ac.uk/fac/soc/economics/research/centres/cage/data/visualisation/04-04-22-total_arable_acreage_england_1270_1870
+- Royal Forestry Society, "A brief history of British woodlands" (woodland ~15% in 1086, about 7% by 1349; PDF): https://rfs.org.uk/wp-content/uploads/2021/05/7.-A-Brief-History-of-British-Woodlands.pdf
+- McLain, "Factors in market establishment in medieval England: the evidence from Kent 1086–1350" (Kent Archaeological Society): https://www.kentarchaeology.org.uk/journal/117/factors-market-establishment-medieval-england-evidence-kent-1086-1350
+- Webber, "Monastic and cathedral book collections in the late eleventh and twelfth centuries" (Cambridge Core): https://www.cambridge.org/core/books/cambridge-history-of-libraries-in-britain-and-ireland/monastic-and-cathedral-book-collections-in-the-late-eleventh-and-twelfth-centuries/86CBCF42B5F23740F5E5786C285D203A
+- University of Oregon (David Luebke), "Village Desertions in Late Medieval Germany" (settlements about 170,000 in 1300, 130,000 in 1500): https://pages.uoregon.edu/dluebke/Reformations441/Wuestungen.html
+- Stourbridge Fair (Wikipedia; held around Holy Cross Day, 14 September): https://en.wikipedia.org/wiki/Stourbridge_Fair
+- British History Online, Blomefield's *History of Norfolk*, "East Flegg Hundred: Great Yarmouth" (the free herring fair from Michaelmas for 40 days): https://prod.british-history.ac.uk/node/68491
