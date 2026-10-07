@@ -1,6 +1,7 @@
 # Shared Baseline Numbers: Human-Made Features on a Realistic Fantasy Map
 
 **Scope:** Europe c. 1000–1500, with the Mediterranean and Middle East where useful. Notes for 1500–1650 appear where things were very different.
+**Corrections:** some figures were revised after the chapter fact-checks (mills, 1377 town sizes, the navigable-water rule, Byzantium 1282, Ghent).
 **Conventions:** Population means people, not households. A household is about 4.5–5 people (Dyer: usually 4–6). "~" means a rounded estimate. A range such as 60–100k shows that scholars disagree. If no date is given, assume c. 1300, the population peak before the plague. Conversions: 1 mi = 1.61 km; 1 per km² = 2.59 per sq mi.
 
 ---
@@ -22,14 +23,14 @@
 |---|---|---|---|
 | Isolated farmstead | 5–15 | 1–2 | Own fields and pasture. No church. Main form in uplands, Wales/Devon, Alps, Scandinavia and forest clearings. |
 | Hamlet | 10–75 | 2–15 | No parish church (a chapel at most). Belongs to a village's parish. Common where settlement is dispersed. |
-| Village | 75–500 (English lowland typical: 150–300) | 15–100 | Parish church, manor house, mill, smithy, open fields and common land. England had >10,000 watermills c. 1300 against ~9,500 parishes, so roughly one mill per village. |
+| Village | 75–500 (English lowland typical: 150–300) | 15–100 | Parish church, manor house, mill, smithy, open fields and common land. England had roughly 10,000–15,000 mills of all kinds c. 1300 (mostly watermills; estimates vary) against ~9,500 parishes, so roughly one mill per village. |
 | Small market town | 500–2,000 | 100–400 | Chartered weekly market and annual fair, a market place, burgage plots, inns, specialist crafts, one parish church, often a hospital. |
 | Town | 2,000–10,000 | 400–2,000 | Usually walled. Several parishes, merchant and craft guilds, friaries (from the 1220s), hospitals, often a castle, a borough charter and self-government. |
 | City | 10,000–50,000 | 2,000–10,000 | Cathedral, many parishes and friaries, walled suburbs, strong guilds, courts and a mint; sometimes a university (≈20 universities in Europe c. 1300, ≈60–80 by 1500). |
-| Great city | 50,000+ | 10,000+ | A capital or major port with several markets, a university, colonies of foreign merchants and an organized water supply. Grain must arrive by water. |
+| Great city | 50,000+ | 10,000+ | A capital or major port with several markets, a university, colonies of foreign merchants and an organized water supply. Grain almost always arrives by water (rare exceptions: Granada on its irrigated plain). |
 
 - **How rare big places were:** Europe plus the Middle East and North Africa (not Russia or Iran) had ~130 cities of 10k+ c. 1000, ~230 c. 1300 and ~250 c. 1500. It had ~11 / ~22 / ~31 of 50k+ and only 4 / 8 / 8 of 100k+ (Bosker, Buringh & van Zanden 2013 dataset).
-- **English calibration (1377, after the plague):** London ~35k, York ~11k, Bristol ~9.5k, Coventry ~7k, Norwich ~6k, then about 10 towns of 4–5k. Before the plague these were roughly 1.5–2× larger.
+- **English calibration (1377, after the plague):** London ~35k, York ~11k, Bristol ~9.5k, Coventry ~7k, Norwich ~6k, then about 10 towns of 3.5–5.5k (only about 5 in the 4–5k band). Before the plague these were roughly 1.5–2× larger.
 - **Mediterranean and continental differences:**
   - Italian *castelli* were fortified hilltop villages of 200–1,000 people.
   - Southern Spain, Sicily and Apulia had *agro-towns* of 2,000–10,000 people who were mostly farmers. They are big by population but not urban in function.
@@ -161,7 +162,7 @@ Model assumptions:
 **Map rule**
 - Bulk goods (grain, timber, stone, salt, wine) follow water.
 - Bulk goods move more than 30–50 km overland only if they are high-value, or in war or famine.
-- Towns above 10k sit on navigable water or the coast.
+- Most towns above 10k sit on navigable water or the coast. Inland exceptions exist: towns in rich farmland (Coventry ~12k, hilltop Siena perhaps 50k c. 1300), irrigated plains (Granada), and silver boom towns (Kutná Hora; Joachimsthal ~20k by 1534).
 
 **Sources:** Masschaele 1993 (via Langdon & Claridge); Clark 2001; Galloway (SAS); Duncan-Jones and Jones (via Adams).
 
@@ -218,7 +219,7 @@ Model assumptions:
 | Italy | 5m | 10–12.5m | 9–11m | 301,000 km² |
 | Poland | 1.0–1.25m | ~2m (c. 1370) | Crown 3.4m; 7.5m with Lithuania | ~240,000 km² (1370); Poland-Lithuania ~1.1m km² |
 | Hungary | 1–1.5m | ~2m (c. 1200) to ~3m (14th century) | at least 3m (1495) | ~280,000–325,000 km² |
-| Byzantium | ~12m (1025) | 5m (1282), falling to 2m (1312) | Gone (fell 1453); Constantinople 25–80k by then | 1.675m km² (1025); 0.55m (1282); 0.46m (1312) |
+| Byzantium | ~12m (1025) | 3–5m (1282), falling to ~2m (1312) | Gone (fell 1453); Constantinople 25–80k by then | 1.675m km² (1025); 0.55m (1282); 0.46m (1312) |
 | Europe total | 32–40m (Russell: 38.5m) | 70–80m (Russell, 1340: 73.5m; some estimates up to 100m); ~50–60m by 1400–1450 | 70–90m (McEvedy: ~80m) | — |
 
 - **Later era:** Europe reached ~100m by 1600. England had ~4.1m in 1600 and ~5.3m in 1650.
@@ -243,7 +244,7 @@ Format: city, range in thousands, with the BBvZ central figure in brackets where
 | 9 | Kairouan, Salerno ~50 | Baghdad ~95 (after the 1258 sack) | Aleppo 65–80 |
 | 10 | Venice 17–45 | Seville ~90 | Granada ~70; Valencia ~75 |
 | 11 | Antioch ~45; Thessaloniki, Regensburg, Damascus ~40 | London 60–100 | Lisbon, Palermo, Fez, Damascus 55–65 |
-| 12 | Rome 30–35; Kiev 20–45 | Fez, Marrakesh, Tunis, Naples, Ghent, Aleppo, Córdoba 55–70 | Genoa, Rome, Florence, Bursa ~55–60; London ~50 |
+| 12 | Rome 30–35; Kiev 20–45 | Fez, Marrakesh, Tunis, Naples, Aleppo, Córdoba 55–70; Ghent 40–65 (estimates vary) | Genoa, Rome, Florence, Bursa ~55–60; London ~50 |
 
 - **Later era (c. 1600):** Istanbul 400–700k; Paris ~220–300k; Naples ~250–280k; London ~200k; Venice, Seville, Lisbon and Milan 110–150k.
 - **Sources:** Bosker, Buringh & van Zanden 2013 dataset; Buringh 2021; Chandler 1987; Florence (Villani); Paris (1328 count of 61,098 hearths); Keene (London); Ottoman 1478 survey; Dols (Cairo).

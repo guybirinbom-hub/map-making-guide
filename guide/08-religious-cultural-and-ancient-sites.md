@@ -176,22 +176,22 @@ They often cleared or moved existing villages to get their "desert". So a Cister
 
 ### Granges: the monastery's farms
 
-A **grange** is an outlying farm owned by a monastery. Cistercian rules said a grange should be within a day's walk of the abbey, about 15 miles (24 km), so the **lay brothers** (working brothers who farmed it) could come back for Sunday services. The rule was often broken.
+A **grange** is an outlying farm owned by a monastery. Early Cistercian rules said a grange should be within a day's walk of the abbey, so the **lay brothers** (working brothers who farmed it) could come back for Sunday and feast-day services. The rules gave no exact distance. A day's walk is about 25–35 km (15–22 mi) (see the travel speeds in [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)). The rule was often broken.
 
-- Fountains Abbey (Yorkshire) had 39 granges by the early 1300s. Cowton grange lay about 20 mi (32 km) north of the abbey.
-- One Fountains grange in the late 1400s held about 40 cows, 5 ox teams and 300–400 sheep.
+- Fountains Abbey (Yorkshire) had 39 granges by the early 1300s. Its grange at Cowton lay about 20 mi (32 km) north of the abbey.
+- Morker, a Fountains grange, held about 40 cows, 5 teams of oxen and 300–400 sheep in the late 1400s.
 - Granges specialised: sheep runs, cattle farms, fisheries, iron or lead works, salt.
 
 Farm layouts are in [Villages, Farms and the Countryside](06-villages-and-countryside.md). Monastic mines and mills are in [Industry, Resources and Special Towns](07-industry-and-resources.md).
 
 ### Friaries tell you how big a town is
 
-Friars lived by begging and preaching, so they needed many people nearby. Historian Jacques Le Goff used this to measure French towns:
+Friars lived by begging and preaching, so they needed many people nearby. In 1968 the historian Jacques Le Goff suggested using the number of friaries as a rough measure of how big and important a French town was. The table below is a simplified rule of thumb in that spirit. Treat the sizes as rough guides, not exact figures.
 
-| Number of friaries | Town size (French model) |
+| Number of friaries | Town size (rough guide, France) |
 |---|---|
 | 0 | Small towns of 2,000–3,000 people usually had none |
-| 1 | Towns of roughly 5,000 (estimate between the two points Le Goff gives) |
+| 1 | Towns of roughly 5,000 (estimate) |
 | 2 | Towns of about 10,000 |
 | 4 (one of each main order) | Big towns of 20,000–40,000 |
 | 5+ | The great cities (London, Paris, Florence) |
@@ -207,7 +207,7 @@ In England, friars reached further down the town ladder: many county towns of 3,
 
 > **Fantasy twist:** A religious order of warrior-monks in a monster-haunted land behaves like the Templars or the Teutonic Order: fortified commanderies along dangerous roads and frontiers, each with farms to pay for it. Treat them as castles on your map (see [chapter 04](04-military-sites.md)).
 
-> **Map tip:** Put about 1 religious house per 150 km² (60 sq mi) in a settled kingdom. Place Cistercian and Carthusian houses in empty, well-watered valleys away from villages; Benedictine abbeys in old towns or at the centre of a "monastery town"; friaries in towns of about 3,000–5,000 and up, near the walls or gates; nunneries in quiet rural spots. Give each big abbey 5–40 granges within about 25 km (15 mi). Name some farms "Grange", "Temple ..." or "... Abbey Farm".
+> **Map tip:** Put about 1 religious house per 150 km² (60 sq mi) in a settled kingdom. Place Cistercian and Carthusian houses in empty, well-watered valleys away from villages; Benedictine abbeys in old towns or at the centre of a "monastery town"; friaries in towns of about 3,000–5,000 and up, near the walls or gates; nunneries in quiet rural spots. Give each big abbey 5–40 granges, most within about 25 km (15 mi) and a few much farther. Name some farms "Grange", "Temple ..." or "... Abbey Farm".
 
 ---
 
@@ -222,17 +222,17 @@ A **shrine** is a holy place, usually the tomb or relics (holy remains) of a sai
 | Destination | What drew people | Key dates | Route and numbers |
 |---|---|---|---|
 | **Jerusalem** | Christ's tomb (Holy Sepulchre) and the holy places | Crusader rule 1099–1187; pilgrim galleys from Venice afterwards | Venice to Jaffa by galley took 48 days in 1480 (baseline) |
-| **Rome** | Tombs of Saints Peter and Paul | First Jubilee (holy year) 1300 | Chronicler Giovanni Villani claimed 200,000 pilgrims in the city at any one time in 1300 |
+| **Rome** | Tombs of Saints Peter and Paul | First Jubilee (holy year) 1300 | Chronicler Giovanni Villani, who was there, claimed that Rome held about 200,000 pilgrims all through 1300, besides its own people. This was a guess, not a count |
 | **Santiago de Compostela** (Galicia) | Tomb of St James, "found" in the 800s | Guidebook in the *Codex Calixtinus*, c. 1140 | Four French roads (from Paris/Tours, Vézelay, Le Puy and Arles) join at Puente la Reina; about 800 km (500 mi) from Roncesvalles at the Pyrenees |
 | **Canterbury** | Thomas Becket, killed 1170, made a saint 1173 | Shrine 1220–1538 | About 90 km (56 mi) from London |
 | **Cologne** | Relics of the Three Kings, brought from Milan in 1164 | 1164 onward | On the Rhine trade route |
-| **Mecca** (Hajj) | The Kaaba; one pilgrimage is a duty for every able Muslim | Every year | Great caravans from Cairo, Damascus and Baghdad; the Darb Zubayda from Kufa (Iraq) was a desert road of wells, cisterns and stations built under the Abbasids (c. 800) |
+| **Mecca** (Hajj) | The Kaaba; one pilgrimage is a duty for every able Muslim | Every year | Great caravans from Cairo, Damascus and Baghdad. The Darb Zubayda from Kufa (Iraq) was a desert road of wells, cisterns and stations. It was improved under the Abbasid caliphs (late 700s–early 800s) and named after Zubayda (died 831), wife of Caliph Harun al-Rashid, who paid for much of the work |
 
 Nobody counted medieval pilgrims. Modern guesses for Santiago or Rome vary hugely, so treat any single number with caution.
 
 ### How long and how far
 
-Archbishop Sigeric of Canterbury wrote down his route home from Rome in about 990. It had 79–80 stages over about 1,700 km (1,100 mi): **about 20 km (12 mi) per stage**. It crossed the Alps by the Great St Bernard Pass. This is a good spacing for pilgrim stops on your map: shorter than a strong walker's day of 25–35 km (baseline), because pilgrims were often old, sick or slow.
+Archbishop Sigeric of Canterbury wrote down his route home from Rome in about 990. It had about 80 stages over about 1,700 km (1,100 mi): **about 20 km (12 mi) per stage**. It crossed the Alps by the Great St Bernard Pass. This is a good spacing for pilgrim stops on your map. It is shorter than a strong walker's day of 25–35 km (15–22 mi) (baseline), because pilgrims were often old, sick or slow.
 
 ### What a pilgrim road looks like
 
