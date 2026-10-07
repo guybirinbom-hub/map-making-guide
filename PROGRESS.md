@@ -31,7 +31,7 @@ The workflow is `.claude/workflows/assemble-guide.js`. Run it by name, or by `sc
 4. Run `python3 tools/check_links.py`. It should report 0 problems.
 5. Small leftovers from the follow-up round:
    - Chapter 08 (around line 435) says "~1,700 castle sites"; align it with "about 1,700–1,800 (Gatehouse lists 1,761)".
-   - Chapter 05 should use one wording for the Gough Map's date. Its table row "Total length of the red route lines" should say this is the length of the reconstructed roads (Oksanen & Brookes 2025), not lines drawn on the map. The map has about 190 red lines.
+   - Chapter 05's table row "Total length of the red route lines" should say this is the length of the reconstructed roads (Oksanen & Brookes 2025), not lines drawn on the map. The map has about 190 red lines. Chapter 11 could match 05's fuller Gough Map date wording (c. 1360–70 conventionally; Smallwood 2010 suggests after 1400).
    - Chapter 10 could note that sources differ on the Belgorod Line's end date (1646 or 1654).
 6. Optional: chapters are long (9,000–14,000 words). A later pass could trim repetition.
 

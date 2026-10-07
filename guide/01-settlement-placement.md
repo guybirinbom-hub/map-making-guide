@@ -194,7 +194,7 @@ The same rules apply everywhere, but the answer changes with the land. The first
 | Desert | Oases, wadis, *qanat* lines | Isolated clusters; caravan stops | Near zero between oases |
 | Islands | Sheltered side, inland on raided islands | One main port; villages on fertile patches | Varies |
 | Cold north | Sheltered fjords, coastal lowlands | Scattered farms; very few towns | Very low |
-| Tropical forest and monsoon uplands | Ridges and river banks; towns only on rivers and coasts | Small villages that move their fields every few years (shifting cultivation); paths, not roads | Low: world average about 6 per km² (14 per sq mi) in the 1950s; at most about 50–60 per km² (130–150 per sq mi) |
+| Tropical forest and monsoon uplands | Ridges and river banks; towns only on rivers and coasts | Small villages that move their fields every few years (shifting cultivation); paths, not roads | Low: about 6 per km² (14 per sq mi) as a 1950s world average; about 12–35 per km² (30–90 per sq mi) in modern northern Laos and Thailand; at most about 55–56 per km² (about 145 per sq mi) |
 | Wet-rice lowlands and deltas | Mounds, dikes, river levees and canal banks between the paddies | Continuous rice fields with villages packed along the water lines | Very high: Song China averaged roughly 30–40 per km² (80–100 per sq mi) over the whole empire; Greater Angkor about 230–300 per km² (600–780 per sq mi) over its core (derived) |
 | Savanna and Sahel (dry grassland south of the Sahara) | Desert-edge river ports, wells, seasonal rivers | Trade towns where caravans meet boats; farming villages by water; herders moving with the rains | Low, higher along rivers |
 | Tundra and northern forest (taiga) | Winter villages by rivers and lakes; fishing waters, hunting grounds and pastures in summer | A few winter villages; families scatter to seasonal camps | Extremely low |
@@ -283,7 +283,13 @@ Growing grain is hard, so people lived on scattered farms with hay meadows and a
 
 **Why:** Tropical forest soils lose their fertility fast once cleared. A long fallow (rest period) lets the forest rebuild it. So each village needs a large area of forest of different ages around it.
 
-**Numbers:** Population stays low. In the 1950s the FAO (the UN's food and farming agency) estimated about 200 million shifting cultivators worldwide, at an average of only about 6 people per km² (14 per sq mi). A later FAO review quoted an upper limit of about 56 people per km² (145 per sq mi) for traditional systems; above that, fallows get too short and the soil fails.
+**Numbers:** Population stays low.
+
+| Measure | Density | Source |
+|---|---|---|
+| World average, 1950s | About 6 per km² (14 per sq mi), for very roughly 200 million shifting cultivators | FAO (the UN's food and farming agency), 1957 |
+| Modern examples in Southeast Asia | About 12–35 per km² (30–90 per sq mi): 12 in northern Laos, 35 in northern Thailand | Warner 1991 (FAO) |
+| Ceiling for traditional systems | About 55–56 per km² (about 145 per sq mi); above that, fallows get too short and the soil fails | Ruthenberg 1980, cited by FAO |
 
 **Pattern:** Small villages on ridges or river banks, linked by footpaths. Some villages move every few years to follow the fields. Towns grow only where boats can reach them: on big rivers and coasts.
 
@@ -622,12 +628,12 @@ Also check:
 - **Site** (the spot) decides if a place survives. **Situation** (its place in the network) decides if it grows big.
 - The best town sites are **lowest bridging points, heads of navigation, confluences, gaps, pass feet, sheltered harbours and estuaries**. On tidal coasts, big ports often sat 50–120 km (30–75 mi) up an estuary.
 - In dangerous times and places, people choose **hills, river loops, islands and spurs**.
-- Spacing: villages **1.5–4 km (1–2.5 mi)**, market towns **9–16 km (6–10 mi)**, towns and cities much farther apart, depending on how urban the region is.
+- Spacing: villages **1.5–4 km (1–2.5 mi)**, market towns **9–16 km (6–10 mi)**, bridge towns on a lowland river **about 20 km (12 mi)**, head ports **about one per 100–150 km (60–95 mi) of coast**, towns and cities much farther apart, depending on how urban the region is.
 - Christaller's **central place** model: many small places close together, a few big ones far apart, in rough hexagons. Distort it along rivers and roads.
 - Settlement is **clustered on good land and thin on bad land**. Empty areas need a reason, and so do crowded ones.
-- Outside Europe: **shifting cultivators** live thinly (world average about 6 per km²), **wet-rice lands** are the most crowded farmland of all (Angkor about 230–300 per km² over its core), and **steppe nomads** use small camps of 2–10 families that move about 4–10 times a year, with fixed winter sites.
+- Outside Europe: **shifting cultivators** live thinly (about 6 per km² as a 1950s world average, 12–35 in modern northern Laos and Thailand, at most about 55–56), **wet-rice lands** are the most crowded farmland of all (Angkor about 230–300 per km² over its core), and **steppe nomads** use small camps of 2–10 families that move about 4–10 times a year, with fixed winter sites.
 - Places change: Roman sites reused or abandoned, **planted towns** with grids, towns moved, harbours silted, and **more than 3,000 deserted villages** in England alone.
-- **Names** come in layers: rivers keep the oldest names, villages use a few common endings of their founders' language (-ton, -by, -dorf, -ac), and extra words (Great/Little, a lord's name, a river) split duplicates.
+- **Names** come in layers: rivers keep the oldest names, villages use a few common endings of their founders' language (-ton, -by, -dorf, -ac), extra words (Great/Little, a lord's name, a river) split duplicates, and the endings switch at language lines (-gem and -ange on one side, -ville and -court on the other).
 - Use the **"why is it here?" test** on every dot.
 
 ---
@@ -652,6 +658,7 @@ Also check:
 - Pounds, N. J. G. (1990). *An Historical Geography of Europe*. Cambridge: Cambridge University Press.
 - Rackham, Oliver (1986). *The History of the Countryside*. London: J. M. Dent.
 - Roberts, Brian K., and Stuart Wrathmell (2000). *An Atlas of Rural Settlement in England*. London: English Heritage.
+- Ruthenberg, Hans (1980). *Farming Systems in the Tropics*. 3rd ed. Oxford: Clarendon Press. (Ceiling of about 56 people per km² for shifting cultivation, as cited by FAO 1985.)
 - Skinner, G. William (1964). "Marketing and Social Structure in Rural China, Part I." *Journal of Asian Studies* 24 (1): 3–43.
 - Teickner, Henning, et al. (2020). "Patterns in Mongolian nomadic household movement derived from GPS trajectories." *Applied Geography* 122: 102270.
 - Toubert, Pierre (1973). *Les structures du Latium médiéval*. Rome: École française de Rome.
