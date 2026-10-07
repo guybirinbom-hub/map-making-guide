@@ -1,6 +1,6 @@
 # Villages, Farms and the Countryside
 
-Most people in the Middle Ages lived in villages, hamlets and farms. Between 85% and 95% of people lived in the country, so most of any realistic map is countryside. This chapter is for local-area maps: one parish, one valley, one barony or one county. It tells you what a village looks like, what is inside it, how its fields, woods and pastures are arranged, where mills, parks, ponds and barns go, and how far apart everything is.
+Most people in the Middle Ages lived in villages, hamlets and farms. Between 85% and 95% of people lived in the country, so most of any realistic map is countryside. This chapter is for local-area maps: one parish, one valley, one barony or one county. It tells you what a village looks like and what is inside it. It shows how fields, woods and pastures are arranged, where mills, parks, ponds and barns go, and how far apart everything is.
 
 **In this chapter:**
 
@@ -31,13 +31,13 @@ The baseline is Europe c. 1000–1500, with England as the best-documented examp
 | Form | What it looks like | Where (real examples) | How to draw it |
 |---|---|---|---|
 | **Nucleated village** (houses in one cluster) | 20–80 houses packed along a few lanes around the church and manor house; fields all around | English Midlands; northern France; much of Germany (*Haufendorf*, "heap village"); Denmark | A tight cluster with a church, open fields around it |
-| **Green village** | Two rows of houses facing each other across a long or square green | Northern England: in County Durham up to 80% of villages show signs of planning, many as two rows round a green; German *Angerdorf* (a lens-shaped green with church and pond) in the lands settled from the 12th century | Two parallel rows around an open space |
+| **Green village** | Two rows of houses facing each other across a long or square green | Northern England: in County Durham many villages, perhaps most, show signs of deliberate planning, often as two rows round a green; German *Angerdorf* (a lens-shaped green with church and pond) in the lands settled from the 12th century | Two parallel rows around an open space |
 | **Street (row) village** | One or two rows of houses along one street | Planned villages everywhere; German *Straßendorf* | A line of houses along a road |
 | **Polyfocal village** (several centres) | Two or three small clusters (church end, manor end, green end) that grew together | Common in England | Two or three knots joined by a lane |
 | **Forest strip village** (*Waldhufendorf*) | Farms spaced along a valley road or stream. Behind each farm a long strip of land runs uphill to the forest | First in the northern Black Forest c. 1000; spread in the 12th–13th centuries to the Odenwald, Ore Mountains, Bohemia and Silesia. Chains of these villages run up to 25 km (15 mi) along valleys in Saxony | Farms like beads on a string; parallel strips behind them |
 | **Marsh and dyke village** (*Marschhufendorf*) | Farms in a line along a dyke or drainage ditch, with long narrow plots behind | North Sea marshes, Holland | A line along the dyke, thin strips at right angles |
-| **Round village** (*Rundling*) | A horseshoe or circle of farms around a green, with one entrance | The German–Slavic border zone (12th–13th centuries). Usually 5–7 farms at first, about 20 by the late Middle Ages. About 93 survive, in the Wendland (Lower Saxony) | A small ring |
-| **Hamlet** | 2–15 households, no church | Everywhere. Main form in Devon, Cornwall, Wales, Ireland (*baile*) and Scotland (*fermtoun*) | A small cluster with no church |
+| **Round village** (*Rundling*) | A horseshoe or circle of farms around a green, with one entrance | The German–Slavic border zone, mostly founded in the 12th century. Usually 5–7 farms at first; farms were divided until there were about 20 by the 16th century. The church stands outside the ring. About 93 survive, in the Wendland (Lower Saxony) | A small ring, with the church outside it |
+| **Hamlet** | 2–15 households, no church | Everywhere. Main form in Devon, Cornwall, Wales, Ireland (*clachan*) and Scotland (*fermtoun*) | A small cluster with no church |
 | **Dispersed farmsteads** | Single farms, each in its own fields | Uplands, Alps, Norway, forest clearings; Kent, Essex and the Weald | Scattered dots joined by lanes |
 | **Mediterranean hill village** | A dense, walled cluster of stone houses on a hilltop or spur, with castle and church at the top | Lazio and Tuscany (*incastellamento*, the move into fortified hill villages, 10th–12th centuries); Provence (*villages perchés*); Catalonia | A dense blob on a hill, with a wall |
 | **Agro-town** | 2,000–10,000 people, mostly farmers, in one big settlement | Sicily, Apulia, southern Spain | A town-sized symbol, but with few town functions |
@@ -60,7 +60,7 @@ England is the classic case of mixed patterns. A central belt of nucleated villa
 | **Lord's oven and winepress** | Common in France and Germany | Near the manor or in the centre | In France these were *banalités*: the lord's mill, oven and press, which peasants had to use and pay for |
 | **Tofts and crofts** | All villages | Along the streets | A **toft** is the house plot with its yard; a **croft** is the enclosed garden or paddock behind it |
 
-**Real example: Wharram Percy (Yorkshire, England).** This deserted village on the chalk Wolds had about 40 peasant house plots in rows, two manor houses, a church and a green, with a millpond and a fishpond. It had perhaps 200 people at its peak (c. 1254–1320). About 30 houses were occupied in 1368 and at least 16 in 1436. Around 1500 the lord evicted the last four families and turned the land into sheep pasture.
+**Real example: Wharram Percy (Yorkshire, England).** This deserted village on the chalk Wolds had about 40 peasant house plots in planned rows, two manor houses, a church and a green. It also had two watermills, and their millponds were fished. At its height, in the late 13th and early 14th centuries, it had perhaps 200 people. About 30 houses were occupied around 1368 and at least 16 in 1436. Around 1500 the lord evicted the last four families and turned the land into sheep pasture.
 
 > **Map tip:** Pick one village form for each region of your map and stick to it. Draw the church as the biggest symbol, the manor house beside it, and the mill on the stream a short way off. On a local map, show tofts as a row of small rectangles along the street, with crofts as long narrow plots behind. Most villages need a green, a pond or a road junction as their centre.
 
@@ -83,13 +83,13 @@ England is the classic case of mixed patterns. A central belt of nucleated villa
 | Typical lowland village | 150–300 | 30–60 | 5–15 km² (2–6 sq mi) | 1.5–2.5 km (1–1.5 mi) |
 | Large village | 300–500 | 60–100 | 10–20 km² (4–8 sq mi) | 2–3 km (1.2–1.9 mi) |
 | Upland parish | 100–500, in many hamlets and farms | 20–100 | 50–100+ km² (20–40+ sq mi) | Each farm's infield is under 1 km away; summer pastures much farther |
-| Agro-town | 2,000–10,000 | 400–2,000 | ~50–250 km² (derived) | 5–10 km (3–6 mi), an hour or more each way |
+| Agro-town | 2,000–10,000 | 400–2,000 | ~50–250 km² (20–100 sq mi), derived | 5–10 km (3–6 mi), an hour or more each way |
 
-These numbers come from the shared baseline: England c. 1300 had about 9,500 parishes on 130,000 km², or about 14 km² (5.4 sq mi) per parish. A circle of 14 km² has a radius of about 2.1 km (1.3 mi). Lowland villages are therefore 1.5–4 km (1–2.5 mi) apart.
+These numbers are worked out from national totals. England c. 1300 had about 9,500 parishes on 130,000 km², or about 14 km² (5.4 sq mi) per parish. A circle of 14 km² has a radius of about 2.1 km (1.3 mi). Lowland villages are therefore 1.5–4 km (1–2.5 mi) apart.
 
-**Real example:** Milton Ernest (Bedfordshire) in the 14th century had about 1,600 acres (650 ha, 6.5 km²): 1,405 acres of arable, 81 of meadow, 84 under the village itself and 28 of roads (Hutchings 1969). This was a "champion" (open-field) parish with almost no wood or waste.
+**Real example:** Milton Ernest (Bedfordshire) in the 14th century, according to a field survey by Hutchings (1969), had about 1,600 acres (650 ha, 6.5 km²): 1,405 acres of arable, 81 of meadow, 84 under the village itself and 28 of roads. This was a "champion" (open-field) parish with almost no wood or waste.
 
-**How far is too far?** The geographer Michael Chisholm (1962) collected evidence from many farming societies. Costs rise noticeably once fields are more than about 1 km from the farmhouse. At 3–4 km people usually change the system: they build an outlying farm or field barn, or they turn the far land into pasture. Agro-towns of southern Italy and Sicily are the famous exception, where farmers walked long distances every day.
+**How far is too far?** The geographer Michael Chisholm (1962) collected evidence from many farming societies. Costs rise noticeably once fields are more than about 1 km (0.6 mi) from the farmhouse. At 3–4 km (2–2.5 mi) people usually change the system: they build an outlying farm or field barn, or they turn the far land into pasture. Agro-towns of southern Italy and Sicily are the famous exception, where farmers walked long distances every day.
 
 ### Rings of land use around a village
 
@@ -126,11 +126,11 @@ In the Mediterranean the rings have different crops. In the hill villages of Laz
 | Field | One of the 2–3 great unhedged fields | Several hundred acres each |
 | Furlong | A block of parallel strips all running the same way; each had its own name | A parish had dozens. A "furlong" as a length is 220 yards (201 m) |
 | Strip (selion, "land") | The unit ploughed by one holder | About 200 m (220 yd) long; 4.6–20 m (5–22 yd) wide; 0.1–0.4 ha (¼–1 acre) |
-| Ridge and furrow | Strips ploughed into raised ridges with furrows between, for drainage | Ridges 3–20 m apart; today up to 0.6 m (2 ft) high, once higher. Older ones curve in a gentle reverse-S |
+| Ridge and furrow | Strips ploughed into raised ridges with furrows between, for drainage | Ridges 3–20 m (3–22 yd) apart; today up to 0.6 m (2 ft) high, once higher. Older ones curve in a gentle reverse-S, made by the long ox team swinging round at the end; later ones are straight |
 | Headland | The strip at the end of a furlong where the plough team turned | Later ploughed as a ridge of its own |
-| Family holding | The land of one peasant family | One family might hold about 70 strips totalling 20 acres (8 ha). The standard virgate was about 30 acres (10–40) |
+| Family holding | The land of one peasant family | One family might hold about 70 strips totalling 20 acres (8 ha). The standard holding was the **virgate** (in the north and east of England counted as two **oxgangs**): nominally 30 acres (12 ha), in practice often 24–32 acres, and varying from place to place |
 
-**Who held what:** A survey of 104 English manors in the 13th century found that 45% of tenants had less than 3 acres, 31% had half a virgate and 22% a full virgate. A family needed at least 10 acres (4 ha) to live from its land alone. Smallholders worked for wages or crafts.
+**Who held what:** A survey of 104 English manors in the 13th century found that 45% of tenants had less than 3 acres (1.2 ha), 31% had half a virgate and 22% a full virgate. A family needed at least 10 acres (4 ha) to live from its land alone. Smallholders worked for wages or crafts.
 
 **Where:** In England, open fields covered a broad belt from Yorkshire and Lincolnshire across the Midlands to south-central England. Kent and Essex kept small, square, hedged fields. Open fields survive today at Laxton (Nottinghamshire, three great fields) and Braunton (Devon). Ridge and furrow is still visible under grass all over the Midlands, best seen in low sun or light snow.
 
@@ -138,8 +138,8 @@ In the Mediterranean the rings have different crops. In the hill villages of Laz
 
 | Land | Use | Where | Notes |
 |---|---|---|---|
-| **Meadow** | Hay, cut in early summer to feed oxen and horses in winter | Flat land along streams and rivers that floods in winter | Small but very valuable: Milton Ernest had only 81 acres of meadow against 1,405 of arable. After haymaking, many meadows were opened for common grazing (in England, "Lammas land", from 1 August) |
-| **Pasture** | Grazing | Hillsides, heath, fallow fields, stubble after harvest | Ploughs needed oxen: an 8-ox team for a heavy plough. The *carucate*, a land unit of about 120 acres, was the land one team could plough in a year |
+| **Meadow** | Hay, cut in early summer to feed oxen and horses in winter | Flat land along streams and rivers that floods in winter | Small but very valuable: Milton Ernest had only 81 acres (33 ha) of meadow against 1,405 acres of arable. After haymaking, many meadows were opened for common grazing (in England, "Lammas land", from 1 August) |
+| **Pasture** | Grazing | Hillsides, heath, fallow fields, stubble after harvest | Ploughs needed oxen: an 8-ox team for a heavy plough. The *carucate*, a land unit of about 120 acres (50 ha, four virgates), was the land one team could plough in a year. These units were used for tax, so real sizes varied |
 | **Commons** | Shared rights over the lord's waste | Heath, moor, marsh, wood | Rights could include pasture, pannage (pigs on acorns), estovers (wood), turbary (cutting turf or peat) and piscary (fishing). Numbers of animals were often limited ("stinted") per holding |
 | **Waste** | Unploughed land: heath, moor, marsh, scrub | Poor soils and parish edges | Not useless: fuel, bracken, grazing, rabbits, reeds |
 
@@ -159,9 +159,9 @@ In the Mediterranean the rings have different crops. In the hill villages of Laz
 | Feature | What it is | Real examples and numbers |
 |---|---|---|
 | **Terraces** | Steps built into slopes with stone walls, to hold soil and water | All round the Mediterranean, for vines, olives and grain. Dating of terrace soils shows a major phase of building c. 1100–1600 |
-| **Acequia** | An irrigation canal fed by a weir on a river (Spanish, from Arabic) | Valencia: 8 main canals from the river Turia water about 17,000 ha of *huerta* (irrigated garden land). The Water Tribunal that settles disputes between irrigators goes back to al-Andalus and still meets today |
-| **Noria** | A big wheel turned by the river current that lifts water in pots or scoops | Hama (Syria): wheels up to 20 m (66 ft) across. The Albolafia wheel in Córdoba is a medieval example. An animal-driven version is the *saqiya* |
-| **Qanat** | A gently sloping tunnel that brings groundwater from the foot of hills to the surface, with a line of access shafts | Iran: most are under 5 km (3 mi) long, a few up to ~70 km; shafts every 20–35 m; mother wells 20–200 m deep. About 50,000 worked in Iran in the mid-20th century. Arab rulers gave Palermo (Sicily, 827–1072) a large system. In the Tafilalt oasis (Morocco), a 300 km network of *khettara* was dug from the late 14th century |
+| **Acequia** | An irrigation canal fed by a weir on a river (Spanish, from Arabic) | Valencia: 8 main canals from the river Turia water about 17,000 ha (170 km², 65 sq mi) of *huerta* (irrigated garden land). The Water Tribunal that settles disputes between irrigators goes back to al-Andalus and still meets today. (Modern city growth has since covered much of the huerta.) |
+| **Noria** | A big wheel turned by the river current that lifts water in pots or scoops | Hama (Syria): wheels up to 20 m (66 ft) across. The Albolafia wheel in Córdoba is a medieval example (partly rebuilt today). A wheel turned by an animal walking in a circle is called a *saqiya* |
+| **Qanat** | A gently sloping tunnel that brings groundwater from the foot of hills to the surface, with a line of access shafts | Iran: most are under 5 km (3 mi) long, a few up to ~70 km (43 mi); access shafts every 20–35 m (65–115 ft); the "mother well" at the head is usually 20–200 m (65–650 ft) deep. About 50,000 worked in Iran in the mid-20th century. Palermo (Sicily) has a medieval qanat network, usually credited to its Arab rulers (9th–11th centuries). The oases of the Tafilalt and the Draa valley (Morocco) have relied on qanats, there called *khettara*, since the late 14th century; the Tafilalt had about 400 of them |
 | **Coltura promiscua** | Grain grown between rows of trees and vines (vines trained up the trees) | Central Italy |
 | **Chestnut woods** | Chestnuts dried and ground as flour | Mountain villages of Corsica, the Apennines, the Cévennes |
 
@@ -170,13 +170,13 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 ### Orchards, vineyards and gardens
 
 - **Gardens and orchards** sit next to the houses (ring 1). Orchards give apples, pears, cherries and plums in the north, and figs, almonds and citrus in the south. Normandy and the west of England are cider country.
-- **Vineyards** need sun and warm summers. The great medieval wine regions were around Paris, Champagne, Burgundy, the Rhine and Moselle, and Gascony (Bordeaux). Gascon wine was shipped to England after 1152, when Henry II married Eleanor of Aquitaine.
-- **The northern limit was farther north than today's wine map.** Domesday Book (1086) lists over 40 vineyards in England, and about 139 still existed under Henry VIII. In the 14th century, vineyards worked in Poland, at Kraków, Toruń and Zielona Góra. Most of these made thin wine for monks and lords. Put northern vineyards on south-facing slopes, near monasteries or castles. Commercial wine regions are in [Industry, Resources and Special Towns](07-industry-and-resources.md#wine-regions).
+- **Vineyards** need sun and warm summers. The great medieval wine regions were around Paris, Champagne, Burgundy, the Rhine and Moselle, and Gascony (Bordeaux). Gascon wine was shipped to England in large amounts after 1152, when Henry of Anjou (King Henry II from 1154) married Eleanor of Aquitaine.
+- **The northern limit was farther north than today's wine map.** Domesday Book (1086) lists over 40 vineyards in England, and 139 were recorded in 1509, when Henry VIII became king. In the 14th century, vineyards worked in Poland, for example in Silesia and at Kraków, Toruń and Zielona Góra. Most of these made thin wine for monks and lords. Put northern vineyards on south-facing slopes, near monasteries or castles. Commercial wine regions are in [Industry, Resources and Special Towns](07-industry-and-resources.md#wine-regions).
 - **Olives** mark the true Mediterranean climate. They do not grow where winters are hard. If your region has olives, it has dry summers, terraces and probably biennial fallow.
 
 > **Map tip:** Draw open fields as large unhedged areas with faint hatching in different directions (each block of hatching is a furlong). Draw hedged, enclosed fields as a patchwork of small irregular shapes. Draw meadow as a pale green ribbon along streams, and heath or moor with tufts. In dry lands, put green gardens along canals and below qanat outlets, and leave the slopes above them brown. A line of small circles across dry country is a qanat: put the village and its gardens where the line ends.
 
-> **Later era (1500s+):** In England, landlords enclosed many open fields for sheep pasture in the 15th and 16th centuries. J. R. Wordie estimated that about 45% of England was enclosed by 1500, 47% by 1600 and 71% by 1700; most remaining open fields went in the parliamentary enclosures of the 18th–19th centuries. "Floated" water meadows (channels that flooded meadows on purpose to get an early crop of grass) appear in the early 1600s; Rowland Vaughan described his in Herefordshire in 1610. Maize from the Americas spreads in Iberia and northern Italy in the 16th century. See [What Changes After 1500](09-later-era-1500-1650.md).
+> **Later era (1500s+):** In England, landlords enclosed many open fields for sheep pasture in the 15th and 16th centuries. How much was enclosed, and when, is debated. J. R. Wordie (1983) estimated that about 45% of England was already enclosed by 1500, 47% by 1600 and 71% by 1700. Other historians think more than half the farmland was still open in 1700. Either way, most remaining open fields went in the parliamentary enclosures of the 18th–19th centuries. "Floated" water meadows (channels that flooded meadows on purpose to get an early crop of grass) appear in the early 1600s; Rowland Vaughan described his in Herefordshire in 1610. Maize from the Americas spreads in Iberia and northern Italy in the 16th century. See [What Changes After 1500](09-later-era-1500-1650.md).
 
 > **Fantasy twist:** Magic that doubles harvests halves the land a village needs. Its fields shrink to about a 1.5 km (1 mi) circle and more land is left for woods and pasture. It also lets villages sit closer together. Keep the ring pattern anyway: gardens near, fields out, woods at the edge.
 
@@ -190,9 +190,9 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 
 | Practice | What it is | Numbers | On the map |
 |---|---|---|---|
-| **Coppice** | Trees (hazel, ash, oak, hornbeam, maple, lime) cut to the ground; many new poles grow from the stump | Medieval cycles were short, usually under 10 years; they grew longer in later centuries. Products: firewood, poles, wattle, hurdles, charcoal | Compact woods with sharp edges, bounded by a bank and ditch to keep animals out after cutting |
-| **Coppice with standards** | Coppice plus scattered tall trees left to grow into timber | A 1544 English statute required 12 standards per acre to be left | Same as coppice |
-| **Pollards** | Trees cut 2–4 m (6–13 ft) above the ground, out of reach of grazing animals | Cut every 2–6 years for leaf fodder, or 8–15 years for poles | Scattered big trees in open grassland |
+| **Coppice** | Trees (hazel, ash, oak, hornbeam, maple, lime) cut to the ground; many new poles grow from the stump | Cycles depended on the tree and the product: birch for faggots (bundles of sticks) every 3–4 years, oak poles up to about 50 years. Medieval cycles were mostly short, often under 10 years (Rackham); they grew longer in later centuries. Products: firewood, poles, wattle, hurdles, charcoal | Compact woods with sharp edges, bounded by a bank and ditch to keep animals out after cutting |
+| **Coppice with standards** | Coppice plus scattered tall trees left to grow into timber | A 1544 English statute required 12 standards per acre (about 30 per hectare) to be left, and the wood to be fenced after cutting | Same as coppice |
+| **Pollards** | Trees cut well above the ground, usually about 2–4 m (6–13 ft) up, out of reach of grazing animals | Cut every 2–6 years for leaf fodder, or 8–15 years for poles | Scattered big trees in open grassland |
 | **Wood-pasture** | Grassland with pollards and old trees, grazed by cattle, sheep or deer | Most commons, parks and forests | Trees scattered over pasture |
 | **Pannage** | Pigs turned into woods in autumn to eat acorns and beechmast | Domesday Book (1086) measured many woods by how many pigs they fed, e.g. "wood for 40 pigs". The New Forest still has a pannage season of at least 60 days | Pig herders in oak and beech woods |
 
@@ -201,9 +201,9 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 ### Royal forests
 
 - **What:** an area under special **forest law**, which protected deer and wild boar ("venison") and the vegetation that fed them ("vert"). Clearing land, cutting trees or hunting without permission were offences.
-- **How big:** At the peak (late 12th to early 13th century), royal forest covered about **one third of southern England**. At one point all of Essex was forest. Sherwood covered perhaps a quarter of Nottinghamshire in 1086.
-- **Dates:** The Normans brought forest law (the New Forest was made by William I). The Assize of the Forest came in 1184. The **Charter of the Forest (1217)** cut the forests back and protected commoners' rights. The forest bounds were reduced again after 1300.
-- **Officials:** wardens, foresters, verderers (forest judges), regarders and agisters (who ran the grazing and pannage).
+- **How big:** At the peak (late 12th to early 13th century), royal forest covered about **one third of southern England**. At one stage in the 12th century all of Essex was forest. In 1086 Sherwood covered perhaps a quarter of Nottinghamshire.
+- **Dates:** The Normans brought forest law (the New Forest was made by William I). The Assize of the Forest came in 1184. The **Charter of the Forest (1217)** cut the forests back and protected commoners' rights. The forest bounds were cut back again around 1300.
+- **Officials:** wardens, foresters, verderers (forest judges), regarders (inspectors who looked for illegal clearing and building) and agisters (who ran the grazing and pannage).
 - **Elsewhere:** German kings and princes claimed similar hunting rights (*Wildbann*). French kings kept great forests such as Fontainebleau and Compiègne.
 
 ### Parks, chases, warrens and lodges
@@ -212,9 +212,9 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 |---|---|---|
 | **Deer park** | A private enclosed hunting ground and venison farm, needing a royal licence to "empark" | Domesday Book (1086): 36 parks. Rackham's estimate for c. 1300: about **3,200 parks**, covering nearly 2% of England, one per ~40 km² (15 sq mi) on average. Usually 40–80 ha (100–200 acres); some much larger. Hampton Court (Herefordshire) got a 15th-century licence for 1,000 acres. Mostly stocked with fallow deer |
 | **Park pale** | The boundary: a bank with a wooden fence on top and a ditch on the **inside** | Outlines usually have rounded corners. "Deer leaps" let deer in but not out |
-| **Chase** | An unfenced hunting ground held by a great lord, not the king | Cranborne Chase (Dorset and Wiltshire) |
+| **Chase** | An unfenced hunting ground held by a great lord, not the king (though a chase could pass to the Crown) | Cranborne Chase (Dorset, Wiltshire and Hampshire), held by great lords such as the earls of Gloucester and later the earls of March |
 | **Rabbit warren** | Rabbits farmed for meat and fur | The Normans brought rabbits in the late 11th or 12th century. In the 13th century one rabbit was worth more than a workman's daily wage. Warrens sit on dry, sandy, poor land such as the Breckland (Norfolk and Suffolk). Artificial burrows are long low mounds called **pillow mounds**. Thetford Warren Lodge (c. 1400) is a fortified warrener's house |
-| **Hunting lodge** | A house for the lord's hunting visits, inside a forest or park | Clarendon (Wiltshire) grew from a royal hunting lodge into a palace used by Henry II |
+| **Hunting lodge** | A house for the lord's hunting visits, inside a forest or park | Clarendon (Wiltshire): a hunting lodge stood in its park by 1130; Henry II and Henry III turned it into a royal palace |
 
 > **Map tip:** Do not paint a royal forest as solid trees. Draw its boundary as a dotted line with a name ("Forest of ..."), and inside it show woods, heath, villages and fields. Give a county 1–3 royal forests in the hunting country nearest the king's palaces. Draw deer parks as rounded enclosures of 0.5–1 km (0.3–0.6 mi) across, next to castles and great manor houses, with a lodge inside. Put rabbit warrens on sandy heaths.
 
@@ -226,30 +226,30 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 
 > **Rule of thumb:** By 1300 there was roughly **one mill per village**. Watermills sit on streams with a reliable flow; windmills stand on open, exposed high ground, especially in flat country with weak streams.
 
-**Why:** Grinding grain by hand with a quern took hours every day. A mill saved that labour, and it made the lord a steady income. Tenants had to grind at the lord's mill (in England, "suit of mill") and pay a toll in grain called **multure**, usually around a twentieth of the grain (often quoted as 1/16 to 1/24). Lords fought hand-mills: in 1331 the abbot of St Albans confiscated his tenants' querns and set them into the floor of his parlour.
+**Why:** Grinding grain by hand with a quern took hours every day. A mill saved that labour, and it made the lord a steady income. Tenants had to grind at the lord's mill (in England, "suit of mill") and pay a toll in grain called **multure**, usually around a twentieth of the grain (often quoted as 1/16 to 1/24). Lords fought hand-mills. At St Albans, in a long quarrel with the townspeople in the late 13th and 14th centuries, the abbot had their querns seized and used the stones to pave the floor of his parlour.
 
 ### How many mills
 
 | Date | Mills in England | Notes |
 |---|---|---|
 | 1086 (Domesday Book) | **5,624** watermills (Hodgen 1939); later counts give **~6,000** or more | Mills in about 4,000 places; about one mill for every 40–50 recorded households. Some "mills" were extra pairs of millstones in one building |
-| c. 1300 | **~10,000–15,000** mills of all kinds | Langdon's best guess is about 10,000, grinding about 80% of the grain. Windmills were now common in the east |
-| After 1350 | Fewer | After the Black Death many mills, especially windmills, closed |
+| c. 1300 | **~10,000–15,000** mills, most of them watermills | Estimates vary (see Holt 1988 and Langdon 2004). Either way, England had roughly as many mills as parishes. Windmills were now common in the east |
+| After 1350 | Fewer | After the Black Death there was less grain to grind, and many mills closed |
 
 ### Kinds of mill
 
 | Type | Where | Dates and facts | How to draw it |
 |---|---|---|---|
-| **Watermill** | On streams and small rivers with a steady flow; a weir and leat create the fall of water the wheel needs | Vertical wheels (undershot or overshot) in most of Europe; small horizontal-wheeled "Norse" mills in Ireland, Scotland, Scandinavia and the mountains | A wheel symbol on the stream, with its leat |
+| **Watermill** | On streams and small rivers with a steady flow; a weir and leat create the fall of water the wheel needs | Vertical wheels in most of Europe: *undershot* (the water pushes the bottom of the wheel) or *overshot* (the water pours onto the top); small horizontal-wheeled "Norse" mills in Ireland, Scotland, Scandinavia and the mountains | A wheel symbol on the stream, with its leat |
 | **Windmill** | Flat, open or dry country: eastern England, Flanders, northern France, the Low Countries | Earliest certain reference in northern Europe: **1185**, at Weedley in Yorkshire. The first type was the **post mill** (the whole body turns on a post). Masonry **tower mills** appeared by c. 1300. Dutch drainage mills appeared from 1408 | A mill with four sails on a hill or mound, away from trees |
-| **Tide mill** | Estuaries and sheltered coasts with a strong tide | Nendrum (Northern Ireland) AD 619–621; Ebbsfleet (Kent) 691–692; Woodbridge (Suffolk) first recorded 1170. A pond fills at high tide through a one-way gate and drives the wheel as the tide falls | A mill on a dam across a tidal creek |
+| **Tide mill** | Estuaries and sheltered coasts with a strong tide | Nendrum (Northern Ireland) c. 619, rebuilt c. 787; Ebbsfleet (Kent) 691–692 (dated by tree rings); Woodbridge (Suffolk) first recorded 1170. A pond fills at high tide through a one-way gate and drives the wheel as the tide falls | A mill on a dam across a tidal creek |
 | **Horse or donkey mill** | Castles, besieged towns, dry places with no stream | Slow but independent of water | No special symbol; inside a castle or town |
 | **Ship mill and bridge mill** | Big rivers with no space for weirs | Floating mills on the Tiber, Danube and other large rivers; Paris had a bridge lined with mills | Small boats moored midstream; mills on a bridge |
 
 ### Leats, ponds and weirs
 
 - **Weir:** a low dam across the river that raises the water and turns part of it aside.
-- **Leat (mill race, head race):** an artificial channel that takes water from the weir to the mill. It can run from a few hundred metres to over a kilometre, along the valley side to gain height.
+- **Leat (mill race, head race):** an artificial channel that takes water from the weir to the mill. It can run from a few hundred metres to over a kilometre (0.6 mi). It runs along the valley side, falling more gently than the river, so the water arrives at the mill higher than the river.
 - **Millpond:** stores water so the mill can run when the stream is low.
 - **Tail race:** returns water to the river below the mill.
 - **Conflicts:** mill weirs blocked boats and fish. Rivers with many mills were hard to navigate (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)). Mills also drove fulling, forges and other industry (see [Industry, Resources and Special Towns](07-industry-and-resources.md)).
@@ -268,15 +268,15 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 
 | Feature | What it is | Where to put it | Numbers and examples |
 |---|---|---|---|
-| **Fishponds** | Ponds for breeding and storing freshwater fish for fast days | Near manors, monasteries and castles, in a valley floor fed by a stream; often a chain of 2–12 ponds joined by channels | About 2,000 are recorded in England, a small part of the medieval total. Building peaked in the 12th century. Ponds range from 30 × 5 m to over 180 × 50 m |
-| **Dovecotes** | Towers for breeding pigeons for meat and manure | Next to manor houses, parsonages and monasteries | Only manorial lords could keep them in medieval England. In France this was the *droit de colombier*. Medieval ones are usually round and stone-built. Kinwarton (Warwickshire, 14th century) has about 580 nesting boxes |
-| **Moated sites** | A house platform surrounded by a wet ditch | Clay lowlands; manor houses, granges, rectories | About 6,000 known in England, most dug c. 1250–1350; a status symbol as much as a defence |
-| **Monastic grange** | An outlying farm run by a monastery, often with lay brothers | Up to a day's journey or more from the abbey | First appeared in the 12th century, used until the end of the monasteries. Byland Abbey had an industrial grange about 60 miles (95 km) away |
-| **Tithe barn** | A great barn for crops paid as tithe (one tenth) or rent | Next to a church, rectory or grange | Over 30 medieval examples survive in England. Great Coxwell (Oxfordshire), c. 1292, built for Beaulieu Abbey: 46 m long, 13 m wide, 15 m high (152 × 43 × 48 ft) |
+| **Fishponds** | Ponds for breeding and storing freshwater fish for fast days | Near manors, monasteries and castles, in a valley floor fed by a stream; often a chain of 2–12 ponds joined by channels | About 2,000 are recorded in England, thought to be only a small part of the medieval total. Building peaked in the 12th century. Groups of up to 12 ponds in a line or a cluster; big storage ponds and small, shallow breeding ponds. Example: a grange at North Kelsey (Lincolnshire) had a pond 65 × 50 m (210 × 165 ft) and another about 75 m (250 ft) long |
+| **Dovecotes** | Towers for breeding pigeons for meat and manure | Next to manor houses, parsonages and monasteries | Only manorial lords could keep them in medieval England. In France this was the *droit de colombier*. Medieval ones are usually round and stone-built. Kinwarton (Warwickshire, 14th century) has over 580 nesting holes |
+| **Moated sites** | A house platform surrounded by a wet ditch | Clay lowlands; manor houses, granges, rectories | About 6,000 known in England, most dug c. 1250–1350, with by far the most in central and eastern England; a status symbol as much as a defence |
+| **Monastic grange** | An outlying farm run by a monastery, often worked by lay brothers (monks who did the manual work) or by paid labourers | Next to the abbey or wherever it held land, up to a day's journey or more away | First appeared in the 12th century, led by the Cistercians, and used until the English monasteries were dissolved in 1536–1541. Byland Abbey (North Yorkshire) had an industrial grange at Denby Dale, some 50–60 miles (80–95 km) away |
+| **Tithe barn** | A great barn for crops paid as tithe (one tenth) or rent | Next to a church, rectory or grange | About 200 medieval barns (built before 1550) survive in Britain; not all were tithe barns. Great Coxwell (Oxfordshire), built c. 1292 (roof timbers felled 1291–92) for Beaulieu Abbey's grange: 46 m long, 13 m wide, 15 m high (152 × 43 × 48 ft) |
 | **Sheepfolds and sheepcotes** | Pens and long sheep-houses for winter | On downs, wolds and moors; on monastic sheep granges | In Norfolk, lords had the right to fold their sheep on tenants' fields at night to manure them |
 | **Wells** | Village water | Village centre or each toft | Clay villages used ponds and shallow wells; chalk villages needed deep ones |
-| **Wayside crosses** | Stone crosses at junctions, boundaries and moor paths | Crossroads, parish edges, routes over moors (Dartmoor) | Mostly 13th–14th century in Britain; about 1,900 survive. In Germany, small *Sühnekreuze* (penance crosses) mark a killing |
-| **Limekilns** | Kilns that burn limestone into lime | Near limestone and fuel, by a creek or harbour, or at a big building site | Mostly for mortar in the Middle Ages. Liming fields became common later, once coal made it cheap; it is described in Fitzherbert's *Boke of Husbandry* (1523). See [Industry, Resources and Special Towns](07-industry-and-resources.md#lime-kilns) |
+| **Wayside crosses** | Stone crosses at junctions, boundaries and moor paths | Crossroads, parish edges, routes over moors (Dartmoor) | Mostly 13th–14th century in Britain. Many hundreds survive, often only the base or a broken shaft; Dartmoor alone has about 130 known crosses. In Germany, small *Sühnekreuze* (penance crosses) mark a killing |
+| **Limekilns** | Kilns that burn limestone into lime | Near limestone and fuel, by a creek or harbour, or at a big building site | Mostly for mortar in the Middle Ages. Spreading lime on fields became practical first in coal-mining areas, where coal made lime cheap from the late 13th century; Fitzherbert describes it in his *Boke of Husbandry* (1523). See [Industry, Resources and Special Towns](07-industry-and-resources.md#lime-kilns) |
 | **Pound** | Pen for stray animals | Edge of village | See [above](#what-is-in-a-village) |
 
 ### Summer pastures and transhumance
@@ -285,16 +285,16 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 
 | Type | Region | Distance | Season | On the map |
 |---|---|---|---|---|
-| **Shielings** | Scotland (*àirigh*), northern England, Wales (*hafod* = summer house, *hendre* = winter house), Ireland (*booley*), Norway (*seter*) | Usually within a day's walk, uphill | Scotland: families went up "about midsummer" for "a month or six weeks" to make butter and cheese | Clusters of small huts by a stream on high pasture. Scottish huts were 5.7–14 m long. A 1995–2001 survey in Scotland recorded about 3,100 shieling huts |
+| **Shielings** (summer huts on hill pasture) | Scotland (*àirigh*), northern England, Wales (*hafod* = summer house, *hendre* = winter house), Ireland (*booley*), Norway (*seter*) | Usually within a day's walk, uphill | Scotland: families went up "about midsummer" for "a month or six weeks" to make butter and cheese | Clusters of small huts by a stream on high pasture. Scottish huts were mostly rectangular, 5.7–14 m (19–46 ft) long, of dry stone or turf. A 1995–2001 survey in Scotland recorded about 3,100 shieling huts |
 | **Alpine pastures** | Alps, Pyrenees, Carpathians | From the valley village up to the high meadows | Summer | Huts and cheese-making above the tree line |
-| **Long-distance transhumance** | Castile (the **Mesta**, royal charter 1273) | 550–750 km (340–470 mi) from León and Old Castile to Extremadura and Andalusia; under 250 km from New Castile | South in autumn (arriving in October), north in April–May | More than 2.5 million sheep moved each year in 1436–1549. Drove roads (*cañadas reales*) were 90 *varas* (about 75 m, 250 ft) wide where they crossed farmland |
-| **Tratturi** | Abruzzo to Apulia (southern Italy) | The main route, about 240 km (150 mi) | Winter in the Apulian lowlands, summer in the mountains | Wide grassy drove roads; organised as a royal toll system (the *Dogana*) in 1447 |
+| **Long-distance transhumance** | Castile (the **Mesta**, royal charter 1273) | 550–750 km (340–470 mi) from León and Old Castile to Extremadura and Andalusia; rarely more than 250 km (155 mi) from New Castile and La Mancha | South in autumn (arriving in October), north in April–May | More than 2.5 million sheep moved each year in 1436–1549. The royal drove roads (*cañadas reales*) were given a fixed width only where they crossed farmland: 90 *varas* (Castilian yards), about 75 m (250 ft) |
+| **Tratturi** | Abruzzo to Apulia (southern Italy) | The main route, L'Aquila to Foggia, is about 244 km (152 mi) | Winter in the Apulian lowlands, summer in the mountains | Wide grassy drove roads (*tratturi*); King Alfonso V of Aragon organised them as a royal toll system (the *Dogana*) in 1447 |
 
-Place names often record shielings: Old Norse *sætr* ("-side", "-seat") and *ærgi* ("-ergh", "-argh"), and Gaelic *àirigh* ("Airie", "Arie").
+Place names often record shielings: English and Scots "shiel" or "shield" (Galashiels, Pollokshields), Old Norse *sætr* ("-side", "-seat") and *ærgi* ("-ergh", "-argh"), and Gaelic *àirigh* ("Airie", "Arie").
 
 ### Boundaries, paths and hollow ways
 
-- **Parish and manor boundaries** followed streams, ridges, old roads and banks, and were marked with stones, crosses, ancient trees and banks. Each spring (Rogation week) parishioners "**beat the bounds**": they walked the whole boundary and struck the markers so that the young would remember them.
+- **Parish and manor boundaries** followed streams, ridges, old roads and banks, and were marked with stones, crosses, ancient trees and banks. Each spring (Rogation week) parishioners "**beat the bounds**": they walked the whole boundary and struck the markers with green boughs. Boys came along and were sometimes bumped on the boundary stones, so that they would remember the line all their lives.
 - **Hedges and banks:** where fields were enclosed early, the hedges themselves are boundaries. Fields cleared from woodland have hedges full of woodland plants.
 - **Hollow ways** (sunken lanes) are tracks worn deep by centuries of feet, hooves and rainwater, especially on chalk and soft sandstone. One estimate puts England's total at over 1,600 km (1,000 mi); in Germany some reach 5 m (16 ft) deep.
 - **Footpaths and church paths:** every hamlet had a path to its parish church and mill. In big northern parishes, "corpse roads" carried the dead from distant hamlets to the parish churchyard.
@@ -311,10 +311,10 @@ Place names often record shielings: Old Norse *sætr* ("-side", "-seat") and *æ
 |---|---|---|---|
 | **Silt fen and salt-marsh reclamation** | Banks built against the sea or floods; marsh drained by ditches | The Fens (about 3,900 km², 1,500 sq mi): medieval farmers embanked the silt land around the Wash. Romney Marsh (about 260 km², 100 sq mi): land "inned" (enclosed by walls) in stages; much of Walland and Denge Marsh by the 14th century | Long sea banks, straight drains, villages in a line along the old banks, sheep on the marsh |
 | **Peat fen** | Wet inland marsh | The southern Fens stayed mostly undrained: fish, eels, wildfowl, reeds, turf, summer grazing. Monasteries (Ely, Thorney, Crowland, Ramsey, Peterborough) stood on dry "islands"; the Isle of Ely is about 60 km² (23 sq mi) | Islands of dry land with a church or abbey, surrounded by marsh and meres |
-| **Polders and dykes** | Land below water level, enclosed by dykes and drained | Netherlands: first polders in the 11th century; a water-management cooperative near Utrecht c. 1122; the Rijnland water board in 1255; wind-pumps from 1408 (Zoeterwoude). Drained peat shrinks and sinks, so dykes had to be raised again and again | Dykes as thick lines, villages strung along them, a grid of drains |
-| **Assarts** | Fields cleared from woodland | Peak in the 13th century, often in royal forests with a licence or a fine; many went back to woodland after the Black Death | Irregular hedged fields biting into woodland, with isolated farms |
+| **Polders and dykes** | Land below water level, enclosed by dykes and drained | Netherlands: first polders in the 11th century; a cooperative to build and keep up a dam on the Rhine near Wijk bij Duurstede (south-east of Utrecht) c. 1122; the Rijnland water board in 1255; the first drainage windmill near Alkmaar in 1408. Drained peat shrinks and sinks, so dykes had to be raised again and again | Dykes as thick lines, villages strung along them, a grid of drains |
+| **Assarts** | Fields cleared from woodland | Peak in the 13th century, by single farmers, village groups, lords and monasteries (especially the Cistercians). In royal forests a licence or a fine was needed. Many went back to woodland after the Black Death | Irregular hedged fields biting into woodland, with isolated farms |
 
-**Place-name clues:** English assart names include Stocking, Stubbings, Ridding, Royd, Breach and Hay. French *essart* and *-sart* and German *-rode*, *-rath* and *-reuth* (as in Bayreuth) mean "cleared land". German eastward settlement (*Ostsiedlung*, 12th–14th centuries) cleared forest in the same way, with Waldhufendörfer and standard farm holdings (the Frankish *Hufe*, about 24 ha or 60 acres).
+**Place-name clues:** English assart names include Stocking, Stubbings, Ridding, Royd and Breach. French *essart* and *-sart* and German *-rode*, *-rath* and *-reuth* (as in Bayreuth) mean "cleared land". German eastward settlement (*Ostsiedlung*, 12th–14th centuries) cleared forest in the same way, with Waldhufendörfer and standard farm holdings (the Frankish *Hufe*, about 24 ha or 60 acres).
 
 > **Map tip:** If your kingdom is in its growth phase, show new strip villages pushing up forest valleys and new dykes on the coast. If it is after a plague, show some assarts going back to scrub and a few deserted villages (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)).
 
@@ -324,22 +324,22 @@ Place names often record shielings: Old Norse *sætr* ("-side", "-seat") and *æ
 
 ## Local administration: parish, manor, hundred
 
-> **Rule of thumb:** The **parish** is the unit of church and village life. The **manor** is the unit of lordship and rent. The **hundred** groups 10–12 parishes for justice and tax. They often do not match.
+> **Rule of thumb:** The **parish** is the unit of church and village life. The **manor** is the unit of lordship and rent. The **hundred** groups roughly 10–15 parishes for justice and tax. They often do not match.
 
 | Unit | Area | What it does | Seat or meeting place |
 |---|---|---|---|
 | **Township or vill** | Part of a parish in the north and uplands; equal to the parish in the lowlands | Farming community, tax unit | The village |
 | **Parish** | ~14 km² (5.4 sq mi) lowland; 50–100+ km² upland | Church, tithes, burial; ~9,500 in England c. 1300 | Parish church |
 | **Manor** | 2–10 km² (0.8–4 sq mi): one village, part of one, or several | Lord's land, rents, labour services, manor court | Manor house |
-| **Hundred / wapentake** | Average ~130–150 km² (50–60 sq mi), about 10–12 parishes | Court for local justice and order. It met 12 times a year by the 12th century; a 1234 ordinance set it at every three weeks. "Wapentake" (Old Norse for "weapon-taking") is the name in the Danelaw (Yorkshire, Lincolnshire, the East Midlands) | Often an open-air site: a mound, a tree, a stone, a ford, a crossroads |
+| **Hundred / wapentake** | Very variable: small in the south-east (Sussex, Kent), large in the Midlands and north. A rough average is ~150–200 km² (60–80 sq mi) and 10–15 parishes (about 630 named hundreds were listed in 1316; derived) | Court for local justice and order. It met 12 times a year by the 12th century; later it met every two weeks, until a 1234 ordinance set it at every three weeks. "Wapentake" (Old Norse for "weapon-taking") is the name in the Danelaw, the part of England once under Danish law (Yorkshire, Lincolnshire, the East Midlands) | Often an open-air site: a mound, a tree, a stone, a ford, a crossroads |
 | **Lathe / rape** | Groups of hundreds in Kent (7 lathes) and Sussex (4 rapes) at the Norman Conquest | Between hundred and shire | A royal centre or castle |
 | **Shire / county** | See [Capitals, Realms and Borders](03-capitals-and-borders.md#political-units-and-their-sizes) | | County town |
 
 **Equivalents elsewhere:** the Frankish *centena*, the Scandinavian *herred* or *härad*, the French *châtellenie* (castle district), and the Italian *pieve* (a large rural district served by one baptismal church with several chapels).
 
-**Moot sites:** Assemblies met in the open at places everyone could find. Secklow Mound (in modern Milton Keynes) was the meeting place of Secklow hundred. Tynwald Hill (Isle of Man) and Thingwall (Wirral) come from the Norse *thing* (assembly). Place-name clues are -low or -law (mound), "Moot Hill", "Gallows Hill", "Court Hill", and names with Thing- or -ting.
+**Moot sites:** A *moot* is an assembly. Assemblies met in the open at places everyone could find. Secklow Mound (in modern Milton Keynes) was the meeting place of Secklow hundred. Tynwald Hill (Isle of Man) and Thingwall (Wirral) come from the Norse *thing* (assembly). Place-name clues are -low or -law (mound), "Moot Hill", "Gallows Hill", "Court Hill", and names with Thing- or -ting.
 
-> **Map tip:** On a county map, divide the land into hundreds about 12 km (7–8 mi) across. Name each hundred after its meeting place, and mark that place with a small mound or tree symbol, often on a road or at a ford near the middle of the hundred and away from any village. Gallows often stand nearby.
+> **Map tip:** On a county map, divide the land into hundreds about 12–15 km (7–9 mi) across, smaller in rich, crowded country and larger in the hills. Name each hundred after its meeting place, and mark that place with a small mound or tree symbol, often on a road or at a ford near the middle of the hundred and away from any village. Gallows often stand nearby.
 
 ---
 
@@ -367,7 +367,7 @@ These are derived from national totals and the area of England (130,000 km²). U
 | Deer parks | ~40 km² | ~2–3 | ~10 |
 | Moated sites | ~22 km² | ~4–5 | ~15–20 |
 | Market places (c. 1300, many tiny) | ~75 km² | ~1–2 | ~5 |
-| Hundred meeting places | ~150 km² | ~0.7 | ~2–3 |
+| Hundred meeting places | ~150–200 km² | ~0.5–0.7 | ~2–3 |
 | Fishponds | Recorded: ~65 km² (a minimum) | at least 1–2 | at least 6 |
 
 For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-military-sites.md), [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md) and [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md).
@@ -413,14 +413,14 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - 85–95% of people lived in the countryside. On a local map, almost all the land is fields, pasture, wood or waste, and almost all of it has an owner and a name.
 - Open-field arable gives tight nucleated or green villages; uplands, forest and marsh give hamlets and farmsteads; valleys and dykes give strip villages in a line.
 - A typical lowland village has 30–60 households (150–300 people), a territory of 5–15 km² (2–6 sq mi), and lies 1.5–4 km (1–2.5 mi) from its neighbours.
-- Fields lie within about 2 km (1.3 mi) of the houses. Beyond 3–4 km, people build outlying farms or switch to pasture.
+- Fields lie within about 2 km (1.3 mi) of the houses. Beyond 3–4 km (2–2.5 mi), people build outlying farms or switch to pasture.
 - Land use forms rings: gardens and orchards, then arable, then pasture, then wood and waste at the parish edge. Meadow follows the streams.
 - Open-field strips were about 200 m (220 yd) long and ¼–1 acre in size, ploughed into ridge and furrow. Systems had two or three great fields, one left fallow each year.
 - Uplands used infield-outfield and summer shielings; the Mediterranean used terraces, canals, norias and qanats; Castile moved over 2.5 million sheep each year, some of them 550–750 km (340–470 mi).
-- Mills: 5,624–6,000+ in Domesday England (1086); about 10,000–15,000 by 1300, roughly one per village. Windmills from 1185; tide mills from the 7th century.
+- Mills: 5,624–6,000+ in Domesday England (1086); about 10,000–15,000 by 1300 (estimates vary), roughly one per village. Windmills in England from 1185; tide mills from the 7th century.
 - A medieval "forest" is a legal hunting area, not just trees. Royal forest covered about a third of southern England at its peak. There were about 3,200 deer parks c. 1300, usually 40–80 ha (100–200 acres) with rounded outlines.
-- Manors have moats (about 6,000 in England), dovecotes and fishponds. Monasteries have granges and great barns.
-- Parish, manor and hundred are different units. Hundreds of ~130–150 km² met at open-air moot sites.
+- Many manors have moats (about 6,000 moated sites are known in England), dovecotes and fishponds. Monasteries have granges and great barns.
+- Parish, manor and hundred are different units. Hundreds of very roughly 150–200 km² (60–80 sq mi) met at open-air moot sites.
 - Reclaimed land (fens, polders, assarts) has straight lines and new names; old land has curved boundaries.
 
 ---
@@ -445,7 +445,9 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - Roberts, Brian K. and Wrathmell, Stuart. *An Atlas of Rural Settlement in England* (2000).
 - Taylor, Christopher. *Village and Farmstead: A History of Rural Settlement in England* (1983).
 - Toubert, Pierre. *Les structures du Latium médiéval* (1973). On *incastellamento* and land use around hill villages.
+- Vaughan, Rowland. *Most Approved and Long Experienced Water-Workes* (1610). On his "floated" water meadows in the Golden Valley, Herefordshire.
 - Williamson, Tom. *Shaping Medieval Landscapes: Settlement, Society, Environment* (2003).
+- Wordie, J. R. "The chronology of English enclosure, 1500–1914", *Economic History Review* 36 (1983).
 
 **Web pages consulted**
 
@@ -453,8 +455,12 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - English Heritage, Thetford Warren Lodge, rabbits and warreners: https://www.english-heritage.org.uk/visit/places/thetford-warren-lodge/history/rabbits-warreners
 - Herefordshire Through Time, parks and deer parks: https://htt.herefordshire.gov.uk/herefordshires-past/the-medieval-period/countryside-and-landscape/parks-and-deerparks
 - Lincolnshire Heritage Explorer, scheduled monument text on fishponds and granges (North Kelsey Grange): https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1560
+- Lincolnshire Heritage Explorer, scheduled monument text on moated sites (South Kelsey Hall): https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1561
+- National Trust, Kinwarton Dovecote: https://www.nationaltrust.org.uk/visit/warwickshire/kinwarton-dovecote
 - Windmill World, mills in Domesday Book: https://windmillworld.com/watermills/domesday.htm
 - Building History, dovecotes: https://buildinghistory.org/buildings/dovecotes.shtml
 - Tribunal de las Aguas de Valencia, history: https://tribunaldelasaguas.org/en/history/
 - University of Valencia, irrigation canals of l'Horta de València: https://www.uv.es/horta-valencia-chair/en/heritage-catalogue/irrigation-canals-l-horta-de-valencia/irrigation-canals-l-horta-de-valencia.html
-- Wikipedia (starting points; follow their citations): [Open-field system](https://en.wikipedia.org/wiki/Open-field_system), [Ridge and furrow](https://en.wikipedia.org/wiki/Ridge_and_furrow), [Waldhufendorf](https://en.wikipedia.org/wiki/Waldhufendorf), [Rundling](https://en.wikipedia.org/wiki/Rundling), [Angerdorf](https://en.wikipedia.org/wiki/Angerdorf), [Watermill](https://en.wikipedia.org/wiki/Watermill), [Windmill](https://en.wikipedia.org/wiki/Windmill), [Tide mill](https://en.wikipedia.org/wiki/Tide_mill), [Horse mill](https://en.wikipedia.org/wiki/Horse_mill), [Royal forest](https://en.wikipedia.org/wiki/Royal_forest), [Deer park (England)](https://en.wikipedia.org/wiki/Deer_park_(England)), [Hatfield Forest](https://en.wikipedia.org/wiki/Hatfield_Forest), [Coppicing](https://en.wikipedia.org/wiki/Coppicing), [Pollarding](https://en.wikipedia.org/wiki/Pollarding), [Pannage](https://en.wikipedia.org/wiki/Pannage), [Qanat](https://en.wikipedia.org/wiki/Qanat), [Noria](https://en.wikipedia.org/wiki/Noria), [Terrace (earthworks)](https://en.wikipedia.org/wiki/Terrace_(earthworks)), [Mesta](https://en.wikipedia.org/wiki/Mesta), [Shieling](https://en.wikipedia.org/wiki/Shieling), [Polder](https://en.wikipedia.org/wiki/Polder), [Water board (Netherlands)](https://en.wikipedia.org/wiki/Water_board_(Netherlands)), [The Fens](https://en.wikipedia.org/wiki/The_Fens), [Romney Marsh](https://en.wikipedia.org/wiki/Romney_Marsh), [Assart](https://en.wikipedia.org/wiki/Assart), [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)), [Moot hill](https://en.wikipedia.org/wiki/Moot_hill), [Great Coxwell Barn](https://en.wikipedia.org/wiki/Great_Coxwell_Barn), [Tithe barn](https://en.wikipedia.org/wiki/Tithe_barn), [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange), [Animal pound (Pinfold)](https://en.wikipedia.org/wiki/Pinfold), [Sunken lane](https://en.wikipedia.org/wiki/Sunken_lane), [Beating the bounds](https://en.wikipedia.org/wiki/Beating_the_bounds), [Wayside cross](https://en.wikipedia.org/wiki/Wayside_cross), [Lime kiln](https://en.wikipedia.org/wiki/Lime_kiln), [Dovecote](https://en.wikipedia.org/wiki/Dovecote), [English wine](https://en.wikipedia.org/wiki/English_wine), [Polish wine](https://en.wikipedia.org/wiki/Polish_wine).
+- Dutch Wikipedia, *Poldermolen* (first drainage windmill near Alkmaar, 1408): https://nl.wikipedia.org/wiki/Poldermolen
+- Italian Wikipedia, *Tratturo Magno* (L'Aquila–Foggia, 244 km; the Dogana of 1447): https://it.wikipedia.org/wiki/Tratturo_Magno
+- Wikipedia (starting points; follow their citations): [Open-field system](https://en.wikipedia.org/wiki/Open-field_system), [Ridge and furrow](https://en.wikipedia.org/wiki/Ridge_and_furrow), [Waldhufendorf](https://en.wikipedia.org/wiki/Waldhufendorf), [Rundling](https://en.wikipedia.org/wiki/Rundling), [Angerdorf](https://en.wikipedia.org/wiki/Angerdorf), [Watermill](https://en.wikipedia.org/wiki/Watermill), [Windmill](https://en.wikipedia.org/wiki/Windmill), [Tide mill](https://en.wikipedia.org/wiki/Tide_mill), [Horse mill](https://en.wikipedia.org/wiki/Horse_mill), [Royal forest](https://en.wikipedia.org/wiki/Royal_forest), [Deer park (England)](https://en.wikipedia.org/wiki/Deer_park_(England)), [Hatfield Forest](https://en.wikipedia.org/wiki/Hatfield_Forest), [Coppicing](https://en.wikipedia.org/wiki/Coppicing), [Pollarding](https://en.wikipedia.org/wiki/Pollarding), [Pannage](https://en.wikipedia.org/wiki/Pannage), [Qanat](https://en.wikipedia.org/wiki/Qanat), [Noria](https://en.wikipedia.org/wiki/Noria), [Terrace (earthworks)](https://en.wikipedia.org/wiki/Terrace_(earthworks)), [Mesta](https://en.wikipedia.org/wiki/Mesta), [Shieling](https://en.wikipedia.org/wiki/Shieling), [Polder](https://en.wikipedia.org/wiki/Polder), [Water board (Netherlands)](https://en.wikipedia.org/wiki/Water_board_(Netherlands)), [The Fens](https://en.wikipedia.org/wiki/The_Fens), [Romney Marsh](https://en.wikipedia.org/wiki/Romney_Marsh), [Assart](https://en.wikipedia.org/wiki/Assart), [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)), [Moot hill](https://en.wikipedia.org/wiki/Moot_hill), [Great Coxwell Barn](https://en.wikipedia.org/wiki/Great_Coxwell_Barn), [Tithe barn](https://en.wikipedia.org/wiki/Tithe_barn), [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange), [Animal pound (Pinfold)](https://en.wikipedia.org/wiki/Pinfold), [Sunken lane](https://en.wikipedia.org/wiki/Sunken_lane), [Beating the bounds](https://en.wikipedia.org/wiki/Beating_the_bounds), [Wayside cross](https://en.wikipedia.org/wiki/Wayside_cross), [Lime kiln](https://en.wikipedia.org/wiki/Lime_kiln), [Dovecote](https://en.wikipedia.org/wiki/Dovecote), [English wine](https://en.wikipedia.org/wiki/English_wine), [Polish wine](https://en.wikipedia.org/wiki/Polish_wine), [Virgate](https://en.wikipedia.org/wiki/Virgate), [Sherwood Forest](https://en.wikipedia.org/wiki/Sherwood_Forest), [Clarendon Palace](https://en.wikipedia.org/wiki/Clarendon_Palace), [Cranborne Chase](https://en.wikipedia.org/wiki/Cranborne_Chase), [Nendrum Monastery](https://en.wikipedia.org/wiki/Nendrum_Monastery), [Quern-stone](https://en.wikipedia.org/wiki/Quern-stone), [Dartmoor crosses](https://en.wikipedia.org/wiki/Dartmoor_crosses), [Beemster](https://en.wikipedia.org/wiki/Beemster), [Schermer](https://en.wikipedia.org/wiki/Schermer), [Rowland Vaughan](https://en.wikipedia.org/wiki/Rowland_Vaughan), [Laxton, Nottinghamshire](https://en.wikipedia.org/wiki/Laxton,_Nottinghamshire).

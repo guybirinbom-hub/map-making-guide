@@ -27,7 +27,7 @@ The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500),
 
 > **Rule of thumb:** Every village has a church. Every town has a hospital. Every big town has friars. Every region has a few monasteries. Every kingdom has a handful of cathedrals and one or two universities.
 
-The Church was the biggest landowner and builder in medieval Europe: bishops and abbots held about a quarter of England in 1086 (see [chapter 03](03-capitals-and-borders.md)). Clergy were only 1.5–2% of the people, but their buildings were everywhere.
+The Church was the biggest landowner and builder in medieval Europe. Bishops and abbots held roughly a quarter of England in 1086 (estimates vary; see [chapter 03](03-capitals-and-borders.md)). Clergy were only about 1–2% of the people, but their buildings were everywhere.
 
 ### How many of each, per area
 
@@ -36,16 +36,16 @@ These densities come from England, where the counts are good. England covers abo
 | Feature | Number in England | One per ... | Per 1,000 km² (386 sq mi) | Notes |
 |---|---|---|---|---|
 | Parish church | ~9,500 (c. 1300) | ~14 km² (5.4 sq mi) | ~73 | About 4 km (2.5 mi) church to church in the lowlands |
-| Market (chartered) | 1,746 recorded by 1300 | ~75 km² | ~13 | Shown for comparison (baseline) |
+| Market (chartered) | 1,746 recorded by 1300 | ~75 km² (29 sq mi) | ~13 | Shown for comparison (baseline) |
 | Religious house (monks, canons, nuns, friars) | ~900 (1530s) | ~145 km² (56 sq mi) | ~7 | Average only ~13 people each |
-| Hospital or almshouse | 800–1,100 founded c. 1080–1540 | ~120–160 km² | ~6–8 | Not all open at the same time |
-| Castle in use | 500–600 at one time | ~220–260 km² | ~4 | See [chapter 04](04-military-sites.md) |
-| Leper house | ~300 (estimates vary) | ~430 km² | ~2 | Mostly founded 1100–1350 |
-| Friary | 183 (1530s) | ~700 km² | ~1.4 | Only in towns |
-| Cathedral | 17 | ~7,600 km² (2,950 sq mi) | 0.13 | Plus 4 in Wales |
-| University | 2 (Oxford, Cambridge) | ~65,000 km² | 0.015 | Very rare everywhere |
+| Hospital or almshouse | 800–1,100 founded c. 1080–1540 (estimates vary) | ~120–160 km² (46–62 sq mi) | ~6–8 | Not all open at the same time |
+| Castle in use | 500–600 at one time | ~220–260 km² (85–100 sq mi) | ~4 | See [chapter 04](04-military-sites.md) |
+| Leper house | ~300 (estimates vary) | ~430 km² (166 sq mi) | ~2 | Mostly founded 1100–1350 |
+| Friary | 183 (1530s) | ~700 km² (270 sq mi) | ~1.4 | Only in towns |
+| Cathedral | 17 (from 1133) | ~7,600 km² (2,950 sq mi) | 0.13 | Plus 4 in Wales |
+| University | 2 (Oxford, Cambridge) | ~65,000 km² (25,000 sq mi) | 0.015 | Very rare everywhere |
 
-For a sample county of about 2,500 km² (a square 50 km or 31 mi on a side), this means: about 180 parish churches, 15–20 religious houses, 3–4 friaries in its 1–3 biggest towns, 15–20 hospitals and almshouses over time, about 6 leper houses, 10 or so castles in use, and about a one-in-three chance of a cathedral.
+For a sample county of about 2,500 km² (965 sq mi; a square 50 km or 31 mi on a side), this means: about 180 parish churches, 15–20 religious houses, 3–4 friaries in its 1–3 biggest towns, 15–20 hospitals and almshouses over time, about 6 leper houses, 10 or so castles in use, and about a one-in-three chance of a cathedral.
 
 > **Map tip:** Do not draw all of these at every scale. On a kingdom map, show cathedrals, great abbeys, major shrines and universities. On a local map, show every parish church, plus the abbeys, friaries, hospitals, gallows and ruins. See [Drawing it all](#drawing-it-all-symbols-density-and-scale).
 
@@ -65,12 +65,12 @@ So a parish needed enough farmland to feed a priest from one-tenth of its harves
 
 | Place and date | Parishes | Average size | Notes |
 |---|---|---|---|
-| England c. 1300 | ~9,500 | ~14 km² (5.4 sq mi) | Lowland parishes 5–15 km²; upland parishes 50–100+ km² |
-| France (late Middle Ages to 1789) | roughly 40,000 (estimate) | ~13 km² | Most of France's modern communes grew out of these parishes |
+| England c. 1300 | ~9,500 | ~14 km² (5.4 sq mi) | Lowland parishes 5–15 km² (2–6 sq mi); upland parishes 50–100+ km² (20–40+ sq mi) |
+| France (late Middle Ages to 1789) | roughly 40,000 (an estimate; counts vary, some higher) | ~13 km² (5 sq mi) | Most of France's modern communes grew out of these parishes |
 | Northern and central Italy | Older system: the *pieve* | A *pieve* covered several villages | A *pieve* was a rural "mother church" with the only font (baptism basin); smaller chapels around it served the villages |
-| Medieval towns in England | Many tiny parishes | Some under 1 ha (2.5 acres) | London had 106 parish churches in 1371; Norwich 56–58; Lincoln 47; York ~45 in 1300 (39 by 1428) |
+| Medieval towns in England | Many tiny parishes | Some under 1 ha (2.5 acres) | London had over 100 parish churches inside its walls by the 1100s; Norwich about 56; Lincoln over 40; York ~45 in 1300 (39 by 1428) |
 
-Old English towns like London, Norwich, York and Lincoln were full of tiny parishes, because rich townsmen founded many small churches before 1200. Norwich packed more than 50 churches into about 1.5 sq mi (4 km²) inside its walls. New planted towns of the 1200s usually got only one church, and sometimes only a chapel that belonged to an older village parish.
+Old English towns like London, Norwich, York and Lincoln were full of tiny parishes, because rich townsmen founded many small churches before 1200. Norwich packed 56 parish churches into about 1.5 sq mi (4 km²) inside its walls. New planted towns of the 1200s usually got only one church, and sometimes only a chapel that belonged to an older village parish.
 
 ### Chapels of ease and other chapels
 
@@ -97,10 +97,10 @@ Church towers and spires were the tallest things most people ever saw. Traveller
 |---|---|---|
 | Small village tower | 15 m (50 ft) | up to ~18 km (11 mi) |
 | Large village or town tower | 25–40 m (80–130 ft) | up to ~22–27 km (14–17 mi) |
-| Boston "Stump", Lincolnshire (built c. 1450–1520) | 81 m (267 ft) | up to ~37 km (23 mi); used as a sea-mark for ships in the Wash |
-| Lincoln Cathedral spire (c. 1311, blown down 1548) | about 160 m (525 ft) by the usual estimate | up to ~50 km (31 mi); probably the tallest building in the world in its day |
+| Boston "Stump", Lincolnshire (tower built c. 1450–1520) | 81 m (267 ft) | up to ~37 km (23 mi); a landmark for travellers in the Fens and ships in the Wash |
+| Lincoln Cathedral spire (tower finished 1311, spire added after; blown down 1548) | reputedly about 160 m (525 ft) | up to ~50 km (31 mi); possibly the tallest building in the world in its day, though some historians doubt the height |
 
-The distances above are the geometric limit (the curve of the earth). Haze, trees and hills cut them a lot. In real life a village tower is a useful landmark for 5–10 km (3–6 mi). In flat lowland, where churches stand 4 km apart, you can usually see several neighbouring towers from any one of them.
+The distances above are the geometric limit (the curve of the earth). Haze, trees and hills cut them a lot. In real life a village tower is a useful landmark for 5–10 km (3–6 mi). In flat lowland, where churches stand about 4 km (2.5 mi) apart, you can usually see several neighbouring towers from any one of them.
 
 > **Later era (1500s+):** Parishes barely change. In Protestant lands, side altars, chantries (endowed chapels for prayers for the dead) and many shrines go; England dissolved its chantries in 1547. Printed county maps such as Christopher Saxton's atlas of England and Wales (1579) mark towns and villages with small church-tower symbols, because the church was what defined a place.
 
@@ -122,11 +122,11 @@ The first bishops sat in Roman cities. Each Roman *civitas* (city with its own t
 
 | Region | Dioceses | Average area | Notes |
 |---|---|---|---|
-| England | 17 (plus 4 in Wales) | ~7,600 km² (2,950 sq mi) | 2 archbishops: Canterbury and York. Lincoln diocese ran from the Thames to the Humber, over 200 km (125 mi). |
-| France (within today's borders) | ~147 over 1200–1500 | ~3,700 km² (1,450 sq mi) | About 15 archbishops (Reims, Sens, Rouen, Tours, Lyon, Bourges, Bordeaux, Narbonne and others). Many small sees in the south; Pope John XXII created new ones in 1317. |
-| Umbria (central Italy) | 12 | ~850 km² (330 sq mi); range 100–2,500 km² | Terni's diocese covered only ~100 km². Città di Castello was a see with about 5,000 people. |
-| Italy as a whole | Hundreds | Often under 1,000 km² | Italy still had 325 dioceses before mergers in 1986, most of medieval origin. Southern Italy had the most. |
-| Holy Roman Empire (1521) | 7 archbishops, 46 bishops | ~15,000–20,000 km² (estimate) | Many bishops were also princes ruling land (see [chapter 03](03-capitals-and-borders.md)). |
+| England | 17 from 1133 (plus 4 in Wales) | ~7,600 km² (2,950 sq mi) | 2 archbishops: Canterbury and York. Lincoln diocese ran from the Thames to the Humber, over 200 km (125 mi). |
+| France (within today's borders) | roughly 130–150 over 1200–1500 (the number changed over time) | ~3,700–4,200 km² (1,450–1,650 sq mi) | About 15 archbishops (Reims, Sens, Rouen, Tours, Lyon, Bourges, Bordeaux, Narbonne and others). Many small sees in the south; Pope John XXII created new ones in 1317. |
+| Umbria (central Italy) | 12 | ~850 km² (330 sq mi); range 100–2,500 km² (40–965 sq mi) | Terni's diocese covered only ~100 km² (40 sq mi). Città di Castello was a see with about 5,000 people. |
+| Italy as a whole | Hundreds | Often under 1,000 km² (390 sq mi) | Italy still had about 325 dioceses before the mergers of 1986 (101 were suppressed then); many were of medieval origin. Southern Italy had the most. |
+| Holy Roman Empire (c. 1500) | Roughly 50 bishops and archbishops (counts vary with date and borders) | ~15,000–20,000 km² (5,800–7,700 sq mi) (estimate) | Many bishops were also princes ruling land (see [chapter 03](03-capitals-and-borders.md)). |
 | Scandinavia | Few | Very large | Archbishoprics at Lund (1103/04), Nidaros/Trondheim (1150s) and Uppsala (1164). |
 | Scotland | ~13 | Large | No archbishop until St Andrews (1472) and Glasgow (1492). |
 
@@ -141,10 +141,10 @@ Bishops wanted to sit in towns. After the Norman Conquest, the Council of London
 - A cathedral much bigger than any parish church. Winchester Cathedral is about 170 m (560 ft) long. Cluny's great abbey church in Burgundy (not a cathedral) was the largest church in Europe until the 1500s.
 - A walled **close** (precinct) around it, with houses for the canons (the cathedral clergy), the bishop's palace, a school and often a gate that was locked at night.
 - In Islamic cities, the equivalent is the **Friday mosque** (the main congregational mosque), in the centre beside the main market; big cities later had several.
-- In England, about nine cathedrals were also monasteries (Canterbury, Durham, Winchester, Norwich, Ely, Worcester, Rochester and others). This was rare elsewhere.
+- In England, nine cathedrals were also Benedictine monasteries (Canterbury, Durham, Winchester, Norwich, Ely, Worcester, Rochester, Bath and Coventry), and Carlisle was served by Augustinian canons. This was rare elsewhere.
 - Extra business: courts of the church, lawyers, pilgrims, craftsmen, and a big building site for centuries.
 
-> **Map tip:** On a kingdom map, mark each cathedral with a double-tower or mitre symbol, and each archbishop's seat with a double cross or a bigger symbol. For an English-style realm, use about one diocese per 5,000–10,000 km² (2,000–4,000 sq mi). For an Italian-style land, use one per 500–2,000 km², and let many cathedral towns be small. Draw diocese borders only on special church maps; they often follow old Roman or tribal borders, not the current political ones.
+> **Map tip:** On a kingdom map, mark each cathedral with a double-tower or mitre symbol, and each archbishop's seat with a double cross or a bigger symbol. For an English-style realm, use about one diocese per 5,000–10,000 km² (2,000–4,000 sq mi). For an Italian-style land, use one per 500–2,000 km² (190–770 sq mi), and let many cathedral towns be small. Draw diocese borders only on special church maps; they often follow old Roman or tribal borders, not the current political ones.
 
 ---
 
@@ -158,19 +158,19 @@ Bishops wanted to sit in towns. After the Norman Conquest, the Council of London
 |---|---|---|---|---|
 | **Benedictines** (monks following the Rule of St Benedict, c. 530s) | Old houses from before 1000 | Often in or beside towns that grew up at their gates (Bury St Edmunds, St Albans, Peterborough) | 20–60 monks in big houses | Part of ~260 houses of monks |
 | **Cluniacs** (reformed Benedictines) | Cluny, Burgundy, 910 | Network of priories under one abbey; 314 houses paid allegiance to Cluny in the 1100s | Small priories of 5–20 monks | A few dozen small priories |
-| **Cistercians** ("white monks") | Cîteaux, Burgundy, 1098 | Remote valleys with a river, "far from the concourse of men"; they drained land and built water channels and mills | Rievaulx under Abbot Aelred (1160s): 140 monks and 500 lay brothers | 77 abbeys in England and Wales in all |
+| **Cistercians** ("white monks") | Cîteaux, Burgundy, 1098 | Remote valleys with a river, "far from the concourse of men"; they drained land and built water channels and mills | Rievaulx under Abbot Aelred (1160s): 140 monks and 500 lay brothers | About 75–80 abbeys in England and Wales in all (13 of them in Wales) |
 | **Carthusians** (hermit monks) | Grande Chartreuse, French Alps, 1084 | The most isolated sites: mountains, woods, the foot of escarpments. Each monk lived alone in a cell with a garden | 12–24 monks plus lay brothers; Mount Grace (1398) had 17 monks' cells and 6 for lay brothers | Only 9 charterhouses |
 | **Augustinian canons** (priests living by a rule, serving parishes and hospitals) | Spread from c. 1100 | Near or in towns, at hospitals, at shrines, at castles | Often 6–20 canons | Part of ~300 houses of canons |
-| **Premonstratensian canons** | Prémontré, 1120 | Rural, like Cistercians | Small | Part of the canons above |
+| **Premonstratensian canons** ("white canons", with a strict rule close to the Cistercians') | Prémontré, 1120 | Rural, like Cistercians | Small | Part of the canons above |
 | **Nuns** (all orders) | — | Mostly rural and small; often poorer than male houses | Average ~14 nuns | 142 nunneries, ~2,000 nuns |
 | **Friars:** Dominicans, Franciscans, Carmelites, Austin Friars | 1210s–1250s; in England from 1221 (Dominicans) and 1224 (Franciscans) | Inside towns, usually on cheap land at the edge: near the walls, at a gate, or in a suburb | 10–60 friars | 183 friaries, ~3,000 friars |
-| **Military orders:** Templars (suppressed 1307–12), Hospitallers | 1110s–1120s | Commanderies (also called preceptories): farm estates with a chapel in good farmland, plus houses in big towns | A few brothers and many servants | The Templars had nearly 1,000 commanderies and castles across Europe and the East |
+| **Military orders:** Templars (suppressed 1307–12), Hospitallers | 1110s–1120s | Commanderies (also called preceptories): farm estates with a chapel in good farmland, plus houses in big towns | A few brothers and many servants | By about 1300 the Templars had at least 970 houses (commanderies and castles) across Europe and the East |
 
 Across England in the 1530s there were nearly 900 religious houses with about 12,000 people: 4,000 monks, 3,000 canons, 3,000 friars and 2,000 nuns. That is only about 13 people per house on average. Most houses were small; a few great abbeys were very large.
 
 ### Cistercian valleys
 
-Cistercians wanted three things: isolation, running water and flat land to build on. They founded abbeys in valleys of Yorkshire, Wales, Burgundy and Castile that had few people. At Rievaulx (1132) the monks moved the River Rye more than once in the 1100s to get enough level ground. The order grew fast: about 333 abbeys by 1152 and nearly 750 at its height.
+Cistercians wanted three things: isolation, running water and flat land to build on. They founded abbeys in valleys of Yorkshire, Wales, Burgundy and Castile that had few people. At Rievaulx (1132) the monks moved the River Rye more than once in the 1100s to get enough level ground. The order grew fast: about 333 abbeys by 1152, when the order tried to halt new foundations, and nearly 750 at its height in the 1400s.
 
 They often cleared or moved existing villages to get their "desert". So a Cistercian abbey on your map should sit in an empty valley, with no village at its gate.
 
