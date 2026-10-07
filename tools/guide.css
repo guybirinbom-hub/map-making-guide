@@ -55,13 +55,18 @@ code { font-family: var(--sans); font-size: 0.92em; }
 }
 .cols { columns: 2; column-gap: 7.5mm; column-fill: balance; margin-bottom: 1.5mm; }
 .cols > :first-child { margin-top: 0; }
+.cols + .cols, .note-row + .cols { margin-top: 3.5mm; }
 h2 + .cols, h2 + .table-wrap, h2 + .opener, h2 + figure, h2 + .note-row,
 .note-row + .table-wrap { break-before: avoid; }
 
 /* a section's lone note box: full width, its text in two inner columns */
-.note-row { display: flex; gap: 7.5mm; margin: 2.2mm 0 3.6mm; break-inside: avoid; }
-.note-row .callout { flex: 1 1 0; min-width: 0; margin: 0; }
-.note-row .callout:only-child { columns: 2; column-gap: 7.5mm; }
+.note-row { margin: 2.2mm 0 3.6mm; break-inside: avoid; }
+.note-row.n2 { display: grid; grid-template-columns: 1fr 1fr; column-gap: 7.5mm; }
+.note-row .callout { margin: 0; }
+.note-row.n1 .callout { columns: 2; column-gap: 7.5mm; }
+.note-label { column-span: all; font: 700 7.6pt var(--label); letter-spacing: 0.12em; margin: 0 0 0.9mm; }
+.callout-maptip .note-label { color: var(--sea); }  .callout-rule .note-label { color: var(--ochre); }
+.callout-later .note-label { color: var(--slate); } .callout-fantasy .note-label { color: var(--forest); }
 
 /* chapter opener: intro text on the left, the chapter's contents box on the right */
 .opener { display: flex; gap: 7.5mm; align-items: flex-start; margin-bottom: 2mm; }

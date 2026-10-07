@@ -195,6 +195,30 @@ def is_lead_in(el):
     return False
 
 
+CHUNK_CHARS = 3200   # WeasyPrint balances short two-column blocks reliably
+
+
+def chunks(run):
+    """Split a two-column run into blocks of about CHUNK_CHARS characters of text."""
+    if kind_of_heading_only(run):
+        return [run]
+    out, cur, size = [], [], 0
+    for e in run:
+        n = len(e.get_text())
+        if cur and size + n > CHUNK_CHARS and e.name not in ("h3", "h4") and cur[-1].name not in ("h3", "h4"):
+            out.append(cur)
+            cur, size = [], 0
+        cur.append(e)
+        size += n
+    if cur:
+        out.append(cur)
+    return out
+
+
+def kind_of_heading_only(run):
+    return len(run) <= 1
+
+
 def layout_chapter(ch, map_png):
     """Cut a chapter's HTML into full-width blocks and two-column runs."""
     soup = BeautifulSoup('<div id="root">%s</div>' % ch["body"], "html.parser")
@@ -211,6 +235,9 @@ def layout_chapter(ch, map_png):
         if text.startswith("http") and a.string is not None:
             a.string.replace_with(break_url(text))
             a["class"] = ["url"]
+    # ordered lists that continue after a table keep their numbers
+    for ol in root.find_all("ol", start=True):
+        ol["style"] = "counter-reset: list-item %d" % (int(ol["start"]) - 1)
     # checklist boxes
     for box in root.select("input.task-list-item-checkbox"):
         box.replace_with(BeautifulSoup('<span class="tick"></span>', "html.parser"))
@@ -278,13 +305,25 @@ def layout_chapter(ch, map_png):
                 out.append('<div class="opener"><div class="opener-text">%s</div>%s</div>' % (rest, str(navs[0])))
                 run = []
                 return
-        if kind == "cols" and all("callout" in classes(e) for e in run) and len(run) <= 2:
-            for e in run:
-                e["class"] = classes(e) | {"wide"}
-            out.append('<div class="note-row">%s</div>' % "".join(str(e) for e in run))
-            run = []
-            return
-        out.append('<div class="%s">%s</div>' % ("cols" if kind == "cols" else "cols sources", inner))
+        notes = []
+        if kind == "cols":
+            while run and "callout" in classes(run[-1]) and len(notes) < 2:
+                notes.insert(0, run.pop())
+        cls = "cols" if kind == "cols" else "cols sources"
+        for chunk in chunks(run):
+            out.append('<div class="%s">%s</div>' % (cls, "".join(str(e) for e in chunk)))
+        if notes:
+            for e in notes:
+                e["class"] = sorted(classes(e) | {"wide"})
+                if len(notes) == 1:  # label on its own line above the two inner columns
+                    first = e.find("p")
+                    label = first.find("strong") if first else None
+                    if label is not None and first.contents and first.contents[0] is label:
+                        tag = BeautifulSoup('<p class="note-label"></p>', "html.parser").p
+                        tag.string = label.get_text()
+                        label.extract()
+                        e.insert(0, tag)
+            out.append('<div class="note-row n%d">%s</div>' % (len(notes), "".join(str(e) for e in notes)))
         run = []
 
     for el in grouped:
@@ -445,24 +484,38 @@ def font_faces():
 
 # ---------------------------------------------------------------- build and check
 
-def check_pdf(pdf, chapters):
-    """Fail if any section heading is missing from the PDF, or a contents entry has page 0."""
-    text = subprocess.run(["pdftotext", "-layout", str(pdf), "-"], capture_output=True, text=True).stdout
-    flat = re.sub(r"[\s­ -]+", "", text).lower()
+def _norm(text):
+    import unicodedata
+    text = unicodedata.normalize("NFKC", text)
+    return re.sub(r"[\s\u00ad\u00a0\u200b\u2010\u2011-]+", "", text).lower()
+
+
+def check_pdf(pdf, chapters, doc):
+    """Fail if any heading, paragraph, list item or table cell is missing from the PDF."""
+    text = subprocess.run(["pdftotext", str(pdf), "-"], capture_output=True, text=True).stdout
+    flat = _norm(text)
+    soup = BeautifulSoup(doc, "html.parser")
+    # note labels are set in a small-caps face that text extraction cannot read; they are drawn, not lost
+    for lab in soup.select(".callout p:first-child > strong:first-child, .note-label"):
+        lab.decompose()
+    blocks = soup.select("section.chapter h2, section.chapter h3, section.chapter p, section.chapter li, section.chapter td")
     missing = []
-    for ch in chapters:
-        for title, _ in ch["sections"]:
-            plain = re.sub(r"[`*_]|\[([^\]]*)\]\([^)]*\)", r"\1", title)
-            key = re.sub(r"[\s -]+", "", plain).lower()
-            if key and key not in flat:
-                missing.append("%s: %s" % (ch["num"], plain))
+    for el in blocks:
+        if el.name == "li" and el.find(["ul", "ol"]):
+            el = BeautifulSoup(str(el), "html.parser")  # compare the item's own text, not its sub-list
+            for sub in el.find_all(["ul", "ol"]):
+                sub.decompose()
+        key = _norm(el.get_text())[:40]
+        if len(key) >= 8 and key not in flat:
+            missing.append(el.get_text()[:90])
     zero = re.findall(r"\.{3,}\s*0\s*$", text, re.M)
     if missing or zero:
-        print("CHECK FAILED: %d headings missing, %d contents entries with page 0" % (len(missing), len(zero)))
+        print("CHECK FAILED: %d of %d text blocks missing, %d contents entries with page 0"
+              % (len(missing), len(blocks), len(zero)))
         for m in missing[:30]:
             print("  missing:", m)
         sys.exit(1)
-    print("check passed: all %d section headings present" % sum(len(c["sections"]) for c in chapters))
+    print("check passed: all %d text blocks found in the PDF" % len(blocks))
 
 
 def build(only=None, html_only=False):
@@ -500,7 +553,7 @@ def build(only=None, html_only=False):
     out = OUT_PDF if not only else BUILD / ("preview-%s.pdf" % "-".join(only))
     weasyprint.HTML(string=doc, base_url=str(ROOT)).write_pdf(out)
     print("wrote", out)
-    check_pdf(out, chapters)
+    check_pdf(out, chapters, doc)
 
 
 if __name__ == "__main__":
