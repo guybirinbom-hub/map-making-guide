@@ -662,6 +662,7 @@ Also check:
 - Skinner, G. William (1964). "Marketing and Social Structure in Rural China, Part I." *Journal of Asian Studies* 24 (1): 3–43.
 - Teickner, Henning, et al. (2020). "Patterns in Mongolian nomadic household movement derived from GPS trajectories." *Applied Geography* 122: 102270.
 - Toubert, Pierre (1973). *Les structures du Latium médiéval*. Rome: École française de Rome.
+- Warner, Katherine (1991). *Shifting Cultivators: Local Technical Knowledge and Natural Resource Management in the Humid Tropics*. Community Forestry Note 8. Rome: FAO. (Densities of 12 per km² in northern Laos and 35 in northern Thailand.)
 - Young, Charles R. (1979). *The Royal Forests of Medieval England*. Philadelphia: University of Pennsylvania Press.
 
 **Web pages consulted**
@@ -745,10 +746,18 @@ Also check:
 - Gorod (toponymy) and Grad (toponymy) (Wikipedia): https://en.wikipedia.org/wiki/Gorod_(toponymy) ; https://en.wikipedia.org/wiki/Grad_(toponymy)
 - Kraków (Wikipedia; name means "Krak's town"): https://en.wikipedia.org/wiki/Krak%C3%B3w
 - Geografia nazw patronimicznych na -ice a granice etniczne (University of Łódź; Slavic -ice names): https://repozytorium.uni.lodz.pl/xmlui/handle/11089/22905
+- Correspondence of Lorraine toponyms in French and German (Wikipedia; -ange from -ingen, -court and -ville in Romance Lorraine, Hayange/Hayingen): https://en.wikipedia.org/wiki/Correspondence_of_Lorraine_toponyms_in_French_and_German
+- German Lorraine (Wikipedia; the language line and Audun-le-Tiche / Audun-le-Roman): https://en.wikipedia.org/wiki/German_Lorraine
+- -gem (Dutch Wikipedia; the ending and its list of Belgian names): https://nl.wikipedia.org/wiki/-gem
+- Brussels (Wikipedia; Old Dutch *Bruocsella*, *sella/zele* "home, settlement"): https://en.wikipedia.org/wiki/Brussels
+- Bollezeele (Wikipedia; Flemish name in French Flanders): https://en.wikipedia.org/wiki/Bollezeele
+- Ottignies (French Wikipedia; *Ottiniacas*, "Otto's lands"): https://fr.wikipedia.org/wiki/Ottignies
+- Soignies (French Wikipedia; Dutch name Zinnik, *Suniacas*): https://fr.wikipedia.org/wiki/Soignies
 
 *Other climates and nomads*
 - Shifting cultivation (FAO, *Unasylva* 11 (1), 1957; average of 6 per km²): https://www.fao.org/4/x5382e/x5382e03.htm
 - Changes in shifting cultivation in Africa (FAO, *Unasylva* 150; Ruthenberg's 56 per km²): https://www.fao.org/4/r5265e/r5265e06.htm
+- Warner (1991), FAO Community Forestry Note 8 (12 per km² in northern Laos, 35 in northern Thailand): https://www.fao.org/4/u4390e/u4390e02.htm
 - Song dynasty (Wikipedia; area in 980, households, population): https://en.wikipedia.org/wiki/Song_dynasty
 - Population history of China (Wikipedia; 20.5 million households in 1102): https://en.wikipedia.org/wiki/Population_history_of_China
 - Archaeologists pinpoint population for the Greater Angkor region (Popular Archaeology; 3,000 km², house mounds and ponds): https://popular-archaeology.com/article/archaeologists-pinpoint-population-for-the-greater-angkor-region/
