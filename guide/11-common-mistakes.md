@@ -464,6 +464,54 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 > **Map tip:** Place labels last, from the biggest to the smallest: realms, seas and mountain ranges first, then cities, rivers and towns, and villages only if there is room. If a label must cross something, let it cross land texture, not a river, coast or border line. Print the map at its final size and read it at arm's length.
 
+### Symbols for the fixes in this chapter
+
+> **Rule of thumb:** One symbol, one meaning. If a reader can read a symbol two ways (a star for a capital and also for a shrine), change one of them.
+
+The fixes above name many symbols. Here they are in one place. These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). Scale: K = kingdom or region, L = local area.
+
+| Feature | Symbol | Scale | Mistakes |
+|---|---|---|---|
+| Village | Tiny dot (notable villages only); a farmland texture stands for the rest | K | 5, 11 |
+| Small market town | Small open circle, no battlements | K | 25 |
+| Town | Circle with a ring; battlements on the ring only if walled | K | 6, 25 |
+| City | Circle with a thick battlemented ring | K | 6, 25 |
+| Realm capital | Filled star in place of the tier symbol; name in bold capitals | K | 12 |
+| Realm border | Thick dash-dot line | K | 13, 14 |
+| March or frontier zone | Hatching, or a fading colour band 10–50 km (6–30 mi) wide | K | 13, 14 |
+| Royal forest | Green dash-dot boundary with a large italic name | K, L | 11 |
+| Main road | Solid line, thicker for more important roads | K | 15, 16, 21 |
+| Track or mule path | Thin dotted line | K, L | 15, 21 |
+| Roman road | Straight thick solid line labelled "Street" or "(Roman)"; grey where abandoned | K, L | 15, 28, 29 |
+| Caravan route | Dotted line with a larger dot at each stage | K | 19 |
+| Navigable river | Thicker river line up to the head of navigation, with a small boat there | K | 4 |
+| Canal | Straight blue line | K, L | 4 |
+| Bridge / ford / ferry | ")(" with the road through it / short dashed line across the river / short dotted line with "F" | K, L | 18 |
+| Toll | One bar across the road or river, with a "T" | K, L | 17, 22 |
+| Inn or caravanserai | Small house on the road; label "Caravanserai" or "Han" in desert | K, L | 19, 21 |
+| Hospice at a pass | Small house with a cross | K | 17, 21 |
+| Port | Anchor (a large anchor with a quay for a main port) | K | 8, 9, 20 |
+| Great royal castle | Large castle icon (three towers) | K | 23, 25 |
+| Lord's castle | Small castle icon (one tower with battlements) | K, L | 22–24 |
+| Tower house | Small solid square | K (border zones), L | 23 |
+| Watchtower or coastal tower | Small triangle | K (chains), L | 9 |
+| Star fort (1500s+ only) | Star outline, never filled | K, L | 25, 29 |
+| Mine | Crossed hammers (or a pick) | K, L | 26, 27 |
+| Chapel | Small plain cross, no tower | L | 27 |
+| Abbey or priory | Church with a square cloister beside it | K (great abbeys), L | 27 |
+| Great shrine | Scallop shell or reliquary, never a star | K | 27 |
+| Any ruin | The feature's own symbol, broken or grey, labelled "(ruin)" | K (big ones), L | 24, 28, 29 |
+| Deserted village | Grey church alone in a field, labelled "(lost village)" | K (a few), L | 28 |
+| Hillfort | Oval of rings or hachures on a hill | L | 28 |
+
+Three features in this chapter are not in the master legend yet. These suggestions do not clash with any symbol in it:
+
+| Feature | Suggested symbol | Mistakes |
+|---|---|---|
+| Well or spring | Blue "W" for a well, "Spr" for a spring (the abbreviations used on Ordnance Survey maps) | 1, 2, 27 |
+| Qanat | Straight line of tiny rings, much smaller than a market-town circle, ending at the village gardens (see [chapter 06](06-villages-and-countryside.md)) | 2 |
+| Old border dyke (a long earth bank and ditch) | Line with short ticks on the ditch side, grey if no longer used, labelled with its name | 28 |
+
 ---
 
 ## Sanity check: 20 questions for a finished map

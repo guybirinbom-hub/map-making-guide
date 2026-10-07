@@ -17,19 +17,103 @@ This chapter is the master method of the guide. It puts the other chapters in or
 
 ---
 
-## Before you start
+## Step 0: Choose the date, realm type and scale
 
-> **Rule of thumb:** Make three decisions before you draw a single town: the date, the scale and the amount of magic. Each one changes the numbers you use.
+> **Rule of thumb:** Make four decisions before you draw a single town: the date, the kind of realm, the scale and the amount of magic. Each one changes the numbers you use.
+
+**Why:** The same kingdom looks very different in 1100 and in 1600. A strong kingdom with one capital looks different from a loose empire of princes. And the scale decides what you can draw at all: on a kingdom map a whole village is smaller than a pen dot.
+
+### Choose the date
+
+Pick one year and keep to it. These four dates give four quite different maps. Every feature has a first date, so check [Mixing eras without reason](11-common-mistakes.md#29-mixing-eras-without-reason) before you add anything new.
+
+| Date | People and towns | Castles and war | Church and learning | Rulers and links |
+|---|---|---|---|---|
+| **c. 1100** | Growing, but thin. England had about 1.7 million people in 1086, about a third of its 1300 peak. Fewer and smaller towns. | Mostly mottes (man-made earth mounds) and ringworks of earth and timber; a few great stone keeps (the White Tower, London, c. 1075–1100). | No friaries yet (they arrive in the 1210s–1220s). Universities are only beginning (Bologna, late 11th century). The Cistercian order is new (founded 1098). | Most western kings travel: draw 5–15 royal residences, not one capital. Watermills, but no windmills (first certain record 1185). |
+| **c. 1300** | The crowded peak: England about 4.75 million. Most towns and markets have been founded (1,746 English markets recorded by 1300, many tiny). | Stone castles, concentric castles and town walls. | Friaries in every big town; about 20 universities in Europe. | Fixed capitals in the strongest kingdoms (Paris, Westminster and London). Windmills common in flat, dry country. |
+| **c. 1450** | A third to a half fewer people after the Black Death (1347–51) and later plagues; England's low point was about 1.9 million c. 1450. Deserted villages and more sheep pasture; many small markets have closed. | Many 12th-century castles half-ruined; tower houses in raided borders; by the mid-1400s cannon decide sieges. | Universities spreading (60–80 by 1500). | The first canal pound locks (Low Countries, northern Italy). |
+| **c. 1600** | Back near the 1300 level (England about 4.1 million). Capitals and ocean ports 2–4 times bigger than in 1500 (London about 200,000). | Star forts at frontiers, capitals and main ports; interior castles become ruins or palaces. | In Protestant lands most monasteries are closed (England 1536–1541): draw abbey ruins and a religious border. | Fixed capitals everywhere (Madrid from 1561); post roads with stations every 20–40 km (12–25 mi); ocean trade. |
+
+All figures come from the guide's chapters: [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague), [When and why capitals became fixed](03-capitals-and-borders.md#when-and-why-capitals-became-fixed) and [What Changes After 1500](09-later-era-1500-1650.md).
+
+### Choose the realm type
+
+Most real realms sit somewhere between the two columns below. France c. 1200, for example, had a royal core around Paris and six great fiefs that were nearly independent. Decide which end your realm is closer to.
+
+| | Centralised kingdom | Fragmented realm |
+|---|---|---|
+| **Real examples** | England; France by about 1300 | The Holy Roman Empire (Germany); the city-states of northern Italy |
+| **Capital** | One fixed capital that holds 1–2% of the realm's people and is 3–7 times the size of the second city | No real capital, or a court in a middling town. Several rival cities of similar size. The largest city holds about 0.5% of the people or less (Cologne in Germany c. 1300: about 0.4–0.5%) |
+| **Inner borders** | A regular network of counties, mostly 50–70 km (30–45 mi) across, each with a king's officer (a sheriff in England) | A patchwork of princes, bishops and free cities, with enclaves (the Empire had about 400 imperial estates in 1521) |
+| **Castles** | Fewer, mostly royal or great baronial: about 4 active castles per 1,000 km² (390 sq mi) in England and Wales | Many small lords' castles and toll castles: in hilly German-type lands about 25 castle sites per 1,000 km², 8–12 of them active (estimate) |
+| **Mints** | 3–4, controlled by the king | One in every princely seat, many bishops' cities and the big free towns |
+
+**Read:** [Capital is not always the biggest city](03-capitals-and-borders.md#capital-is-not-always-the-biggest-city); [Kinds of states and how they look on a map](03-capitals-and-borders.md#kinds-of-states-and-how-they-look-on-a-map); [How many mints?](03-capitals-and-borders.md#how-many-mints)
+
+### Choose the scale and the amount of magic
 
 | Decide | Options | What it changes |
 |---|---|---|
-| **Era** | c. 1300 (the crowded peak), 1350–1450 (after the plague), c. 1500 or 1500–1650 | After the Black Death (1347–51), 30–60% of the people are gone and villages are deserted. After 1500, capitals, ports and forts grow. See [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague). |
-| **Scale** | Continent, kingdom or local area | What you draw: Part A, B or C below. See [What to show at each scale](06-villages-and-countryside.md#what-to-show-at-each-scale). |
+| **Scale** | Continent, kingdom or local area | What you draw and how big it is on paper: see [What to draw at each scale](#what-to-draw-at-each-scale), then Part A, B or C below. |
 | **Magic** | None, a little or a lot | Nothing at first. Use the real rules, then adjust in [Step 17](#step-17-make-the-fantasy-adjustments). |
 
 If you draw only one kingdom, do Part A for that kingdom, then Parts B and C.
 
-> **Map tip:** Write the date in the title box ("The Kingdom of X, Year 1312") and draw a scale bar first. On a kingdom map at 1 cm = 10 km (about 1 inch = 16 mi), even a great city is only 2–4 mm across: use symbols, not outlines.
+**Check:** Can you write one line under the title, such as "The Kingdom of X, Year 1312: a strong kingdom, 1:1,000,000, little magic"?
+
+> **Map tip:** Write the date in the title box ("The Kingdom of X, Year 1312") and draw a scale bar first. If you are unsure which date to choose, choose c. 1300: most of this guide's numbers are for that date.
+
+---
+
+## What to draw at each scale
+
+> **Rule of thumb:** Divide the scale number by 1,000 to get metres per millimetre. At 1:1,000,000, 1 mm on paper is 1,000 m (1 km) on the ground. If a thing is smaller than about 1 mm at your scale, draw a symbol; if it is bigger, you can draw its outline.
+
+**Why:** A map cannot show everything. As the scale gets smaller, mapmakers leave features out and replace the rest with symbols (this is called *generalisation*). The chapters of this guide each give advice for their own features. This section puts it in one table, so each map shows the right things in the right numbers.
+
+### Scale arithmetic: how big things are on paper
+
+A scale of 1:50,000 means that 1 cm on the map stands for 50,000 cm (500 m) on the ground. A **large-scale** map has a small number after the colon and shows more detail; a **small-scale** map has a big number and shows less.
+
+| Map | Typical scale | 1 mm on paper = | 1 cm = | One A3 sheet (297 × 420 mm, 11.7 × 16.5 in) covers | How big things are |
+|---|---|---|---|---|---|
+| **Continent** | 1:10,000,000 | 10 km | 100 km (about 1 inch = 160 mi) | 3,000 × 4,200 km (1,850 × 2,600 mi): about the whole Mediterranean, which is about 4,000 km (2,500 mi) from west to east | An England-sized kingdom (130,000 km², 50,000 sq mi) is only about 36 × 36 mm. A great city 2–4 km across is 0.2–0.4 mm: a dot. A county is 5–7 mm. |
+| **Kingdom** | 1:1,000,000 | 1 km | 10 km (about 1 inch = 16 mi) | 300 × 420 km (185 × 260 mi), about 125,000 km²: one England-sized realm only if it were square | A great city (2–4 km) is 2–4 mm; a city (1–2 km) 1–2 mm; a town (0.5–1 km) 0.5–1 mm. Use symbols. A county is 50–70 mm across. Market towns are 9–16 mm apart; villages only 1.5–4 mm apart. |
+| **Local** | 1:50,000–1:100,000 | 50–100 m | 0.5–1 km (1:100,000 is about 1 inch = 1.6 mi) | 15 × 21 km (9 × 13 mi) to 30 × 42 km (18 × 26 mi) | A village (250–450 m) is 2.5–9 mm; a town (0.5–1 km) 5–20 mm; a great abbey precinct (350–600 m) 3.5–12 mm. Draw outlines. A moated manor (40–80 m) is under 2 mm, so use a symbol. |
+
+Real realms are rarely square. England is about 500 km (310 mi) from London to Berwick alone, so a whole England-sized kingdom fits on one A3 sheet only at about 1:2,000,000 (1 mm = 2 km). At that scale even a great city is a 1–2 mm symbol.
+
+The sizes of places come from [How big to draw it](02-population-and-sizes.md#how-big-to-draw-it) and [Footprints](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map).
+
+### The feature filter: what to show and how many
+
+> **Rule of thumb:** Draw what a traveller at that scale would notice. A continent map shows the few great places, a kingdom map shows every town, and a local map shows every village and church.
+
+The counts are for c. 1300 and an English-style realm unless the table says otherwise. They are averages: real features cluster on good land and along routes. For areas, 100 km² is 39 sq mi and 1,000 km² is 386 sq mi.
+
+| Feature | Continent (1:10,000,000) | Kingdom (1:1,000,000) | Local (1:50,000–1:100,000) |
+|---|---|---|---|
+| **Realms and fiefs** | All realms and great fiefs; at least three kinds of state | The realm border, 4–8 duchies or great fiefs, 1–3 special zones (a march, a palatinate, a church territory) | Only a border that crosses the map |
+| **Counties and districts** | — | Counties 50–70 km (30–45 mi) across: 30–40 in an England-sized realm (England had 39 shires) | Hundreds (districts within a county) 12–15 km (7–9 mi) across; parish boundaries |
+| **Great cities (50,000+)** | 3–8 on the whole continent, all on the sea or a navigable river | All, as large symbols | Full outline with suburbs (20–80 mm across, so it may fill the sheet) |
+| **Cities and towns (2,000–50,000)** | Capitals and the main cities only, as dots | Every town of 2,000+, as a symbol | Outline with walls, gates and market place |
+| **Market towns (500–2,000)** | — | The most important third or so: 30–40 of about 90 in a 60,000 km² realm of 1.2 million | All, 9–16 km (6–10 mi) apart |
+| **Villages** | — | Only as texture in crowded lowland | All: 1.5–4 km (1–2.5 mi) apart, about 7 per 100 km² in lowland |
+| **Hamlets and farmsteads** | — | — | 0–5 per 100 km² in open-field lowland; 20+ in dispersed uplands |
+| **Castles and forts** | The greatest fortresses, citadels and naval arsenals: about 1 per 20,000–50,000 km² (8,000–19,000 sq mi) | Royal and major castles: about 1 per 1,000 km² on average, many more on a contested border | All: in England about 12 castle sites and 4 active castles per 1,000 km², so about 5 sites and 1–2 active castles on a 20 × 20 km map; 3–5 times more in a march |
+| **Routes** | Sea lanes, river spines and long trade routes; 1–3 main passes per mountain range | Main roads: about 30 km per 1,000 km² (48 mi per 1,000 sq mi); an inn or village every 15–30 km (10–19 mi); bridges about 20 km (12 mi) apart on a lowland river; minor passes and hospices | All roads, lanes and footpaths: 2–3 roads out of each village |
+| **Church** | 1–2 great shrines on the whole continent; archbishops' seats; universities (only about 20 in all Europe c. 1300) | Cathedrals: 5–10 per 50,000 km² in an English-style church, 25–100 in an Italian-style one; great abbeys; 1–3 shrines; 0–2 universities | Every parish church (about 7 per 100 km², or 73 per 1,000 km²); abbeys, friaries, hospitals, leper houses and gallows |
+| **Industry and resources** | Mining-district symbols on 3–6 mountain areas; one or two great fair regions | 1–3 mining districts, 1–3 salt sources, one cloth region, 1–2 fair towns and several ports | Shafts, quarries and saltpans; mills, about 8–11 per 100 km² (roughly one per village) |
+| **Manors and parks** | — | Royal forests, as dotted boundaries | Moated sites (4–5 per 100 km²), deer parks (2–3 per 100 km²), fishponds and warrens |
+| **Ruins and older layers** | Only famous ruins and the old empire's roads | Big ruins and long straight old roads | All: hillforts (1–3 per 100 km² in hilly country), deserted villages and earthworks |
+
+**Example: an England-sized kingdom (130,000 km², 50,000 sq mi) on one sheet.** Draw about 6 cities of 10,000+, roughly 50–60 towns of 2,000–10,000, 30–40 counties, 13–26 cathedrals in the English style (England had 17), about 130 royal and major castles and about 3,900 km (2,400 mi) of main road. Leave the 9,500 villages and parish churches for local maps.
+
+**Read:** [Map symbols and labels](02-population-and-sizes.md#map-symbols-and-labels); [How many to draw](04-military-sites.md#how-many-to-draw); [How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw); [What to show at each scale](06-villages-and-countryside.md#what-to-show-at-each-scale); [How many features: England c. 1300 averages](06-villages-and-countryside.md#how-many-features-england-c-1300-averages); [Mining districts on the map](07-industry-and-resources.md#mining-districts-on-the-map); [Drawing it all: symbols, density and scale](08-religious-cultural-and-ancient-sites.md#drawing-it-all-symbols-density-and-scale)
+
+**Check:** Multiply each "per area" count by the area of your map. Is every count close to the target, or can you say why not (a march, a desert, a crowded Flanders-like plain)?
+
+> **Map tip:** Copy the column for your scale into the margin of your sketch, write the target number next to each feature and tick them off as you place them. A count far from the target is not always wrong, but it needs a reason you could write on the map.
 
 ---
 
