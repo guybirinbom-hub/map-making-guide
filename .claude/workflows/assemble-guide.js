@@ -209,4 +209,3 @@ Compare every number in 00 and 12 against the owner chapter's CURRENT text, and 
   ])
   return { results: out }
 }
-}
