@@ -1072,6 +1072,7 @@ The chapters suggest symbols for their own topics. This legend gives one symbol 
 | Farmstead | Tiny dot | L |
 | Hamlet | 2–5 small house marks, no church | L |
 | Village | Tiny dot (K, notable villages only); house marks around a church (L) | K, L |
+| Village without a parish church (pagan, Sámi, steppe or other non-Christian peoples) | Tiny dot (K); a cluster of hut marks with no church (L) | K, L |
 | Walled hilltop village (Italian *castello*, or a refuge village in a dangerous land) | Village symbol on the hilltop (a tiny dot at K); a battlemented wall line around the house marks (L) | K, L |
 | Small market town | Small open circle | K |
 | Town | Circle with a ring; battlements on the ring if walled | K |
@@ -1215,6 +1216,7 @@ A walled town needs no military symbol of its own: use the town or city symbol w
 | Steep or stepped section (roads without carts, Andes type) | Steps or small chevrons ">" on the road line | K, L |
 | Track, bridle way, mule path | Thin dotted line | K, L |
 | Drove road | Broad dotted line (two rows of dots) | K, L |
+| Seasonal migration route (nomads, herders, Sámi) | Dotted line with arrows showing the direction of each season's move; label the season | K, L |
 | Caravan route | Dotted line with a larger dot at each stage | C, K |
 | Pilgrim road | The ordinary road line with small scallop marks along it | K |
 | Raid trail | Red dotted line with arrowheads pointing into the farmland, named (for example the Muravsky Trail, used by Crimean Tatar raids in the 1500s) | C, K |

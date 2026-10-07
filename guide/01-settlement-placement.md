@@ -466,7 +466,7 @@ England has **more than 3,000** known deserted medieval villages, counting all d
 
 > **Later era (1500s+):** New planned towns appear again, now for war and for princely show: Valletta (Malta, 1566, after the Great Siege of 1565), Palmanova (Italy, 1593, a star-shaped fortress town), Freudenstadt (Germany, 1599), Charleville (France, 1606). Engineers also make new land and new routes. The Exeter Canal (1564–66) bypassed the blocking weirs and brought small ships back to the city. Ocean trade makes Atlantic ports such as Seville, Lisbon, Antwerp and then Amsterdam grow fast. Seville's river was hard for big ships, and silting made it worse by the 1620s, so more and more of the American trade moved downstream to Sanlúcar and the Bay of Cádiz. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Map tip:** Add history to your map. Mark a few ruins ("Old Sarum"-style hill forts above a newer valley town). Draw one or two planted towns with a grid plan and names like "Newbridge" or "Villeneuve". Leave a deserted village or two as a "ruined church" symbol in sheep country. If your map is set after a plague or war, show fewer villages on poor land and more sheep pasture.
+> **Map tip:** Add history to your map. Mark a few ruins, each drawn with its own symbol broken or grey and labelled "(ruin)": for example an "Old Sarum"-style hill fort above a newer valley town. Draw one or two planted towns with a grid plan and names like "Newbridge" or "Villeneuve". Leave a deserted village or two in sheep country, drawn as a grey church alone in a field and labelled "(lost village)", as in the [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). If your map is set after a plague or war, show fewer villages on poor land and more sheep pasture.
 
 ---
 
@@ -589,7 +589,7 @@ The Normans, by contrast, gave few new village names in England, because the lan
 Work from big to small, and from nature to people. Start with a finished terrain map: coasts, mountains, rivers, forests, marshes.
 
 1. **Mark the water.** Draw all rivers. Decide which stretches are **navigable** (deep enough for boats) and where they stop: falls, rapids, shallows. Mark fords and the tidal limit on each major river.
-2. **Mark the land quality.** Shade good farmland (river valleys, plains, gentle hills), pasture land (uplands, heath), marsh, forest, mountain and desert.
+2. **Mark the land quality.** Lightly shade good farmland (river valleys, plains, gentle hills), pasture land (uplands, heath), marsh, forest, mountain and desert, in pencil or on a layer you hide later.
 3. **Place the great city or cities.** Look for the best situation in the richest region: the lowest bridging point or estuary of a big navigable river, or a superb harbour. Remember that a city of 50,000+ must be fed by water.
 4. **Place regional towns.** Put them at the next-best nodes: confluences, heads of navigation, gap towns, pass towns, harbours, crossings of major roads. Space them by the regional row in the spacing table. Cities of 10,000+ are 60–90 km (37–56 mi) apart in a very urban region, 130–170 km (80–105 mi) in an average one, and 260–400 km (160–250 mi) in a thinly urban one.
 5. **Place market towns.** Fill the farmland with market towns about 9–16 km (6–10 mi) apart, on rivers and road junctions where possible. Spread them more widely on poor land.
