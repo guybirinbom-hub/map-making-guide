@@ -23,7 +23,7 @@ This chapter gives you the numbers: how many people live in a village, a town or
 
 > **Rule of thumb:** Almost everyone lives in villages. A "big city" in medieval Europe is anything above 10,000 people. A place of 50,000 is one of the great cities of the known world.
 
-**Why:** Before modern farming, it took roughly 6–9 farming families to feed one family that did not farm. So towns stayed small and few. A place grew big only when it had something special: a ruler's court, a bishop, a great port, a river junction, or an export industry (see [Where Settlements Are Built](01-settlement-placement.md)).
+**Why:** Before modern farming, most families had to farm just to feed themselves. Across Europe 85–95% of people lived in the countryside. So only about one family in ten (at best one in seven) could live mainly from a craft, trade or service. Towns therefore stayed small and few. A place grew big only when it had something special: a ruler's court, a bishop, a great port, a river junction, or an export industry (see [Where Settlements Are Built](01-settlement-placement.md)).
 
 **Numbers.** Population means people, not households. A household is about 4.5–5 people. Medieval tax records often count *hearths* (households) instead of people, so multiply by about 4.5 to get people.
 
@@ -39,19 +39,23 @@ This chapter gives you the numbers: how many people live in a village, a town or
 
 **Real examples:**
 
-- **England in 1377** (after the plague): London had about 35,000 people; York about 11,000; Bristol 9,500; Coventry 7,000; Norwich 6,000. Then about 10 towns had 4,000–5,000. Of the 57 largest provincial towns, 25 had 1,000–2,000 people, 21 had 2,000–5,000, 8 had 5,000–10,000 and only 2 had more than 10,000. Before the Black Death, all of these were about 1.5–2 times larger.
-- **Universities were rare:** about 20 in all of Europe c. 1300 and about 60–80 by 1500.
+- **England in 1377** (after the plague). These estimates come from the 1377 poll tax, a tax on every person over 14.
+  - London had about 35,000 people; York about 11,000; Bristol about 9,500; Coventry about 7,000; Norwich about 6,000.
+  - About 10 more towns had roughly 3,500–5,500 (for example Lincoln, Salisbury, King's Lynn, Colchester and Boston).
+  - Outside London, only York passed 10,000. About 5 towns had 5,000–10,000, about 24 had 2,000–5,000, and many more had 1,000–2,000.
+  - Before the Black Death, all of these were about 1.5–2 times larger.
+- **Universities were rare:** about 20 in all of Europe c. 1300 and about 60–80 by 1500. (Over 80 had been founded by 1500, but not all of them lasted.)
 
 **Regional differences:** The ladder above fits England, northern France and Germany best. Elsewhere:
 
 - **Italy:** *castelli* were fortified hilltop villages of 200–1,000 people. Italy also had hundreds of small bishoprics, so a cathedral does not prove a big city there. England had only 17 bishoprics (sees), so there a cathedral does mean an important city.
 - **Southern Spain, Sicily and Apulia:** *agro-towns* had 2,000–10,000 people, but most of them were farmers who walked out to their fields every day. They are large in population but not real towns in function.
 - **Germany and the Low Countries:** many places with a town charter ("legal towns") had fewer than 2,000 people.
-- **Byzantine lands:** villages rarely had more than 100 households.
+- **Byzantine lands:** most villages were small, usually well under 100 households (estimate). Even Lampsakos, a small town on the Dardanelles, had only about 173 households in one medieval record, and about a third of them did town work rather than farming.
 
 ### How big to draw it
 
-Medieval towns were small on the ground. Historians usually assume 100–200 people per hectare inside a town. One major city database uses 150 per hectare, and 75 for spacious "garden cities" such as Baghdad (Bosker et al. 2013). Bigger cities were denser than small ones (Cesaretti et al. 2016).
+Medieval towns were small on the ground. Historians often assume about 100–200 people per hectare (40–80 per acre) inside a town. (A hectare is 100 × 100 m, about 2.5 acres.) One major city database uses 150 per hectare, and 75 for spacious "garden cities" such as Baghdad, Basra and Sanaa (Bosker et al. 2013). Bigger cities were denser than small ones (Cesaretti et al. 2016).
 
 | Place | People | Built-up area | Width if roughly round |
 |---|---|---|---|
@@ -59,9 +63,15 @@ Medieval towns were small on the ground. Historians usually assume 100–200 peo
 | Small market town | 500–2,000 | 5–20 ha (12–50 acres) | 250–500 m (0.15–0.3 mi) |
 | Town | 2,000–10,000 | 20–80 ha (50–200 acres) | 0.5–1 km (0.3–0.6 mi) |
 | City | 10,000–50,000 | 80–300 ha (200–740 acres) | 1–2 km (0.6–1.2 mi) |
-| Great city | 50,000–200,000 | 300–1,000+ ha | 2–4 km (1.2–2.5 mi) |
+| Great city | 50,000–200,000 | 300–1,000+ ha (740–2,500+ acres) | 2–4 km (1.2–2.5 mi) |
 
-Checks: Bristol c. 1300 covered about 130 ha including suburbs. Paris's wall of Philip Augustus (finished c. 1213) enclosed 253 ha. Florence's last medieval wall (finished 1333) enclosed about 430 ha for roughly 100,000 people. The village row is a rough estimate.
+Checks against real places:
+
+- **Bristol c. 1300:** about 130 ha including its suburbs, but only 55 ha inside the walls.
+- **Paris:** the wall of Philip Augustus (built 1190–1213) enclosed 253 ha.
+- **Florence:** its last medieval wall (finished 1333) enclosed about 430 ha for roughly 100,000 people.
+
+The village row is a rough estimate.
 
 ### Map symbols and labels
 
@@ -79,7 +89,7 @@ Checks: Bristol c. 1300 covered about 130 ha including suburbs. Paris's wall of 
 
 > **Later era (1500s+):** The ladder stays the same, but the top grows taller. By 1600 Istanbul had perhaps 400,000–700,000 people, and Paris, Naples and London had 200,000–300,000 each. Garrison towns built around artillery forts become a new type. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Map tip:** On a kingdom map at 1 cm = 10 km, even a great city is only 2–4 mm across, so use a symbol, not an outline. Draw real outlines only on local maps (1 cm = 1 km or larger). Make label size follow the tier, not the story importance. If you want a small place to look important, give it a special icon (castle, cathedral, shrine) instead of a big label. Capital markings are covered in [Capitals, Realms and Borders](03-capitals-and-borders.md).
+> **Map tip:** On a kingdom map at 1 cm = 10 km (about 1 inch = 16 mi), even a great city is only 2–4 mm across, so use a symbol, not an outline. Draw real outlines only on local maps (1 cm = 1 km, about 1 inch = 1.6 mi, or larger). Make label size follow the tier, not the story importance. If you want a small place to look important, give it a special icon (castle, cathedral, shrine) instead of a big label. Capital markings are covered in [Capitals, Realms and Borders](03-capitals-and-borders.md).
 
 ---
 
@@ -104,7 +114,7 @@ Checks: Bristol c. 1300 covered about 130 ha including suburbs. Paris's wall of 
 | Germany | ~2–3% in 10k+ | 3.2% in 10k+ | Many small towns of 1,000–2,000. |
 | Denmark | ~10% in all towns | ~14% in all towns | About 80 towns c. 1350, most of them small. |
 | Poland, Hungary | under 2% in 10k+ | ~1–2% in 10k+ | — |
-| Arab Middle East and North Africa | ~8% in 10k+ | ~8% in 10k+ | Stayed about the same from 800 to 1800. It was more urban than Europe before c. 1000. |
+| Arab Middle East and North Africa | ~7% in 10k+ | ~8% in 10k+ | Stayed roughly level (about 6–10%) from 800 to 1800. It was clearly more urban than Europe around 800–1000; Europe only caught up in share c. 1700–1800. (Rough figures from the Bosker et al. city data.) |
 
 ### Counting the cities
 
@@ -116,7 +126,13 @@ Checks: Bristol c. 1300 covered about 130 ha including suburbs. Paris's wall of 
 
 *(Bosker, Buringh & van Zanden 2013 dataset; it excludes Russia and Iran.)*
 
-Below that level, Paul Bairoch counted about 1,450 towns (most with 2,000+ people) in 14th-century Europe. About 60% were small towns of 2,000–6,000 with purely local roles. About 300–330 were "regional centres" of 4,000–12,000 with walls, trade and often a bishop. About 210 were large cities (Bairoch 1988, as summarised by Jedwab, Johnson & Koyama 2020).
+Looking further down the ladder, the historian Paul Bairoch counted about 1,450 towns and cities in 14th-century Europe. He sorted them by what they did:
+
+- **About 60%** were small towns of 2,000–6,000 people with purely local roles: a church or two, a local market, and craftsmen serving nearby villages.
+- **About 300–330** were "regional centres" of 4,000–12,000. They usually had walls, trade, and often a bishop.
+- **About 210** were large cities of more than about 8,000–12,000.
+
+*(Bairoch 1988, as summarised by Jedwab, Johnson & Koyama 2020.)*
 
 **England c. 1300 as a model kingdom (4.75 million people on 130,000 km²):**
 
@@ -126,7 +142,7 @@ Below that level, Paul Bairoch counted about 1,450 towns (most with 2,000+ peopl
 | Places with a market grant | ~1,750, but many were village markets and only 39% still had a market c. 1600 | ~2,700 |
 | Boroughs (places with town status) | about 600 (Beresford & Finberg 1973), many of them tiny | ~8,000 |
 | Towns of 2,000–10,000 | roughly 50–60 (estimate) | ~80,000–100,000 |
-| Cities of 10,000+ | ~6: London (70–100k) plus about five provincial cities of 10–15k (estimates name Norwich, Bristol, York, Coventry, Winchester) | ~800,000 |
+| Cities of 10,000+ | ~6: London (60–100k) plus about five provincial cities of 10–15k. The Bosker et al. data list Winchester, Norwich, Coventry, Plymouth and Bristol; other historians would include York. | ~800,000 |
 
 ### How many people per city?
 
@@ -140,6 +156,8 @@ Below that level, Paul Bairoch counted about 1,450 towns (most with 2,000+ peopl
 | England | ~6 | ~800,000 |
 | Poland | ~2 | ~1,000,000 |
 
+*(City counts from the Bosker, Buringh & van Zanden data, using modern borders. Italy's higher count, 79, comes from Malanima. Population totals are from the realm table below. Treat every figure as a rough estimate.)*
+
 ### The rank-size rule and primate cities
 
 The **rank-size rule** (also called Zipf's law) says: the 2nd city has about ½ the population of the largest, the 3rd about ⅓, the 4th about ¼, and so on. It describes many modern countries well. A **primate city** is a capital far bigger than the rule predicts, often 3 or more times the size of the 2nd city.
@@ -148,13 +166,16 @@ Medieval reality did not follow the rule neatly:
 
 - **Primate realms (strong kings, one capital):**
   - **England, 1377:** London was 3–4 times the size of York or Bristol, and 8–9 times the size of Colchester or Canterbury. The rule predicts York at about 17,000; it had about 11,000.
-  - **France, c. 1300:** Paris had 200,000–250,000. The next cities (Rouen, Montpellier, Saint-Omer) had about 35,000 each, so Paris was roughly 6–7 times larger.
-- **Flat-topped regions (many independent cities):** In Italy c. 1300, Venice (~110k), Milan (~100k), Genoa (~100k) and Florence (~95k) were all about the same size. The Low Countries were similar, with Ghent and Bruges at about 40,000 each.
-- **Overall:** Economic historians find that European city sizes did not follow the rank-size rule until 1500–1800. Before that the biggest cities were usually *smaller* than the rule predicts, except in primate kingdoms (Dittmar 2008). In the Arab world, by contrast, the largest city always held 12–38% of all city-dwellers. In Western and Central Europe it never held more than 12% (Bosker et al. 2008).
+  - **France, c. 1300:** Paris had perhaps 200,000–250,000 (estimates vary widely). The next cities (Rouen, Montpellier, Saint-Omer) had about 35,000 each, so Paris was roughly 6–7 times larger.
+- **Flat-topped regions (many independent cities):** In Italy c. 1300, Venice (~110k), Milan (~100k), Genoa (~100k) and Florence (~95k) were all about the same size. The Low Countries were similar, with Ghent and Bruges at about 40,000 each. (Some estimates put Ghent higher, at 50,000–65,000.)
+- **Overall:**
+  - Economic historians find that European city sizes only came to fit the rank-size rule between 1500 and 1800 (Dittmar 2008).
+  - Before that, the pattern was bent: in most regions the biggest cities were *smaller* than the rule predicts. Primate kingdoms such as England and France were the exception.
+  - In the Arab world, by contrast, the largest city always held 12–38% of all city-dwellers. In Western and Central Europe it never held more than 12% (Bosker et al. 2008).
 
 > **Rule of thumb:** A strong, centralised kingdom has one capital 3–7 times bigger than its second city. A land of city-states or weak kings has several rival cities of similar size.
 
-> **Map tip:** Decide first what kind of realm you have, centralised or fragmented, then size the top cities. For a centralised kingdom, draw one great capital and then a gap down to a handful of towns. For a fragmented region, draw 3–5 rival cities of similar size, each with its own little territory. Do not give every country a 100,000-person capital: around 1300, only 8 cities in all of Europe, North Africa and the Middle East reached that size.
+> **Map tip:** Decide first what kind of realm you have, centralised (one strong king) or fragmented (many rival lords or city-states), then size the top cities. For a centralised kingdom, draw one great capital and then a gap down to a handful of towns. For a fragmented region, draw 3–5 rival cities of similar size, each with its own little territory. Do not give every country a 100,000-person capital: around 1300, only 8 cities in all of Europe, North Africa and the Middle East reached that size.
 
 ---
 
@@ -197,6 +218,8 @@ Medieval reality did not follow the rule neatly:
 
 ## Carrying capacity: how much land feeds people
 
+*Carrying capacity* means how many people a piece of land can feed.
+
 > **Rule of thumb:** Each person needs about 1 hectare (2.5 acres) of ploughland, or 2–3 hectares (5–7 acres) of all land once pasture, meadow and woodland are counted.
 
 **Why:** Medieval harvests were small, and a lot of each harvest went back into the ground:
@@ -204,7 +227,7 @@ Medieval reality did not follow the rule neatly:
 - **Seed-to-yield ratio:** Typically 3–5 : 1, with a range of 2–7 : 1 in the 14th century. You sowed 1 sack and harvested 3–5. Modern farms get 30 : 1 or more.
 - **Seed:** A quarter to a third of every crop had to be kept as next year's seed.
 - **Fallow:** Land left unplanted for a year so the soil could recover. It took ⅓ of the arable land under the three-field system and ½ under the two-field system.
-- **Wheat yields:** English demesne wheat (grown on the lord's own farm) yielded about 8–12 bushels per acre (0.55–0.8 tonnes per hectare).
+- **Wheat yields:** English demesne wheat (grown on the lord's own farm) yielded about 8–12 bushels per acre (0.55–0.8 tonnes per hectare). A bushel is an old measure of volume, about 36 litres.
 - **Result:** About 250–350 kg of food grain per hectare of arable land per year. A person ate about 200–250 kg of grain a year, plus barley for ale and oats for horses.
 
 **Check against history:** England c. 1300 had about 10 million acres of arable for 4.75 million people. That is about 2.1 acres (0.85 ha) per person, or about 2.7 ha of all land per person. Even so, people got only about 1,300 kcal a day from farm produce (Broadberry, Campbell & van Leeuwen 2011). England was at its limit.
@@ -212,15 +235,15 @@ Medieval reality did not follow the rule neatly:
 ### Village territory
 
 - **Family holdings:**
-  - A peasant family needed at least 10 acres (4 ha) of arable to live from its land.
-  - The standard English holding, the *virgate* or *yardland*, was usually about 30 acres (12 ha), but varied from 10 to 40 acres. Many families held only half a virgate.
+  - A peasant family needed very roughly 10–15 acres (4–6 ha) of arable to live from its land alone (estimates vary).
+  - The standard English holding, the *virgate* or *yardland*, was in theory about 30 acres (12 ha), but its real size varied a lot from place to place. Many families held only half a virgate, and many held less, so they also worked for wages.
 - **One example parish:** Milton Ernest (Bedfordshire) in the 14th century had about 1,600 acres (650 ha, or 6.5 km²): 1,405 acres of arable, 81 of meadow, 84 under the village itself and 28 of roads (Hutchings 1969).
 - **Average size:** England c. 1300 had about 14 km² (5.4 sq mi) per parish. Upland parishes covered 50–100+ km² (20–40+ sq mi).
 
 | Village size | Arable needed | Total territory (lowland) | Territory (upland) |
 |---|---|---|---|
-| 100 people | ~100 ha (250 acres) | 2–4 km² (0.8–1.5 sq mi) | 10–30 km² |
-| 250 people | ~250 ha (620 acres) | 5–10 km² (2–4 sq mi) | 25–60 km² |
+| 100 people | ~100 ha (250 acres) | 2–4 km² (0.8–1.5 sq mi) | 10–30 km² (4–12 sq mi) |
+| 250 people | ~250 ha (620 acres) | 5–10 km² (2–4 sq mi) | 25–60 km² (10–23 sq mi) |
 | 500 people | ~500 ha (1,240 acres) | 10–20 km² (4–8 sq mi) | rare in uplands |
 
 For how villages and their fields are laid out, see [Villages, Farms and the Countryside](06-villages-and-countryside.md).
@@ -243,7 +266,7 @@ A **hinterland** is the area of countryside that feeds a town. The model below a
 
 > **Fantasy twist:** Magic that raises harvests changes everything downstream. If priests can bless fields from a 4 : 1 to an 8 : 1 yield, the same land feeds about twice as many people. You can then double densities, enlarge towns and shrink hinterlands. Cheap magical transport (portals, flying freight) would also free great cities from the "must be on water" rule. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Draw a faint circle around each town at the overland radius from the table. If two towns' circles overlap heavily, one of them should be smaller or should be on water. Every place over 10,000 people should sit on a navigable river or a coast. Every place over 50,000 *must*.
+> **Map tip:** Draw a faint circle around each town at the overland radius from the table. If two towns' circles overlap heavily, one of them should be smaller or should be on water. Put most places over 10,000 people on a navigable river or a coast. Inland exceptions existed, but they sat in very rich farmland with good roads: Coventry in England (about 12,000 c. 1300) and hilltop Siena in Italy (perhaps 50,000) had no navigable river. Places over 50,000 almost always need water transport.
 
 ---
 
@@ -270,6 +293,8 @@ A **hinterland** is the area of countryside that feeds a town. The model below a
 
 - England's 1300 figure was once put anywhere from 3.7 to 6 million. The 4.75–4.81 million series (Broadberry, Campbell and van Leeuwen) is now standard.
 - Europe totals for 1000 depend on what you count as Europe. Russell's 38.5 million includes Russia. Other series put it higher.
+- Scotland's figure is little more than a guess: it may have grown from about half a million to a million by the mid-1300s.
+- Byzantium's 1282 figure is often given as 5 million; some historians put it as low as 3 million.
 
 > **Later era (1500s+):** Europe reached about 100 million by 1600. England had about 4.1 million in 1600 and 5.3 million in 1650, finally passing its 1348 peak. See [What Changes After 1500](09-later-era-1500-1650.md).
 
@@ -279,14 +304,14 @@ A **hinterland** is the area of countryside that feeds a town. The model below a
 
 ## The biggest cities
 
-> **Rule of thumb:** In any period, only about 4–8 cities in Europe, North Africa and the Middle East had 100,000+ people. Nearly all of them were capitals or great ports, and all were on the sea or a big river.
+> **Rule of thumb:** In any period, only about 4–8 cities in Europe, North Africa and the Middle East had 100,000+ people. Nearly all of them were capitals or great ports, and almost all were on the sea or a big river. (Granada, fed by its rich irrigated plain, is a rare exception.)
 
 Ranges are given in thousands. Where scholars disagree a lot, the central figure from Bosker, Buringh & van Zanden (2013) is in brackets.
 
 | Rank | c. 1000 | c. 1300 | c. 1500 |
 |---|---|---|---|
 | 1 | Constantinople 150–400 (300) | Cairo 220–600 (220) | Cairo 150–400 (180) |
-| 2 | Baghdad 125–500 (300), declining | Paris 75–270 (250); ~200 is the usual figure | Istanbul 100–280 (280); a 1478 count suggests ≈80–100 |
+| 2 | Baghdad 125–500 (300), declining | Paris 75–270 (250); ~200 is the most common figure | Istanbul 100–280 (280); a 1478 count suggests ≈80–100 |
 | 3 | Cairo-Fustat 135–200 | Granada 50–150 (150) | Paris 95–250 (200) |
 | 4 | Córdoba 100–450 (100) | Venice 90–120 | Naples 100–150 (125) |
 | 5 | Seville 70–90 | Milan 100–150 | Edirne ~100–127 |
@@ -296,9 +321,14 @@ Ranges are given in thousands. Where scholars disagree a lot, the central figure
 | 9 | Kairouan, Salerno ~50 | Baghdad ~95 (after the 1258 sack) | Aleppo 65–80 |
 | 10 | Venice 17–45 | Seville ~90 | Granada ~70; Valencia ~75 |
 | 11 | Antioch ~45; Thessaloniki, Regensburg, Damascus ~40 | London 60–100 | Lisbon, Palermo, Fez, Damascus 55–65 |
-| 12 | Rome 30–35; Kiev 20–45 | Fez, Marrakesh, Tunis, Naples, Ghent, Aleppo, Córdoba 55–70 | Genoa, Rome, Florence, Bursa ~55–60; London ~50 |
+| 12 | Rome 30–35; Kiev 20–45 | Fez, Marrakesh, Tunis, Naples, Aleppo, Córdoba 55–70; Ghent 40–65 | Genoa, Rome, Florence, Bursa ~55–60; London ~50 |
 
-**How uncertain are these?** Very. An older standard work gave Córdoba 450,000 people c. 1000 and Palermo 350,000. Later scholars cut these to about 110,000 and 60,000. For many Middle Eastern cities, historians estimate population from the walled area (about 150 people per hectare), or from the number of mosques or public bathhouses (about 1,000 people each) (Bosker et al. 2013, data appendix). Treat every number above 100,000 as a rough guess.
+**How uncertain are these?** Very.
+
+- An older standard database (Bairoch, Batou & Chèvre 1988) gave Córdoba 450,000 people c. 1000 and Palermo 350,000. Later scholars cut these to about 110,000 (Glick) and 60,000 (Epstein and Johns).
+- For many Middle Eastern cities there are no counts at all. Historians estimate the population from the walled area (about 150 people per hectare), or from the number of mosques or public bathhouses (about 1,000 people each) (Bosker et al. 2013, data appendix).
+
+Treat every number above 100,000 as a rough guess.
 
 **Things to notice:**
 
@@ -306,9 +336,9 @@ Ranges are given in thousands. Where scholars disagree a lot, the central figure
 - By 1300, Italian and Flemish trading cities had caught up. The great cities of the Middle East held steady or shrank.
 - Cities could fall fast: Baghdad after the Mongol sack of 1258; Constantinople after 1204, and again by 1453.
 
-> **Later era (1500s+):** c. 1600: Istanbul 400–700k; Paris ~220–300k; Naples ~250–280k; London ~200k (about 400k by 1650); Venice, Seville, Lisbon and Milan 110–150k.
+> **Later era (1500s+):** c. 1600: Istanbul 400–700k; Paris ~220–300k; Naples ~250–280k; London ~200k (roughly 300–400k by the 1650s–60s; estimates vary); Venice, Seville, Lisbon and Milan 110–150k.
 
-> **Map tip:** On a continent-sized map of a "medieval Europe" world, mark only 3–8 great cities of 50,000+. Put all of them on coasts, at river mouths or on big navigable rivers. Give at least one of them a clear reason: an emperor's court, a strait, a delta or an export trade.
+> **Map tip:** On a continent-sized map of a "medieval Europe" world, mark only 3–8 great cities of 50,000+. Put almost all of them on coasts, at river mouths or on big navigable rivers. Give at least one of them a clear reason: an emperor's court, a strait, a delta or an export trade.
 
 ---
 
@@ -331,13 +361,13 @@ Use this to get believable numbers for any realm.
 | Small market towns 500–2,000 | ~4% | ~6% | ~8% |
 | Villages, hamlets, farms | ~92% | ~86% | ~65% |
 
-**Step 5: Turn shares into places.** Divide by a typical size: about 3,000–4,000 for towns and about 800 for market towns. For villages, use about 250 in lowland and 100–150 in hill country. Size the top cities using the rank-size section above. The capital of a strong kingdom usually holds about 1–2% of all its people (London c. 1300 ≈ 1.5–2%; Paris ≈ 1.25%). In a fragmented realm, the largest city holds about 0.5% (Cologne, c. 1300).
+**Step 5: Turn shares into places.** Divide by a typical size: about 3,000–4,000 for towns and about 800 for market towns. For villages, use about 250 in lowland and 100–150 in hill country. Size the top cities using the rank-size section above. The capital of a strong kingdom usually holds about 1–2% of all its people (London c. 1300 ≈ 1.3–2%; Paris ≈ 1.25%). In a fragmented realm, the largest city holds about 0.5% or less (Cologne, Germany's largest city c. 1300, held about 0.4–0.5%).
 
 **Step 6: Check spacing and food.**
 
 - Villages should end up 1.5–4 km (1–2.5 mi) apart in lowland.
-- Market centres should be 10–25 km (6–15 mi) apart.
-- Every place over 10,000 should be on water.
+- Market centres should be about 10–16 km (6–10 mi) apart in a crowded realm, and up to about 25 km (15 mi) apart in a thinly settled one.
+- Most places over 10,000 should be on navigable water or a coast. An inland one needs very rich farmland around it.
 
 If the spacing is wrong, adjust the densities or the shares.
 
@@ -410,14 +440,16 @@ Using the **average** profile:
 **Effects you can draw:**
 
 - **Deserted villages:**
-  - England: Beresford and Hurst listed 2,263 deserted medieval villages in 1971, and later estimates exceed 3,000. Most were abandoned or shrank between c. 1350 and 1520. Plague alone rarely emptied a village. More often, the survivors drifted away and lords turned the fields into sheep pasture.
+  - England: Beresford and Hurst's 1971 survey listed well over 2,000 deserted medieval villages, and later estimates exceed 3,000.
+  - Most were abandoned or shrank between c. 1350 and 1520, especially in the 15th century.
+  - Plague alone rarely emptied a village. More often, the survivors drifted away and lords turned the fields into sheep pasture.
   - Germany: the number of settlements fell from about 170,000 to 130,000 between 1300 and 1500 (−23.5%). In one district of northern Thuringia, only 33 of 179 earlier settlements survived to the mid-16th century.
 - **Shrunken towns:** Walls built for the 1300 population enclosed gardens, orchards and ruins after 1350. Florence did not regain its 1300 population until the 19th century, so for centuries its 1333 walls held gardens and fields as well as houses.
 - **Abandoned marginal land:** Fields high on hillsides, in heath or at forest edges went back to rough pasture or woods. You can still see their old ridges.
 
 > **Fantasy twist:** A magical plague, a dragon's long rampage or an undead war works on a map exactly like the Black Death. Expect empty villages, towns too small for their walls, and good land going back to wild. A ruin-filled landscape needs a disaster in its recent past. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Later era (1500s+):** Population grew again after c. 1500, and big towns grew fastest. Italy suffered new plagues in 1629–31 and 1656–57, each killing 20% or more. The Thirty Years' War (1618–48) devastated parts of Germany. See [What Changes After 1500](09-later-era-1500-1650.md).
+> **Later era (1500s+):** Population grew again after c. 1500, and big towns grew fastest. Italy suffered new plagues in 1629–31 and 1656–57, each killing 20% or more of the people in the regions they hit. The Thirty Years' War (1618–48) devastated parts of Germany. See [What Changes After 1500](09-later-era-1500-1650.md).
 
 > **Map tip:** For a post-plague setting, mark a few "ruined village" or "lost village" symbols in the lowland, often next to a lone church or a manor house in sheep pasture. Show towns with open green space inside their walls, and push the hill-farm line downhill. For a 1300 setting, do the opposite: farms right up the valley sides and suburbs spilling outside the town gates.
 
@@ -425,19 +457,19 @@ Using the **average** profile:
 
 ## Who lives where
 
-> **Rule of thumb:** Out of every 100 people, about 85 farm, 10–15 live in towns, 1–2 are clergy, 1–2 are noble (more in Poland and Hungary), and fewer than 1 is a full-time soldier.
+> **Rule of thumb:** Out of every 100 people, about 85 farm, 10–15 live in towns, 1–2 are clergy, about 1 is noble in Western Europe (many more in Poland and Hungary), and fewer than 1 is a full-time soldier.
 
 | Group | Share of people | Where they are on the map |
 |---|---|---|
 | Peasants and rural workers | 80–90% (65% in Flanders or Tuscany) | Villages, hamlets, farmsteads; also rural craftsmen such as smiths, millers and carpenters |
 | Townspeople | 5–20% (England 15–20% counting all small towns; Flanders 33–40%) | Market towns, towns, cities |
-| Clergy (priests, monks, nuns, friars) | ~1.5–2% (England 1377: about 1 adult man in 30) | Every parish has a priest. Monks and nuns live in monasteries, often in the countryside; friars live in towns; cathedral clergy live in cities. England had about 900 religious houses with about 12,000 monks, canons, friars and nuns in the 1530s. |
-| Nobility and gentry | 1–2% in Western Europe (England c. 1500 ≈ 1.2%); ~3–5% in Hungary; ~8–10% in Poland (later figures); perhaps ~10% in Castile, concentrated in the north | Manor houses and castles across the countryside; town houses in capitals. Where nobles are 10% of the population, many are poor and live like farmers. |
-| Full-time soldiers | Well under 1% in peacetime | Castle garrisons (5–20 men in peace; see [Castles, Forts and Military Outposts](04-military-sites.md)), royal guards, mercenaries. Even 500–600 garrisoned castles (England's number after the Conquest) with 5–20 men each add up to only about 0.05–0.25% of the people (estimate). Big wartime armies (15,000–30,000 at Falkirk in 1298, by different estimates) existed for one season. |
+| Clergy (priests, monks, nuns, friars) | ~1–2% (estimates vary). In England in the 1530s, monks, canons, friars and nuns alone came to about 1 adult man in 50, before counting parish priests. | Every parish has a priest. Monks and nuns live in monasteries, often in the countryside; friars live in towns; cathedral clergy live in cities. England had nearly 900 religious houses with about 12,000 monks, canons, friars and nuns in the 1530s. |
+| Nobility and gentry | About 1% in France and Italy; in England titled nobles were far fewer, but the gentry (untitled landowners) added more. ~4–5% in Hungary and ~8–10% in Poland (early modern figures). Perhaps ~10% in Castile, concentrated in the north (rough estimate). | Manor houses and castles across the countryside; town houses in capitals. Where nobles are 10% of the population, many are poor and live like farmers. |
+| Full-time soldiers | Well under 1% in peacetime | Castle garrisons (5–20 men in peace; see [Castles, Forts and Military Outposts](04-military-sites.md)), royal guards, mercenaries. Even 500–600 garrisoned castles (England's number after the Conquest) with 5–20 men each add up to only about 2,500–12,000 men, well under 1% of the people (estimate). Big wartime armies existed for one season only. Edward I's English army at Falkirk in 1298 had about 15,000 men (some older estimates are higher). |
 
-**Towns needed newcomers.** Medieval towns had more deaths than births. Death rates could be 6% a year even in normal years. Towns grew only by drawing people in from the countryside, and a quarter to a half of a growing town's people were migrants from nearby villages (Nicholas 2014, via Jedwab et al. 2020). This is why towns sit inside a ring of villages that feed them both food and people.
+**Towns needed newcomers.** Medieval towns had more deaths than births. Death rates could be as high as 6% a year even in normal years. Towns grew only by drawing people in from the countryside, and a quarter to a half of a growing town's people were migrants from nearby villages (Nicholas 2014, via Jedwab et al. 2020). This is why towns sit inside a ring of villages that feed them both food and people.
 
-> **Map tip:** Put a manor house in most lowland villages (some English villages had two or more). Place castles much more sparsely. Religious houses were common but mostly small: England had about 900 in the 1530s, roughly one per 140 km² (55 sq mi). Friaries sit in towns, while abbeys often sit in remote valleys (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)). Specialists are rare: a university, a great cathedral school or a famous library belongs to only one or two cities in a kingdom.
+> **Map tip:** Put a manor house in most lowland villages (some English villages had two or more). Place castles much more sparsely. Religious houses were common but mostly small: England had nearly 900 in the 1530s, roughly one per 140 km² (55 sq mi). Friaries sit in towns, while abbeys often sit in remote valleys (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)). Specialists are rare: a university, a great cathedral school or a famous library belongs to only one or two cities in a kingdom.
 
 ---
 
@@ -450,14 +482,14 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 | Density of a settled realm | Ross: 30–120 per sq mi (12–46 per km²) | 7–40 per km² for whole realms; Europe c. 1300 ~20 per km² (52 per sq mi); Flanders up to 75 per km² | Good for crowded western kingdoms. Too high for frontier, upland or young realms, which can be 7–15 per km² (18–40 per sq mi). |
 | Village size | Ross: 20–1,000, typically 50–300. D&D: thorp 20–80, hamlet 81–400, village 401–900 | Hamlet 10–75; village 75–500, typically 150–300 | Ross matches well. D&D's "villages" are big villages or small market towns. |
 | Town and city size | Ross: town 1,000–8,000; city 8,000–12,000; big city 12,000–100,000. D&D: metropolis 25,001+ | Town 2,000–10,000; city 10,000+; 50,000+ was very rare | Broadly right. Remember that 25,000 was a first-rank city almost everywhere in Europe. |
-| Largest city | Ross: √(population) × 15 on average | Strong kingdoms: 1–2% of realm population | Too small for centralised capitals: it gives England c. 1300 about 33,000 (real London 70–100k), France about 60,000 (real Paris ~200,000) and Byzantium 1025 about 52,000 (real Constantinople ~300,000). Fair for fragmented realms. |
-| Second city | Ross: 20–80% of the largest | England 1377 ~30%; France ~15%; Italy ~90–100% | Real realms fall outside both ends of the range. Choose by the type of realm. |
+| Largest city | Ross: √(population) × 15 on average | Strong kingdoms: 1–2% of realm population | Too small for centralised capitals: it gives England c. 1300 about 33,000 (real London 60–100k), France about 60,000 (real Paris ~200,000) and Byzantium 1025 about 52,000 (real Constantinople ~300,000). Fair for fragmented realms. |
+| Second city | Ross: 20–80% of the largest | England 1377 ~30%; France c. 1300 ~15–20%; Italy ~90–100% | Real realms fall outside both ends of the range. Choose by the type of realm. |
 | Towns per city | Ross: number of cities × 2d8 (average 9) | England c. 1300: ~50–60 towns of 2k+ to ~6 cities of 10k+, about 9–10 to 1 | Very close. |
 | Farmland | Ross: 180 people per sq mi of cultivated land (≈1.4 ha each, pasture and roads included) | ~1 ha arable per person; 2–3 ha of all land | Consistent. Ross's "cultivated land" includes pasture. |
 | Urban density | Ross: ~150 per hectare | 100–200 per ha; 150 is a standard assumption | Agrees. |
-| Castles | Ross: 1 active castle per 50,000 people | England had 500–600 occupied at once after 1066, when it had only about 2–3.5 million people; the German lands had ~14,000 castles in all | Far too few for most of medieval Europe. See [Castles, Forts and Military Outposts](04-military-sites.md). |
+| Castles | Ross: 1 active castle per 50,000 people | England had 500–600 occupied at once after 1066, when it had only about 1.7–3 million people; the German lands had ~14,000 castles in all | Far too few for most of medieval Europe. See [Castles, Forts and Military Outposts](04-military-sites.md). |
 | Universities | Ross: 1 per 27.3 million people | ~20 in Europe c. 1300 (≈1 per 3.5–4 million); 60–80 by 1500 | Far too few. Use about 1 per 3–4 million for 1300 and 1 per ~1 million for 1500. |
-| Clergy | Ross: 1 clergyman per 40 people (2.5%) | ~1.5–2% | Slightly high but close. |
+| Clergy | Ross: 1 clergyman per 40 people (2.5%) | ~1–2% (estimates vary) | Somewhat high but close. |
 
 **In short:**
 
@@ -466,7 +498,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Ross's minimum density is too high for thinly settled lands.
 - D&D's size names put the labels "village" and "town" on larger places than historians would.
 
-> **Map tip:** Use a gaming formula as a first draft. Then run the checks from this chapter: Is every 10,000+ city on water? Does the capital fit the type of realm? Are villages 1.5–4 km apart in lowland? Is the realm's total within the range of a real kingdom of the same size? For more pitfalls, see [Common Mistakes and How to Fix Them](11-common-mistakes.md).
+> **Map tip:** Use a gaming formula as a first draft. Then run the checks from this chapter: Are most 10,000+ cities on water, and does each inland one have rich farmland around it? Does the capital fit the type of realm? Are villages 1.5–4 km (1–2.5 mi) apart in lowland? Is the realm's total within the range of a real kingdom of the same size? For more pitfalls, see [Common Mistakes and How to Fix Them](11-common-mistakes.md).
 
 ---
 
@@ -478,7 +510,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - For every city of 10,000+, expect about 10 towns, 50–100 market towns and a few thousand villages.
 - Good lowland supports 30–50 people per km² (80–130 per sq mi). Whole realms average 10–40 per km². Europe c. 1300 averaged about 20 per km² (52 per sq mi).
 - Each person needs about 1 ha (2.5 acres) of ploughland, or 2–3 ha (5–7 acres) of all land.
-- A town of 10,000 needs a farmland radius of 21–27 km (13–17 mi) overland on good land. Cities above 50,000 must be fed by river or sea.
+- A town of 10,000 needs a farmland radius of 21–27 km (13–17 mi) overland on good land. Most cities above 10,000, and almost all above 50,000, are fed by river or sea.
 - Strong kingdoms have one primate capital (1–2% of the realm's people, 3–7 times bigger than the second city). Fragmented regions have several rival cities of similar size.
 - Only about 8 cities in Europe, North Africa and the Middle East had 100,000+ people c. 1300 or c. 1500.
 - 1300 is the crowded peak. After the Black Death (1347–51), 30–60% of people are gone, villages are deserted and towns are half-empty for 100–150 years.
@@ -490,6 +522,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 
 **Books and articles**
 
+- Bairoch, P. (1988). *Cities and Economic Development: From the Dawn of History to the Present*. Translated by C. Braider. Chicago: University of Chicago Press.
 - Bairoch, P., Batou, J. & Chèvre, P. (1988). *La population des villes européennes, 800–1850*. Geneva: Droz.
 - Beresford, M. & Finberg, H. P. R. (1973). *English Medieval Boroughs: A Handlist*. Newton Abbot: David & Charles.
 - Beresford, M. & Hurst, J. G. (eds.) (1971). *Deserted Medieval Villages*. London: Lutterworth.
@@ -503,9 +536,11 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Dyer, C. (2000). "Small towns 1270–1540." In D. M. Palliser (ed.), *The Cambridge Urban History of Britain*, vol. 1. Cambridge: Cambridge University Press.
 - Dyer, C. (2002). *Making a Living in the Middle Ages: The People of Britain 850–1520*. New Haven: Yale University Press.
 - Galloway, J. A. (1999). "Metropolitan market networks: London's economic hinterland in the later Middle Ages." *Transactions of the London and Middlesex Archaeological Society* 50: 91–97.
+- Glick, T. F. (1979). *Islamic and Christian Spain in the Early Middle Ages*. (Cited by Bosker et al. 2013 for the revised Córdoba figure.)
 - Hutchings, J. B. (1969). "Milton Ernest: a field survey." *Bedfordshire Archaeological Journal* 4: 69–78.
 - Letters, S. (2005). *Gazetteer of Markets and Fairs in England and Wales to 1516*. Kew: List and Index Society.
 - McEvedy, C. & Jones, R. (1978). *Atlas of World Population History*. London: Allen Lane.
+- Nicholas, D. M. (2014). *The Growth of the Medieval City: From Late Antiquity to the Early Fourteenth Century*. London: Routledge.
 - Russell, J. C. (1972). "Population in Europe 500–1500." In C. M. Cipolla (ed.), *The Fontana Economic History of Europe*, vol. 1: *The Middle Ages*. London: Collins/Fontana.
 - Treadgold, W. (1997). *A History of the Byzantine State and Society*. Stanford: Stanford University Press.
 - de Vries, J. (1984). *European Urbanization 1500–1800*. London: Methuen.
@@ -513,7 +548,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 **Online (pages opened or seen while researching)**
 
 - Bosker, Buringh & van Zanden: city dataset and data appendix (Baghdad-to-London): https://druid.datalegend.net/dataLegend/Baghdad-to-London
-- Bosker, Buringh & van Zanden, "From Baghdad to London: Lessons from one thousand years of urbanisation in Europe and the Arab world" (VoxEU column): https://cepr.org/voxeu/columns/baghdad-london-lessons-one-thousand-years-urbanisation-europe-and-arab-world
+- Bosker, Buringh & van Zanden (2013), journal article (DOI link): https://doi.org/10.1162/REST_a_00284
 - Summary of Bosker et al. (2008) on primacy in the Arab world and Europe: https://premodeconhist.wordpress.com/2009/01/27/bosker-m-buringh-e-and-van-zanden-jl-2008-why-did-europe-overtook-the-arab-world/
 - Hutchings (1969), PDF via Archaeology Data Service: https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-5499-1/dissemination/vol_4/BedsArch4-69-78.pdf
 - Florence city walls (Castelli Toscani): https://www.castellitoscani.com/firenze.htm
@@ -529,6 +564,6 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Aarhus University, *Danish History: The Late Middle Ages – Population and the Structure of Society*: https://cas.au.dk/en/danish-history/modules/module-3-the-late-middle-ages-1340-1523/2-population-and-the-structure-of-society
 - Munro, J. *Medieval Population Dynamics to 1500, Part C* (University of Toronto lecture): https://economics.utoronto.ca/munro5/L02MedievalPopulationC.pdf
 - Village Desertions in Late Medieval Germany (University of Oregon course page): https://pages.uoregon.edu/dluebke/Reformations441/Wuestungen.html
-- Wikipedia: *Medieval demography* https://en.wikipedia.org/wiki/Medieval_demography ; *List of towns and cities in England by historical population* https://en.wikipedia.org/wiki/List_of_towns_and_cities_in_England_by_historical_population ; *Deserted medieval village* https://en.wikipedia.org/wiki/Deserted_medieval_village ; *Demography of the Byzantine Empire* https://en.wikipedia.org/wiki/Demography_of_the_Byzantine_Empire ; *Wall of Philip II Augustus* https://en.wikipedia.org/wiki/Wall_of_Philip_II_Augustus ; *Demographic history of Scotland* https://en.wikipedia.org/wiki/Demographic_history_of_Scotland
+- Wikipedia: *Medieval demography* https://en.wikipedia.org/wiki/Medieval_demography ; *List of towns and cities in England by historical population* https://en.wikipedia.org/wiki/List_of_towns_and_cities_in_England_by_historical_population ; *Deserted medieval village* https://en.wikipedia.org/wiki/Deserted_medieval_village ; *Demography of the Byzantine Empire* https://en.wikipedia.org/wiki/Demography_of_the_Byzantine_Empire ; *Wall of Philip II Augustus* https://en.wikipedia.org/wiki/Wall_of_Philip_II_Augustus ; *Demographic history of Scotland* https://en.wikipedia.org/wiki/Demographic_history_of_Scotland ; *Dissolution of the monasteries* https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries ; *Szlachta* https://en.wikipedia.org/wiki/Szlachta ; *Battle of Falkirk* https://en.wikipedia.org/wiki/Battle_of_Falkirk ; *Incastellamento* https://en.wikipedia.org/wiki/Incastellamento ; *List of medieval universities* https://en.wikipedia.org/wiki/List_of_medieval_universities ; *Black Death* https://en.wikipedia.org/wiki/Black_Death ; *Great Famine of 1315–1317* https://en.wikipedia.org/wiki/Great_Famine_of_1315%E2%80%931317 ; *History of Ghent* https://en.wikipedia.org/wiki/History_of_Ghent ; *History of London* https://en.wikipedia.org/wiki/History_of_London ; *Virgate* https://en.wikipedia.org/wiki/Virgate
 - Ross, S. J. *Medieval Demographics Made Easy* (v1.10, Cumberland Games): https://www.martinralya.com/wp-content/uploads/2021/05/Medieval-Demographics-Made-Easy.pdf
 - *Dungeons & Dragons* 3.5 *Dungeon Master's Guide* (Wizards of the Coast, 2003), p. 137, community size table (also in the d20 System Reference Document).

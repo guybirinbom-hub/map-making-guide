@@ -26,7 +26,7 @@ The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500).
 
 > **Rule of thumb:** Industry goes to the heaviest thing it needs. That is usually the ore, the fuel or the water power, not the customer.
 
-**Why:** Moving goods over land was very expensive. In England c. 1300, moving goods by land cost about 8 times as much as by sea and 2 times as much as by river (see [chapter 05](05-trade-routes-and-transport.md)). So a smelter is built next to the mine and the woods, not next to the city. Only the finished, lighter product (silver bars, iron blooms, salt, cloth) travels.
+**Why:** Moving goods over land was very expensive. In England c. 1300, moving goods by land cost about 8 times as much as by sea and 2 times as much as by river (see [chapter 05](05-trade-routes-and-transport.md)). So a smelter (a furnace that heats ore, the metal-bearing rock, to get the metal out) is built next to the mine and the woods, not next to the city. Only the finished, lighter product (silver bars, iron blooms, salt, cloth) travels.
 
 Three things decide almost everything:
 
@@ -85,7 +85,7 @@ Then there are two more pulls:
 - **Lower taxes and extra rights**, such as market, brewing and customs rights. Mining towns often had more self-government than ordinary towns.
 
 **What it looks like:**
-- Streets on slopes, often irregular, because the town grew fast around mine shafts.
+- Streets on slopes. Older mining towns are often irregular, because they grew fast around mine shafts. Later ones founded by a ruler (such as the Ore Mountain towns of c. 1500) were often planned, with a grid of streets and a square market place.
 - Heaps of waste rock (spoil heaps) on the hillsides.
 - Smelting huts and ore-crushing mills along the stream below.
 - A **mint**, because silver and gold were turned into coin on the spot.
@@ -98,9 +98,9 @@ Then there are two more pulls:
 |---|---|---|
 | Mining camp or hamlet | 20–300 | Huts near shafts. Many vanish when the vein runs out. |
 | Ordinary mining town | 1,000–5,000 | The usual case. Most mining towns stayed small. |
-| Boom town | 10,000–20,000 | Rare. Joachimsthal (Bohemia) went from founding in 1516 to about 20,000 people by 1534. |
+| Boom town | 10,000–20,000 | Rare. Two examples from just after 1500: Annaberg (Saxony), founded in 1496, grew from about 3,000 people c. 1500 to about 12,000 by 1540. Joachimsthal (Bohemia), founded in 1516, had about 20,000 people by 1534 and was then the second town of Bohemia after Prague. |
 
-Boom towns are the main exception to the rule that towns over 10,000 need navigable water: silver is light and valuable, so it pays for food carted in over the hills. Mining towns boom and bust. A rich vein can create a town in 20 years. Flooding, deep shafts and exhausted ore can empty it again. Drainage was the big limit: medieval pumps could not drain deep shafts, so miners dug long drainage tunnels (adits) out to the valley side.
+Boom towns are the main exception to the rule that towns over 10,000 need navigable water. Silver is light and valuable, so it pays for food carted in over the hills. Mining towns boom and bust. A rich vein can create a town in 20 years. Flooding, deep shafts and exhausted ore can empty it again. Drainage was the big limit. Medieval pumps could not drain deep shafts, so miners dug long drainage tunnels (adits) out to the valley side.
 
 ### Silver
 
@@ -109,8 +109,8 @@ Silver was the money metal of medieval Europe, so silver mines made kings rich.
 | Mine | Dates | What happened |
 |---|---|---|
 | **Rammelsberg, Goslar** (Harz, Germany) | Mining recorded c. 968; much older | Ore with silver, lead, copper and zinc. Henry II built an imperial palace at Goslar from 1005 because of the silver. Over 100 miners died in a collapse in 1376. Worked until 1988. |
-| **Freiberg** (Saxony) | Silver found c. 1168 | Found at the village of Christiansdorf. The margrave of Meissen offered free mining; miners poured in, and within about 20 years the town of Freiberg ("free mountain") existed. Declined from the mid-1300s. |
-| **Kutná Hora** (Bohemia) | Silver rush from c. 1260–1290 | Near Sedlec Abbey. King Wenceslas II issued a mining code and created the Prague groschen coin around 1300, struck at the central mint in the "Italian Court". In the late 1200s the district produced perhaps a third of Europe's silver. It became Bohemia's second town after Prague. |
+| **Freiberg** (Saxony) | Silver found c. 1168 | Found at the village of Christiansdorf. The margrave of Meissen offered free mining; miners poured in, and within about 20 years the town of Freiberg ("free mountain") existed. Its first boom faded in the 14th century. |
+| **Kutná Hora** (Bohemia) | Silver mined from c. 1260; great rush in the 1290s | Near Sedlec Abbey. King Wenceslas II issued a mining code and created the Prague groschen coin around 1300, struck at the central mint in the "Italian Court". In the late 1200s the district produced perhaps a third of Europe's silver. It became Bohemia's second town after Prague. |
 | **Iglesias** (Villa di Chiesa, Sardinia) | 13th century | Founded by the Pisan count Ugolino della Gherardesca. Ruled by its own law code, the *Breve* (a 1327 copy survives). Estimated at about a tenth of Europe's silver in the early 1300s. |
 
 Population estimates for Kutná Hora vary hugely. Popular books give up to 60,000. That is very likely too high. Treat it as a large town of many thousands.
@@ -119,27 +119,28 @@ Population estimates for Kutná Hora vary hugely. Popular books give up to 60,00
 
 Medieval Europe had little gold. The main source in the 14th century was the Kingdom of Hungary, in the mountains of today's Slovakia and Transylvania.
 
-- **Kremnica** (Slovakia) got royal town privileges in 1328. From 1335 its mint struck gold florins, later the famous Kremnica ducats. From 1331 it was the seat of the royal official (the "chamber count") who ran all mines and mints in twelve counties. Its gold output is estimated at about 400 kg a year in the 14th–15th centuries.
-- Kremnica sits at 564 m in a mountain valley, about 20 km (12 mi) from Banská Bystrica. Several mining towns stood within a day's travel of each other.
+- Around 1330, Hungarian mines produced about 1,400 kg of gold a year. That was more than 30% of the world's output (an estimate).
+- **Kremnica** (Slovakia) was one of the most important of these gold mines. It got royal town privileges in 1328. From 1331 it was the seat of the royal official (the "chamber count") who ran all mines and mints in twelve counties. From 1335 its mint struck gold florins, later the famous Kremnica ducats. Kremnica's own yearly output is not well recorded; treat any exact figure with caution.
+- Kremnica sits at 564 m (1,850 ft) in a mountain valley, about 20 km (12 mi) in a straight line from Banská Bystrica. Several mining towns stood within a day's travel of each other.
 - Gold also came from washing river sand, a small, scattered trade along certain rivers.
 
 ### Copper
 
-- **Falun** (Sweden): the "Great Copper Mountain". Local farmers may have dug here from as early as the 9th century. A document of 1288 records a share in the mine, which was run by a group of share-owning master miners. The first known royal charter dates from 1347.
+- **Falun** (Sweden): the "Great Copper Mountain". Copper was dug here by the mid-1200s, and possibly as early as about 1000. A document of 1288 records a share in the mine, which was run by a group of share-owning master miners. The first known royal charter dates from 1347.
 - Copper ore was roasted in open fires, which gave off sulphur smoke and killed the plants for a long way around. Draw a bare zone around a big copper mine.
 - Copper mixed with tin makes bronze (bells, cannon); mixed with zinc ore (calamine) it makes brass.
 
-> **Later era (1500s+):** Falun peaked in the 1600s, when it produced most of Europe's copper (often quoted as about 70% of world output in the mid-1600s). New silver towns boomed too: Joachimsthal (1516) gave its name to the *thaler* coin and so to the word "dollar". After about 1550, cheap silver from Spanish America (Potosí, found in 1545) hurt many European mines.
+> **Later era (1500s+):** Falun peaked in the 1600s, when it produced a large share of Europe's copper (popular accounts say about two-thirds of world output in the mid-1600s; treat this as a rough claim). New silver towns boomed too: Joachimsthal (1516) gave its name to the *thaler* coin and so to the word "dollar". After about 1550, cheap silver from Spanish America (Potosí, found in 1545) hurt many European mines.
 
 ### Iron
 
 > **Rule of thumb:** Iron ore is common. Charcoal and water power are the real limits. Put ironworks where forest, fast streams and ore meet.
 
-**Why:** Medieval iron was made with charcoal. Experiments with bloomeries (simple clay furnaces) used 10–18 kg of charcoal for each 1 kg of iron. That is roughly 60–150 kg of wood for 1 kg of iron. Wood is too bulky to move far, so ironworks moved to the wood.
+**Why:** Medieval iron was made with charcoal. Bloomeries (simple clay furnaces) burned roughly as much charcoal as ore, by weight. Estimates of the total vary widely, but they often fall around 10–20 kg of charcoal for each 1 kg of finished iron. Since charcoal is made from about four or more times its weight in wood, that means very roughly 50–150 kg of wood for 1 kg of iron. Wood is too bulky to move far, so ironworks moved to the wood.
 
 | Region | Features |
 |---|---|
-| **Erzberg** (Styria, Austria) | A whole mountain of iron ore, worked in open pits. First recorded in 1171. Two mining communities, Innerberg (today Eisenerz) and Vordernberg, smelted ore in water-powered "wheel works" (*Radwerke*) along the valley. Iron went downriver to trading towns such as Steyr. |
+| **Erzberg** (Styria, Austria) | A whole mountain of iron ore, worked in open pits. First recorded in 1171. Two mining communities, Innerberg (today Eisenerz) and Vordernberg, smelted ore in water-powered "wheel works" (*Radwerke*) along the valley. The iron trade was given to privileged towns: Steyr for Innerberg iron (1287) and Leoben for Vordernberg iron (1314). |
 | **Siegerland** (Germany) | Iron mining and smelting in wooded hills. Communities managed their oak and birch woods as *Hauberg*: coppice (trees cut to the stump so they regrow) cut every 16–20 years, with a year of rye sown after each cut. Formal forest ordinances date from 1562 and 1565. |
 | **Basque country** (Biscay and Gipuzkoa, Spain) | Water-powered ironworks (*ferrerías*) in steep, rainy, wooded valleys from the 1300s. Iron was exported to England and Flanders through ports such as Bilbao (founded 1300). |
 | **The Weald** (south-east England) | Bloomeries from early times; the first blast furnace in England c. 1490. See [Forest industries](#forest-industries). |
@@ -148,7 +149,7 @@ Medieval Europe had little gold. The main source in the 14th century was the Kin
 
 ### Tin
 
-- Almost all of Europe's tin came from **Cornwall and Devon**. (Bohemia and Saxony produced some later.)
+- Most of Europe's medieval tin came from **Cornwall and Devon**. The Ore Mountains (Saxony and Bohemia) became the other big source, especially in the late Middle Ages.
 - Most medieval tin was "streamed": washed out of gravels in valley floors, not mined deep. Tinners turned moorland valleys into rows of spoil heaps and water channels.
 - **Stannaries** (tin-mining districts) had their own law. King John's charter of 1201 let tinners dig for tin on almost anyone's land and placed them under the Lord Warden of the Stannaries and his own courts, not the ordinary courts.
 - All tin had to be brought to **coinage towns** to be weighed, tested and taxed. In Cornwall these were Lostwithiel, Bodmin, Liskeard, Truro and Helston. In Devon, Tavistock, Ashburton and Chagford (1305) and Plympton (1328).
@@ -166,12 +167,12 @@ Medieval Europe had little gold. The main source in the 14th century was the Kin
 
 Coal was a small, local fuel in the Middle Ages, used mainly by smiths, lime burners and the poor in coal districts. It mattered in two places above all:
 
-- **Newcastle upon Tyne** (England). Seams came to the surface along the coast and river banks, so the English called it "sea coal". Sea coal was reaching London by 1228. Newcastle was exporting by sea from the mid-1200s. In 1306 a royal proclamation banned London craftsmen from burning sea coal because of the smoke. By the late 1300s the Tyne shipped perhaps 15,000 tonnes a year.
+- **Newcastle upon Tyne** (England). Seams came to the surface along the coast and river banks, so the English called it "sea coal". Sea coal from the north-east was reaching London by 1228, and the coal trade by sea grew through the 1200s. In 1306 a royal proclamation banned London craftsmen from burning sea coal in their furnaces because of the smoke. By the early 1500s (before 1539) the Tyne shipped roughly 15,000 tonnes a year; medieval shipments were probably of this size or smaller.
 - **Liège** (today's Belgium). The first texts on coal here date from the 12th century, and coal digging was regulated by 1229. Miners dug drainage tunnels called *areines*. A special court, the *Voir-Jurés du charbonnage*, judged mining disputes.
 
 Medieval coal pits were small: "bell pits" (a shaft widened at the bottom, abandoned when it got dangerous) and shallow tunnels into hillsides.
 
-> **Later era (1500s+):** Coal boomed when wood became scarce. Tyne shipments grew from about 15,000 tonnes a year before 1539 to about 240,000 tonnes in 1600 and 425,000 in 1634. Draw a forest of colliery hamlets along the Tyne and a stream of collier ships to London.
+> **Later era (1500s+):** Coal boomed when wood became scarce. Tyne shipments grew from about 15,000 tonnes a year before 1539 to about 240,000 tonnes in 1600 and 425,000 in 1634. Draw a forest of colliery (coal-mine) hamlets along the Tyne and a stream of collier ships (coal-carrying ships) to London.
 
 ### Mining districts on the map
 
@@ -197,7 +198,7 @@ Medieval coal pits were small: "bell pits" (a shaft widened at the bottom, aband
 
 | Method | How it works | Fuel | Where | Examples |
 |---|---|---|---|---|
-| **Brine springs** | Salty water comes up from salt beds underground. It is boiled in large pans until salt crystals form. | Huge: wood, peat or (later) coal | Inland lowlands and valleys over buried salt beds | Lüneburg, Droitwich, Halle, Salins |
+| **Brine springs** | Brine (very salty water) comes up from salt beds underground. It is boiled in large pans until salt crystals form. | Huge: wood, peat or (later) coal | Inland lowlands and valleys over buried salt beds | Lüneburg, Droitwich, Halle, Salins |
 | **Rock salt mines** | Salt is dug as rock, or water is pumped into the mountain to dissolve it and the brine is boiled | Some (for boiling brine) | Foothills and mountains | Wieliczka and Bochnia (Poland), Hallstatt and other Alpine salt towns |
 | **Sea salt pans** | Seawater is let into shallow clay pans and the sun evaporates it | Almost none | Flat, sheltered coasts with hot, dry summers | Bay of Bourgneuf (France), Venetian lagoon (Chioggia), Ston (Croatia) |
 
@@ -206,29 +207,29 @@ In the cold, wet north, people also boiled seawater or burned salt-soaked peat (
 ### Salt towns
 
 **Brine-spring towns:**
-- **Lüneburg** (northern Germany). Salt making dominated the town from the 12th century. A brine spring was surrounded by 54 boiling huts, each with 4 pans: 216 pans in all. About 500 people worked at the saltworks at its height. The salt went to Lübeck on the Baltic, mostly to salt herring. In the 16th century about 19,000 tonnes a year made that trip.
-- **Droitwich** (England). Brine here is nearly saturated, about 7–10 times saltier than seawater. Domesday Book (1086) shows the king holding the brine pits and many manors across the West Midlands owning salt pans or rights to salt. Salt was carted along "saltways" to neighbouring counties and to the River Severn at Worcester.
-- **Halle** (Saale, Germany). The name comes from an old word for salt. Four brine wells stood around the market. The salt workers, the *Halloren*, were a famous guild. Halle was in the Hanseatic League by 1281.
+- **Lüneburg** (northern Germany). Salt making dominated the town from the 12th century. A brine spring was surrounded by 54 boiling huts, each with 4 pans: 216 pans in all. The workers lived in their own walled "Salt Quarter" of the town; they numbered several hundred at the works' height. The salt went to Lübeck on the Baltic, mostly to salt herring. In the 16th century about 19,000 tonnes a year made that trip.
+- **Droitwich** (England). Brine here is nearly saturated: about 7–10 times saltier than seawater (often quoted as "ten times"). Domesday Book (1086) shows the king holding the brine pits, and many manors across the West Midlands owning salt pans or rights to salt. Salt was carted along "saltways" to neighbouring counties and to the River Severn at Worcester.
+- **Halle** (Saale, Germany). The name is usually linked to an old word for salt. Four brine wells stood around the market. The salt workers, the *Halloren*, were a famous guild. Halle was in the Hanseatic League by 1281.
 - **Salins** (Franche-Comté, France). Two saltworks were working by 1115. Salt made Salins the second town of the region after Besançon, and the title "lord of Salins" was prized by the counts and dukes of Burgundy.
 
 **Rock-salt towns:**
-- **Wieliczka and Bochnia** (near Kraków, Poland). Rock salt mining began in the 13th century. King Casimir the Great issued a mining ordinance in 1368. Salt gave the Polish crown about a third of its income from the 14th to the 16th century. At its height (16th–17th centuries) Wieliczka had about 2,000 miners and produced over 30,000 tonnes a year.
+- **Wieliczka and Bochnia** (near Kraków, Poland). Rock salt mining began in the 13th century. King Casimir the Great issued a mining ordinance in 1368. In the 14th century the Kraków saltworks gave the Polish crown about a third of its income. At its height (16th to mid-17th century) Wieliczka had about 2,000 miners and produced over 30,000 tonnes a year.
 - **Hallstatt** (Austria). Salt mined since prehistoric times. A tiny town squeezed between a lake and a mountain, reached only by boat or narrow paths until the 19th century.
 
 **Sea-salt districts:**
-- **Bay of Bourgneuf** (south of the Loire, France). "Bay salt" was cheap and coarse. From the late 1300s, fleets of Hanseatic and Dutch ships (the "Bay fleet") came every year to load it for the Baltic fisheries.
+- **Bay of Bourgneuf** (south of the Loire, France). "Bay salt" was cheap, grey and coarse. In the late Middle Ages, fleets of Hanseatic and later Dutch ships (the "Bay fleet") came every year to load it for the Baltic fisheries. The bay was a major salt producer in the 15th and 16th centuries.
 - **Venetian lagoon and Chioggia**. Salt pans made Chioggia rich in the 12th–14th centuries. Venice tried to control the salt trade of the whole northern Adriatic.
-- **Ston** (Croatia). Dubrovnik bought the Pelješac peninsula in 1333 for its salt pans. From 1358 it built walls more than 7 km (4.3 mi) long, with 40 towers, across the neck of the peninsula; 5.5 km (3.4 mi) survive. The twin planned towns of Ston and Mali Ston sit at each end. Salt gave Dubrovnik up to a third of its income.
+- **Ston** (Croatia). Dubrovnik bought the Pelješac peninsula in 1333 for its salt pans. From 1358 it built walls more than 7 km (4.3 mi) long, with 40 towers, across the neck of the peninsula; 5.5 km (3.4 mi) survive. The twin planned towns of Ston and Mali Ston sit at each end. The salt pans were one of Dubrovnik's main sources of income.
 
 ### The fuel problem
 
-Brine boiling burned enormous amounts of wood. Brine towns were often blamed for clearing the forests around them (Lüneburg Heath is the classic example, though historians debate how much the saltworks alone were to blame). When wood ran out, there were two answers: bring fuel in by water, or pipe the brine to the forest.
+Brine boiling burned enormous amounts of wood. Brine towns were often blamed for clearing the forests around them. Lüneburg Heath is the classic example, but the story is not proven: the heath probably began with much older clearances, back in the Bronze Age. When wood ran out, there were two answers: bring fuel in by water, or pipe the brine to the forest.
 
-> **Later era (1500s+):** Brine pipelines appear. From 1595 to 1607 a wooden pipeline was built to carry brine from Hallstatt about 40 km (25 mi) down to Ebensee, where wood was plentiful. In the 1770s brine from Salins was piped 21 km (13 mi) to the new Royal Saltworks at Arc-et-Senans, built next to a large forest.
+> **Later era (1500s+):** Brine pipelines appear. From 1595 to 1607 a wooden pipeline was built to carry brine from Hallstatt down to Ebensee, where wood was plentiful. Sources give its length as 34–40 km (21–25 mi). From 1775, brine from Salins was piped 21 km (13 mi) to the new Royal Saltworks at Arc-et-Senans, built next to the large Forest of Chaux.
 
 ### Salt roads
 
-- Salt moved overland farther than other bulk goods because everyone had to buy it. The **Old Salt Route** from Lüneburg to Lübeck was about 100 km (60 mi). In 1398 the Stecknitz Canal opened to carry salt by water.
+- Salt moved overland farther than other bulk goods because everyone had to buy it. The **Old Salt Route** from Lüneburg to Lübeck was about 90–100 km (55–60 mi). In 1398 the Stecknitz Canal opened to carry salt by water.
 - Around Droitwich, the Upper and Lower Saltways led east across the Midlands and south over the Cotswolds.
 - Salt roads usually lead from the salt source to the nearest navigable river or port, then by water to the big markets. Many old roads are still called "Salt Way", *Salzstraße* or *Via Salaria*.
 
@@ -288,7 +289,7 @@ Brick and tile kilns stood outside the town walls, near clay pits and water, bec
 
 ## Forest industries
 
-Medieval forests were not empty wilderness. They were working landscapes full of woodcutters, charcoal burners, iron smelters, glassmakers, tar boilers and pig herders. Ordinary village woods (fuel, pannage, timber for houses) are in [chapter 06](06-villages-and-countryside.md); this section covers the industries.
+Medieval forests were not empty wilderness. They were working landscapes full of woodcutters, charcoal burners, iron smelters, glassmakers, tar boilers and pig herders. Ordinary village woods (fuel, pannage (letting pigs feed on acorns), timber for houses) are in [chapter 06](06-villages-and-countryside.md); this section covers the industries.
 
 ### Timber
 
@@ -299,27 +300,27 @@ Medieval forests were not empty wilderness. They were working landscapes full of
 ### Charcoal burning
 
 - Charcoal was made in **clamps**: a dome of stacked logs covered with turf and earth, burned slowly for 6–8 days (several weeks for very large ones).
-- It takes roughly 4–8 kg of wood to make 1 kg of charcoal (the figure depends on the method).
+- It takes roughly 4–8 kg of wood to make 1 kg of charcoal. A traditional clamp turns about a quarter of the wood's weight into charcoal on average; small, careless burns do worse.
 - Charcoal is light but crumbles if carried far, so it was made in the woods near where it would be used. The burners lived in huts next to the clamp to watch it day and night.
 - Woods for charcoal were usually **coppiced**: cut to the stump and allowed to regrow, giving poles every 10–20 years.
 
 ### Iron smelting in the forest
 
-**Bloomeries** were small furnaces that produced a spongy lump of iron (a bloom), which was then hammered. Early blooms weighed a few kilograms. Water-powered bellows and hammers, spreading in the High Middle Ages, allowed much bigger furnaces; late medieval blooms could reach a few hundred kilograms.
+**Bloomeries** were small furnaces that produced a spongy lump of iron (a bloom), which was then hammered. Early blooms weighed a few kilograms. Water-powered bellows and hammers, spreading in the High Middle Ages, allowed much bigger furnaces. Late medieval blooms could reach a few hundred kilograms.
 
-**Blast furnaces** melt the iron completely and run for months. They appear in Sweden (Lapphyttan) as early as the 12th century and in England (the Weald) about 1490. They need a dam and a pond for a waterwheel and a steady supply of charcoal.
+**Blast furnaces** melt the iron completely and run for months. In Sweden, Lapphyttan is an early example, dated somewhere between about 1150 and 1350. In England the first one was built in the Weald (at Queenstock, Buxted) about 1490. Blast furnaces need a dam and a pond for a waterwheel, and a steady supply of charcoal.
 
-How much forest does an ironworks need? In the Weald, historians estimate a blast furnace needed the wood from about a 5 km (3 mi) radius, in a landscape that was a quarter to a third woodland.
+How much forest does an ironworks need? In the Weald, historians estimate that a post-medieval blast furnace needed, for a sustainable supply, the wood from about a 5 km (3 mi) radius, in a landscape that was a quarter to a third woodland.
 
 > **Later era (1500s+):** Blast furnaces spread. The Weald had nearly 180 furnace and forge sites over its history and produced over 9,000 tonnes of iron a year in the 1590s. Cast-iron cannon were made there from 1543. Furnace ponds and "hammer ponds" (millponds for forge hammers) dot the map of the Weald to this day.
 
 ### Forest glass
 
 - From about 1000 to 1700, northern European glass was made in the forest from sand and wood ash (potash). This is called *forest glass* (*Waldglas*).
-- It used enormous amounts of wood: estimates are 150–200 kg of wood for 1 kg of glass. A large glasshouse might burn about 67 tonnes of wood a week.
-- Glasshouses moved to new woods when the old ones were cut out. The Spessart (Germany) had around 150 small glassworks over the late Middle Ages and early modern period. Other glass districts were Bohemia, the Black Forest, the Jura and the Weald.
+- It used enormous amounts of wood: estimates are 150–200 kg of wood for 1 kg of glass, counting both fuel and ash. A large glasshouse might burn about 67 tonnes of wood a week, for about 40 weeks a year.
+- Glasshouses moved to new woods when the old ones were cut out. The Spessart (Germany) is a good example of a glass forest. In the early 1400s just four glassworks in its Mainz-ruled part made around 230,000 pieces of blown glass a year, plus flat (window) glass. Other glass districts were Bohemia, the Black Forest, the Jura and the Weald.
 
-> **Later era (1500s+):** A 1615 English proclamation banned wood fuel in glassmaking. Glassmakers moved to coalfields.
+> **Later era (1500s+):** A 1615 English proclamation banned wood fuel in glassmaking. In the same year Sir Robert Mansell got a monopoly on English glass and used sea coal instead of wood. Glassmakers moved to coalfields.
 
 ### Potash, tar and pitch
 
@@ -342,8 +343,8 @@ Cloth was the biggest manufacturing industry of medieval Europe. It needs wool (
 
 | Region | Features |
 |---|---|
-| **England** | Europe's main source of fine wool in the 13th–14th centuries. Around 1300 England exported about 30,000–45,000 sacks a year (estimates vary). One sack weighed 364 lb (165 kg), the fleeces of about 200–260 sheep. So the exported wool alone came from something like 6–12 million sheep. Famous wool areas: the Cotswolds, Lincolnshire, the Welsh Marches, Yorkshire. |
-| **Castile** (Spain) | Large flocks moved between summer pastures in the north and winter pastures in the south. The herders' guild, the *Mesta*, was organized in 1273. Merino wool was exported to Flanders and Italy from the 14th century. |
+| **England** | Europe's main source of fine wool in the 13th–14th centuries. Customs records show England exporting on average about 25,000–40,000 sacks a year between the 1280s and the 1330s (five-year averages; some estimates for peak years reach 45,000). One sack weighed 364 lb (165 kg), the fleeces of about 200–260 sheep. So the exported wool alone came from something like 5–10 million sheep. Famous wool areas: the Cotswolds, Lincolnshire, the Welsh Marches, Yorkshire. |
+| **Castile** (Spain) | Large flocks moved between summer pastures in the north (Old Castile and León) and winter pastures in the south (Extremadura and Andalusia), walking 550–750 km (340–470 mi) each way. The herders' guild, the *Mesta*, received its royal charter in 1273. Wool exports began in the 14th century; fine merino wool became a big export to Flanders and England in the late 15th century. |
 | Uplands everywhere | Scotland, Wales, the Alps, the Pyrenees, the Apennines: wool mainly for local cloth. |
 
 Many English wool estates belonged to Cistercian monasteries (see [chapter 08](08-religious-cultural-and-ancient-sites.md)), which ran large sheep farms called granges. After the Black Death, many abandoned villages became sheep runs.
@@ -352,7 +353,7 @@ Many English wool estates belonged to Cistercian monasteries (see [chapter 08](0
 
 | Cloth centre | When | Notes |
 |---|---|---|
-| **Flanders:** Ghent, Bruges, Ypres, plus Lille and Douai | 12th–14th centuries | The densest cloth region in Europe. Fine cloth from imported English wool. Ghent had about 50,000–65,000 people in the 14th century. Bruges perhaps 35,000–45,000. Ypres perhaps 20,000–30,000 c. 1300, but only about 11,000 by 1412, after its industry declined. |
+| **Flanders:** Ghent, Bruges, Ypres, plus Lille and Douai | 12th–14th centuries | The densest cloth region in Europe. Fine cloth from imported English wool. Ghent had about 55,000–65,000 people in the 14th century (estimates vary; some reach 70,000). Bruges perhaps 35,000–46,000. Ypres perhaps 20,000–30,000 c. 1300 (older books say up to 40,000), but only about 10,000–11,000 by 1412, after its industry declined. |
 | **Florence** | 13th–15th centuries | The chronicler Giovanni Villani wrote that in the 1330s Florence had over 200 wool workshops making 70,000–80,000 cloths a year, and that over 30,000 people lived from the trade. Wool came from England and Spain. |
 | **English cloth districts** | 14th–15th centuries | After about 1350 England made more of its own cloth. Production spread into hilly countryside with fast streams: the West Country (Stroud valleys, Wiltshire), East Anglia, the West Riding of Yorkshire. |
 
@@ -366,8 +367,8 @@ Many English wool estates belonged to Cistercian monasteries (see [chapter 08](0
 
 **Fulling** means beating woollen cloth in water with a special clay (fuller's earth) to clean it and thicken it. At first people did it by trampling the cloth with their feet. A **fulling mill** used a waterwheel to lift wooden hammers.
 
-- Fulling mills are recorded in Normandy in the late 11th century. In England the first known ones date from 1185, on lands of the Knights Templar.
-- Water fulling cut costs by about 70%.
+- Fulling mills are recorded in Normandy in the late 11th century (about 1086). In England the first certain ones appear in a survey of 1185, on lands of the Knights Templar.
+- A water-powered mill did the work of many fullers, so water fulling was much cheaper than fulling by foot.
 - The historian Eleanora Carus-Wilson argued (1941) that fulling mills pulled the English cloth industry out of the old towns and into the countryside, where fast streams were. Later historians think she exaggerated, but the pattern of cloth villages along hill streams is real.
 
 > **Map tip:** Put fulling mills on fast streams in hilly country near sheep land. A cloth district on the map is a hill valley with a string of villages and mills along the stream, a market town at the valley mouth where cloth is sold, and tenter grounds on the slopes.
@@ -404,9 +405,9 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 ### Herring
 
-- The great medieval herring fishery was off **Scania** (southern Sweden, then Danish). Every year from about 1200, a huge market was held on the beaches between the small towns of Skanör and Falsterbo, from 24 August to 9 October.
-- The Danish king gave each Hanseatic town its own plot of beach (a *fitte* or *vitte*) to gut, salt and pack fish; 26 towns had plots. Lübeck dominated, bringing salt from Lüneburg and barrels.
-- A good 14th-century year may have produced about 300,000 barrels of herring (an estimate). A contemporary claimed 300,000 people worked there during the season, surely an exaggeration. The market supplied about a third of the Danish king's income at its peak.
+- The great medieval herring fishery was off **Scania** (southern Sweden, then Danish). Every year from about 1200, a huge market was held on the beaches between the small towns of Skanör and Falsterbo. The official season is usually given as 24 August to 9 October, but in practice it could start in late July and run into late October.
+- The Danish king gave Hanseatic towns their own plots of beach (a *fitte* or *vitte*) to gut, salt and pack fish. Counts vary, but around 25–30 towns had plots at the peak; the largest (Lübeck's and Danzig's) covered 6–10 hectares (15–25 acres) each. Lübeck dominated, bringing salt from Lüneburg and barrels.
+- A good 14th-century year may have produced about 300,000 barrels of herring (an estimate). A contemporary claimed 300,000 people worked there during the season, surely an exaggeration. By one estimate, the market supplied about a third of the Danish king's income at its peak.
 - The herring left Scania in the early 15th century, and the fishery moved to the North Sea.
 - English herring centred on **Great Yarmouth**, with a large autumn herring fair.
 
@@ -414,7 +415,7 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 - **Stockfish** is cod dried on wooden racks in cold, dry, windy northern springs, without salt. It keeps for years.
 - The main source was **Lofoten** (northern Norway). Fishermen came every winter and spring to fishing stations. Traders held summer fairs at Vågan.
-- The fish was shipped south to **Bergen**, which controlled the trade. Bergen's export of stockfish is estimated at about 4,000 tonnes a year in the 1300s. German Hanseatic merchants ran a trading post there (the *Kontor*, from about 1360) with about 1,000 residents in winter and 2,000 in summer.
+- The fish was shipped south to **Bergen**, which controlled the trade. Stockfish exports are estimated at about 4,000 tonnes a year in the 1300s. German Hanseatic merchants ran a trading post there (the *Kontor*, from about 1350–60). Nearly 1,000 Germans lived in its houses and warehouses on the main wharf, and more came in the summer sailing season.
 
 ### Fishing villages, weirs and curing
 
@@ -446,10 +447,10 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 **Small yards:** Most medieval ships were built on open beaches, creek sides and river banks near towns, not in special yards. Every port town had some.
 
 **Great arsenals:**
-- **Venice Arsenal.** Begun around 1104 (the exact date is uncertain). Expanded with the *Arsenale Nuovo* (c. 1320) and again in 1473. It covered about 45 hectares (110 acres), around 15% of the city, and was surrounded by walls. Popular accounts say it employed "some 16,000 people" in the early 1500s and could produce nearly a ship a day using standard parts. The regular skilled workforce was probably smaller; estimates vary.
-- **Barcelona**: the royal shipyards (*Drassanes*), built in stages from the late 13th century to 1390.
-- **Seville**: the *Atarazanas* (shipyards), built by Alfonso X in 1252 outside the walls, with 17 long halls.
-- **Rouen**: the French royal galley yard (*Clos des Galées*), founded in 1294 with Genoese help.
+- **Venice Arsenal.** Begun around 1104 (the exact date is uncertain). Expanded with the *Arsenale Nuovo* (c. 1320) and again in 1473. It covered about 45 hectares (110 acres), around 15% of the city, and was surrounded by a wall about 3.2 km (2 mi) long. Popular accounts say it employed "some 16,000 people" in the early 1500s and could produce nearly a ship a day using standard parts. The regular skilled workforce was probably smaller; estimates vary.
+- **Barcelona**: the royal shipyards (*Drassanes*), built in two stages, from about 1283 to 1328 and from 1328 to 1390.
+- **Seville**: the *Atarazanas* (shipyards), built under Alfonso X from 1252 outside the walls, by the river, with 17 long brick halls.
+- **Rouen**: the French royal galley yard (*Clos des Galées*), founded in the 1290s (usually dated 1294) with Genoese help.
 
 > **Map tip:** Put an arsenal at the edge of a big port city, on its own basin, behind its own walls. Draw a timber road or river from the forests to it. On a kingdom map, label 1–3 royal shipyards on the coast facing the realm's main enemy. Add tar and timber ports in the northern forests if your realm builds ships.
 
@@ -463,13 +464,13 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 | Town | Famous for | Notes |
 |---|---|---|
-| **Milan** | Armour | Probably the leading armour centre of the 15th century. The Missaglia family (active late 1300s to early 1500s) exported armour all over Europe. Workshops specialized in helmets, gauntlets and other parts. Brescia came second. |
+| **Milan** | Armour | Probably the leading armour centre of the 15th century. Workshops such as that of the Missaglia family (famous in the 1400s) exported armour all over Europe. Workshops specialized in helmets, gauntlets and other parts. Brescia came second. |
 | **Nuremberg** | Mail armour, metal goods, later firearms | A trading city where many metal crafts met. |
-| **Passau and Solingen** | Sword blades | Passau's "running wolf" mark meant quality. In the 15th century Solingen smiths began copying it. Solingen lies in hilly, wooded country with many fast streams for grinding mills. |
+| **Passau and Solingen** | Sword blades | Passau's "running wolf" mark was already on its blades before 1300 and meant quality. Later, Solingen smiths copied it. Solingen lies in hilly, wooded country on the Wupper river, with many fast streams for grinding mills. |
 | **Cologne** | Swords and mail (from the 12th century) | A great Rhine trading city. |
 | **Dinant** (Meuse valley) | Brass and copper vessels, called *dinanderie* | Used zinc ore from near Aachen. Sacked by the Burgundians in 1466. |
 | **Toledo** | Sword blades | Famous in the late Middle Ages and after. |
-| **Fabriano** (central Italy) | Paper | Water-powered paper mills from the late 13th century. Paper making had reached Europe through Muslim Spain, where Xàtiva (near Valencia) made paper by the 12th century. |
+| **Fabriano** (central Italy) | Paper | Making paper by 1276, with water-powered mills. Paper making had reached Europe through Muslim Spain, where Xàtiva (near Valencia) made paper by the 12th century. |
 
 Metal craft towns sit on trade routes, close to (but not inside) iron or copper districts: Solingen near the Bergisch hills, Steyr at the edge of the Styrian iron district, Nuremberg between several mining regions.
 
@@ -483,14 +484,14 @@ Metal craft towns sit on trade routes, close to (but not inside) iron or copper 
 
 - Beer was brewed everywhere, but some towns brewed for export. Hopped beer, which keeps longer, spread from north German towns to the Low Countries and England in the 14th–15th centuries.
 - **Hamburg** was called "the brewhouse of the Hanse". Around 1360 it had over 450 breweries, producing more than 25 million litres a year, most of it for export.
-- **Einbeck** (Lower Saxony) exported strong beer to Antwerp, Riga, Stockholm and Munich. In the 14th century, about 700 citizens had brewing rights. The word *bock* (a strong beer) may come from "Einbeck".
+- **Einbeck** (Lower Saxony) exported strong beer from Antwerp in the west to Riga in the east, and from Stockholm in the north to Munich in the south. Its exports are recorded from 1351, and more than half of the town's houses had the right to brew. The word *bock* (a strong beer) is usually said to come from "Einbeck", as pronounced in Munich.
 - Breweries need clean water, grain (barley, wheat or oats) and fuel. Put them inside towns, by wells or clean streams.
 
 ### Wine regions
 
 > **Rule of thumb:** Vineyards grow on sunny slopes above rivers. The river carries the wine to a port.
 
-- **Bordeaux** (Gascony, ruled by English kings 1152–1453). In the early 14th century Bordeaux shipped on average about 80,000 tuns of wine a year (a tun is about 950 litres, or 252 gallons). The record was 102,724 tuns in 1308–09. About 1,000 ships a year sailed from Gascony in the wine fleets. Wine from inland (the "high country") came down the Garonne and Dordogne rivers.
+- **Bordeaux** (Gascony, ruled by English kings 1152–1453). The early 14th century was the peak of the Bordeaux wine trade. In good years Bordeaux shipped tens of thousands of tuns of wine (a tun is about 950 litres, or 252 gallons). The record usually quoted is about 100,000 tuns (102,724) in 1308–09; treat these as estimates from customs records. Hundreds of ships sailed from Gascony each year in the wine fleets. Wine from inland (the "high country") came down the Garonne and Dordogne rivers.
 - **The Rhine and Moselle**. Rhenish wine was shipped down the Rhine through Cologne to the Low Countries, England and the Baltic.
 - **Burgundy**. The Côte around Beaune. In 1395 Duke Philip the Bold banned the Gamay grape to protect the quality of Pinot Noir.
 - Vines grew farther north than today. Domesday Book (1086) lists over 40 vineyards in southern England.
@@ -542,8 +543,8 @@ Most towns are market towns. These are the special ones. Each has a "signature" 
 
 A **fair** was a big market held once or a few times a year, often for days or weeks, where long-distance merchants met. A **market** was weekly and local (see [chapter 02](02-population-and-sizes.md)).
 
-- The **Champagne fairs** (eastern France) were the meeting point of Flemish cloth and Italian merchants in the late 12th and 13th centuries. Six fairs moved in a yearly cycle between four towns: Lagny-sur-Marne, Bar-sur-Aube, Provins (twice) and Troyes (twice). Each fair lasted more than six weeks, with days for setting up, for cloth, for leather, for spices, and finally for settling accounts. The Counts of Champagne protected merchants and their roads.
-- They declined after Champagne passed to the French crown in 1285, and when Italian ships began sailing directly to Bruges.
+- The **Champagne fairs** (eastern France) were the meeting point of Flemish cloth and Italian merchants in the late 12th and 13th centuries. Six fairs moved in a yearly cycle between four towns: Lagny-sur-Marne (January), Bar-sur-Aube (spring), Provins (May and September) and Troyes (June and November). Each fair lasted several weeks; accounts differ on exactly how long, and up to about six weeks is often given. There were set phases: about eight days for setting up, then days for cloth, for leather and for spices, and finally a few days for settling accounts. The Counts of Champagne protected merchants and their roads.
+- They declined after Champagne passed to the French crown in 1285, and when Genoese and Venetian ships began sailing directly to Flanders (Bruges).
 - Later great fairs: Frankfurt (autumn fair privileged in 1240, a spring fair added in 1330), Geneva and then Lyon in the 15th century, Medina del Campo in Castile.
 - Fair towns are often **not** big cities. Their signature is a large open space, many inns and storage buildings, and good roads from several directions. Neighbouring Champagne fair towns were about 45–65 km (28–40 mi) apart in a straight line, two or three days by road, so merchants could move from one fair to the next.
 
@@ -561,11 +562,11 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 
 - Industry goes to the heaviest input: ore, fuel (wood, charcoal, peat, coal) or water power. Only the light, finished product travels.
 - Mining towns sit up valleys in old hill country, buy their food, have special privileges (free mining, own courts, a mint) and boom and bust. Most had 1,000–5,000 people; rare boom towns reached 10,000–20,000.
-- Iron is limited by charcoal: roughly 60–150 kg of wood per 1 kg of bloomery iron. A Wealden blast furnace needed the woods of about a 5 km (3 mi) radius.
+- Iron is limited by charcoal: very roughly 50–150 kg of wood per 1 kg of bloomery iron (estimates vary). A Wealden blast furnace needed the woods of about a 5 km (3 mi) radius.
 - Every realm needs salt: brine springs (with huge fuel needs), rock-salt mines, or sea-salt pans on warm coasts. Salt roads run from the source to the nearest navigable water.
 - Stone travels far only by water; clay lowlands build in brick. Kilns and clay pits sit outside the walls.
 - Forests are industrial: charcoal hearths, forges with ponds, moving glasshouses (150–200 kg of wood per kg of glass), tar and potash.
-- Cloth needs wool, fulling water and dyes. Fulling mills put cloth villages along fast hill streams; great cloth towns (Ghent 50,000–65,000; Florence) imported wool.
+- Cloth needs wool, fulling water and dyes. Fulling mills put cloth villages along fast hill streams; great cloth towns (Ghent about 55,000–65,000; Florence) imported wool.
 - Preserved fish travels far: Scania herring (a beach market every autumn), Lofoten stockfish through Bergen (about 4,000 tonnes a year in the 1300s).
 - Shipyards are everywhere along shores; state arsenals (Venice, Barcelona, Seville) are walled factories in great ports.
 - Clean water upstream, dirty trades (tanners, dyers, butchers) downstream and outside the walls; fire trades at the edge.
@@ -605,9 +606,11 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Wikipedia: *Christiansdorf (Freiberg)* — https://en.wikipedia.org/wiki/Christiansdorf_(Freiberg)
 - Wikipedia: *Iglesias, Sardinia* — https://en.wikipedia.org/wiki/Iglesias,_Sardinia
 - Wikipedia: *Kremnica* — https://en.wikipedia.org/wiki/Kremnica
-- Kremnica, Central Slovak Museum page — https://muzeumbs.sk/en/kremnica
+- Wikipedia: *Charles I of Hungary* (Hungarian gold output c. 1330) — https://en.wikipedia.org/wiki/Charles_I_of_Hungary
+- Czech Wikipedia: *Kutná Hora* (share of European silver) — https://cs.wikipedia.org/wiki/Kutn%C3%A1_Hora
 - Wikipedia: *Falun* — https://en.wikipedia.org/wiki/Falun
 - Wikipedia: *Erzberg mine* — https://en.wikipedia.org/wiki/Erzberg_mine
+- German Wikipedia: *Steirischer Erzberg* (1171; Steyr and Leoben iron trade) — https://de.wikipedia.org/wiki/Steirischer_Erzberg
 - German Wikipedia: *Haubergswirtschaft* — https://de.wikipedia.org/wiki/Haubergswirtschaft
 - Wikipedia: *Stannary* — https://en.wikipedia.org/wiki/Stannary
 - Wikipedia: *Derbyshire lead mining history* — https://en.wikipedia.org/wiki/Derbyshire_lead_mining_history
@@ -623,31 +626,56 @@ Hot springs attracted bathers from Roman times. Medieval spa towns were small bu
 - Wikipedia: *Halle (Saale)* — https://en.wikipedia.org/wiki/Halle_(Saale)
 - Wikipedia: *Salins-les-Bains* — https://en.wikipedia.org/wiki/Salins-les-Bains
 - Wikipedia: *Wieliczka Salt Mine* — https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine
+- Polish Wikipedia: *Żupy krakowskie* (Kraków saltworks: royal income, miners, output) — https://pl.wikipedia.org/wiki/%C5%BBupy_krakowskie
 - Wikipedia: *Hallstatt* — https://en.wikipedia.org/wiki/Hallstatt
+- Wikipedia: *Ebensee am Traunsee* (brine pipeline) — https://en.wikipedia.org/wiki/Ebensee_am_Traunsee
+- German Wikipedia: *Soleleitung* (Hallstatt–Ebensee pipeline, 1595–1607) — https://de.wikipedia.org/wiki/Soleleitung
+- Wikipedia: *Royal Saltworks at Arc-et-Senans* — https://en.wikipedia.org/wiki/Royal_Saltworks_at_Arc-et-Senans
+- Wikipedia: *Lüneburg* (Salt Quarter; origin of Lüneburg Heath) — https://en.wikipedia.org/wiki/L%C3%BCneburg
+- German Wikipedia: *Alte Salzstraße* — https://de.wikipedia.org/wiki/Alte_Salzstra%C3%9Fe
 - Wikipedia: *Bay of Bourgneuf* — https://en.wikipedia.org/wiki/Bay_of_Bourgneuf
 - Wikipedia: *Walls of Ston* — https://en.wikipedia.org/wiki/Walls_of_Ston
+- Wikipedia: *Ston* — https://en.wikipedia.org/wiki/Ston
 - Wikipedia: *Brick Gothic* — https://en.wikipedia.org/wiki/Brick_Gothic
 - Canterbury Archaeological Trust: Caen stone — https://www.canterbury-archaeology.org.uk/caen-stone-via-building-stones-index
 - Wikipedia: *Forest glass* — https://en.wikipedia.org/wiki/Forest_glass
+- Wikipedia: *Spessart* (glassworks output in the early 1400s) — https://en.wikipedia.org/wiki/Spessart
+- Wikipedia: *Robert Mansell* (1615 glass monopoly, coal fuel) — https://en.wikipedia.org/wiki/Robert_Mansell
 - Wikipedia: *Bloomery* — https://en.wikipedia.org/wiki/Bloomery
+- Wikipedia: *Lapphyttan* — https://en.wikipedia.org/wiki/Lapphyttan
 - Wikipedia: *Wealden iron industry* — https://en.wikipedia.org/wiki/Wealden_iron_industry
 - Wikipedia: *Charcoal burner* — https://en.wikipedia.org/wiki/Charcoal_burner
+- Wikipedia: *Charcoal* (yield from wood) — https://en.wikipedia.org/wiki/Charcoal
 - Wikipedia: *Fulling* — https://en.wikipedia.org/wiki/Fulling
 - Wikipedia: *Isatis tinctoria* (woad) — https://en.wikipedia.org/wiki/Isatis_tinctoria
 - Wikipedia: *Sack (unit)* — https://en.wikipedia.org/wiki/Sack_(unit)
 - Little Hall, Lavenham: English wool and European cloth production — https://www.littlehall.org.uk/?p=2800
 - J. H. Munro, medieval textile statistics (University of Toronto) — https://www.economics.utoronto.ca/munro5/MedTextileStats.pdf
 - Wikipedia: *Ghent* — https://en.wikipedia.org/wiki/Ghent
+- Wikipedia: *Bruges* — https://en.wikipedia.org/wiki/Bruges
+- Wikipedia: *Giovanni Villani* (Florentine cloth figures) — https://en.wikipedia.org/wiki/Giovanni_Villani
+- Wikipedia: *Mesta* — https://en.wikipedia.org/wiki/Mesta
 - Wikipedia: *Scania market* — https://en.wikipedia.org/wiki/Scania_market
+- German Wikipedia: *Schonische Messe* (season, plot sizes) — https://de.wikipedia.org/wiki/Schonische_Messe
+- Wikipedia: *Hanseatic League* — https://en.wikipedia.org/wiki/Hanseatic_League
 - Northern Lights (University of Tromsø): Vågan and Kabelvåg — https://www.ub.uit.no/northernlights/eng/hansa.htm
+- Wikipedia: *Bryggen* (the Hanseatic Kontor at Bergen) — https://en.wikipedia.org/wiki/Bryggen
 - "Torrfisk fra Lofoten" PGI application (UK government) — https://assets.publishing.service.gov.uk/media/66585ad87b792ffff71a8549/Torrfisk_fra_Lofoten.pdf
 - Wikipedia: *Venetian Arsenal* — https://en.wikipedia.org/wiki/Venetian_Arsenal
 - Wikipedia: *Royal Shipyards of Seville* — https://en.wikipedia.org/wiki/Royal_Shipyards_of_Seville
 - Wikipedia: *Maritime Museum of Barcelona* — https://en.wikipedia.org/wiki/Maritime_Museum_of_Barcelona
-- Metropolitan Museum of Art: "Famous Makers and European Centers of Arms and Armor Production" — https://www.metmuseum.org/essays/famous-makers-and-european-centers-of-arms-and-armor-production
+- Wikipedia: *Plate armour* (Milan and the Missaglia family) — https://en.wikipedia.org/wiki/Plate_armour
+- German Wikipedia: *Passauer Wolf* — https://de.wikipedia.org/wiki/Passauer_Wolf
+- Wikipedia: *Dinant* — https://en.wikipedia.org/wiki/Dinant
+- Wikipedia: *Fabriano* — https://en.wikipedia.org/wiki/Fabriano
 - Seeing the Woods (Rachel Carson Center): Richard Unger on medieval brewing — https://seeingthewoods.org/2018/03/14/the-taproom-richard-unger/
 - Wikipedia: *Einbecker Brewery* — https://en.wikipedia.org/wiki/Einbecker_Brewery
+- Wikipedia: *Einbeck* — https://en.wikipedia.org/wiki/Einbeck
 - Bristol and Avon Archaeological Society (medieval Bristol trade zones) — https://bristolandavonarchaeology.org.uk/?p=343
 - Wikipedia: *History of Bordeaux wine* — https://en.wikipedia.org/wiki/History_of_Bordeaux_wine
+- Wikipedia: *Tun (unit)* — https://en.wikipedia.org/wiki/Tun_(unit)
+- Wikipedia: *Gamay* (the 1395 ban) — https://en.wikipedia.org/wiki/Gamay
 - Wikipedia: *Champagne fairs* — https://en.wikipedia.org/wiki/Champagne_fairs
+- Wikipedia: *Frankfurt Trade Fair* — https://en.wikipedia.org/wiki/Frankfurt_Trade_Fair
+- Wikipedia: *Karlovy Vary* — https://en.wikipedia.org/wiki/Karlovy_Vary
 - Wikipedia: *Jáchymov* — https://en.wikipedia.org/wiki/J%C3%A1chymov

@@ -106,9 +106,9 @@ Use this table to check the numbers on your map. It is for settled lowland in th
 
 **Why it looks wrong:** Many fantasy maps show five towns in an area the size of England. Real England c. 1300 had about 9,500 parishes, more than 600 boroughs (towns with special legal rights) and about 1,746 places with a market grant, all on 130,000 km² (50,000 sq mi). A traveller in settled lowland passed a village every 2–4 km (1–2.5 mi).
 
-A related mistake is to space villages a day's journey apart, about 30–40 km (20–25 mi). That is the distance between overnight stops for a traveller, not between villages.
+A related mistake is to space villages a day's journey apart, about 30–40 km (19–25 mi). That is the distance between overnight stops for a traveller, not between villages.
 
-**Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or small dots to stand for the villages. At local scale, draw villages 1.5–4 km (1–2.5 mi) apart in good land.
+**Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or small dots to stand for the villages. At local scale, draw villages 1.5–4 km (1–2.5 mi) apart in good land. See [Villages, Farms and the Countryside](06-villages-and-countryside.md).
 
 **Exception:** Empty land was real in uplands, steppe, forest and war zones. In 1086, northern and western England had under 5 people per km² (13 per sq mi). One reason was William I's "Harrying of the North" (winter 1069–70), a campaign of deliberate destruction; Domesday Book (1086) still recorded much of Yorkshire as "waste". Poland-Lithuania in 1500 averaged 6.6 people per km² (17 per sq mi), and steppe nomads lived at under 1–2 per km² (3–5 per sq mi).
 
@@ -197,17 +197,17 @@ The full treatment is in [Capitals, Realms and Borders](03-capitals-and-borders.
 
 ### 13. Straight borders without a reason
 
-**Why it looks wrong:** Medieval borders grew out of estates, parishes, river stretches, watersheds, forests and old church districts. Nobody could survey a long straight line, and land was claimed piece by piece. A ruler-straight border across hills and valleys looks modern.
+**Why it looks wrong:** Medieval borders grew out of estates, parishes, river stretches, watersheds (the high ground that divides two river systems), forests and old church districts. Few medieval rulers could survey a long straight line, and land was claimed piece by piece. A ruler-straight border across hills and valleys looks modern.
 
 **Fix:** Make borders wiggly in settled land. Use crests, river stretches, marsh and forest edges, and old district lines. In empty land, use a wide frontier zone instead of a line. See [Borders and frontiers](03-capitals-and-borders.md#borders-and-frontiers).
 
-**Exception:** A strong state with surveyors could draw a straight line. The Roman frontier in Germany (the Upper Germanic Limes, a palisade and ditch with watchtowers) ran almost dead straight for 81 km (50 mi), from near Walldürn to the Haghof south of Welzheim, across valleys and hills (mid-2nd century AD). In 1494, the Treaty of Tordesillas split newly found lands between Spain and Portugal along a meridian (a north–south line) 370 leagues, about 2,100 km (1,300 mi), west of the Cape Verde Islands. That was a straight line drawn over land that nobody had seen.
+**Exception:** A strong state with surveyors could draw a straight line. The Roman frontier in Germany was the Upper Germanic Limes: a palisade and ditch with watchtowers, built in the mid-2nd century AD. One stretch ran almost dead straight for 81 km (50 mi), across valleys and hills, from near Walldürn to the Haghof south of Welzheim. In 1494, the Treaty of Tordesillas split newly found lands between Spain and Portugal along a meridian (a north–south line). The line lay 370 leagues, about 2,100 km (1,300 mi), west of the Cape Verde Islands. It was a straight line drawn over land that nobody had seen.
 
 ### 14. Borders that ignore the land, or follow every river
 
 **Why it looks wrong:** A border that crosses a mountain range at a random point looks arbitrary. But the opposite error is also common: making every river a border. Big navigable rivers more often joined their valleys than divided them. For most of its course the Rhine had German lands on both banks, and the Danube ran through Austria and Hungary. Smaller units, like English counties, did often use rivers as boundaries.
 
-**Fix:** Use crests and watersheds (the high ground that divides two river systems) for long stretches. Use a river where the border is old or the river is a real obstacle. Example: the Anglo-Scottish border follows the River Tweed for part of its length. Its line was settled by the Treaty of York (1237) and has changed little since, apart from Berwick and the Debatable Lands.
+**Fix:** Use crests and watersheds for long stretches. Use a river where the border is old or the river is a real obstacle. Example: the Anglo-Scottish border follows the River Tweed for part of its length. Its line was settled by the Treaty of York (1237) and has changed little since, apart from Berwick and the Debatable Lands.
 
 **Exception:** Realms that controlled a pass usually held both sides of it. Savoy held lands on both sides of the western Alps, Tyrol on both sides of the Brenner Pass, and Navarre on both sides of the western Pyrenees. If a realm lives from a pass, its border runs beyond the pass, not along the crest.
 
@@ -255,7 +255,7 @@ A new pass can make a region rich. The Gotthard route ran through Uri, and contr
 
 ### 18. Bridges everywhere
 
-**Why it looks wrong:** On many maps every town on a big river has a bridge, and roads cross wide rivers wherever they like. In reality stone bridges were costly, rare and valuable. London Bridge (stone, finished 1209) was the only road crossing of the Thames below Kingston upon Thames until Putney Bridge opened in 1729. That is more than 500 years with one bridge for the whole of London.
+**Why it looks wrong:** On many maps every town on a big river has a bridge, and roads cross wide rivers wherever they like. In reality stone bridges were costly and valuable, and on the widest rivers they were few. London Bridge (stone, finished 1209) was the only road crossing of the Thames below Kingston upon Thames until Putney Bridge opened in 1729. That is more than 500 years with one bridge for the whole of London. On smaller rivers bridges were more common than many people think: in England, most important crossings had a bridge by the 13th century (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)).
 
 **Fix:** Cross wide rivers at fords (shallow places), ferries and a few bridges at important towns. A bridge attracts roads, trade and tolls, so it usually has a town or castle beside it. Small streams can have many small bridges.
 
@@ -347,7 +347,7 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 ### 25. Every town walled
 
-**Why it looks wrong:** Many fantasy maps put a wall around every dot. Walls were expensive to build and to maintain. English towns usually paid for them with a royal grant of *murage* (the right to charge tolls for wall-building), and only did so when there was a real threat.
+**Why it looks wrong:** Many fantasy maps put a wall around every dot. Walls were expensive to build and to maintain. From 1220 onwards, English towns usually paid for them with a royal grant of *murage* (the right to charge tolls on goods to pay for wall-building). Many of the early grants went to towns near the Welsh border, which faced a real threat of raids.
 
 **Numbers:**
 
@@ -424,7 +424,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 | Early castles abandoned or replaced | Of ~1,700 castle sites in England and Wales, only 500–600 were in use at any one time |
 | Deserted villages | More than 3,000 known in England from all periods; at least 1,500 abandoned c. 1350–1520, most in the 15th century when fields were turned into sheep pasture |
 
-*Medieval Demographics Made Easy* suggests this many ruined castles: (population ÷ 5 million) × the square root of the realm's age in years. Take a realm of about 5 million people where castle-builders have lived for 400–900 years. The formula gives only about 20–30 ruins. That is far fewer than the real landscape had. More than 1,000 castles were built in England and Wales in the 150 years after 1066, but only 500–600 were in use at any one time, so hundreds of early castles already stood abandoned by c. 1200.
+*Medieval Demographics Made Easy* suggests this many ruined castles: (population ÷ 5 million) × the square root of the realm's age in years. Take a realm of about 5 million people where castle-builders have lived for 400–900 years. The formula gives only about 20–30 ruins. That is far fewer than the real landscape had. More than 1,000 castles were built in England and Wales in the 150 years after 1066. Only 500–600 were in use at any one time, so hundreds of early castles already stood abandoned by c. 1200.
 
 **Fix:** Add a layer of ruins and older features: old forts on hilltops, an old straight road that new towns ignore, a deserted village, a ruined abbey or castle, an old border dyke (a long earth bank and ditch). Let some towns stand on top of older ones. See [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md).
 
@@ -440,7 +440,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 |---|---|---|
 | Watermill | Roman times | About one per village in England by c. 1300 (over 10,000 mills) |
 | Windmill (post mill: the whole mill body turns on a post to face the wind) | 1185, first certain record (Weedley, Yorkshire) | 13th–14th centuries |
-| Friaries in towns | 1220s | Late 13th century |
+| Friaries in towns | 1210s in Italy; 1220s in England and northern Europe | Late 13th century |
 | Universities | Bologna, late 11th century | About 20 c. 1300; 60–80 by 1500 |
 | Gunpowder cannon | First European picture, 1326 | Decisive in sieges by the mid-15th century |
 | Canal pound locks | Low Countries, late 14th century | 15th century in northern Italy |
@@ -448,7 +448,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 **Fix:** Choose a date for your map. Use only features invented by that date. Old features can survive (layers are good), but new ones cannot appear early.
 
-**Exception:** Real landscapes did mix eras. Roman roads were still used 1,000 years later. At Berwick-upon-Tweed, new walls with bastions (begun 1558) were built beside the old medieval castle. In a fantasy world, uneven technology can be a deliberate choice, such as one dwarven city with cannon in a world of knights. If you do it, make it a story point and explain it.
+**Exception:** Real landscapes did mix eras. Roman roads were still used 1,000 years later. At Berwick-upon-Tweed, new walls with bastions were begun in 1558, while the old medieval castle was left outside them. Along one stretch the new works were never finished, so the medieval walls and towers were repaired and kept in use instead. In a fantasy world, uneven technology can be a deliberate choice, such as one dwarven city with cannon in a world of knights. If you do it, make it a story point and explain it.
 
 > **Later era (1500s+):** If your map is set after 1500, see [What Changes After 1500](09-later-era-1500-1650.md) for star forts, postal relays, ocean ports and much bigger capitals.
 
@@ -466,8 +466,8 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 | Rule | What to do |
 |---|---|
-| Show importance | Make labels bigger and bolder for bigger places. Use UPPER-CASE letters only for realms and the largest features, because upper case is harder to read. |
-| Point labels (towns) | Best position: above and to the right of the symbol. Next best: below-right, above-left, below-left. Keep the label close to its symbol. |
+| Show importance | Make labels bigger and bolder for bigger places. Use UPPER-CASE letters only for realms and the largest features, because upper case is harder to read (one set of lecture notes puts it at about 13% less readable). |
+| Point labels (towns) | Classic best position: above and to the right of the symbol. If that space is taken, try the other corners or directly above or below. A 2024 study with nearly 800 readers found they actually preferred labels placed directly above the point, so both work. Keep the label close to its symbol. |
 | Line labels (rivers, roads) | Follow the line on a fairly straight stretch, just above it. Water names in italics, traditionally blue. |
 | Area labels (realms, forests, seas) | Keep the name inside the area, spread across it and curved to fit its shape. Gaps between letters should be no more than about 4 times the letter height. |
 | Fonts | Use 2–3 typefaces at most. Change size, weight or italics instead of adding fonts. |
@@ -515,13 +515,13 @@ Answer yes or no. Every "no" is a place to look again.
 - Most dots are small. Per 10,000 km² of good land c. 1300: 500–700 villages, dozens of market places, 3–8 towns and 0–1 cities (1–3 in Flanders or northern Italy).
 - Cluster settlements along rivers, coasts and good soil, with gaps on poor land. Do not use a ruler and do not line only the coast.
 - Capitals sit in the richest region, not in the geometric centre. Borders follow land and old claims and are rarely straight.
-- Roads end at something and cross mountains at passes. Stone bridges are few, and desert routes need water every 30–40 km.
+- Roads end at something and cross mountains at passes. Bridges over big rivers are few, and desert routes need water every 30–40 km (19–25 mi).
 - Ports need shelter. Dunwich and Bruges show what happens when a harbour fails.
 - Draw a scale bar. Walkers make 25–35 km (15–22 mi) a day and armies only 13–20 km (8–12 mi).
-- Every castle controls something. Contested land had about one castle per 200–300 km², but only about one English borough in five or six was walled.
+- Every castle controls something. Contested land had about one castle per 250–300 km² (95–115 sq mi), but only about one English borough in four to six was walled.
 - Give every region food plus a speciality, and every remote town a reason.
 - Add ruins and older layers, pick a date, and keep later inventions off the map.
-- Label from big to small, above-right of points, with 2–3 fonts at most.
+- Label from big to small, above-right of (or directly above) points, with 2–3 fonts at most.
 
 ---
 
@@ -540,26 +540,31 @@ Answer yes or no. Every "no" is a place to look again.
 - Imhof, Eduard. "Positioning Names on Maps." *The American Cartographer* 2 (1975).
 - Jones, Diana Wynne. *The Tough Guide to Fantasyland*. 1996 (a satire of fantasy clichés, including maps).
 - Masschaele, James. "Transport Costs in Medieval England." *Economic History Review* 46 (1993).
-- Ross, S. John. *Medieval Demographics Made Easy*. 1993, revised 2005.
-- Salter, Mike. *Medieval Walled Towns*. 2013.
+- Ross, S. John. *Medieval Demographics Made Easy*. First written 1993; the current PDF is version 1.10 (copyright 1993, 1999–2018).
+- Salter, Mike. *Medieval Walled Towns*. Malvern: Folly Publications, 2013.
 
 **Mapmaking and worldbuilding sources consulted**
 
-- Inkwell Ideas, [Top 10 Mistakes of Fantasy Map Making](https://inkwellideas.com/2026/05/top-10-mistakes-of-fantasy-map-making/).
+- Inkwell Ideas, [Top 10 Mistakes of Fantasy Map Making](https://inkwellideas.com/2026/05/top-10-mistakes-of-fantasy-map-making/) (2026).
 - Jonathan Crowe, The Map Room: [The Territory Is Not the Map](https://www.maproomblog.com/2017/09/the-territory-is-not-the-map/) and [The 'River Sins' of Fantasy Maps](https://www.maproomblog.com/2024/03/the-river-sins-of-fantasy-maps/).
+- K. M. Alexander, [We Need to Talk About Your Rivers](https://kmalexander.com/2024/02/28/we-need-to-talk-about-your-rivers/) (2024; the "river sins", including rivers that split).
+- Roll20 compendium, [D&D 5th edition: Movement](https://roll20.net/compendium/dnd5e/Movement) (travel pace: 18, 24 or 30 miles a day).
 - ProFantasy, Pär Lindström: [Creating an Overland Map, Part 3](https://rpgmaps.profantasy.com/creating-an-overland-map-by-par-lindstrom-part-3).
 - EN World forum: [Worldbuilding: How far should things be?](https://www.enworld.org/threads/worldbuilding-how-far-should-things-be.676076/)
 - S. John Ross, [Medieval Demographics Made Easy (PDF)](https://www.martinralya.com/wp-content/uploads/2021/05/Medieval-Demographics-Made-Easy.pdf).
 - University of Northern British Columbia, [Map lettering lecture notes (PDF)](https://gis.unbc.ca/wp-content/uploads/2025/01/lettering2025.pdf) (Imhof's positioning rules).
-- [From Top-Right to User-Right: Perceptual Prioritization of Point-Feature Label Positions](https://arxiv.org/pdf/2407.11996) (arXiv, 2024).
+- Bobák, Petr, Ladislav Čmolík and Martin Čadík. [From Top-Right to User-Right: Perceptual Prioritization of Point-Feature Label Positions](https://arxiv.org/abs/2407.11996) (arXiv, 2024).
 
 **History web pages consulted**
 
-- Wikipedia: [Bottini of Siena](https://en.wikipedia.org/wiki/Bottini_of_Siena); [Siena](https://en.wikipedia.org/wiki/Siena); [Taghaza](https://en.wikipedia.org/wiki/Taghaza); [Zubaydah Trail](https://en.wikipedia.org/wiki/Zubaydah_Trail); [Naviglio Grande](https://en.wikipedia.org/wiki/Naviglio_Grande); [Lock (water navigation)](https://en.wikipedia.org/wiki/Lock_(water_navigation)); [Dunwich](https://en.wikipedia.org/wiki/Dunwich); [Bonifacio, Corse-du-Sud](https://en.wikipedia.org/wiki/Bonifacio,_Corse-du-Sud); [Schöllenen Gorge](https://en.wikipedia.org/wiki/Sch%C3%B6llenen_Gorge); [Great St Bernard Pass](https://en.wikipedia.org/wiki/Great_St_Bernard_Pass); [Upper Germanic-Rhaetian Limes](https://en.wikipedia.org/wiki/Upper_Germanic-Rhaetian_Limes); [Motte-and-bailey castle](https://en.wikipedia.org/wiki/Motte-and-bailey_castle); [Rhine Gorge](https://en.wikipedia.org/wiki/Rhine_Gorge); [Bastide](https://en.wikipedia.org/wiki/Bastide); [List of town walls in England and Wales](https://en.wikipedia.org/wiki/List_of_town_walls_in_England_and_Wales); [Deserted medieval village](https://en.wikipedia.org/wiki/Deserted_medieval_village); [Hillfort](https://en.wikipedia.org/wiki/Hillfort); [Windmill](https://en.wikipedia.org/wiki/Windmill); [Bastion fort](https://en.wikipedia.org/wiki/Bastion_fort).
+- Wikipedia: [Bottini of Siena](https://en.wikipedia.org/wiki/Bottini_of_Siena); [Siena](https://en.wikipedia.org/wiki/Siena); [Taghaza](https://en.wikipedia.org/wiki/Taghaza); [Zubaydah Trail](https://en.wikipedia.org/wiki/Zubaydah_Trail); [Naviglio Grande](https://en.wikipedia.org/wiki/Naviglio_Grande); [Lock (water navigation)](https://en.wikipedia.org/wiki/Lock_(water_navigation)); [Dunwich](https://en.wikipedia.org/wiki/Dunwich); [Bonifacio, Corse-du-Sud](https://en.wikipedia.org/wiki/Bonifacio,_Corse-du-Sud); [Schöllenen Gorge](https://en.wikipedia.org/wiki/Sch%C3%B6llenen_Gorge); [Great St Bernard Pass](https://en.wikipedia.org/wiki/Great_St_Bernard_Pass); [Upper Germanic-Rhaetian Limes](https://en.wikipedia.org/wiki/Upper_Germanic-Rhaetian_Limes); [Motte-and-bailey castle](https://en.wikipedia.org/wiki/Motte-and-bailey_castle); [Rhine Gorge](https://en.wikipedia.org/wiki/Rhine_Gorge); [Pfalzgrafenstein Castle](https://en.wikipedia.org/wiki/Pfalzgrafenstein_Castle); [Bastide](https://en.wikipedia.org/wiki/Bastide); [List of town walls in England and Wales](https://en.wikipedia.org/wiki/List_of_town_walls_in_England_and_Wales); [Murage](https://en.wikipedia.org/wiki/Murage); [Deserted medieval village](https://en.wikipedia.org/wiki/Deserted_medieval_village); [Hillfort](https://en.wikipedia.org/wiki/Hillfort); [Windmill](https://en.wikipedia.org/wiki/Windmill); [Cannon](https://en.wikipedia.org/wiki/Cannon); [Bastion fort](https://en.wikipedia.org/wiki/Bastion_fort).
+- Wikipedia, more pages checked for this chapter: [Old London Bridge](https://en.wikipedia.org/wiki/Old_London_Bridge); [Gough Map](https://en.wikipedia.org/wiki/Gough_Map); [Brenner Pass](https://en.wikipedia.org/wiki/Brenner_Pass); [Gotthard Pass](https://en.wikipedia.org/wiki/Gotthard_Pass); [Castle](https://en.wikipedia.org/wiki/Castle); [Castles in Great Britain and Ireland](https://en.wikipedia.org/wiki/Castles_in_Great_Britain_and_Ireland); [Zwin](https://en.wikipedia.org/wiki/Zwin); [Bruges](https://en.wikipedia.org/wiki/Bruges); [Sijilmasa](https://en.wikipedia.org/wiki/Sijilmasa); [Ghouta](https://en.wikipedia.org/wiki/Ghouta); [Qanat](https://en.wikipedia.org/wiki/Qanat); [Harrying of the North](https://en.wikipedia.org/wiki/Harrying_of_the_North); [Treaty of York](https://en.wikipedia.org/wiki/Treaty_of_York); [Eastern Settlement](https://en.wikipedia.org/wiki/Eastern_Settlement) (Norse Greenland); [Bryggen](https://en.wikipedia.org/wiki/Bryggen); [Kutná Hora](https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora); [Camino de Santiago](https://en.wikipedia.org/wiki/Camino_de_Santiago); [Great Lavra](https://en.wikipedia.org/wiki/Great_Lavra).
+- German Wikipedia, [Obergermanisch-Raetischer Limes](https://de.wikipedia.org/wiki/Obergermanisch-Raetischer_Limes) (the straight 81 km section from Walldürn to the Haghof near Welzheim).
 - World History Encyclopedia, [Treaty of Tordesillas](https://www.worldhistory.org/Treaty_of_Tordesillas/).
-- UCL Early Medieval Atlas, [Routes: Gough Map](https://www.ucl.ac.uk/early-medieval-atlas/map-data/routes-gough-map); Archaeology Data Service, [The Routes and Roads of the Gough Map: GIS Database](https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm).
+- Archaeology Data Service, [The Routes and Roads of the Gough Map: GIS Database](https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm) (about 190 route lines, nine-tenths with distances).
 - Gatehouse Gazetteer, [Salter, *Medieval Walled Towns* (2013)](https://gatehouse-gazetteer.info/Books/booktext/mwtms.html).
 - Medievalists.net, [Creighton, "Castles of Communities": medieval town defences in England, Wales and Gascony](https://www.medievalists.net/2010/08/castles-of-communities-medieval-town-defences-in-england-wales-and-gascony/).
+- English Heritage, [History of Berwick-upon-Tweed Castle and Ramparts](https://www.english-heritage.org.uk/visit/places/berwick-upon-tweed-castle-and-ramparts/history/).
 - Britannica, [Kutná Hora](https://www.britannica.com/place/Kutna-Hora).
 
 Population, density, spacing, travel, transport-cost and castle figures follow the guide's shared baseline (Bosker, Buringh & van Zanden 2013; Broadberry, Campbell et al. 2015; Masschaele 1993; Dyer; the *Gazetteer of Markets and Fairs*). Figures marked "estimate" are derived by this guide and are not measured values.
