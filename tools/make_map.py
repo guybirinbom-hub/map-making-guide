@@ -949,7 +949,7 @@ SEATS = {'Liskmeet', 'Wendmouth', 'Brimhaven', 'Wyndfoot', 'Norburgh', 'Holmstow
 # great royal castles and fortresses (three-tower icon): the White Keep, Wyndgap Castle
 # and the three county castles rebuilt as concentric castles
 GREAT = {n for n, s in S.items() if s.get('castle') and ('concentric' in s['castle'] or 'White Keep' in s['castle'])}
-HEAD_PORTS = {'Hallowbridge', 'Brimhaven', 'Wendmouth'}
+HEAD_PORTS = {'Hallowbridge', 'Brimhaven', 'Wendmouth', 'Gullhaven'}   # head ports: names in capitals
 
 for name, s in S.items():
     x, y = s['x'], s['y']
@@ -1384,6 +1384,8 @@ for s in order:
     elif t == 'town':
         if s['population'] >= 5000:
             lines = [L(n, 9.6, bold=True)]
+        elif n in HEAD_PORTS:
+            lines = [L(n.upper(), 8.2, ls=0.3)]
         else:
             lines = [L(n, 8.7)]
     else:
