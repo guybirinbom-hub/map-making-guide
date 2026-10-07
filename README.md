@@ -56,5 +56,6 @@ Shared numbers used across chapters: [research/baseline-numbers.md](research/bas
 
 - [PROGRESS.md](PROGRESS.md) records the decisions behind the guide and how to continue the work.
 - `tools/check_links.py` checks every relative link and section anchor: `python3 tools/check_links.py`
-- `tools/build_pdf.py` rebuilds the PDF from the chapters (needs `pip install weasyprint markdown-it-py mdit-py-plugins`): `python3 tools/build_pdf.py`
+- `tools/build_pdf.py` rebuilds the PDF from the chapters and checks that no text was lost (needs `pip install weasyprint markdown-it-py mdit-py-plugins linkify-it-py beautifulsoup4`): `python3 tools/build_pdf.py`
+- `tools/find_stranded.py` lists section headings left alone at the foot of a PDF page: `python3 tools/find_stranded.py map-making-guide.pdf`
 - `.claude/workflows/` holds the research and assembly workflows used to write and check the chapters.

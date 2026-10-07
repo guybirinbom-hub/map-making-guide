@@ -61,9 +61,16 @@ h2 + .cols, h2 + .table-wrap, h2 + .opener, h2 + figure, h2 + .note-row,
 
 /* a section's lone note box: full width, its text in two inner columns */
 .note-row { margin: 2.2mm 0 3.6mm; break-inside: avoid; }
-.note-row.n2 { display: grid; grid-template-columns: 1fr 1fr; column-gap: 7.5mm; }
+.note-row.n2 { display: grid; grid-template-columns: 1fr 1fr; column-gap: 7.5mm; align-items: start; }
+.keep-group { break-inside: avoid; }
+.keep-group + .table-wrap, .keep-group + .cols { break-before: avoid; }
 .note-row .callout { margin: 0; }
 .note-row.n1 .callout { columns: 2; column-gap: 7.5mm; }
+.note-row.n1 .callout > p:last-child { margin-bottom: 0; }
+.note-row.n1 .callout.short { columns: auto; display: flex; gap: 6mm; align-items: baseline; }
+.callout.short .note-label { flex: 0 0 30mm; margin: 0; }
+.callout.short .note-body { flex: 1 1 0; min-width: 0; }
+.callout.short .note-body p:last-child { margin-bottom: 0; }
 .note-label { column-span: all; font: 700 7.6pt var(--label); letter-spacing: 0.12em; margin: 0 0 0.9mm; }
 .callout-maptip .note-label { color: var(--sea); }  .callout-rule .note-label { color: var(--ochre); }
 .callout-later .note-label { color: var(--slate); } .callout-fantasy .note-label { color: var(--forest); }
@@ -90,13 +97,13 @@ h4, h5, h6 { font: 700 9.9pt var(--body); margin: 3mm 0 1mm; break-after: avoid;
 /* ---------- note boxes ---------- */
 .callout { margin: 2.2mm 0 3.2mm; padding: 2.4mm 3.2mm 1.6mm; break-inside: avoid; font-size: 9.4pt; line-height: 1.36; }
 .callout p { margin: 0 0 0.8mm; }
-.callout p:first-child > strong:first-child {
+.callout > p:first-child > strong:first-child {
   display: block; font: 700 7.6pt var(--label); letter-spacing: 0.12em; margin-bottom: 0.9mm;
 }
-.callout-maptip { background: var(--sea-tint); }    .callout-maptip p:first-child > strong:first-child { color: var(--sea); }
-.callout-rule { background: var(--ochre-tint); }    .callout-rule p:first-child > strong:first-child { color: var(--ochre); }
-.callout-later { background: var(--slate-tint); }   .callout-later p:first-child > strong:first-child { color: var(--slate); }
-.callout-fantasy { background: var(--forest-tint); } .callout-fantasy p:first-child > strong:first-child { color: var(--forest); }
+.callout-maptip { background: var(--sea-tint); }    .callout-maptip > p:first-child > strong:first-child { color: var(--sea); }
+.callout-rule { background: var(--ochre-tint); }    .callout-rule > p:first-child > strong:first-child { color: var(--ochre); }
+.callout-later { background: var(--slate-tint); }   .callout-later > p:first-child > strong:first-child { color: var(--slate); }
+.callout-fantasy { background: var(--forest-tint); } .callout-fantasy > p:first-child > strong:first-child { color: var(--forest); }
 blockquote { margin: 2mm 0 3mm; padding: 0 0 0 3mm; border-left: 0.8pt solid var(--rule); }
 blockquote.callout { border-left: 0; }
 

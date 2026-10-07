@@ -195,17 +195,22 @@ def is_lead_in(el):
     return False
 
 
-CHUNK_CHARS = 3200   # WeasyPrint balances short two-column blocks reliably
+CHUNK_CHARS = 2400   # WeasyPrint balances short two-column blocks reliably
 
 
 def chunks(run):
     """Split a two-column run into blocks of about CHUNK_CHARS characters of text."""
+    if not run:
+        return []
     if kind_of_heading_only(run):
         return [run]
     out, cur, size = [], [], 0
     for e in run:
         n = len(e.get_text())
-        if cur and size + n > CHUNK_CHARS and e.name not in ("h3", "h4") and cur[-1].name not in ("h3", "h4"):
+        if cur and e.name in ("h3", "h4"):  # each subheading starts its own block
+            out.append(cur)
+            cur, size = [], 0
+        elif cur and size + n > CHUNK_CHARS and cur[-1].name not in ("h3", "h4"):
             out.append(cur)
             cur, size = [], 0
         cur.append(e)
@@ -322,7 +327,15 @@ def layout_chapter(ch, map_png):
                         tag = BeautifulSoup('<p class="note-label"></p>', "html.parser").p
                         tag.string = label.get_text()
                         label.extract()
-                        e.insert(0, tag)
+                        if len(e.get_text()) < 330:  # short: label left, text right
+                            body = BeautifulSoup('<div class="note-body"></div>', "html.parser").div
+                            for child in list(e.children):
+                                body.append(child.extract())
+                            e.append(tag)
+                            e.append(body)
+                            e["class"] = sorted(classes(e) | {"short"})
+                        else:
+                            e.insert(0, tag)
             out.append('<div class="note-row n%d">%s</div>' % (len(notes), "".join(str(e) for e in notes)))
         run = []
 
@@ -358,7 +371,13 @@ def layout_chapter(ch, map_png):
             flush()
         run.append(el)
     flush()
-    return typeset("\n".join(out)), prelude
+    merged = []
+    for block in out:
+        if merged and merged[-1].startswith("<h2") and block.startswith('<div class="note-row'):
+            merged[-1] = '<div class="keep-group">%s%s</div>' % (merged[-1], block)
+        else:
+            merged.append(block)
+    return typeset("\n".join(merged)), prelude
 
 
 # ---------------------------------------------------------------- flowchart (chapter 0)
@@ -496,8 +515,10 @@ def check_pdf(pdf, chapters, doc):
     flat = _norm(text)
     soup = BeautifulSoup(doc, "html.parser")
     # note labels are set in a small-caps face that text extraction cannot read; they are drawn, not lost
+    labels = {k.rstrip(":") for k in CALLOUTS}
     for lab in soup.select(".callout p:first-child > strong:first-child, .note-label"):
-        lab.decompose()
+        if lab.get_text().strip() in labels:
+            lab.decompose()
     blocks = soup.select("section.chapter h2, section.chapter h3, section.chapter p, section.chapter li, section.chapter td")
     missing = []
     for el in blocks:

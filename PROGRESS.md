@@ -20,6 +20,7 @@ This guide is being written in stages. This file records what is done, what is l
 | `guide/12-worked-example.md` | Done, with a drawn schematic map of the example kingdom |
 | `guide/13-quick-reference.md` | Done (includes the master legend and a table reconciling the numbers between chapters) |
 | `README.md` | Done |
+| `map-making-guide.pdf` | Done: the whole guide as one book (two columns, clickable chapters page, bookmarks). Rebuild with `python3 tools/build_pdf.py` after any chapter edit. |
 
 ## Final round (2026-10-07)
 
