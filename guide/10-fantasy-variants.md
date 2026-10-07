@@ -91,7 +91,7 @@ A warning network buys time. Two real systems show the range of options:
 
 How close should local watchtowers be? They must see each other's smoke or fire. In broken or wooded country that means a few kilometres apart. Mountain-top beacons can be 55–100 km (35–60 mi) apart. These are rough figures.
 
-> **Later era (1500s+):** Muscovy's Great Abatis Line (complete by 1566) and the later Belgorod Line (1635–54) are real versions of this: belts of felled trees, ditches, palisades, watchtowers and small forts that slowed raiders so villagers could flee and troops could gather. See [Fortified lines on open frontiers](09-later-era-1500-1650.md#fortified-lines-on-open-frontiers).
+> **Later era (1500s+):** Muscovy's Great Abatis Line (complete by 1566) and the later Belgorod Line (1635–54) are real versions of this: belts of felled trees, ditches, palisades (walls of wooden stakes), watchtowers and small forts that slowed raiders so villagers could flee and troops could gather. See [Fortified lines on open frontiers](09-later-era-1500-1650.md#fortified-lines-on-open-frontiers).
 
 ### Guarded roads
 

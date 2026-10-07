@@ -9,6 +9,7 @@ Roads, rivers and sea lanes are the blood vessels of your map. In the Middle Age
 - [Crossing rivers: bridges, fords and ferries](#crossing-rivers-bridges-fords-and-ferries)
 - [Mountain passes](#mountain-passes)
 - [Inns, hospices and caravanserais](#inns-hospices-and-caravanserais)
+- [Roads without wheels: the Andes and Mexico](#roads-without-wheels-the-andes-and-mexico)
 - [Tolls and customs](#tolls-and-customs)
 - [Rivers as roads](#rivers-as-roads)
 - [The sea: ships, harbours and sea lanes](#the-sea-ships-harbours-and-sea-lanes)
@@ -114,7 +115,7 @@ At its height the Roman road network had more than 400,000 km (250,000 mi) of ro
 
 In 12th-century England, law books placed **four highways** under the king's special peace: Watling Street, Ermine Street and the Fosse Way (all Roman) and the Icknield Way (prehistoric). In Italy the Via Aemilia still formed the spine of the Po plain.
 
-Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, revised perhaps as late as 1430) shows thin red lines between towns, each marked with a distance in Roman numerals. It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances.
+Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, revised perhaps as late as 1430) shows thin red lines between towns, each marked with a distance in Roman numerals. It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances. It also shows how much main road to draw on a kingdom map (see [How much main road to draw](#how-much-main-road-to-draw)).
 
 ### Who maintained roads
 
@@ -137,7 +138,7 @@ Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, re
 | Cattle herd | Usually 100–400 head, with 4–8 drovers and their dogs | Welsh droves, 19th c. |
 | Sheep flock | 1,500–2,000 sheep, about 19–23 km (12–14 mi) a day | Welsh flocks driven to southern England |
 | Journey time | North Wales to Kent: about three weeks | Same |
-| Overnight halts (*stances*) | About 16 km (10 mi) apart on average | Scotland, 19th-c. court case |
+| Overnight halts (*stances*) | About 16 km (10 mi) apart on average | Scotland, evidence in a court case of 1848 |
 | Width of a drove road | 12–27 m (40–90 ft), much wider than a pack-horse track | Britain |
 | Hoof care | Cattle were shod before the long trek, and re-shod on the way | Wales, 19th c. |
 
@@ -420,6 +421,29 @@ In the Mediterranean, the historian John Pryor showed that the main **trunk rout
 | A river or road into the land behind | Goods can go on inland | Bordeaux (Garonne), Rouen (Seine), Hamburg (Elbe) |
 | No silting | Harbours that fill with mud die | Bruges lost its sea access as the Zwin inlet silted; it used outports at Damme and Sluis, and Antwerp took its place by about 1500 |
 
+### Port ranks: how many ports on a coast?
+
+> **Rule of thumb:** A kingdom's coast has a few big head ports, several smaller ports under each of them, a landing place in almost every sheltered cove or creek, and one or two famous anchorages where fleets wait for the wind.
+
+**Why:** Overseas trade needs merchants, warehouses, money and a customs house, and these gather in a few places. Rulers made this stronger on purpose: it is easier to tax trade that must pass through a few ports. But fishing boats and small coasters (boats that carry goods along the coast) need only a beach or a creek, so small landing places are everywhere.
+
+**Numbers (late medieval England):** England's customs began with a tax on wool exports in 1275, and by the 1400s all foreign trade was taxed. It had to pass through designated **head ports**. After some changes in the 1200s and early 1300s their number settled at **15**, from Newcastle in the north-east round to Bristol in the south-west. That is roughly one head port for every 100–150 km (60–95 mi) of coast (a rough figure, measured on a modern map without the small inlets). London was by far the busiest: 462 ships arrived there in nine months in 1390. Hull, a big regional port, had about 80–90 arrivals a year in the late 1300s.
+
+| Rank | What it is | How many | Real example |
+|---|---|---|---|
+| Head port | A big port with a customs house, quays, warehouses and resident merchants. All foreign trade for its stretch of coast must clear customs here | 15 for all of England | London, Hull, Boston, King's Lynn, Southampton, Bristol, Newcastle |
+| Member port | A smaller port inside a head port's district. It ships goods, but customs are run from the head port | Several per head port | In 1353–54 the customs district of Hull covered "all ports from Whitby inclusive to Grimsby", more than 100 km (60 mi) of coast |
+| Creek or landing place | A beach, creek or river landing used by fishing boats and small coasters. "Creek" was a customs word for such places | Every few km of sheltered shore or tidal river | Gatcombe, Newnham, Berkeley and Tewkesbury on the Severn, named as creeks of Gloucester in 1580 |
+| Anchorage (a "road" or roadstead) | Sheltered open water off the coast where ships anchor to wait for a fair wind or to gather into a fleet | One or two on a busy coast | The roadstead off Sluis in the Zwin, Flanders, where a French fleet of over 200 ships lay at anchor in 1340. The Downs, off Kent, which later held as many as 800 sailing ships at once |
+
+**Promotion and decline.** Ranks changed. Throughout the Middle Ages, Gloucester and the whole Severn down to Avonmouth were under Bristol for customs. Only in 1580 did Gloucester become a customs port of its own, with its own creeks. Boston and King's Lynn were great wool ports in the 1200s and 1300s, but as wool exports fell, Hull, Southampton and Bristol became the biggest regional ports of the 1400s.
+
+**How many ships?** The historian Wendy Childs estimates that England's whole commercial fleet was perhaps 1,000–2,000 vessels at times. In the 1300s about 300 English ships a year went to Bordeaux for wine; most loaded 100–150 tons, and a few over 300 tons. In the later 1300s and the 1400s, most major ports could muster about 20 large ships over a decade. Hundreds of small coastal and fishing boats, often under 10 tons and up to 20 tons, made up the rest. In war the king seized merchant ships as transports: fleets of 150–200 were common, and nearly 700 ships were used for the Crécy campaign (1346).
+
+> **Map tip:** On a kingdom map, draw one large port symbol (quays, customs house, label in capitals) for each head port, about one every 100–150 km (60–95 mi) of coast, at the best harbours and river mouths. Draw several small anchors or dots for member ports between them, and leave most coves and creeks as unlabelled landing places. Add one named anchorage ("the Roads", "the Downs") off the busiest stretch of coast or at the mouth of the main trade estuary.
+
+> **Later era (1500s+):** Anchorages became places to defend. Henry VIII guarded the Downs with three artillery forts, Deal, Walmer and Sandown, built in 1539–40 (see [The Later Era, 1500–1650](09-later-era-1500-1650.md)).
+
 ### Lighthouses and sea marks
 
 Lighthouses were **rare** in medieval Europe. Most coasts had none. Ships relied on church towers, beacons, landmarks and local pilots. Lights stood only at the entrances to rich ports and at very dangerous points:
@@ -493,7 +517,7 @@ From the 12th century, the Counts of Champagne protected merchants travelling to
 | Metals (copper, tin, silver, iron) | Medium to high | Long distances | Long distances |
 | Furs, wax, amber | High | Long distances | Long distances |
 | Spices, silk, dyes, gems, sugar | Very high | Across continents | Across oceans |
-| Live animals | Walk themselves | Hundreds of km along drove roads | — |
+| Live animals | Walk themselves | Hundreds of km along drove roads (see [Drove roads](#drove-roads)) | — |
 
 A cart journey that doubles the price of grain adds only a few per cent to the price of pepper, which was worth many times more per kilogram. That is why spices crossed Asia by camel while grain rarely crossed a county by cart.
 
@@ -550,10 +574,10 @@ For mines, quarries, salt works and industrial towns, see [Industry, Resources a
 
 ### Step by step
 
-1. **Water first.** Mark which rivers are navigable and how far (thicker lines). Add coastal sea lanes and short open-sea crossings.
-2. **Crossings.** Place fords, bridges and ferries. Big rivers get few fixed bridges.
+1. **Water first.** Mark which rivers are navigable and how far (thicker lines). Choose head ports about every 100–150 km (60–95 mi) of coast (see [Port ranks](#port-ranks-how-many-ports-on-a-coast)). Add coastal sea lanes and short open-sea crossings.
+2. **Crossings.** Place fords, bridges and ferries: on a settled lowland river, a bridge town about every 20 km (12 mi) of river. Big rivers get few fixed bridges.
 3. **Passes.** Choose the main passes over each range.
-4. **Main roads.** Link cities and big towns through the crossings and passes. Follow valleys and dry ridges. Connect every main road to a river port or harbour.
+4. **Main roads.** Link cities and big towns through the crossings and passes. Follow valleys and dry ridges. Connect every main road to a river port or harbour. Aim for about 30 km of main road per 1,000 km² of settled land (see [How much main road to draw](#how-much-main-road-to-draw)).
 5. **Secondary roads.** Link each market town to its neighbours, 9–16 km (6–10 mi) away, and to the nearest main road.
 6. **Local tracks.** Link villages to their market town, 6–10 km (4–6 mi) away, like spokes of a wheel.
 7. **Stops.** Add inns every 15–30 km (10–19 mi) on main roads, caravanserais every 30–40 km (19–25 mi) in deserts, hospices on passes, and watering ports every 100–300 km (60–190 mi) on galley coasts.
@@ -570,6 +594,31 @@ For mines, quarries, salt works and industrial towns, see [Industry, Resources a
 - **Crossroads** of two main roads, especially at a bridge.
 
 As a rough guide (not a measured rule): a village has 2–3 roads, a market town 3–5, and a city 5–8 or more, plus water routes.
+
+### How much main road to draw
+
+> **Rule of thumb:** On a kingdom map of settled land, draw about 30 km of main road for every 1,000 km² (about 50 mi per 1,000 sq mi). A square of 100 × 100 km (62 × 62 mi) gets about 300 km (190 mi) of main road: for example three roads crossing it, or four or five shorter roads meeting at towns inside it.
+
+**Why:** A kingdom map shows the main roads that a merchant or a royal messenger would plan a journey on. The lanes between villages are many times denser, but drawn at this scale they turn the map into a spider's web. They belong on a local map.
+
+**Numbers:** The best medieval measure is the Gough Map of Britain (late 14th or early 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements, joined by red lines. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
+
+| Measure | Value |
+|---|---|
+| Total length of the red route lines | About 4,540 km (2,820 mi), in 455 segments |
+| Area of England and Wales | About 151,000 km² (58,000 sq mi) |
+| Main road per area | About 30 km per 1,000 km² (48 mi per 1,000 sq mi) |
+| Share of the route length on Roman roads | 35.5% |
+| Share on routes first recorded before 1086 (not Roman) | 13% |
+| Share on routes first recorded after 1086 | 16% |
+| Share known only from later (early modern) evidence | 32.5% |
+| Other (a line along the River Witham, or no known road) | about 3% |
+
+The Gough Map is a selection, not a full road atlas. It leaves out some important roads, such as the road from London to Colchester and East Anglia, and Watling Street between London and Canterbury. So 30 km per 1,000 km² is a good amount for a kingdom map, not the whole network. The village lanes (2–3 per village, see above) still exist, but draw them only on a local map.
+
+**Roman roads live on.** About a third of the Gough Map's route length runs on Roman roads, nearly 1,000 years after Roman rule ended in Britain. The rest is newer: medieval roads grew up to serve new towns, markets and bridges.
+
+> **Map tip:** Spread the main roads unevenly: more around the capital and in rich, crowded lowland, fewer in hills, moors and forests. Put a town or an inn every 15–30 km (10–19 mi) along each main road. If your kingdom was once part of an older empire, draw about a third of the main-road length as long straight stretches on the old empire's roads, and let the rest bend between medieval towns and bridges.
 
 ### Symbols and labels
 
@@ -592,15 +641,16 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 ## Quick summary
 
-- Over land: about 30 km (19 mi) a day on foot, 15–25 km (10–15 mi) by ox cart, 50–90 km (30–56 mi) for a royal messenger.
+- Over land: about 30 km (19 mi) a day on foot, 15–25 km (10–15 mi) by ox cart, 16–30 km (10–20 mi) for a cattle drove, 50–90 km (30–56 mi) for a royal messenger.
 - Water is much cheaper: land : river : sea ≈ 8 : 4 : 1 (England c. 1300). Bulk goods follow water; towns above 10,000 people sit on it.
-- Medieval roads were rights of way, not built roads. Roman roads were reused. Roads follow valleys, ridges, fords and bridges.
-- Stone bridges spread from the 12th century. They were paid for by tolls (pontage), rents, gifts and bridge chapels. Big rivers had few bridges and many ferries.
+- Medieval roads were rights of way, not built roads. Roman roads were reused (about a third of the Gough Map's routes). Roads follow valleys, ridges, fords and bridges. On a kingdom map, draw about 30 km of main road per 1,000 km² (48 mi per 1,000 sq mi).
+- Stone bridges spread from the 12th century. They were paid for by tolls (pontage), rents, gifts and bridge chapels. A settled lowland river has a bridge town about every 20 km (12 mi), like the Thames; the biggest rivers had few bridges and many ferries.
 - A few passes carry most traffic across a range. The lowest takes carts (Brenner, 1,370 m or 4,495 ft). Hospices sit near the summits.
-- Inns and stages are 15–30 km (10–19 mi) apart on main roads. Caravanserais are 30–40 km (19–25 mi) apart on plains and 10 km (6 mi) or less in mountains.
+- Inns and stages are 15–30 km (10–19 mi) apart on main roads. Caravanserais are 30–40 km (19–25 mi) apart on plains and 10 km (6 mi) or less in mountains. Without wheels or horses (the Inca), way stations still sit a day's walk apart, and relay runners carry news 240–300 km (150–190 mi) a day.
 - Tolls sit at choke points. The Rhine had 12 toll stations between Mainz and Cologne alone in 1250.
 - Rivers have a head of navigation, towpaths, weirs, locks and portages. Millers and boatmen fought over the water.
 - Cogs and hulks carry northern bulk. Galleys carry Mediterranean luxuries and pilgrims in convoys, with stops every 100–450 km (60–280 mi). Winter is the closed season.
+- A coast has a few head ports (15 for all of late medieval England, roughly one per 100–150 km or 60–95 mi of coast), more member ports, landing places in most creeks, and one or two named anchorages.
 - Trade nodes form a ladder: weekly markets, yearly fairs, great fairs and staples, then a few great entrepots with foreign merchant colonies.
 - Copy real networks (Hanse, Venice and Genoa, Silk Roads, trans-Saharan, Indian Ocean, rivers) and make hubs where land meets water.
 
@@ -610,20 +660,28 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 **Books and articles**
 - Abu-Lughod, Janet L. (1989). *Before European Hegemony: The World System A.D. 1250–1350*. New York: Oxford University Press.
+- Childs, Wendy R. (2019). "England's maritime and commercial networks in the late Middle Ages." In Giampiero Nigro (ed.), *Maritime Networks as a Factor in European Integration*. Florence: Firenze University Press.
+- Colyer, Richard J. (1972). "Welsh cattle drovers in the nineteenth century." *National Library of Wales Journal* 17 (4). Quoted in the Lingfield drovers fact sheet listed below.
+- Colyer, Richard J. (1974). "Welsh cattle drovers in the nineteenth century, part 2." *National Library of Wales Journal* 18 (3).
 - Dollinger, Philippe (1970). *The German Hansa*. Trans. D. S. Ault and S. H. Steinberg. London: Macmillan.
 - Dunn, Ross E. (1986). *The Adventures of Ibn Battuta, a Muslim Traveler of the 14th Century*. Berkeley: University of California Press.
 - Edwards, J. F., and B. P. Hindle (1991). "The transportation system of medieval England and Wales." *Journal of Historical Geography* 17 (2): 123–134.
 - Edwards, Jeremy, and Sheilagh Ogilvie (2012). "What lessons for economic development can we draw from the Champagne fairs?" *Explorations in Economic History* 49 (2): 131–148.
+- Haldane, A. R. B. (1952). *The Drove Roads of Scotland*. London: Thomas Nelson.
 - Harrison, David (2004). *The Bridges of Medieval England: Transport and Society, 400–1800*. Oxford: Clarendon Press.
 - Hindle, Paul (1998). *Medieval Roads and Tracks*. 3rd ed. Princes Risborough: Shire.
 - Hutchinson, Gillian (1994). *Medieval Ships and Shipping*. London: Leicester University Press.
+- Hyslop, John (1984). *The Inka Road System*. New York: Academic Press.
 - James, Margery K. (1971). *Studies in the Medieval Wine Trade*. Oxford: Clarendon Press.
 - Jones, Evan T. (2000). "River navigation in medieval England." *Journal of Historical Geography* 26 (1): 60–75.
 - Lane, Frederic C. (1973). *Venice: A Maritime Republic*. Baltimore: Johns Hopkins University Press.
 - Langdon, John (1993). "Inland water transport in medieval England." *Journal of Historical Geography* 19 (1): 1–11.
 - Langdon, John, and Jordan Claridge (2011). "Transport in medieval England." *History Compass* 9 (11): 864–875.
 - Masschaele, James (1993). "Transport costs in medieval England." *Economic History Review* 46 (2): 266–279.
+- Oksanen, Eljas, and Stuart Brookes (2024). *The Routes and Roads of the Gough Map of Great Britain: GIS Database*. York: Archaeology Data Service. https://doi.org/10.5284/1124312
+- Oksanen, Eljas, and Stuart Brookes (2025). "The afterlife of Roman roads in England: insights from the fifteenth-century Gough map of Great Britain." *Journal of Archaeological Science* 179: 106227.
 - Pegolotti, Francesco Balducci (c. 1340). *La pratica della mercatura*. Ed. Allan Evans (1936). Cambridge, Mass.: Mediaeval Academy of America.
+- Prescott, William H. (1843). *History of the Conquest of Mexico*. Book 4, chapter 1 describes the causeways of Tenochtitlan.
 - Pryor, John H. (1988). *Geography, Technology, and War: Studies in the Maritime History of the Mediterranean, 649–1571*. Cambridge: Cambridge University Press.
 - Spufford, Peter (2002). *Power and Profit: The Merchant in Medieval Europe*. London: Thames & Hudson.
 - Unger, Richard W. (1980). *The Ship in the Medieval Economy, 600–1600*. London: Croom Helm.
@@ -703,3 +761,39 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Francesco Balducci Pegolotti (Wikipedia): https://en.wikipedia.org/wiki/Francesco_Balducci_Pegolotti
 - House of Thurn and Taxis (Wikipedia): https://en.wikipedia.org/wiki/House_of_Thurn_and_Taxis
 - Thurn und Taxis (German Wikipedia; the first permanent relay line of 1490): https://de.wikipedia.org/wiki/Thurn_und_Taxis
+- The afterlife of Roman roads in England (Oksanen and Brookes 2025, open-access text at UCL Discovery): https://discovery.ucl.ac.uk/id/eprint/10207831
+- The Routes and Roads of the Gough Map: GIS Database (Archaeology Data Service): https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm
+- River Thames: distances and measurements for boaters (GOV.UK; lock-to-lock distances used for the Thames bridge table): https://www.gov.uk/guidance/river-thames-distances-and-measurements-for-boaters
+- Teddington Lock (Wikipedia): https://en.wikipedia.org/wiki/Teddington_Lock
+- Kingston Bridge, London (Wikipedia): https://en.wikipedia.org/wiki/Kingston_Bridge,_London
+- Remains of an undercroft and 12th century bridge under John Lewis, Kingston (IanVisits): https://www.ianvisits.co.uk/articles/remains-of-an-undercroft-and-12th-century-bridge-under-john-lewis-5153/
+- Staines Bridge (Wikipedia): https://en.wikipedia.org/wiki/Staines_Bridge
+- Windsor Bridge (Wikipedia): https://en.wikipedia.org/wiki/Windsor_Bridge
+- Maidenhead Bridge (Wikipedia): https://en.wikipedia.org/wiki/Maidenhead_Bridge
+- Marlow Bridge (Wikipedia): https://en.wikipedia.org/wiki/Marlow_Bridge
+- Henley Bridge (Wikipedia): https://en.wikipedia.org/wiki/Henley_Bridge
+- Caversham Bridge (Wikipedia): https://en.wikipedia.org/wiki/Caversham_Bridge
+- Wallingford Bridge (Wikipedia): https://en.wikipedia.org/wiki/Wallingford_Bridge
+- Abingdon Bridge (Wikipedia): https://en.wikipedia.org/wiki/Abingdon_Bridge
+- Culham Bridge (Wikipedia): https://en.wikipedia.org/wiki/Culham_Bridge
+- Folly Bridge (Wikipedia): https://en.wikipedia.org/wiki/Folly_Bridge
+- England's Maritime and Commercial Networks in the Late Middle Ages (Wendy R. Childs, reprinted by Brewminate): https://brewminate.com/englands-maritime-and-commercial-networks-in-the-late-middle-ages/
+- Customs account for "Hull and all ports from Whitby inclusive to Grimsby", 1353–54, E 122/58/10 (The National Archives): https://beta.nationalarchives.gov.uk/catalogue/id/C1879220
+- Sitting on the dock of the bay (Gloucestershire Archives; Gloucester's customs port of 1580 and its creeks): https://www.gloucestershire.gov.uk/archives/learning-for-all/online-exhibitions/sitting-on-the-dock-of-the-bay
+- The Downs (ship anchorage) (Wikipedia): https://en.wikipedia.org/wiki/The_Downs_(ship_anchorage)
+- Battle of Sluys (Wikipedia): https://en.wikipedia.org/wiki/Battle_of_Sluys
+- Deal Castle: history (English Heritage): https://www.english-heritage.org.uk/visit/places/deal-castle/history-stories/
+- Inca road system (Wikipedia): https://en.wikipedia.org/wiki/Inca_road_system
+- Tambo (Inca structure) (Wikipedia): https://en.wikipedia.org/wiki/Tambo_(Inca_structure)
+- Chasqui (Wikipedia): https://en.wikipedia.org/wiki/Chasqui
+- Inca rope bridge (Wikipedia): https://en.wikipedia.org/wiki/Inca_rope_bridge
+- Tenochtitlan (Wikipedia): https://en.wikipedia.org/wiki/Tenochtitlan
+- Tlamemeh (Wikipedia): https://en.wikipedia.org/wiki/Tlamemeh
+- Prescott, *History of the Conquest of Mexico*, Book 4, chapter 1 (online text): https://webdoc.sub.gwdg.de/ebook/p/2005/uni_virginia/xroads.virginia.edu/~hyper/prescott/bk04_ch01.html
+- Drovers' road (Wikipedia): https://en.wikipedia.org/wiki/Drovers%27_road
+- Mesta (Wikipedia): https://en.wikipedia.org/wiki/Mesta
+- Drove roads (ScotWays): https://scotways.com/ken/drove-roads/
+- Droving, guest author essay by Joan Featherstone (Herefordshire Through Time): https://htt.herefordshire.gov.uk/herefordshires-past/the-post-medieval-period/transport/guest-author-essay-droving
+- Drovers (Lingfield fact sheet by Janet H. Bateson, quoting Colyer 1972): https://www.rh7.org/factshts/drovers.pdf
+- Welsh cattle drovers in the nineteenth century, part 2 (Colyer 1974, on GENUKI): https://www.genuki.org.uk/big/wal/Archives/NLWjournals/CattleDrovers2
+- An introduction to Hampshire drove roads (Eleanor Kingston, Alresford Displayed): https://museum.alresford.org/displayed/displayed_17-3.php

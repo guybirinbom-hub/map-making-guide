@@ -1,6 +1,6 @@
 # Where Settlements Are Built (and Why)
 
-Real people did not put towns in random places. Every village, town and city answered the same few questions: is there water, can we grow food, can we defend it, and can goods and people reach it? This chapter explains those questions, shows the classic places where settlements grow, and gives you numbers for spacing, so that every dot on your map has a reason to be there.
+Real people did not put towns in random places. Every village, town and city answered the same few questions: is there water, can we grow food, can we defend it, and can goods and people reach it? This chapter explains those questions, shows the classic places where settlements grow, and gives you numbers for spacing and a method for naming places, so that every dot on your map has a reason to be there.
 
 **In this chapter:**
 
@@ -180,7 +180,7 @@ Many real names tell you the site type. You can use the same trick for your fant
 
 ## Settlement by terrain and biome
 
-The same rules apply everywhere, but the answer changes with the land.
+The same rules apply everywhere, but the answer changes with the land. The first ten rows below cover Europe and its nearest neighbours, the steppe and the desert. The last four cover other climates, with examples from Asia, Africa and the far north.
 
 | Terrain | Where settlements go | Typical pattern | Density (see [chapter 02](02-population-and-sizes.md)) |
 |---|---|---|---|
@@ -197,7 +197,7 @@ The same rules apply everywhere, but the answer changes with the land.
 | Tropical forest and monsoon uplands | Ridges and river banks; towns only on rivers and coasts | Small villages that move their fields every few years (shifting cultivation); paths, not roads | Low: world average about 6 per km² (14 per sq mi) in the 1950s; at most about 50–60 per km² (130–150 per sq mi) |
 | Wet-rice lowlands and deltas | Mounds, dikes, river levees and canal banks between the paddies | Continuous rice fields with villages packed along the water lines | Very high: Song China averaged roughly 30–40 per km² (80–100 per sq mi) over the whole empire; Greater Angkor about 230–300 per km² (600–780 per sq mi) over its core (derived) |
 | Savanna and Sahel (dry grassland south of the Sahara) | Desert-edge river ports, wells, seasonal rivers | Trade towns where caravans meet boats; farming villages by water; herders moving with the rains | Low, higher along rivers |
-| Tundra and northern forest (taiga) | Lakes and rivers for winter villages; open fells and coasts in summer | A few winter villages; families scatter to seasonal camps | Extremely low |
+| Tundra and northern forest (taiga) | Winter villages by rivers and lakes; fishing waters, hunting grounds and pastures in summer | A few winter villages; families scatter to seasonal camps | Extremely low |
 
 ### Fertile river valleys and plains
 
@@ -242,12 +242,12 @@ In 1000–1300 Europe cleared huge areas of forest. Clearing land for farming wa
 | Camp | What it is | Size | Example |
 |---|---|---|---|
 | Herding camp | A few round felt tents (*ger* or *yurt*), one family in each, sharing the herding work | Usually 2–10 families | The Mongolian *khot ail* ("camp group") today |
-| Ring camp | A circle of tents with the wagons and animals inside and the chief's tent in the middle; used by chiefs, at big gatherings and in danger | A whole clan or tribe | The Mongol *güre'en* (also written *kuriyen*). The word later meant any fortified camp, and then the Mongol army unit of "a thousand" |
-| The ruler's camp (*ordu*, the origin of the word "horde") | A moving town around the khan's great tent, with officials, guards, craftsmen and traders | Many thousands of people and animals | Ibn Battuta saw Khan Uzbeg's camp in 1332: "a vast city on the move with its inhabitants, with mosques and bazaars in it, and the smoke of the kitchens rising in the air" |
+| Ring camp | A circle of tents with the wagons and animals inside and the chief's tent in the middle; used by chiefs and at big seasonal gatherings | A whole clan or tribe | The Mongol *güre'en* (also written *kuriyen*). The word later meant any fortified camp, and then the Mongol army unit of "a thousand" |
+| The ruler's camp (*ordu*, the origin of the word "horde") | A moving town around the khan's great tent, with officials, guards and traders | Many thousands of people and animals | Ibn Battuta saw Khan Uzbeg's camp in 1332: "a vast city on the move with its inhabitants, with mosques and bazaars in it, and the smoke of the kitchens rising in the air" |
 
 Even a side branch of the court was large. When one of Uzbeg's wives travelled to Constantinople in 1332, Ibn Battuta counted an escort of 5,000 troops under an amir (a commander), her own 500 horsemen, about 200 maidservants, about 400 carts, 2,000 horses, 300 oxen and 200 camels.
 
-**How often and how far they move.** Medieval figures are scarce, so modern Mongolia is the best guide. (Some modern herders move by truck, so a few distances are longer than in the past.)
+**How often and how far they move.** Medieval figures are scarce, so modern Mongolia is the best guide. (Many modern herders move by truck, which may make some moves longer than in the past.)
 
 | Measure | Typical value | Source |
 |---|---|---|
@@ -294,8 +294,8 @@ Growing grain is hard, so people lived on scattered farms with hay meadows and a
 **Why:** A flooded paddy keeps its fertility year after year and can give one or even two harvests a year. But it needs water control: dikes, canals, reservoirs and terraces. Whoever builds and runs the water works shapes the map (for local water features, see [Villages, Farms and the Countryside](06-villages-and-countryside.md)).
 
 **Numbers and examples:**
-- **Song China** (960–1279) held about 3.1 million km² (1.2 million sq mi) in 980. A census of 1102 recorded about 20.5 million households, and estimates of the population around 1100 range from about 90 to over 120 million. That is roughly 30–40 people per km² (80–100 per sq mi) over the whole empire (derived), with most people packed into the rice lands of the south.
-- **Greater Angkor** (Cambodia, peak in the 13th century) had about 700,000–900,000 people spread over about 3,000 km² (1,160 sq mi) of houses, ponds, embankments and rice fields (Klassen et al. 2021). That is about 230–300 people per km² (600–780 per sq mi) (derived). Lidar (laser scanning from the air) shows houses built on small mounds, each with a little pond, in a grid between the fields.
+- **Song China** (960–1279) held about 3.1 million km² (1.2 million sq mi) in 980. A census of 1102 recorded about 20.5 million households, and estimates of the population around 1100 range from about 90 to over 120 million. That is roughly 30–40 people per km² (80–100 per sq mi) over the whole empire (derived), with the densest crowds in the rice lands of the Yangzi valley and the south.
+- **Greater Angkor** (Cambodia, peak in the 13th century) had about 700,000–900,000 people spread over about 3,000 km² (1,160 sq mi) of houses, ponds, embankments and rice fields (Klassen et al. 2021). That is about 230–300 people per km² (600–780 per sq mi) (derived). Lidar (laser scanning from the air) shows a grid of small house mounds and little ponds between the fields.
 
 **Pattern:** An unbroken carpet of paddies. Villages sit on anything slightly higher than the fields: river levees, dikes, canal banks and man-made mounds. Rivers and canals are the roads.
 
@@ -319,7 +319,7 @@ North of the grain line (the tundra, or treeless arctic plain, and the taiga, th
 
 > **Fantasy twist:** Dwarves change the mountain rule. A dwarf city can be large and deep inside a mountain, but it still needs food, so expect a busy human or dwarf market town at the mountain gate, on the nearest valley floor. Treat it like a pass town. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Colour or shade your map by terrain type before placing settlements. Then use the table above as a checklist. Plains get dense villages. Uplands get a few hamlets in the valleys. Marshes get a ring of villages around the edge. Deserts get a few oasis dots joined by caravan routes. Leave the high mountains, deep forest and open steppe mostly empty.
+> **Map tip:** Colour or shade your map by terrain type before placing settlements. Then use the table above as a checklist. Plains get dense villages. Uplands get a few hamlets in the valleys. Marshes get a ring of villages around the edge. Deserts get a few oasis dots joined by caravan routes. Rice deltas get the densest carpet of all. Leave the high mountains, deep forest, open steppe and tundra mostly empty.
 
 ---
 
@@ -494,7 +494,7 @@ Names are the first thing a reader sees on a map. Real names follow patterns, an
 
 > **Rule of thumb:** Most village names are plain. They join a common ending ("farm", "homestead", "clearing") to a person's name, a tree, an animal or a direction. Each region uses a small set of endings again and again. Save dramatic names for the few places that earned them.
 
-**Why:** The first settlers simply described the place or its owner: "Acca's farm", "the oak clearing", "the north farm". Once a name was in use and written down, it rarely changed. Domesday Book (1086) already names 13,418 settlements in England south of the rivers Ribble and Tees, so most English village names are older than the castles and abbeys on your map.
+**Why:** The first settlers simply described the place or its owner: "Acca's farm", "the oak clearing", "the north farm". Once a name was in use and written down, it rarely changed. Domesday Book (1086) already names 13,418 places, covering most of England except the far north, so most English village names are older than the castles and abbeys on your map.
 
 ### Common English endings
 
@@ -505,9 +505,9 @@ These endings come from Old English, the language of the Anglo-Saxons.
 | -ton | Farmstead, estate, village (Old English *tūn*) | The commonest of all: over 4,000 places | Acton ("oak farm"), Wootton ("wood farm"), Newton ("new farm"), Sutton ("south farm") |
 | -ham | Homestead, village (*hām*) | Often among the older names | Nottingham, Dagenham |
 | -wick, -wich | Specialist farm (often dairy), or trading place (*wīc*, from Latin *vicus*) | Inland usually a farm; on coasts and rivers often a port | Keswick ("cheese farm"), Ipswich, Norwich |
-| -worth | Enclosure | Small, often secondary settlements | Tamworth, Kenilworth |
+| -worth | Enclosure | — | Tamworth, Kenilworth |
 | -stead | Place, site | — | Hampstead |
-| -cot, -cote | Cottage, hut | Small, often late settlements | Didcot, Ascot |
+| -cot, -cote | Cottage, hut | Small places | Didcot, Ascot |
 | -bury, -borough, -burgh | Fortified place (*burh*); later a town | Use it at old forts, earthworks or fortified towns | Canterbury, Peterborough |
 | -chester, -caster, -cester | Roman fort or town (*ceaster*, from Latin *castra*) | Only on Roman sites | Chester, Lancaster, Gloucester |
 | -ley, -leigh | Wood clearing, woodland pasture (*lēah*) | Common in once-wooded country | Bradley ("broad clearing"), Henley |
@@ -523,7 +523,7 @@ These endings come from Old English, the language of the Anglo-Saxons.
 |---|---|---|---|
 | -by | Farm, village | More than 600 places in England (Baugh and Cable); Domesday already records 303 in the East Midlands alone (Cameron) | Grimsby, Whitby, Derby |
 | -thorpe, -thorp | Secondary settlement, outlying farm | About 300 | Scunthorpe, Mablethorpe |
-| -thwaite | Clearing, meadow | About 300; mostly in the north-west (Cumberland, Westmorland, Lancashire) and Yorkshire, where Norwegians settled | Braithwaite, Applethwaite |
+| -thwaite | Clearing, meadow | About 300; mostly in the north-west (Cumberland, Westmorland, Lancashire), where Norwegians settled, and in Yorkshire | Braithwaite, Applethwaite |
 | -toft | Building plot, homestead | — | Lowestoft |
 | -holm(e) | Island, dry ground in wet land | — | Axholme |
 | Kirk- | Church | — | Kirkby |
@@ -560,7 +560,7 @@ The Normans, by contrast, gave few new village names in England, because the lan
 
 1. **Write the region's history in two lines.** Who lived here first? Who came later? Who rules now? Choose 1–3 language layers.
 2. **Name rivers and mountains** from the oldest layer.
-3. **Pick 4–8 common endings** from the main settler layer, and build most village names from them (a mapmaking suggestion: in England, -ton alone names over 4,000 places). Join them to personal names, trees, animals, colours and directions.
+3. **Pick 4–8 common endings** from the main settler layer, and build most village names from them. Join them to personal names, trees, animals, colours and directions. (This is a mapmaking suggestion, not a measured rule, but real regions work this way: in England, -ton alone names over 4,000 places.)
 4. **Use site words only where the map shows the site:** -ford at a ford, -bridge at a bridge, -mouth at a river mouth, -ey at an island (see [Reading place names](#reading-place-names)).
 5. **Save special elements for special places.** Fort words (-bury, Caer-, Dun-, -grad, Alcalá) go on places with a fort or an old earthwork. Market words (Market-, Chipping-) go on market towns. Church words (Kirk-, Llan-, -minster, Pieve) go on places with an important church. Roman words (-chester) go only on Roman sites.
 6. **Show history with patches.** Put a band of second-layer names along the coast where raiders settled. Use clearing names in old forest. Mix both sides' names in a march.
@@ -635,16 +635,21 @@ Also check:
 - Beresford, Maurice, and John G. Hurst (eds.) (1971). *Deserted Medieval Villages*. London: Lutterworth Press.
 - Bartlett, Robert (1993). *The Making of Europe: Conquest, Colonization and Cultural Change, 950–1350*. London: Allen Lane.
 - Baugh, Albert C., and Thomas Cable (2002). *A History of the English Language*. 5th ed. London: Routledge. (Numbers of Scandinavian place names in -by, -thorp and -thwaite.)
-- Cameron, Kenneth (1965). *Scandinavian Settlement in the Territory of the Five Boroughs: The Place-Name Evidence*. Nottingham: University of Nottingham. (303 -by names in Domesday in the East Midlands, as cited by Cavill below.)
+- Cameron, Kenneth (1965). *Scandinavian Settlement in the Territory of the Five Boroughs: The Place-Name Evidence*. Nottingham: University of Nottingham. Reprinted in Cameron (ed.) (1987), *Place-Name Evidence for the Anglo-Saxon Invasion and Scandinavian Settlements*. Nottingham: English Place-Name Society. (303 -by names in Domesday in the East Midlands, as cited by Cavill below.)
 - Christaller, Walter (1933). *Die zentralen Orte in Süddeutschland*. Jena: Gustav Fischer. English translation by C. W. Baskin (1966), *Central Places in Southern Germany*. Englewood Cliffs: Prentice-Hall.
 - Dobson, Mary J. (1997). *Contours of Death and Disease in Early Modern England*. Cambridge: Cambridge University Press.
 - Dyer, Christopher (2002). *Making a Living in the Middle Ages: The People of Britain 850–1520*. New Haven: Yale University Press.
+- Gibb, H. A. R. (trans.) (1929). *Ibn Battuta: Travels in Asia and Africa 1325–1354*. London: Broadway House (Routledge). (Uzbeg Khan's moving camp and the khatun's escort, 1332.)
+- Halinen, Petri (2019). "Inari Nukkumajoki 5, the Excavated History of a Sámi Winter Village." *Iskos* 22 (*In Search of Hearths: A Book in Memory of Sven-Donald Hedman*).
 - Harrison, R., H. M. Roberts and W. P. Adderley (2008). "Gásir in Eyjafjörður: International Exchange and Local Economy in Medieval Iceland." *Journal of the North Atlantic* 1: 99–119.
 - Hoskins, W. G. (1955). *The Making of the English Landscape*. London: Hodder & Stoughton.
+- Klassen, Sarah, et al. (2021). "Diachronic modeling of the population within the medieval Greater Angkor Region settlement complex." *Science Advances* 7 (19): eabf8441.
+- Michler, Lukas M., et al. (2022). "Moving Toward the Greener Side: Environmental Aspects Guiding Pastoral Mobility and Impacting Vegetation in the Dzungarian Gobi, Mongolia." *Rangeland Ecology & Management* 83.
 - Pounds, N. J. G. (1990). *An Historical Geography of Europe*. Cambridge: Cambridge University Press.
 - Rackham, Oliver (1986). *The History of the Countryside*. London: J. M. Dent.
 - Roberts, Brian K., and Stuart Wrathmell (2000). *An Atlas of Rural Settlement in England*. London: English Heritage.
 - Skinner, G. William (1964). "Marketing and Social Structure in Rural China, Part I." *Journal of Asian Studies* 24 (1): 3–43.
+- Teickner, Henning, et al. (2020). "Patterns in Mongolian nomadic household movement derived from GPS trajectories." *Applied Geography* 122: 102270.
 - Toubert, Pierre (1973). *Les structures du Latium médiéval*. Rome: École française de Rome.
 - Young, Charles R. (1979). *The Royal Forests of Medieval England*. Philadelphia: University of Pennsylvania Press.
 
@@ -708,3 +713,44 @@ Also check:
 - Marsh fever: the ague (Kent Archaeological Society): https://www.kentarchaeology.org.uk/magazine/121/09-marsh-fever-the-ague
 - Urban foundations in Central Europe, 1150–1950 (University of Oregon): https://pages.uoregon.edu/dluebke/Reformations441/Stadtentstehung.html
 - Wharram Percy (Wikipedia): https://en.wikipedia.org/wiki/Wharram_Percy
+
+*Naming settlements*
+- Paul Cavill, "Place-names and historical geography: some issues arising from the Scandinavian settlement in England" (cites Cameron's Domesday counts): https://yugong.fudan.edu.cn/info/1521/29551.htm
+- Tūn: from rustic fence to urban sprawl (Society for Name Studies in Britain and Ireland; over 4,000 -ton names): https://www.snsbi.org.uk/exploring-names/place-names/tun-from-rustic-fence-to-urban-sprawl/
+- Toponymy of England (Wikipedia; river names oldest, Norse distribution, Norman affixes): https://en.wikipedia.org/wiki/Toponymy_of_England
+- List of generic forms in place names in the United Kingdom and Ireland (Wikipedia): https://en.wikipedia.org/wiki/List_of_generic_forms_in_place_names_in_the_United_Kingdom_and_Ireland
+- Thwaite (placename element) (Wikipedia): https://en.wikipedia.org/wiki/Thwaite_(placename_element)
+- Domesday Book (Wikipedia; "Domesday names a total of 13,418 places"): https://en.wikipedia.org/wiki/Domesday_Book
+- Sutton Courtenay (Wikipedia): https://en.wikipedia.org/wiki/Sutton_Courtenay
+- Stoke Mandeville (Wikipedia; suffix first recorded 1284): https://en.wikipedia.org/wiki/Stoke_Mandeville
+- King's Lynn (Wikipedia; Bishop's Lynn until 1537): https://en.wikipedia.org/wiki/King%27s_Lynn
+- Richmond, North Yorkshire (Wikipedia): https://en.wikipedia.org/wiki/Richmond,_North_Yorkshire
+- German placename etymology (Wikipedia): https://en.wikipedia.org/wiki/German_placename_etymology
+- -ingen (German Wikipedia; dating of -ingen names): https://de.wikipedia.org/wiki/-ingen
+- Norman toponymy (Wikipedia; -tot, -beuf, -fleur, -ville, -court): https://en.wikipedia.org/wiki/Norman_toponymy
+- From towns to places (Ville de Cognac; -acum to -ac and -y): https://culture.cognac.fr/en/from-towns-to-places-part-1/
+- Almadén (Wikipedia; *al-ma'din*): https://en.wikipedia.org/wiki/Almad%C3%A9n
+- Medinaceli (Wikipedia; *madinat Salim*): https://en.wikipedia.org/wiki/Medinaceli
+- Gorod (toponymy) and Grad (toponymy) (Wikipedia): https://en.wikipedia.org/wiki/Gorod_(toponymy) ; https://en.wikipedia.org/wiki/Grad_(toponymy)
+- Kraków (Wikipedia; name means "Krak's town"): https://en.wikipedia.org/wiki/Krak%C3%B3w
+- Geografia nazw patronimicznych na -ice a granice etniczne (University of Łódź; Slavic -ice names): https://repozytorium.uni.lodz.pl/xmlui/handle/11089/22905
+
+*Other climates and nomads*
+- Shifting cultivation (FAO, *Unasylva* 11 (1), 1957; average of 6 per km²): https://www.fao.org/4/x5382e/x5382e03.htm
+- Changes in shifting cultivation in Africa (FAO, *Unasylva* 150; Ruthenberg's 56 per km²): https://www.fao.org/4/r5265e/r5265e06.htm
+- Song dynasty (Wikipedia; area in 980, households, population): https://en.wikipedia.org/wiki/Song_dynasty
+- Population history of China (Wikipedia; 20.5 million households in 1102): https://en.wikipedia.org/wiki/Population_history_of_China
+- Archaeologists pinpoint population for the Greater Angkor region (Popular Archaeology; 3,000 km², house mounds and ponds): https://popular-archaeology.com/article/archaeologists-pinpoint-population-for-the-greater-angkor-region/
+- Timbuktu (Britannica): https://www.britannica.com/place/Timbuktu-Mali
+- Timbuktu (Wikipedia; port of Kabara): https://en.wikipedia.org/wiki/Timbuktu
+- Supporting Africa's Sahel pastoralists (World Bank, 2020; seasonal herd movements): https://www.worldbank.org/en/news/immersive-story/2020/09/21/where-climate-change-is-reality-supporting-africas-sahel-pastoralists-secure-a-resilient-future
+- Wealth and power in medieval Iceland (World History Encyclopedia; Gizur's count of about 4,560 farmers): https://www.worldhistory.org/article/1905/wealth--power-in-medieval-iceland/
+- Pitfalls (RiddoDuottarMuseat; the siida of up to 12 families and its seasonal sites): https://rdm.no/en/bivdorokkit-01/
+- Siida (Wikipedia): https://en.wikipedia.org/wiki/Siida
+- TransRein research project (Swedish University of Agricultural Sciences; shift from transport reindeer to full-time herding): https://www.slu.se/en/research/research-catalogue/projekt/t/transrein/
+- Inari Nukkumajoki 5 (Halinen, *Iskos*): https://journal.fi/iskos/article/view/99659
+- Mongolian herders face new challenges (NIKU; the *khot ail* of 2–10 families): https://www.niku.no/en/2026/02/mongolian-herders-face-new-challenges/
+- To move or not to move (Michler et al. 2023, Dzungarian Gobi herders): https://hohpublica.uni-hohenheim.de/items/d8bd1ef3-7546-46db-a9eb-280b273786c8/full
+- Yurt (World History Encyclopedia; the *güre'en* ring camp): https://www.worldhistory.org/Yurt/
+- Ibn Battuta: travels in Byzantium (Internet Medieval Sourcebook, Fordham; Gibb's translation of the khatun's escort): https://sourcebooks.web.fordham.edu/source/ibnbattuta-byzantium14C.asp
+- Lands of the Golden Horde and the Chagatai, 1332–1333 (ORIAS, UC Berkeley): https://orias.berkeley.edu/resources-teachers/travels-ibn-battuta/journey/lands-golden-horde-chagatai-1332-1333

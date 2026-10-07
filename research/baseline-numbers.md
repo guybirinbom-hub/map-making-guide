@@ -126,7 +126,7 @@ Model assumptions:
 | Walking traveller | 25–35 | 15–22 | Bracton: "a reasonable day's journey" is 20 mi. Foot messengers 25–40 km; professional runners 60+ km. |
 | Peasant to market | 6–10 one way | 4–6 | Out, trade and home in one day (Bracton's 6⅔ mi). |
 | Large army with baggage | 13–20 | 8–12 | Armies living off the land: 10–26 km. |
-| Army on forced march | 30–55 | 20–35 | Only for a few days. Harold, 1066: ~185 mi in 5–7 days, probably partly mounted. |
+| Army on forced march | 30–55 | 20–35 | Only for a few days. Harold, 1066: ~185 mi (300 km) north in perhaps 5–7 days (often said to be four), probably partly mounted. |
 | Mounted force with spare horses | 55–65 | 35–40 | Mongol strategic moves up to ~95 km (60 mi). |
 | Ox cart or ox wagon | 15–25 | 10–15 | Oxen haul at 1.5–2 mph. |
 | Horse cart or wagon | 30–40 | 20–25 | Horses haul at 3–4 mph. Replacing oxen with horses could double haulage speed. |

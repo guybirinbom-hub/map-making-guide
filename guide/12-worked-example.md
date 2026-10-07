@@ -34,11 +34,11 @@ The order of steps follows [Step by Step](00-step-by-step.md). The coordinates o
 | Area | About 116,500 km² (45,000 sq mi): about 390 km (240 mi) east to west and 380 km (235 mi) north to south. England is 130,000 km². |
 | Coast | East and south, on the Grey Sea |
 | Estuary | The Ambre estuary, 83 km (52 mi) from the open sea to its head |
-| Main river | The Ambre, navigable for river boats 158 km (98 mi) above the estuary; its tributary the Lisk joins it at Liskmeet |
+| Main river | The Ambre, navigable for river boats 158 km (98 mi) above the estuary; the Lisk joins it at Liskmeet |
 | Mountains | The Fells along the whole west border. The crest is the border. One cart pass (the Wyndgap) and one mule path (the Carrow Gap). |
 | Forest | The Harnwood, about 11,000 km² in the north |
-| Marsh | The Holm Fens north of the estuary, the Saltings salt marsh on its south shore, small levels at the Wend mouth |
-| Other land | The Whitridge (a limestone ridge that the Ambre cuts at Ridgegate), Brackenheath (sandy heath), the Wend Downs and the Brim Wolds (chalk and limestone hills) |
+| Marsh | The Holm Fens north of the estuary, the Saltings salt marsh south of it, the Wend Levels |
+| Other land | The Whitridge (a limestone ridge cut by the Ambre), Brackenheath (sandy heath), the Wend Downs and Brim Wolds (chalk and limestone hills) |
 | Neighbours | Thelland to the north (hostile), Morvane to the west across the Fells (at peace) |
 
 > **Map tip:** Before any dot goes down, mark the navigable stretch of each river, the tidal limit, the fords, the pass and the land types. This is step 1 of the method in [Where Settlements Are Built](01-settlement-placement.md#placing-settlements-on-your-map-a-method).
@@ -88,17 +88,17 @@ The capital of a strong kingdom holds about 1–2% of its people and is 3–7 ti
 | Rank | Place | People | Rank-size prediction | Why it is here |
 |---|---|---|---|---|
 | 1 | **Hallowbridge** (capital) | 40,000 (1.65% of the realm) | — | Lowest bridge on the Ambre, at the tidal limit |
-| 2 | Liskmeet | 12,000 | 20,000 | Confluence of the Ambre and Lisk; old imperial city |
-| 3 | Wendmouth | 11,000 | 13,300 | Harbour at the mouth of the Wend |
-| 4 | Brimhaven | 10,000 | 10,000 | Wool port at the mouth of the Brim |
-| 5 | Tenterford | 8,000 | 8,000 | Cloth town at the mouth of a fast hill stream |
-| 6 | Ridgegate | 7,000 | 6,700 | Gap town and second bridge where the Ambre cuts the Whitridge |
-| 7 | Norburgh | 6,500 | 5,700 | Rear fortress and muster town of the North March |
+| 2 | Liskmeet | 12,000 | 20,000 | Confluence; old imperial city |
+| 3 | Wendmouth | 11,000 | 13,300 | River-mouth harbour |
+| 4 | Brimhaven | 10,000 | 10,000 | Wool port |
+| 5 | Tenterford | 8,000 | 8,000 | Cloth town on a fast hill stream |
+| 6 | Ridgegate | 7,000 | 6,700 | Gap town; second bridge |
+| 7 | Norburgh | 6,500 | 5,700 | March fortress and muster town |
 | 8 | Wyndfoot | 5,000 | 5,000 | Pass town below the Wyndgap |
-| 9 | Holmstow | 4,500 | 4,400 | Abbey town and shrine on a fen island |
-| 10–13 | Saltwich 4,000 (brine springs), Hawkridge 4,000 (western march fortress), Cheapford 3,800 (ford, head of navigation, wool fair), Silverhope 3,500 (silver mines) | | | |
+| 9 | Holmstow | 4,500 | 4,400 | Shrine on a fen island |
+| 10–13 | Saltwich 4,000 (brine), Hawkridge 4,000 (march fortress), Cheapford 3,800 (ford, head of navigation), Silverhope 3,500 (silver) | | | |
 
-Hallowbridge is 3.3 times the size of Liskmeet: a primate capital, like London c. 1377 at 3–4 times York. Below it, the sizes follow the rule closely. ✔
+Hallowbridge is 3.3 times Liskmeet: a primate capital, like London c. 1377 at 3–4 times York. Below it the rule fits closely. ✔
 
 **The other 29 towns** (2,000–3,600 each, 74,700 people in all):
 
@@ -129,10 +129,10 @@ The other ~355,000 country people live in hamlets (10–75 people) and farmstead
 
 **Spacing checks** ([Patterns and spacing](01-settlement-placement.md#patterns-and-spacing)):
 
-- Lowland villages ~3.3 km apart (rule: 1.5–4 km, 1–2.5 mi). Fell parishes ~60 km² (rule: 50–100+ km²). ✔
-- 222 market centres (180 market towns, 38 towns, 4 cities) give one per ~525 km², about 25 km (15 mi) apart. Add 100–200 villages with a weekly market (the same ratio as the mini-example in chapter 02), most of them in the vale, and lowland markets end up 14–16 km (9–10 mi) apart. Nobody walks more than 6–10 km to market. ✔
-- 8 places of 5,000+ are about 130 km (80 mi) apart, like Britain. 4 cities of 10,000+ are about 180 km (115 mi) apart, between France (130–170 km) and Britain (260–400 km). ✔
-- All four cities sit on navigable water or the coast. Tenterford, at 8,000, is inland, which is allowed under 10,000 ([the "why is it here?" test](01-settlement-placement.md#the-why-is-it-here-test)). ✔
+- Lowland villages ~3.3 km apart (rule: 1.5–4 km, 1–2.5 mi); Fell parishes ~60 km² (rule: 50–100+ km²). ✔
+- 222 market centres (market towns, towns and cities) give one per ~525 km², about 25 km (15 mi) apart. Add 100–200 villages with a weekly market, as in chapter 02's mini-example, and markets in the vale are 14–16 km (9–10 mi) apart: a 6–10 km walk at most. ✔
+- The 8 places of 5,000+ are about 130 km (80 mi) apart, like Britain; the 4 cities about 180 km (115 mi), between France and Britain. ✔
+- All four cities are on navigable water or the coast. Inland Tenterford stays under 10,000 ([the "why is it here?" test](01-settlement-placement.md#the-why-is-it-here-test)). ✔
 
 > **Later era (1500s+):** By 1600 draw the capital 2–4 times bigger (80,000–160,000) with suburbs far outside its walls, and grow Brimhaven or Wendmouth fastest if ocean trade arrives ([Population and bigger cities](09-later-era-1500-1650.md#population-and-bigger-cities)).
 
@@ -152,7 +152,7 @@ The other ~355,000 country people live in hamlets (10–75 people) and farmstead
 | Loyalty | The Crownlands are the dynasty's home lands |
 | Legitimacy | Royal burial abbey at Westhallow; coronation in the old city of Liskmeet |
 
-It is **not central**: it lies in the east, 322 km (200 mi) in a straight line from the far north-west corner, like Paris or London ([Common mistakes, no. 12](11-common-mistakes.md#12-the-capital-at-the-exact-centre)). By road that corner is about 350–400 km away, 4–8 days for a royal messenger (50–90 km a day): a normal kingdom ([How big can a realm be](03-capitals-and-borders.md#distance-from-the-capital-and-what-it-means)).
+It is **not central** ([Common mistakes, no. 12](11-common-mistakes.md#12-the-capital-at-the-exact-centre)). The far north-west corner is 322 km (200 mi) away in a straight line, about 350–400 km by road: 4–8 days for a royal messenger, a normal kingdom ([How big can a realm be](03-capitals-and-borders.md#distance-from-the-capital-and-what-it-means)).
 
 **The royal landscape** ([Around the capital](03-capitals-and-borders.md#around-the-capital-the-royal-landscape)):
 
@@ -182,16 +182,16 @@ It is **not central**: it lies in the east, 322 km (200 mi) in a straight line f
 | Liberty of Holmstow | 2,600 km² (1,000 sq mi) | ~15,000 | 1 | Holmstow | The abbot's church territory in the fens |
 | **Kingdom** | **116,500 km² (45,000 sq mi)** | **~2.4 million** | **33** | | |
 
-**Checks:** the duchies are 9,400–25,100 km² (rule: 10,000–50,000; Flanders was ~10,000 km² and as powerful as a duchy). The 33 counties average 3,500 km² (1,370 sq mi), about 59 km (37 mi) across, with ~73,000 people each (England averaged ~3,300 km² and ~120,000; the guide suggests 30–40 counties for an England-sized realm). ✔ The North March has ~15 people per km² against 27–29 in the Crownlands and Wend: emptier, as a march should be ([Marches](03-capitals-and-borders.md#marches-militarised-border-provinces)).
+**Checks:** duchies of 9,400–25,100 km² (rule: 10,000–50,000; Flanders was ~10,000 km²). 33 counties of ~3,500 km² (1,370 sq mi), about 59 km (37 mi) across, with ~73,000 people each (England: ~3,300 km² and ~120,000; the guide suggests 30–40 counties for an England-sized realm). ✔ The North March has ~15 people per km² against 27–29 in the Crownlands and Wend: emptier, as a march should be ([Marches](03-capitals-and-borders.md#marches-militarised-border-provinces)).
 
-**Smaller units:** about 750 hundreds (district courts) of ~155 km² each, each meeting at an open-air moot site and holding 10–11 parishes ([Local administration](06-villages-and-countryside.md#local-administration-parish-manor-hundred)); roughly 150–200 baronies, each with a castle at its head manor (*caput*); and one to three manors per village.
+**Smaller units:** about 750 hundreds (district courts) of ~155 km², each with 10–11 parishes and an open-air moot site ([Local administration](06-villages-and-countryside.md#local-administration-parish-manor-hundred)); 150–200 baronies, each with a castle at its head manor (*caput*); one to three manors per village.
 
 **Borders** ([Borders and frontiers](03-capitals-and-borders.md#borders-and-frontiers)):
 
-- **West:** the crest of the Fells (the watershed). At the Wyndgap pass, Daravel's Wyndgap Castle and Morvane's castle face each other about 17 km (11 mi) apart.
-- **North:** hill crests and the northern Harnwood in the west, then the River Skel to the sea. A hatched **frontier band 30 km (19 mi) deep** runs along it (the guide's band is 10–50 km).
-- **Oddities:** the **Debatable Land**, a disputed strip 16 × 6 km (10 × 4 mi) on the north border (the size of the real one), and the Liberty of Holmstow.
-- **Inside:** duchy borders follow the Whitridge, the Fell foothills, the fen edge and forest edges, never straight lines ([Common mistakes, no. 13](11-common-mistakes.md#13-straight-borders-without-a-reason)).
+- **West:** the crest of the Fells, with paired castles 17 km (11 mi) apart on either side of the Wyndgap pass.
+- **North:** hill crests and the Harnwood in the west, the River Skel in the east, with a hatched **frontier band 30 km (19 mi) deep** (the guide's band is 10–50 km).
+- **Oddities:** the **Debatable Land**, a disputed strip 16 × 6 km (10 × 4 mi), and the Liberty of Holmstow.
+- **Inside:** duchy borders follow the Whitridge, the foothills, the fen and forest edges, never straight lines ([Common mistakes, no. 13](11-common-mistakes.md#13-straight-borders-without-a-reason)).
 
 > **Map tip:** Draw the realm border thick, duchy borders as medium dashes and county borders not at all at kingdom scale. Label the North March and the Debatable Land by name, and give the Liberty its own colour.
 
@@ -208,7 +208,7 @@ It is **not central**: it lies in the east, 322 km (200 mi) in a straight line f
 | North March | 23,900 km² | One site per 110–130 km², like the Anglo-Scottish border | ~200 | ~65 | ~20 km (12 mi) |
 | **Total** | 116,500 km² | | **~710** | **~225** | |
 
-Working castles in the core are 20–30 km (12–19 mi) apart, as the guide expects for a peaceful core ([Borderlands](04-military-sites.md#borderlands-and-conquered-land)). Daravel has about 1.9 active castles per 1,000 km² against about 4 in England and Wales, because it has fewer people and no Welsh-style march of tiny lordships. A gaming rule of one castle per 50,000 people would give only ~48, far too few ([Gaming rules](02-population-and-sizes.md#gaming-rules-of-thumb-vs-history)).
+Core castles 20–30 km (12–19 mi) apart match the guide's peaceful core ([Borderlands](04-military-sites.md#borderlands-and-conquered-land)). Daravel has ~1.9 active castles per 1,000 km² against ~4 in England and Wales: fewer people, and no Welsh-style march of tiny lordships. A gaming rule of one castle per 50,000 people would give only ~48 ([Gaming rules](02-population-and-sizes.md#gaming-rules-of-thumb-vs-history)).
 
 **What the ~225 active castles are** ([Types of fortification](04-military-sites.md#types-of-fortification)):
 
@@ -222,16 +222,16 @@ Working castles in the core are 20–30 km (12–19 mi) apart, as the guide expe
 | Royal residence castle | 1 | Redwater Castle |
 | Baronial castles and fortified manor houses | ~180 | At the head manors of baronies: *estate* |
 
-- **Garrisons:** 5–20 men at an ordinary castle and 30–60 at the 14 frontier castles: about 1,500–5,000 men in peacetime, under 0.2% of the people ([Garrisons and armies](04-military-sites.md#garrisons-and-armies)).
-- **Field army:** 0.2–0.5% of 2.4 million = about **5,000–12,000** soldiers. An all-out 1% (~24,000) lasts only weeks.
-- **Behind the front:** muster towns at Norburgh (north) and Wyndfoot (west), the main armoury in the White Keep, and the fleet at Brimhaven ([Military geography](04-military-sites.md#military-geography-and-logistics)).
-- **Walls:** the capital, the 3 cities and the frontier towns (Ridgegate, Norburgh, Hawkridge, Wyndfoot, Skelbridge) have stone walls; Tenterford and Saltwich have a ditch and gates; the rest are open ([Common mistakes, no. 25](11-common-mistakes.md#25-every-town-walled)).
-- **Beacons:** 10 beacons about 16 km (10 mi) apart run from Skelbridge to the capital (rule: 5–20 km in hilly country). A fire warning arrives within the hour; a rider takes 2–3½ days ([Watchtowers and beacons](04-military-sites.md#watchtowers-beacons-and-coastal-warning)).
-- **Ruins:** the other ~485 sites are abandoned mottes and ringworks from the conquest era.
+- **Garrisons:** 5–20 men per ordinary castle, 30–60 at the 14 frontier castles: 1,500–5,000 men in peace, about 0.1–0.2% of the people ([Garrisons and armies](04-military-sites.md#garrisons-and-armies)).
+- **Field army:** 0.2–0.5% of 2.4 million = **5,000–12,000** soldiers; an all-out 1% (~24,000) lasts only weeks.
+- **Behind the front:** muster towns at Norburgh and Wyndfoot, the armoury in the White Keep, the fleet at Brimhaven ([Military geography](04-military-sites.md#military-geography-and-logistics)).
+- **Walls:** stone walls only at the capital, the cities, Ridgegate, Norburgh, Hawkridge, Skelbridge and Wyndfoot; a ditch and gates at Tenterford and Saltwich; the rest open ([Common mistakes, no. 25](11-common-mistakes.md#25-every-town-walled)).
+- **Beacons:** 10 beacons about 16 km (10 mi) apart from Skelbridge to the capital (rule: 5–20 km): warning within the hour, against 2–3½ days for a rider ([Beacons](04-military-sites.md#watchtowers-beacons-and-coastal-warning)).
+- **Ruins:** the other ~485 sites are abandoned mottes and ringworks.
 
 > **Later era (1500s+):** Put bastioned star forts at Skelbridge and Norburgh, a citadel at Hallowbridge and low gun forts at the estuary mouth. Turn most inland castles into ruins, palaces or manor houses ([Gunpowder and the new fortifications](09-later-era-1500-1650.md#gunpowder-and-the-new-fortifications)).
 
-> **Map tip:** On the kingdom map draw the 33 county castles, the 15 frontier and royal castles and about one major baronial castle per 2,000–3,000 km² (about 25), plus a few grey ruined mottes. Leave the remaining ~150 baronial castles for local maps.
+> **Map tip:** On the kingdom map draw the White Keep, the 31 county castles, the 13 other royal and frontier castles, about one major baronial castle per 2,000–3,000 km² (about 25) and a few grey ruined mottes. Leave the other ~155 baronial castles for local maps.
 
 ---
 
@@ -257,28 +257,27 @@ Working castles in the core are 20–30 km (12–19 mi) apart, as the guide expe
 | Old Street (an old imperial road) | Liskmeet – Wythmoor – Abbotsmere – Wendmouth, dead straight | 167 km (104 mi) |
 | The Brim Road | Eastwold – Woldby – Brimhaven | 109 km (68 mi) |
 
-About 900 km of royal highway needs an inn or inn town every 15–30 km (10–19 mi): **30–60 stopping places**, most of them in existing towns and villages ([Inns](05-trade-routes-and-transport.md#inns-hospices-and-caravanserais)). Regional roads (the Downs Road, the Fells Road, the Harn Road, the Salt Roads, the Pilgrims' Way) link every market town to its neighbours.
+About 900 km of royal highway needs an inn every 15–30 km (10–19 mi): **30–60 stopping places**, most in existing towns and villages ([Inns](05-trade-routes-and-transport.md#inns-hospices-and-caravanserais)). Regional roads (Downs Road, Fells Road, Harn Road, Salt Roads, Pilgrims' Way) link every market town to its neighbours.
 
-**Crossings, passes and tolls:**
-
-- **The Ambre** has only 4 fixed bridges: Hallowbridge, Ridgegate (71 km upstream), Liskmeet (51 km further) and small Wyndfoot (95 km further). Between them are the fords at Cheapford and Ambrefold and ferries at Kingsferry and Thornwick ([Crossing rivers](05-trade-routes-and-transport.md#crossing-rivers-bridges-fords-and-ferries)).
-- **The Wyndgap** is a low cart pass with a hospice near the summit, a toll, Wyndgap Castle and a chain of villages up the valley to Wyndfoot. The Carrow Gap is a summer mule path with no towns ([Mountain passes](05-trade-routes-and-transport.md#mountain-passes)).
-- **Tolls** at the Hallow bridge (pontage) and port customs, the Ridgegate bridge, the Liskmeet bridges, the Wyndgap and the Skel bridge into Thelland ([Tolls](05-trade-routes-and-transport.md#tolls-and-customs)).
-
-**Ports and the sea:** Hallowbridge (main port, below the bridge), Ambremouth (outport and pilots, with the only lighthouse, on Ambre Ness), Brimhaven (port and royal shipyard), Wendmouth, Gullhaven, Meremouth, Coldhaven, Seacombe and Saltcove. Sea lanes hug the coast north to Thelland and south-west to Morvane, with one open-sea crossing east ([The sea](05-trade-routes-and-transport.md#the-sea-ships-harbours-and-sea-lanes)).
+- **Crossings:** the Ambre has only 4 fixed bridges: Hallowbridge, Ridgegate (71 km upstream), Liskmeet (51 km further) and Wyndfoot (95 km further). Between them: fords at Cheapford and Ambrefold, ferries at Kingsferry and Thornwick ([Crossing rivers](05-trade-routes-and-transport.md#crossing-rivers-bridges-fords-and-ferries)).
+- **Passes:** the Wyndgap is a low cart pass with a hospice near the summit, a toll, a castle and a chain of villages down to Wyndfoot. The Carrow Gap is a summer mule path with no towns ([Mountain passes](05-trade-routes-and-transport.md#mountain-passes)).
+- **Tolls:** pontage and port customs at Hallowbridge; bridge tolls at Ridgegate and Liskmeet; the Wyndgap; the Skel bridge into Thelland ([Tolls](05-trade-routes-and-transport.md#tolls-and-customs)).
+- **Ports:** Hallowbridge (below the bridge), Ambremouth (outport, pilots and the only lighthouse), Brimhaven (royal shipyard), Wendmouth, Gullhaven, Meremouth, Coldhaven, Seacombe, Saltcove. Sea lanes hug the coast; one open-sea crossing runs east ([The sea](05-trade-routes-and-transport.md#the-sea-ships-harbours-and-sea-lanes)).
 
 **Travel times** at the guide's [speeds per day](05-trade-routes-and-transport.md#speed-per-day): walker 25–35 km, ox cart 15–25 km, royal messenger 50–90 km, river boat 40–100 km downstream and 10–20 km upstream, sailing ship 40–100 km.
 
 | From Hallowbridge to | Distance | On foot | Ox cart | Messenger | By water |
 |---|---|---|---|---|---|
-| Ridgegate | 70 km (44 mi) | 2–3 days | 3–5 days | 1 day | — |
-| Liskmeet | 120 km (75 mi) | 3½–5 days | 5–8 days | 1½–2½ days | Downstream 1½–3 days; upstream 6–12 days |
+| Ridgegate | 70 km (44 mi) | 2–3 days | 3–5 days | 1 day | Upstream 3½–7 days |
+| Liskmeet | 120 km (75 mi) | 3½–5 days | 5–8 days | 1½–2½ days | Upstream 6–12 days; back downstream 1½–3 days |
 | Norburgh | 127 km (79 mi) | 4–5 days | 5–9 days | 1½–2½ days | — |
 | Brimhaven | 167 km (104 mi) road; 182 km (113 mi) sea | 5–7 days | 7–11 days | 2–3½ days | Sailing ship 2–5 days |
-| Skelbridge (border) | 170 km (106 mi) | 5–7 days | 7–11 days | 2–3½ days | An army with baggage: 9–13 days |
+| Skelbridge (border) | 170 km (106 mi) | 5–7 days | 7–11 days | 2–3½ days | — |
 | Wendmouth | 173 km (107 mi) road; 373 km (232 mi) sea | 5–7 days | 7–12 days | 2–3½ days | Sailing ship 4–9 days |
 | Wyndfoot | 218 km (135 mi) | 6–9 days | 9–15 days | 2½–4½ days | — |
 | Wyndgap pass | 285 km (177 mi) | 8–11 days | 11–19 days | 3–6 days | — |
+
+An army with baggage (13–20 km a day) needs 9–13 days to reach the Skel bridge, so the North March must hold out alone for about two weeks.
 
 > **Map tip:** Draw the navigable Ambre thicker up to Cheapford, the 4 bridges as bars, the fords as dashes and the ferries as small boats. Write the travel days on the long roads ("Norburgh 4 days"). Every road must end somewhere: a town, a port, a pass, a mine or a shrine ([Drawing the route network](05-trade-routes-and-transport.md#drawing-the-route-network)).
 
@@ -293,28 +292,28 @@ About 900 km of royal highway needs an inn or inn town every 15–30 km (10–19
 | Parish churches | ~8,000 (7,700 villages plus ~300 in towns and cities; one per ~14.5 km², 5.6 sq mi) | ~73 per 1,000 km² would give ~8,500 |
 | Dioceses (cathedrals) | 13, about 9,000 km² (3,500 sq mi) each | English style: one per 5,000–10,000 km² |
 | Archbishop | 1, at Liskmeet: the oldest city, not the capital | Oldest or richest city |
-| University | 1, at Liskmeet | 1 per 3–4 million people c. 1300 |
+| University | 1, at Liskmeet | 1–2 for a kingdom of 2–5 million, in the capital or oldest cathedral city |
 | Religious houses | ~730 (one per ~160 km²) | about 1 per 150 km² |
 | Hospitals open c. 1300 | ~280: one per market town, 2–5 per walled town | Gates, bridges, main roads |
 | Leper houses | ~50: one outside each town of 2,000+, one on each main road out of the capital and cities | 1–2 km outside the gate |
 
-**Cathedral cities:** Liskmeet (archbishop), Hallowbridge, Wendmouth, Brimhaven, Ridgegate, Norburgh, Wyndfoot, Holmstow (a monastic cathedral, like Ely), Hawkridge, Wendbury, Merrow, Carrowdale and Woldby. In an English-style realm a cathedral marks a main town, so 12 of the 13 are cities or larger towns ([Dioceses](08-religious-cultural-and-ancient-sites.md#dioceses-cathedrals-and-archbishops)).
+**Cathedral cities:** Liskmeet (archbishop), Hallowbridge, Wendmouth, Brimhaven, Ridgegate, Norburgh, Wyndfoot, Holmstow (a monastic cathedral, like Ely), Hawkridge, Wendbury, Merrow, Carrowdale and Woldby. In an English-style realm a cathedral marks an important place: 9 of the 13 are cities or towns of 4,000+, and the other 4 are county towns of 2,400–3,600 ([Dioceses](08-religious-cultural-and-ancient-sites.md#dioceses-cathedrals-and-archbishops)).
 
 **Religious houses by order** (England's numbers scaled to Daravel's area; [Monasteries](08-religious-cultural-and-ancient-sites.md#monasteries-friaries-and-military-orders)):
 
 | Order | Number | Where |
 |---|---|---|
-| Benedictine and Cluniac monks | ~165 | In or beside old towns: Westhallow (royal), Holmstow (shrine), Abbotsmere (a monastery town) |
-| Cistercian monks | ~60 | Empty, well-watered valleys: Harnvale, Greywater, Coldwater, Stillwater, Mirefield. Harnvale cleared a village to get its "desert". |
-| Carthusians | 1 | Sallowhope, deep in the Fells. England had only two charterhouses by 1300 (Witham 1178, Hinton 1227); seven more came later. |
-| Augustinian and other canons | ~270 | At town edges, hospitals and castles |
+| Benedictine and Cluniac monks | ~165 | Old towns: Westhallow (royal), Holmstow (shrine), Abbotsmere (monastery town) |
+| Cistercian monks | ~60 | Empty, watered valleys: Harnvale, Greywater, Coldwater, Stillwater, Mirefield |
+| Carthusians | 1 | Sallowhope, deep in the Fells. England had only two charterhouses by 1300 (Witham 1178, Hinton 1227). |
+| Augustinian and other canons | ~270 | Town edges, hospitals, castles |
 | Nunneries | ~130 | Quiet rural sites |
-| Friaries | ~75 | Inside towns: 6 in the capital, 3 in each city, 2 in each large town, 1–2 in most county towns |
-| Military-order commanderies | ~25 | One farm estate per inland county (Temple Ambre is shown) |
+| Friaries | ~75 | In towns: 6 in the capital, 3 per city, 2 per large town, 1–2 in most county towns |
+| Military-order commanderies | ~25 | One farm estate per inland county |
 
-Each big abbey gets 5–40 granges (outlying farms), most within about 25 km (15 mi), a day's walk for the lay brothers.
+Each big abbey has 5–40 granges (outlying farms), most within about 25 km (15 mi).
 
-**The pilgrimage:** the shrine of the invented national saint, St Aldwen, at **Holmstow Abbey** on its fen island. The Pilgrims' Way runs 87 km (54 mi) from the capital round the fen edge to the pilgrim town of Stowford, then by causeway (or by boat down the Holm Lode) to the shrine. At about 20 km (12 mi) per pilgrim stage that is 4–5 stages, with a hospice at Stowford and a leper house on the last stretch ([Pilgrimage](08-religious-cultural-and-ancient-sites.md#pilgrimage-shrines-routes-and-hostels)).
+**The pilgrimage:** the shrine of the invented national saint, St Aldwen, is at **Holmstow Abbey** on its fen island. The Pilgrims' Way runs 87 km (54 mi) from the capital to the pilgrim town of Stowford, then by causeway or boat to the shrine: 4–5 stages of about 20 km (12 mi), with a hospice at Stowford and a leper house on the last stretch ([Pilgrimage](08-religious-cultural-and-ancient-sites.md#pilgrimage-shrines-routes-and-hostels)).
 
 > **Map tip:** At kingdom scale, show only the 13 cathedrals (with a bigger symbol for Liskmeet), the great abbeys, the shrine and the university. Save the 8,000 parish churches and the friaries for local and town maps.
 
@@ -324,19 +323,18 @@ Each big abbey gets 5–40 granges (outlying farms), most within about 25 km (15
 
 **Method:** for every industry, find the resource, the fuel and the way out ([The basic rules](07-industry-and-resources.md#the-basic-rules-what-pulls-industry-to-a-place)). The guide suggests 1–3 mining districts, 1–3 salt sources, one cloth region, one or two fair towns and several ports per kingdom ([Special town types](07-industry-and-resources.md#special-town-types-and-how-to-spot-them)).
 
-| Industry | Resource, fuel and way out | Special place | Size |
-|---|---|---|---|
-| Silver and lead | Veins in the Fells; wood and fast streams; road down the Hope Water to Wyndfoot | Silverhope (royal mint), Leadgill, Orsdale: 24–28 km (15–17 mi) apart | 3,500; 2,200; ~900. A mining town usually has 1,000–5,000 ([Mining](07-industry-and-resources.md#mining-and-metals)). |
-| Brine salt | Brine springs; fuel by water (Harnwood timber, fen peat); three Salt Roads, one to a landing on the estuary 26 km (16 mi) away | Saltwich | 4,000 ([Salt](07-industry-and-resources.md#salt)) |
-| Sea salt | Salterns (boiling sea water) on the Saltings; small output, as in the north | Hamlets on the marsh edge | — |
-| Building stone and lime | Limestone of the Whitridge right beside the Ambre | Chalkhythe quarries and kilns | Hamlet ([Stone, clay and lime](07-industry-and-resources.md#stone-clay-and-lime)) |
-| Iron, charcoal, glass | Ore, coppiced woods and streams of the Harnwood; iron goes down the navigable Lisk | Forgeham, forge ponds, a glasshouse | 2,800 ([Forest industries](07-industry-and-resources.md#forest-industries)) |
-| Wool and cloth | Sheep on the Fells, Wend Downs and Brim Wolds; fulling mills on the fast Tenter Water | Tenterford (cloth town); Cheapford (wool fair); Brimhaven (wool export) | 8,000; 3,800; 10,000 ([Textiles](07-industry-and-resources.md#textiles)) |
-| Fish | Autumn herring off the north-east coast; salt from Saltwich | Gullhaven herring fair; fishing hamlets a few km apart on sheltered coasts | 3,000 ([Fishing](07-industry-and-resources.md#fishing)) |
-| Ships | Harnwood oak via the Brim; tar imported | Royal shipyard at Brimhaven, facing Thelland | Part of the city |
-| Wine and brick | South-facing slopes at Abbotsmere (small monastic vineyards); estuary clay | Abbotsmere; brickfields outside Hallowbridge | — |
+| Industry | Resource, fuel and way out | Special place (people) |
+|---|---|---|
+| Silver and lead ([Mining](07-industry-and-resources.md#mining-and-metals)) | Veins, wood and fast streams in the Fells; road down to Wyndfoot | Silverhope with the royal mint (3,500), Leadgill (2,200), Orsdale (~900), 25–28 km (16–17 mi) apart; mining towns usually have 1,000–5,000 |
+| Brine salt ([Salt](07-industry-and-resources.md#salt)) | Brine springs; fuel by water (timber, fen peat); three Salt Roads, one to an estuary landing 26 km (16 mi) away | Saltwich (4,000) |
+| Sea salt | Salterns boiling sea water on the Saltings; small output, as in the north | Marsh-edge hamlets |
+| Stone and lime ([Stone](07-industry-and-resources.md#stone-clay-and-lime)) | Whitridge limestone right beside the Ambre | Chalkhythe quarries and kilns |
+| Iron, charcoal, glass ([Forest industries](07-industry-and-resources.md#forest-industries)) | Ore, coppice and streams of the Harnwood; iron goes down the Lisk | Forgeham (2,800), forge ponds, a glasshouse |
+| Wool and cloth ([Textiles](07-industry-and-resources.md#textiles)) | Sheep on the Fells, downs and wolds; fulling mills on the Tenter Water | Tenterford (8,000), Cheapford wool fair (3,800), Brimhaven wool exports |
+| Fish ([Fishing](07-industry-and-resources.md#fishing)) | Autumn herring; Saltwich salt | Gullhaven herring fair (3,000); fishing hamlets a few km apart |
+| Ships, wine, brick | Harnwood oak via the Brim; south slopes; estuary clay | Royal shipyard at Brimhaven; monastic vineyards at Abbotsmere; brickfields at Hallowbridge |
 
-Every region still grows its own grain first. The mining towns import food from the vale through Wyndfoot ([Common mistakes, no. 26](11-common-mistakes.md#26-single-product-economies)).
+Every region still grows its own grain first; the mining towns buy food from the vale through Wyndfoot ([Common mistakes, no. 26](11-common-mistakes.md#26-single-product-economies)).
 
 > **Map tip:** Give each special place a visible reason: crossed hammers at Silverhope, salt pans on the Saltings, a quarry notch at Chalkhythe, a fair meadow at Cheapford, tenter frames at Tenterford. Label the three roads out of Saltwich "Salt Road".
 
@@ -348,13 +346,13 @@ Every region still grows its own grain first. The mining towns import food from 
 
 | Layer | In Daravel | Real model |
 |---|---|---|
-| Roads of an older empire | Old Street (Liskmeet–Wendmouth) and Fell Street (Liskmeet–Hawkridge): straight, still used | Roman roads such as Watling Street |
-| Old towns and forts | Liskmeet and Hawkridge stand on old imperial sites. **Wendchester**, a walled town of the old empire, is a ruin in the fields about 10 km (6 mi) from Wendmouth. | Wroxeter, abandoned, 8 km from Shrewsbury ([Reuse of ancient sites](01-settlement-placement.md#reuse-of-ancient-and-roman-sites)) |
-| Hillforts | Hundreds on the downs, wolds and hill edges; show 6 on the kingdom map. **Old Harrow**, above Wyndfoot, has a ruined church: the bishop moved down to the river town. | Old Sarum and Salisbury |
-| Barrows and stones | Barrow groups along the Wend Downs ridge; the Grey Wives stone circle in the Fells | Chalk downs; Avebury |
-| Old border | The Thelling Dyke, an earth bank 25 km (16 mi) inside today's border | Offa's Dyke |
-| Abandoned castles | ~485 grassy mottes and ringworks; show about 10 | One-third of English castle sites in use at once |
-| Deserted villages | Few in 1300: Old Harnvale (cleared by the Cistercians), Lostwick (cleared for the royal forest), Skelby (burnt in border raids) | Most English desertions came after 1350 ([Deserted villages](01-settlement-placement.md#deserted-medieval-villages)) |
+| Older empire's roads | Old Street and Fell Street: straight, still used | Watling Street |
+| Old towns and forts | Liskmeet and Hawkridge stand on old imperial sites; **Wendchester** is a walled ruin in the fields about 10 km (6 mi) from Wendmouth | Wroxeter, 8 km from Shrewsbury ([Reuse](01-settlement-placement.md#reuse-of-ancient-and-roman-sites)) |
+| Hillforts | Hundreds; show 6. **Old Harrow** above Wyndfoot has a ruined church: the bishop moved down to the river town. | Old Sarum and Salisbury |
+| Barrows and stones | Barrows on the Wend Downs ridge; the Grey Wives stone circle in the Fells | Avebury |
+| Old border | The Thelling Dyke, 25 km (16 mi) inside today's border | Offa's Dyke |
+| Abandoned castles | ~485 mottes and ringworks; show about 10 | |
+| Deserted villages | Few in 1300: Old Harnvale (cleared by Cistercians), Lostwick (royal forest), Skelby (burnt in raids) | Most came after 1350 ([Deserted villages](01-settlement-placement.md#deserted-medieval-villages)) |
 
 > **Map tip:** Draw ruins grey or dotted. If you redate the map to 1450, add dozens of "lost village" symbols in the clay vale, shrink the towns inside their walls and turn hill fields back into pasture.
 
@@ -373,36 +371,31 @@ The local map covers 10 × 10 km (6 × 6 mi), 100 km² (39 sq mi), of rich vale 
 | Hamlets | 5 | 0–5 in open-field lowland |
 | Mills | 11 (10 watermills, 1 windmill) | ~8–11 |
 | Manors | 9 lay manors and 1 monastic grange; 5 of them moated | ~4–5 moated sites |
-| Deer parks | 2 (Stanmere Park about 1.1 km across, Ashlade Park about 0.8 km) | ~2–3 |
-| Fishponds | 2 groups (a chain of 4 below Stanmere Hall; 2 at the grange) | at least 1–2 |
-| Hundred meeting place | 1: Ley Low, a mound beside the King's Way | ~0.5–0.7 |
-| Other | St John's hospital at Leyford bridge, Gallows Hill, two wayside crosses, a rabbit warren on the heath | — |
+| Deer parks | 2 (about 1.1 km and 0.8 km across) | ~2–3 |
+| Fishponds | 2 groups (6 ponds) | at least 1–2 |
+| Hundred meeting place | 1 (Ley Low, a mound by the King's Way) | ~0.5–0.7 |
+| Other | Hospital, gallows, 2 wayside crosses, a rabbit warren | — |
 
 **Households** (4.5–5 people each; [Village territory](06-villages-and-countryside.md#sizes-territory-and-walking-distances)):
 
-| Place | Households | People | Notes |
-|---|---|---|---|
-| Leyford (market town) | 160 | 720–800 | Market place and cross, 2 inns, town mill, hospital, bridge |
-| Stanmere | 75 | 340–375 | Moated hall, dovecote, fishponds, deer park |
-| Thornwick | 70 | 315–350 | Two manors; ferry over the Ambre |
-| Kettlebury | 60 | 270–300 | Moated Kettlebury Court |
-| Hollowell | 55 | 250–275 | Moated hall |
-| Ashlade | 50 | 225–250 | Moated manor, small park |
-| Crossby | 50 | 225–250 | Windmill, crossroads cross |
-| Oxlade | 45 | 200–225 | Cistercian grange with a great barn nearby |
-| Upper Ley | 40 | 180–200 | Heath-edge commons |
-| Brackenhurst | 35 | 160–175 | Heath-edge commons |
-| 5 hamlets | 40 | 180–200 | Mill End, Fennick End, Heathcot, Woodside, Coldhams |
-| Mills, grange, lodges | 12 | 55–60 | Millers, warrener, park keepers, lay brothers |
-| **Total** | **692** | **~3,100–3,450 (31–35 per km²)** | |
+| Place | Households | People |
+|---|---|---|
+| Leyford (market town: market cross, 2 inns, hospital, bridge) | 160 | 720–800 |
+| Stanmere (moated hall, dovecote, fishponds, park) | 75 | 340–375 |
+| Thornwick (two manors, Ambre ferry) | 70 | 315–350 |
+| Kettlebury, Hollowell, Ashlade (each with a moated manor) | 60, 55, 50 | 740–825 |
+| Crossby (windmill), Oxlade (grange nearby) | 50, 45 | 425–475 |
+| Upper Ley, Brackenhurst (heath-edge commons) | 40, 35 | 340–375 |
+| 5 hamlets (Mill End, Fennick End, Heathcot, Woodside, Coldhams) | 40 | 180–200 |
+| Millers, warrener, park keepers, grange lay brothers | 12 | 55–60 |
+| **Total** | **692** | **~3,100–3,450 (31–35 per km²)** |
 
 **How it is laid out:**
 
-- **Spacing:** villages are 1.5–3.4 km (1–2 mi) apart (rule: 1.5–4 km). The farthest village, Brackenhurst, is 5.5 km (3.4 mi) from Leyford's market, an easy walk there and back in a day.
-- **Rings of land use** ([Rings of land use](06-villages-and-countryside.md#rings-of-land-use-around-a-village)): tofts and crofts by the houses; two or three great open fields within about 1.2–1.7 km (0.7–1 mi) of each village; meadow on the Ambre flood plain and in ribbons along the brooks; four coppice woods at the parish edges; Ley Heath (common pasture and the warren) on the sandy ground in the south.
-- **Water and mills:** the Ley Brook, the Hollow Beck and the Ash Brook run north into the Ambre. The Ley's four mills are 1.6–2.8 km apart. The navigable Ambre has no mill weir. The village on the rise with no stream gets the windmill ([Mills](06-villages-and-countryside.md#mills-and-water-management)).
-- **Roads:** the King's Way crosses east to west, cleared 200 ft (61 m) on each side under the Statute of Winchester; lanes run from every village to Leyford like spokes; drove tracks lead to the heath; a lane runs down to the Thornwick ferry.
-- **Villages** sit on terraces above the flood plain, not in it, each with its church beside the manor house ([Village forms](06-villages-and-countryside.md#village-forms-and-layouts)).
+- **Spacing:** villages 1.5–3.4 km (1–2 mi) apart (rule: 1.5–4 km), all on terraces above the flood plain, each church beside its manor house ([Village forms](06-villages-and-countryside.md#village-forms-and-layouts)). The farthest, Brackenhurst, is 5.5 km (3.4 mi) from Leyford market.
+- **Rings** ([Rings of land use](06-villages-and-countryside.md#rings-of-land-use-around-a-village)): tofts and crofts by the houses; two or three open fields within 1.1–1.7 km (0.7–1 mi); meadow on the Ambre flood plain and along the brooks; four coppice woods at the parish edges; Ley Heath (common pasture and warren) on the sandy south.
+- **Mills:** three brooks run north into the Ambre; the Ley's four mills are 1.6–2.8 km apart; the navigable Ambre has no mill weir; Crossby, with no stream, has the windmill ([Mills](06-villages-and-countryside.md#mills-and-water-management)).
+- **Roads:** the King's Way, cleared 200 ft (61 m) each side under the Statute of Winchester; lanes from every village to Leyford like spokes; drove tracks to the heath; a lane to the Thornwick ferry.
 
 > **Map tip:** At this scale every square kilometre has an owner and a name. Draw parish boundaries as dash-dot lines along brooks and wood edges, put a mill on every village's stream, and keep empty white space only for the heath, which you label.
 
@@ -424,27 +417,27 @@ Apply the real rules first, then change one input and follow the chain ([The met
 
 **B. Dwarves under the Fells** ([Dwarves](10-fantasy-variants.md#dwarves-mountain-holds-and-gate-towns)):
 
-- A hold of about 10,000 dwarves under Silverhope would need farmland within about 55 km (35 mi) on marginal land. The Fells cannot provide it, so the hold must buy food.
-- At 200–250 kg of grain per person a year, that is 2,000–2,500 tonnes: 17,000–25,000 pack-horse loads of 100–120 kg, or about 45–70 loads every day.
-- So grain comes by boat to Cheapford, the head of navigation, then about 90 km (56 mi) by road to a **gate town** at Fellbridge on the valley floor. Fellbridge grows from a market town into one of the Fells' main towns. Metal and coin flow back down the same road.
-- A dwarven tunnel under the Wyndgap would be a pass with no snow season ([Mountain passes](05-trade-routes-and-transport.md#mountain-passes)). It would draw traffic off the pass, and its toll would go to the dwarves. Real tunnels were short (about 8–9 km between two Cappadocian underground towns), so draw one tunnel, not a network.
+- A hold of about 10,000 under Silverhope would need farmland within about 55 km (35 mi) on marginal land. The Fells cannot supply it, so the hold buys food.
+- At 200–250 kg of grain per person a year that is 2,000–2,500 tonnes: 17,000–25,000 pack-horse loads of 100–120 kg, or 45–70 loads a day.
+- Grain comes by boat to Cheapford, the head of navigation, then 90 km (56 mi) by road to a **gate town** at Fellbridge on the valley floor, which grows from a market town into a main Fells town. Metal and coin flow back down.
+- A dwarven tunnel under the Wyndgap is a pass with no snow season ([Mountain passes](05-trade-routes-and-transport.md#mountain-passes)): it takes the traffic and the toll. Real tunnels were short (8–9 km between two Cappadocian underground towns), so draw one, not a network.
 
-> **Fantasy twist:** Change no more than these two inputs. The vale, the rivers, the capital, the counties and the 7,700 villages stay exactly where the real rules put them. That contrast is what makes the fantasy parts feel real.
+> **Fantasy twist:** Change only these two inputs. The vale, rivers, capital, counties and 7,700 villages stay where the real rules put them, and that contrast makes the fantasy parts feel real.
 
 ---
 
 ## Quick summary
 
-- **Land × density:** 116,500 km² (45,000 sq mi) of six land types gives about 2.4 million people (1.9–2.9 million), ~21 per km² (54 per sq mi).
-- **Average urban profile:** 4 cities, 38 towns, ~180 market towns and ~7,700 villages, about 3.3 km (2 mi) apart in the vale.
-- **Primate capital:** Hallowbridge, 40,000 (1.65% of the realm), 3.3 times the second city, at the lowest bridge on the Ambre, 83 km (52 mi) up its estuary.
-- **Royal landscape:** palace and burial abbey 4 km (2.5 mi) upstream, 5 residences within 43 km (27 mi), a royal forest, and coronation in the old archbishop's city 119 km (74 mi) away.
-- **Politics:** 6 great fiefs plus the Crownlands, 33 counties of ~3,500 km² (1,370 sq mi), ~750 hundreds, a North March with a 30 km (19 mi) frontier band, a Debatable Land and a church liberty.
-- **Castles:** ~710 sites ever built, ~225 in use: 20–30 km (12–19 mi) apart in the core, a forward line every 29–43 km (18–27 mi) on the border, a beacon chain to the capital, and a field army of 5,000–12,000.
-- **Routes:** water first (83 km of estuary, 158 km of navigable river), ~900 km of royal highway with an inn every 15–30 km, only 4 bridges on the Ambre, one cart pass; the capital is 4–5 days' walk from Liskmeet.
-- **Church:** ~8,000 parishes, 13 dioceses, ~730 religious houses (~75 of them friaries), 1 university and one great shrine 4–5 pilgrim stages from the capital.
-- **Industry:** one mining district, two salt sources, one cloth region, two fairs, a quarry, a forest iron district and 9 ports, each with a visible reason on the map.
-- **Time and fantasy:** add the old empire's roads and ruins, abandoned mottes and a few deserted villages; then change only one or two fantasy inputs and follow their consequences.
+- **Land × density:** 116,500 km² (45,000 sq mi) gives about 2.4 million people (1.9–2.9 million), ~21 per km² (54 per sq mi).
+- **Average urban profile:** 4 cities, 38 towns, ~180 market towns and ~7,700 villages, 3.3 km (2 mi) apart in the vale.
+- **Primate capital:** Hallowbridge, 40,000 (1.65% of the realm, 3.3 times the second city), at the lowest bridge, 83 km (52 mi) up the estuary.
+- **Royal landscape:** palace and burial abbey 4 km (2.5 mi) away, 5 residences within 43 km (27 mi), a royal forest, coronation 119 km (74 mi) away in the archbishop's city.
+- **Politics:** 6 great fiefs plus the Crownlands, 33 counties of ~3,500 km² (1,370 sq mi), ~750 hundreds, a march with a 30 km (19 mi) frontier band, a Debatable Land, a church liberty.
+- **Castles:** ~710 sites, ~225 in use: 20–30 km (12–19 mi) apart in the core, a forward line every 29–43 km (18–27 mi), a beacon chain, a field army of 5,000–12,000.
+- **Routes:** water first; ~900 km of royal highway with an inn every 15–30 km; 4 bridges on the Ambre; one cart pass; Liskmeet is 3½–5 days' walk from the capital.
+- **Church:** ~8,000 parishes, 13 dioceses, ~730 religious houses (~75 friaries), 1 university, 1 great shrine.
+- **Industry:** one mining district, two salt sources, one cloth region, two fairs, a quarry, an iron forest and 9 ports, each with a visible reason.
+- **Time and fantasy:** add old roads, ruins and abandoned mottes; then change one or two fantasy inputs and follow the consequences.
 
 ---
 
