@@ -13,45 +13,24 @@ This guide is being written in stages. This file records what is done, what is l
 
 | File | Status |
 |---|---|
-| `research/baseline-numbers.md` | Done: shared numbers every chapter uses (sizes, density, travel speeds, spacing). Not separately fact-checked yet. |
-| `guide/01-settlement-placement.md` | Drafted, not fact-checked |
-| `guide/02-population-and-sizes.md` | Drafted, not fact-checked |
-| `guide/03-capitals-and-borders.md` | Drafted, not fact-checked |
-| `guide/04-military-sites.md` | To do |
-| `guide/05-trade-routes-and-transport.md` | To do |
-| `guide/06-villages-and-countryside.md` | To do |
-| `guide/07-industry-and-resources.md` | To do |
-| `guide/08-religious-cultural-and-ancient-sites.md` | To do |
-| `guide/09-later-era-1500-1650.md` | To do |
-| `guide/10-fantasy-variants.md` | To do |
-| `guide/11-common-mistakes.md` | To do |
-| `guide/00-step-by-step.md` | To do (stage 2) |
-| `guide/12-worked-example.md` | To do (stage 2) |
-| `guide/13-quick-reference.md` | To do (stage 2) |
-| `README.md` | Stub; full version in stage 2 |
+| `research/baseline-numbers.md` | Done; corrected after the chapter fact-checks |
+| `guide/01` – `guide/11` | Written and fact-checked (60–90 claims checked per chapter, 17–30 corrections each) |
+| `guide/00-step-by-step.md` | In progress (stage 2) |
+| `guide/12-worked-example.md` + `guide/images/` map | In progress (stage 2) |
+| `guide/13-quick-reference.md` | To do: write after the audit fixes |
+| Audit (gaps + cross-chapter consistency) | In progress; then apply fixes per chapter |
+| `README.md` | Stub; finish last |
 
 ## How to continue (next session)
 
-### Stage 1: finish the chapters and fact-check them
+Stage 1 (chapters 01–11) is finished. Stage 2 uses `.claude/workflows/assemble-guide.js`. Run it by name, or by `scriptPath` if the name is not listed yet, in this order:
 
-The workflow `.claude/workflows/continue-guide.js` holds the full chapter scopes and style rules. Start a session on branch `claude/fantasy-map-settlements-ld6k5n` and say:
+1. `{"mode": "audit"}` returns `gaps` and `fixes` but does not edit anything.
+2. Group the audit output by file, then run `{"mode": "fix", "jobs": [{"file": "04-military-sites.md", "instructions": ["...", "..."]}]}`. Split the jobs across several parallel runs, because each run only does 2 agents at a time on this machine.
+3. `{"mode": "write", "targets": ["00", "12"]}` can run alongside the fixes. Run `{"mode": "write", "targets": ["13"]}` only after the fixes.
+4. `{"mode": "final"}`, then run `python3 tools/check_links.py` and finish `README.md`.
 
-> Run the `continue-guide` workflow, then commit and push.
-
-By default it writes chapters 04–11, then fact-checks 01–11. Each fact-checker verifies the numbers and examples against sources and fixes them in the file. To run only part of it, pass args, for example `{"write": ["04", "05"], "check": ["01", "02", "03"]}`.
-
-If the usage limit interrupts a run, commit whatever chapters are finished. Then rerun the workflow with only the missing numbers in `write` and `check`.
-
-### Stage 2: assemble the guide
-
-This runs after all chapters exist and are checked.
-
-1. **Completeness critic:** read every chapter and list missing human-made features or topics. Also flag numbers that contradict each other between chapters. Fix them in the chapter that owns each topic. Owners: 02 for population numbers, 05 for travel speeds and costs, 04 for fortifications.
-2. **`guide/00-step-by-step.md`:** the master method for continent, then kingdom, then local area. Terrain and water → farmland → villages → market towns → cities → capital → roads and rivers → castles and borders → industry → religious sites → ruins → sanity check. Each step links to its chapter.
-3. **`guide/12-worked-example.md`:** populate one sample kingdom from start to finish. Choose an area and terrain, compute the population, count villages, towns and cities, then place the capital, castles, routes and monasteries, with the numbers shown.
-4. **`guide/13-quick-reference.md`:** a one-page cheat sheet of every key number. It must match the chapters exactly.
-5. **`README.md`:** introduction, how to use the guide, table of contents.
-6. **Final consistency pass:** check that links work, numbers match across files, and the callout formats are consistent.
+Known cross-chapter items for the consistency pass: Ghent c. 1300 (02 says 40–65k; 07 was aligned to the old 55–70k baseline), and the "towns above 10k on navigable water" rule now has exceptions (02, 07).
 
 ## Style rules (summary)
 
