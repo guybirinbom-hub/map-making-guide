@@ -32,7 +32,7 @@ Pick one year and keep to it. These four dates give four quite different maps. E
 | **c. 1100** | Growing, but thin. England had about 1.7 million people in 1086, about a third of its 1300 peak. Fewer and smaller towns. | Mostly mottes (man-made earth mounds) and ringworks of earth and timber; a few great stone keeps (the White Tower, London, c. 1075–1100). | No friaries yet (they arrive in the 1210s–1220s). Universities are only beginning (Bologna, late 11th century). The Cistercian order is new (founded 1098). | Most western kings travel: draw 5–15 royal residences, not one capital. Watermills, but no windmills (first certain record 1185). |
 | **c. 1300** | The crowded peak: England about 4.75 million. Most towns and markets have been founded (1,746 English markets recorded by 1300, many tiny). | Stone castles, concentric castles and town walls. | Friaries in every big town; about 20 universities in Europe. | Fixed capitals in the strongest kingdoms (Paris, Westminster and London). Windmills common in flat, dry country. |
 | **c. 1450** | A third to a half fewer people after the Black Death (1347–51) and later plagues; England's low point was about 1.9 million c. 1450. Deserted villages and more sheep pasture; many small markets are failing. | Many 12th-century castles half-ruined; tower houses in raided borders; by the mid-1400s cannon decide sieges. | Universities spreading (60–80 by 1500). | The first canal pound locks (Low Countries, northern Italy). |
-| **c. 1600** | Back near the 1300 level (England about 4.1 million). Capitals and ocean ports 2–4 times bigger than in 1500 (London about 200,000). | Star forts at frontiers, capitals and main ports; interior castles become ruins or palaces. | In Protestant lands most monasteries are closed (England 1536–1541): draw abbey ruins and a religious border. | Fixed capitals everywhere (Madrid from 1561); post roads with stations every 20–40 km (12–25 mi); ocean trade. |
+| **c. 1600** | Back near the 1300 level (England about 4.1 million). Capitals and ocean ports 2–4 times bigger than in 1500 (London about 200,000). | Star forts at frontiers, capitals and main ports; interior castles become ruins or palaces. | In Protestant lands most monasteries are closed (England 1536–1541): draw abbey ruins, and show each faith as a soft colour tint, not a new border line. | Fixed capitals everywhere (Madrid from 1561); post roads with stations every 20–40 km (12–25 mi); ocean trade. |
 
 All figures come from the guide's chapters: [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague), [When and why capitals became fixed](03-capitals-and-borders.md#when-and-why-capitals-became-fixed) and [What Changes After 1500](09-later-era-1500-1650.md).
 
@@ -104,7 +104,7 @@ The counts are for c. 1300 and an English-style realm unless the table says othe
 | **Routes** | Sea lanes, river spines and long trade routes; 1–3 main passes per mountain range | Main roads: about 30 km per 1,000 km² (48 mi per 1,000 sq mi); an inn or village every 15–30 km (10–19 mi); bridges about 20 km (12 mi) apart on a lowland river; minor passes and hospices | All roads, lanes and footpaths: 2–3 roads out of each village |
 | **Church** | 1–2 great shrines on the whole continent; archbishops' seats; universities (only about 20 in all Europe c. 1300) | Cathedrals: 5–10 per 50,000 km² in an English-style church, 25–100 in an Italian-style one; great abbeys; 1–3 shrines; 0–2 universities | Every parish church (about 7 per 100 km², or 73 per 1,000 km²); abbeys, friaries, hospitals, leper houses and gallows |
 | **Industry and resources** | Mining-district symbols on 3–6 mountain areas; one or two great fair regions | 1–3 mining districts, 1–3 salt sources, one cloth region, 1–2 fair towns and several ports | Shafts, quarries and saltpans; mills, about 8–11 per 100 km² (roughly one per village) |
-| **Manors and parks** | — | Royal forests, as dotted boundaries | Moated sites (4–5 per 100 km²), deer parks (2–3 per 100 km²), fishponds and warrens |
+| **Manors and parks** | — | Royal forests, as green dash-dot boundaries | Moated sites (4–5 per 100 km²), deer parks (2–3 per 100 km²), fishponds and warrens |
 | **Ruins and older layers** | Only famous ruins and the old empire's roads | Big ruins and long straight old roads | All: hillforts (1–3 per 100 km² in hilly country), deserted villages and earthworks |
 
 **Example: an England-sized kingdom (130,000 km², 50,000 sq mi) on one sheet.** Draw about 6 cities of 10,000+, roughly 50–60 towns of 2,000–10,000, 30–40 counties, 13–26 cathedrals in the English style (England had 17), about 130 royal and major castles and about 3,900 km (2,400 mi) of main road. Leave the 9,500 villages and parish churches for local maps.
@@ -182,7 +182,7 @@ Here you decide where the people are, who rules them and how goods move.
 **Rules:**
 - A person needs about 1 ha (2.5 acres) of ploughland, or 2–3 ha (5–7 acres) of all land once pasture, meadow and woodland are counted.
 - A village needs arable (ploughed fields), meadow (hay), pasture and woodland, so the best land is where these meet: river valleys, plains and gentle hills.
-- Good lowland holds 30–50 people per km² (80–130 per sq mi) at its peak; uplands and mountains hold 2–10 (5–25 per sq mi).
+- Good lowland holds 30–50 people per km² (80–130 per sq mi) at its peak. Hill country (farmed valleys with upland grazing) holds 8–15 (21–39 per sq mi) at its peak; high uplands, moors and mountains hold only 2–5 (5–13 per sq mi).
 
 **Read:** [Population density](02-population-and-sizes.md#population-density)
 
@@ -194,7 +194,7 @@ Here you decide where the people are, who rules them and how goods move.
 
 **Rules:**
 1. **Measure** each zone. A hex's area is about 0.866 × (width across the flat sides)²; a 30 km hex is about 780 km².
-2. **Multiply by a density:** rich lowland 30–40 people per km², average land 15–25, hills 8–15, uplands, forest and marsh 2–5, desert 0. (Multiply by 2.59 for people per sq mi.)
+2. **Multiply by a density:** rich lowland 30–40 people per km², average land 15–25, hill country 8–15, high uplands, mountains, forest and marsh 2–5, desert 0. (Multiply by 2.59 for people per sq mi.)
 3. **Split the total** by an urban profile:
 
 | Per 1 million people | Frontier (Poland, Hungary, Scandinavia) | Average (England, France, Germany c. 1300) | Highly urban (Flanders, Lombardy, Tuscany) |
@@ -401,7 +401,7 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 **Rules:**
 - About one mill per village: watermills on streams with a weir and a leat (a channel to the wheel); windmills on high ground in flat, dry country.
 - The manor house stands beside the church, often moated, with a dovecote and fishponds.
-- A royal forest is a legal hunting area: draw a dotted boundary with villages and fields inside, not solid trees. Deer parks are rounded enclosures 0.5–1 km (0.3–0.6 mi) across.
+- A royal forest is a legal hunting area: draw a green dash-dot boundary and a large italic name, with villages and fields inside, not solid trees. Deer parks are rounded enclosures 0.5–1 km (0.3–0.6 mi) across.
 - Hundreds (districts within a county) about 12–15 km (7–9 mi) across meet at a mound, stone or ford. A gallows stands on a hill by the main road outside each town.
 
 | On a 20 × 20 km (12 × 12 mi) lowland map, England c. 1300 | Number |
@@ -424,13 +424,13 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 - Ruins near living towns are quarried away; they survive in empty country.
 - Draw a few long, straight "old roads" linking cities, and in hilly country 1–3 hillforts per 100 km² (39 sq mi).
 - In long-settled land, draw one or two castle ruins or earthworks for every active castle; on a new frontier, almost none.
-- England has more than 3,000 known deserted villages, at least 1,500 abandoned c. 1350–1520. Draw them as a lone church in a field.
+- England has more than 3,000 known deserted villages, at least 1,500 abandoned c. 1350–1520. Draw them as a grey lone church labelled "(lost village)".
 
 **Read:** [Ancient and ruined layers](08-religious-cultural-and-ancient-sites.md#ancient-and-ruined-layers); [How settlements change over time](01-settlement-placement.md#how-settlements-change-over-time)
 
 **Check:** Is there at least one older layer, and is every feature possible by the date in your title box?
 
-> **Map tip:** Use three styles: working features, old features still in use (like an ancient road), and ruins in grey or dashed lines. For the fine detail of Steps 14–16, follow the [method for a local map](06-villages-and-countryside.md#a-method-for-a-local-map) in chapter 06.
+> **Map tip:** Use three styles: working features, old features still in use (like an ancient road), and ruins drawn with the feature's own symbol, broken or grey, labelled "(ruin)". These styles match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). For the fine detail of Steps 14–16, follow the [method for a local map](06-villages-and-countryside.md#a-method-for-a-local-map) in chapter 06.
 
 ---
 
@@ -451,7 +451,7 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 **Check:** Does every magical city still show where its water and food come from?
 
-> **Later era (1500s+):** For a 1500–1650 map, keep the villages and market towns. Grow the capital and ocean ports, turn interior castles into ruins or palaces, and add star forts where they pay, post roads, a drained polder and a religious border. See [Drawing a world in transition](09-later-era-1500-1650.md#drawing-a-world-in-transition).
+> **Later era (1500s+):** For a 1500–1650 map, keep the villages and market towns. Grow the capital and ocean ports, turn interior castles into ruins or palaces, and add star forts where they pay, post roads, a drained polder and faith areas (soft colour tints, never a new border line). See [Drawing a world in transition](09-later-era-1500-1650.md#drawing-a-world-in-transition).
 
 ### Step 18: Run the final sanity check
 

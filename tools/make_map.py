@@ -411,6 +411,7 @@ LEG_TOP = [
     ('quarry', 'Quarry, lime'),
     ('mill', 'Fulling mills'),
     ('vines', 'Vineyards'),
+    ('arsenal', 'Royal shipyard'),
     ('industry', 'Other industry'),
     ('fair', 'Fair: months in label'),
 ]
@@ -812,6 +813,12 @@ def g_vines(x, y):
     return '<path d="%s" stroke="#6d3b5a" stroke-width="1.0" stroke-linecap="round"/>' % d
 
 
+def g_arsenal(x, y):
+    """Arsenal, naval base or royal shipyard: an anchor plus a castle tower."""
+    return (g_anchor(x - 1.6, y + 0.2, 0.72) +
+            '<path d="%s" fill="%s" stroke="#fffaf0" stroke-width="0.3"/>' % (tower_path(x + 2.6, y - 0.2, 0.5), C['ink']))
+
+
 def g_industry(x, y):
     return '<path d="M%s,%sL%s,%sL%s,%sL%s,%sZ" fill="#6b5a45"/>' % (
         f1(x), f1(y - 2.6), f1(x + 2.2), f1(y), f1(x), f1(y + 2.6), f1(x - 2.2), f1(y))
@@ -1116,7 +1123,7 @@ IND_GLYPH = {
     'Silverhope mines': g_mine, 'Leadgill mines': g_mine, 'Orsdale mines': g_mine,
     'Saltwich brine pits': g_salt, 'Saltings salterns': g_salt, 'Salthithe': g_salt,
     'Chalkhythe quarries': g_quarry, 'Cheapford fair meadow': None, 'Gullhaven strand': None,
-    'Tenter valley mills': g_mill, 'Abbotsmere vineyards': g_vines,
+    'Tenter valley mills': g_mill, 'Abbotsmere vineyards': g_vines, 'Brimhaven yard': g_arsenal,
 }
 # fairs have no symbol of their own (chapter 13): the fair months go in the town's label
 FAIRS = {'Cheapford': 'wool fair, Sept.', 'Gullhaven': 'herring fair, Sept.–Nov.'}
@@ -1969,6 +1976,8 @@ def leg_row(kind, x, y):
         return g_mill(x, y)
     if kind == 'vines':
         return g_vines(x, y)
+    if kind == 'arsenal':
+        return g_arsenal(x, y)
     if kind == 'industry':
         return g_industry(x, y)
     if kind == 'fair':

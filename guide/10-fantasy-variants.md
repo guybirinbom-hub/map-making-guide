@@ -297,7 +297,7 @@ Each common fantasy people matches a real way of life. Use the real way of life 
 
 **Underground roads:** real tunnels were short. The tunnel said to link Derinkuyu with the next underground town, Kaymaklı, is about 8–9 km (5–5.6 mi) long. A long underground road between holds is a wonder of the world. Draw a few, not a network.
 
-> **Map tip:** For each dwarf hold, draw one gate town on the valley floor, a road climbing to the gate (a small arched doorway in the mountainside), a mine symbol (crossed hammers), smelter symbols on the stream below, and bare slopes where trees were cut for charcoal. Group holds into a league (like the Hanse) with one leading hold.
+> **Map tip:** For each dwarf hold, draw one gate town on the valley floor, a road climbing to the gate (a small, clearly rounded arched doorway set into the mountainside, so it is not read as a flat-topped gallows), a mine symbol (crossed hammers), smelter symbols on the stream below, and bare slopes where trees were cut for charcoal. Group holds into a league (like the Hanse) with one leading hold.
 
 ### Elves: forest realms
 
@@ -488,7 +488,7 @@ These symbols match the guide's [master legend](13-quick-reference.md#master-leg
 
 | Feature | Symbol | Notes |
 |---|---|---|
-| Dwarf hold gate † | Small arched doorway (∩) in the mountainside | The gate town below uses the normal town symbol |
+| Dwarf hold gate † | Small arched doorway (∩) in the mountainside | Draw the arch clearly rounded and set into the mountain, unlike the flat-topped gallows "Π" on a hill. The gate town below uses the normal town symbol |
 | Smelter † | Small chimney with a curl of smoke | On the stream below the mine |
 | Underground road † | Thin brown dotted line between hold gates, labelled "(underground)" | Draw a few, not a network |
 | Nomad camp † | 2–3 tiny **open** half-circles (round tents); the ruler's camp as a large labelled ring of them | Never filled (a filled mound is a barrow) and never the dashed rectangle (an army camp) |

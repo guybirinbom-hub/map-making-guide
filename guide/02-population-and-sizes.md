@@ -199,7 +199,7 @@ Medieval reality did not follow the rule neatly:
 | Land type | per km² | per sq mi | Real examples |
 |---|---|---|---|
 | Rich lowland, peak times | 30–50 | 80–130 | Northern Italy 34–40 c. 1300; England's *whole-country* average was already ~36 in 1290, so its best lowland was higher |
-| Very urban, rich lowland | 50–75 | 130–190 | Flanders and Holland in the 15th century (estimate) |
+| Very urban, rich lowland | 50–75 | 130–190 | Flanders and Holland in the 15th century (estimate). Exceptional districts went far higher, even without big cities: Norfolk, a mostly rural county, had 486,920 people in 1290 (Broadberry, Campbell & van Leeuwen 2011, Table 8B) on about 5,400 km² (2,100 sq mi). That is roughly 90 per km² (230 per sq mi) (derived). |
 | Average mixed farmland | 15–30 | 40–80 | Suffolk ~23–25 in 1086; England ~19 in 1377 |
 | Poorer land, young kingdoms | 7–15 | 18–40 | Hungary ~7 (c. 1200) and ~9–11 (c. 1495); Crown of Poland 8.6 (1370) and 13 (1500) |
 | Hill country (farmed valleys with upland grazing), peak times | 8–15 | 21–39 | Cumberland and Westmorland about 15–17 in 1290, as whole counties that include the Eden valley and the Solway plain, so the fells themselves held fewer. The same two counties had about 6–7 in 1377, and northern and western England had under 5 in 1086. (Derived from county estimates in Broadberry, Campbell & van Leeuwen 2011.) |
@@ -632,6 +632,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Review of Borsch (2005) in *American Journal of Islamic Social Sciences* 24(4): https://www.ajis.org/index.php/ajiss/article/view/1518
 - Broadberry, S., Campbell, B. M. S. & van Leeuwen, B. (2011). "English Medieval Population: Reconciling Time Series and Cross Sectional Evidence" (working paper; Table 7 gives daily kilocalories per head from farm produce, Table 8 county populations for 1086, 1290, 1377 and 1600): https://warwick.ac.uk/fac/soc/economics/seminars/seminars/conferences/venice3/programme/english_medieval_population.pdf
 - Wikipedia: *Cumberland* https://en.wikipedia.org/wiki/Cumberland and *Westmorland* https://en.wikipedia.org/wiki/Westmorland (historic county areas, about 3,940 km² and 2,045 km² in 1911, from Vision of Britain; used to turn the county populations into densities)
+- Wikipedia: *Norfolk* https://en.wikipedia.org/wiki/Norfolk (county area about 5,370–5,384 km², 2,074–2,079 sq mi; used with the 1290 county population to get Norfolk's density). Vision of Britain, Bartholomew's *Gazetteer of the British Isles* (1887) entry for Norfolk, gives 1,356,173 acres (about 5,490 km²): https://visionofbritain.org.uk/place/17468
 - Jedwab, R., Johnson, N. D. & Koyama, M. (2020). "Medieval Cities Through the Lens of Urban Economic Theories." IIEP Working Paper 2020-9: https://www2.gwu.edu/~iiep/assets/docs/papers/2020WP/JedwabIIEP2020-9.pdf
 - Dittmar, J. (2008). "Cities, Institutions, and Growth: The Emergence of Zipf's Law" (working paper): https://eml.berkeley.edu/~webfac/cromer/e211_sp08/dittmar.pdf
 - Cesaretti et al. (2016), full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC5051806/
