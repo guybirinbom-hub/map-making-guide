@@ -312,7 +312,7 @@ Ships stayed near coasts when they could, for shelter, landmarks, water and trad
 
 In the Mediterranean, the historian John Pryor showed that the main **trunk routes** (the main long-distance sea lanes) ran mostly along the northern coasts and island chains (the Adriatic coast, the Ionian islands, Crete, Rhodes, Cyprus). These routes hardly changed from antiquity to the 16th century. Whoever held the islands and harbours along them controlled the sea. Venice held Crete (1211–1669) and the ports of Modon and Coron in southern Greece (1207–1500) as stations for its ships.
 
-**How far apart were galley stops?** The Venice–Jaffa pilgrim galleys usually called at Poreč, Zadar, Korčula or Hvar, Dubrovnik, Corfu, Modon, Crete, Rhodes and Cyprus. Measured on a modern map, the stops were roughly 100–450 km (60–280 mi) apart, which is about two to eight days of travel. The whole voyage usually took about 6–7 weeks (48 days in 1480), and as little as 29 days with good luck.
+**How far apart were galley stops?** The Venice–Jaffa pilgrim galleys usually called at Poreč, Zadar, Korčula or Hvar, Dubrovnik, Corfu, Modon, Crete, Rhodes and Cyprus. Measured on a modern map, the stops were roughly 100–450 km (60–280 mi) apart, which is about two to eight days of travel. The whole voyage took 48 days in 1480, and could be done in as little as 29 days.
 
 > **Rule of thumb:** On a galley coast, put a watering port every 100–300 km (60–190 mi). Big ships can cross wider gaps, but they still prefer a friendly harbour every week or so.
 
@@ -320,7 +320,7 @@ In the Mediterranean, the historian John Pryor showed that the main **trunk rout
 
 | Sea | Season | Real example |
 |---|---|---|
-| Mediterranean | Main season roughly April to October; winter sailing avoided | Romans called the sea "closed" (*mare clausum*) from November to March. 14th-century Genoese statutes banned winter sailing in the Black Sea. Venetian convoys: Flanders galleys left in March–April and returned about eight months later; Alexandria and Beirut galleys left in late August or September and returned in November |
+| Mediterranean | Main season roughly April to October; winter sailing avoided | Romans treated the sea as "closed" (*mare clausum*) from November to March, though bans were probably never enforced. 14th-century Genoese statutes banned winter sailing in the Black Sea, with heavy fines. Venetian convoys: Flanders galleys left in March–April and returned about eight months later; Alexandria and Beirut galleys left in late August or September and returned in November |
 | North Sea and Baltic | Spring to autumn; Baltic ports freeze | Hanseatic rules discouraged or banned most winter sailing, roughly from mid-November to late February |
 | Indian Ocean | One voyage each way per year, timed to the monsoon | The south-west monsoon (summer) carries ships from Arabia and East Africa to India; the north-east monsoon (winter) brings them back. Merchants waited months in port between seasons |
 
@@ -343,11 +343,11 @@ Lighthouses were **rare** in medieval Europe. Most coasts had none. Ships relied
 - **St Catherine's Oratory, Isle of Wight (1328):** built by a lord as a penance for stealing wine from a wreck. It is Britain's only surviving medieval lighthouse.
 - **Cordouan (Gironde estuary):** a 14th-century tower built under Edward the Black Prince guarded the Bordeaux wine trade and charged ships "lighthouse dues"; the present tower dates from 1584–1611.
 
-> **Map tip:** Draw sea lanes as dashed lines from port to port, following coasts and island chains, with short open-sea crossings between them. Label each lane with its season ("galleys, April–October"). Put lighthouses only at the mouths of rich estuaries and on dangerous capes near big ports. A port without a river, road or rich hinterland behind it stays small.
+> **Map tip:** Draw sea lanes as dashed lines from port to port, following coasts and island chains, with short open-sea crossings between them. Label each lane with its season ("galleys, April–October"). Put lighthouses only at the mouths of rich estuaries and on dangerous capes near big ports. A port without a river, road or rich hinterland (the farmland and towns behind it) stays small.
 
 > **Fantasy twist:** Sea monsters push ships even closer to the coast and into armed convoys, and make every harbour mouth worth a watchtower. Magic that calms storms would open the winter season and make sea trade even cheaper, so port cities grow larger still.
 
-> **Later era (1500s+):** Ocean routes open. The Portuguese reached India by sea in 1498, and Seville got a monopoly of trade with Spanish America in 1503. Carracks and then galleons crossed oceans. Atlantic ports (Lisbon, Seville, Antwerp, then Amsterdam and London) grew fast. Baltic grain fed the Netherlands, and traffic through the Danish Sound rose about sevenfold between 1479 and 1583.
+> **Later era (1500s+):** Ocean routes open. The Portuguese reached India by sea in 1498, and Seville got a monopoly of trade with Spanish America in 1503. Carracks and then galleons crossed oceans. Atlantic ports (Lisbon, Seville, Antwerp, then Amsterdam and London) grew fast. Baltic grain fed the Netherlands, and traffic through the Danish Sound rose about sevenfold between 1479 and 1583. See [The Later Era, 1500–1650](09-later-era-1500-1650.md).
 
 ---
 
@@ -358,26 +358,26 @@ Lighthouses were **rare** in medieval Europe. Most coasts had none. Ships relied
 | Node | What happens there | How often | Spacing or number | Real examples |
 |---|---|---|---|---|
 | Weekly market | Peasants sell food and buy tools, salt and cloth | Weekly | Market towns 9–16 km (6–10 mi) apart in practice; England had 1,746 recorded markets by 1300 | Any market town; English place names with *Chipping* ("market"), such as Chipping Norton |
-| Yearly fair | Livestock, cloth, regional merchants | Once a year, a few days to some weeks | Most market towns had one | St Ives (Huntingdonshire); Stourbridge near Cambridge (charter 1199, first fair 1211; later one of the biggest in Europe) |
+| Yearly fair | Livestock, cloth, regional merchants | Once a year, a few days to some weeks | Many market towns had one | St Ives (Huntingdonshire); Stourbridge near Cambridge (charter 1199, first fair 1211; later one of the biggest in Europe) |
 | International fair cycle | Merchants from distant lands meet, trade and settle debts | A cycle of fairs through the year | One or two fair regions per continent at any time | The Champagne fairs (12th–13th c.); later Geneva, Lyon, Frankfurt, Leipzig, Medina del Campo |
 | Staple town | The law forces certain goods to be unloaded, offered for sale or taxed there | Permanent | One per river stretch or per export trade | Cologne (from 1259); Vienna (from 1221); the English wool staple at Calais (1363–1558) |
-| Entrepot | A great port where goods from many regions are stored and shipped on | Permanent | About half a dozen in all of Europe and the Mediterranean c. 1300 | Bruges, Venice, Genoa, Constantinople, Alexandria, Lübeck; Antwerp from c. 1500 |
+| Entrepot | A great port where goods from many regions are stored and shipped on | Permanent | Only a handful in all of Europe and the Mediterranean c. 1300 | Bruges, Venice, Genoa, Constantinople, Alexandria, Lübeck; Antwerp from c. 1500 |
 | Merchant colony (*Kontor*, *fondaco*) | Foreign merchants live and store goods in their own walled compound, under their own rules | Permanent | One per foreign nation in each big port | See below |
 | Customs house | Goods are weighed, sealed and taxed | Permanent | Every major port and border | The Kaufhaus (warehouse and customs hall) at Konstanz, 1388 |
 
 ### The Champagne fairs
 
-From the 12th century, the Counts of Champagne protected merchants travelling to their lands, fixed weights and measures, and ran fair courts. Six fairs in four towns ran almost all year: Lagny (from early January), Bar-sur-Aube (Lent), Provins (May), Troyes ("hot fair", summer), Provins (September) and Troyes ("cold fair", November). Each fair had set days for cloth, then leather, then spices and goods sold by weight, and finally a few days to settle accounts. Flemish cloth came south and Italian silks, spices and money came north. After the heiress of Champagne married the future Philip IV of France (1284), royal wars and taxes hurt the fairs, and Italian galleys began sailing directly to Flanders. By about 1350 they were only regional markets.
+From the 12th century, the Counts of Champagne protected merchants travelling to their lands, fixed weights and measures, and ran fair courts. Six fairs in four towns ran almost all year, and each lasted about six weeks: Lagny (from 2 January), Bar-sur-Aube (Lent), Provins (May), Troyes ("hot fair", summer), Provins (September) and Troyes ("cold fair", November). Each fair had set days for cloth, then leather, then spices and goods sold by weight. It ended with a few days to settle accounts. Flemish cloth came south, and Italian silks, spices and money came north. In 1284 the heiress of Champagne married the future Philip IV of France, and Champagne became part of France. Royal wars and taxes then hurt the fairs, and Italian galleys began sailing directly to Flanders. By about 1350 the fairs were only regional markets.
 
 ### Merchant colonies: kontors and fondaci
 
 | Colony | Place | Dates | Notes |
 |---|---|---|---|
-| Peterhof | Novgorod (Russia) | c. 1200–1494 | Palisaded yard with a stone church used as a warehouse; about 150–200 German merchants a season; furs and wax out, cloth, silver, salt and herring in |
-| Steelyard (*Stalhof*) | London | Privileges from 1175 (to Cologne merchants); closed 1598 | Walled compound of warehouses and halls on the Thames |
+| Peterhof | Novgorod (Russia) | c. 1200–1494 (reopened 1514, then faded) | Palisaded yard with a stone church used as a warehouse; about 150–200 German merchants a season; furs and wax out, cloth, silver, salt and herring in |
+| Steelyard (*Stalhof*) | London | Cologne merchants had a hall by the 1170s and royal privileges from 1175; closed 1598 | Walled compound of warehouses and halls on the Thames |
 | Bryggen (German Wharf) | Bergen (Norway) | c. 1350–1754 | Timber warehouses on the quay; stockfish (dried cod) out, grain in |
 | Hanseatic Kontor | Bruges | 13th century to 16th | No compound: merchants lodged with local innkeepers who acted as brokers; own house only from 1442 |
-| Fondaco dei Tedeschi | Venice | 1228; rebuilt 1505–08 | German merchants had to live and trade here; the rebuilt house had 56 rooms for over 100 merchants |
+| Fondaco dei Tedeschi | Venice | 1228; rebuilt 1505–08 | The official house of the German merchants, by the Rialto Bridge, under Venetian supervision; the rebuilt house had 56 rooms for over 100 merchants |
 | Venetian fondaci | Alexandria | 13th–15th c. | Venetian warehouses and lodgings for the spice trade |
 | Genoese colonies | Pera (Constantinople), Caffa (Crimea) | Pera from 1267; Caffa c. 1266–1475 | Whole walled towns run by Genoa |
 | Venetian quarter | Constantinople | From 1082 | Quays, warehouses and churches, free of Byzantine customs |
@@ -401,7 +401,7 @@ From the 12th century, the Counts of Champagne protected merchants travelling to
 | Grain, flour | Very low | Usually under 30–50 km (19–31 mi); routine sales within about 17 km (10 mi) | Hundreds of km by river and sea, especially to big cities and in famine |
 | Firewood, timber, stone, brick | Very low | A few km | Far by water: Caen stone from Normandy built English cathedrals |
 | Salt | Low | About 100 km (62 mi) or more on "salt roads" (Lüneburg to Lübeck) | Across Europe: salt from the Bay of Bourgneuf (France) went to the Baltic |
-| Wine | Medium | Short distances | Very far: Bordeaux shipped about 100,000 tuns (a tun is about 950 litres) in the record year 1308–09, mostly to England (James 1971) |
+| Wine | Medium | Short distances | Very far: Bordeaux shipped about 100,000 tuns (a tun is a big cask of about 950 litres) in the record year 1308–09, much of it to England (James 1971) |
 | Salted herring, stockfish | Medium | Short to medium | Continent-wide |
 | Wool | Medium to high | Carried by pack horse and cart to ports | England to Flanders and Italy |
 | Cloth | High | Any distance | Any distance |
@@ -439,7 +439,7 @@ For mines, quarries, salt works and industrial towns, see [Industry, Resources a
 
 | Network | Peak | Shape on the map | Hubs | Main goods |
 |---|---|---|---|---|
-| **Hanseatic League** (Baltic and North Sea) | c. 1250–1500 | A chain of ports along a cold sea, fed by rivers; about 70 core towns and up to about 200 linked ones; four great kontors | Lübeck, Hamburg (linked to Lübeck by a short land route of about 60 km (37 mi) across the neck of the Jutland peninsula), Visby, Danzig, Riga, Reval, Bergen, Bruges, London, Novgorod | Grain, timber, furs, wax, fish, salt, beer, cloth |
+| **Hanseatic League** (Baltic and North Sea) | c. 1250–1500 | A chain of ports along a cold sea, fed by rivers; 70–170 member towns at different times, and nearly 200 in all; four great kontors | Lübeck, Hamburg (linked to Lübeck by a short land route of about 60 km (37 mi) across the neck of the Jutland peninsula), Visby, Danzig, Riga, Reval, Bergen, Bruges, London, Novgorod | Grain, timber, furs, wax, fish, salt, beer, cloth |
 | **Venice and Genoa** (Mediterranean and Black Sea) | c. 1100–1500 | State convoys and chains of island and coastal bases | Venice, Genoa, Crete, Pera, Caffa, Chios, Alexandria, Beirut, Acre (until 1291) | Spices, silk, cotton, alum, grain, slaves, salt |
 | **Silk Roads** | Revived under the Mongols, c. 1250–1350 | A relay of oasis cities over about 6,400 km (4,000 mi); hardly anyone travelled the whole way | Tabriz, Samarkand, Bukhara, Kashgar, Sarai, Tana, Khanbaliq (Beijing) | Silk, porcelain, spices, horses, silver |
 | **Trans-Saharan** | 8th to early 17th c.; Mali's peak in the 13th–14th c. | North–south lines from oasis to oasis; crossing took about two months | Sijilmasa, Taghaza (salt mine), Walata, Timbuktu, Gao, Agadez | Gold, salt, copper, cloth, slaves |
@@ -453,7 +453,7 @@ For mines, quarries, salt works and industrial towns, see [Industry, Resources a
 
 **Notes on using them:**
 - **Silk Roads:** around 1340 the Florentine merchant Pegolotti wrote that the road from Tana (on the Sea of Azov) to China was "perfectly safe, whether by day or by night", according to merchants who had used it. A strong empire across the route makes long land trade possible. When it breaks up, the route breaks into dangerous pieces.
-- **Trans-Saharan:** in 1352 Ibn Battuta crossed from Sijilmasa to Walata in about two months. At Taghaza, 25 days out, the houses and mosque were built of blocks of salt. Caravans ranged from hundreds to thousands of camels.
+- **Trans-Saharan:** in 1352 Ibn Battuta crossed from Sijilmasa to Walata in about two months. At Taghaza, 25 days out, the houses and mosque were built of blocks of salt. Near the end, water was brought out to the caravan from Walata, four days ahead. An average caravan may have had about 1,000 camels; some are said to have had as many as 12,000.
 
 > **Map tip:** Pick one template for each kind of sea or land on your continent: a Hanse-like network for a cold northern sea, a Venice-like network for a warm inland sea, a Silk-Road-like chain across a steppe or desert. Then join them at a few great entrepots. Those meeting points are your richest cities.
 
@@ -542,7 +542,7 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Pryor, John H. (1988). *Geography, Technology, and War: Studies in the Maritime History of the Mediterranean, 649–1571*. Cambridge: Cambridge University Press.
 - Spufford, Peter (2002). *Power and Profit: The Merchant in Medieval Europe*. London: Thames & Hudson.
 - Unger, Richard W. (1980). *The Ship in the Medieval Economy, 600–1600*. London: Croom Helm.
-- Shared baseline numbers for this guide: [research/baseline-numbers.md](../research/baseline-numbers.md) (travel speeds, transport costs and spacing, with their sources).
+- Shared baseline numbers for this guide: the file `research/baseline-numbers.md` in this project (travel speeds, transport costs and spacing, with their sources).
 
 **Web pages consulted**
 - Find out more about bridges in the Middle Ages (Rochester Bridge Trust): https://rbt.org.uk/news/find-out-more-about-bridges-in-the-middle-ages/
@@ -550,6 +550,11 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Pontage (Wikipedia): https://en.wikipedia.org/wiki/Pontage
 - Bridge chapels (Building Conservation): https://buildingconservation.com/articles/bridgechapels/bridgechapels.htm
 - Old London Bridge (Wikipedia): https://en.wikipedia.org/wiki/Old_London_Bridge
+- Stone Bridge, Regensburg (Wikipedia): https://en.wikipedia.org/wiki/Stone_Bridge_(Regensburg)
+- Judith Bridge (Wikipedia): https://en.wikipedia.org/wiki/Judith_Bridge
+- Pont Saint-Bénézet (Wikipedia): https://en.wikipedia.org/wiki/Pont_Saint-B%C3%A9n%C3%A9zet
+- Krämerbrücke (Wikipedia): https://en.wikipedia.org/wiki/Kr%C3%A4merbr%C3%BCcke
+- Mersey Ferry (Wikipedia; Birkenhead Priory ferry charter of 1330): https://en.wikipedia.org/wiki/Mersey_Ferry
 - List of medieval stone bridges in Germany (Wikipedia): https://en.wikipedia.org/wiki/List_of_medieval_stone_bridges_in_Germany
 - Middle Bridge, Basel (Wikipedia): https://en.wikipedia.org/wiki/Middle_Bridge,_Basel
 - Hollow way / sunken lane (Wikipedia): https://en.wikipedia.org/wiki/Hollow_way
@@ -562,8 +567,8 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Great St Bernard Pass (Wikipedia): https://en.wikipedia.org/wiki/Great_St_Bernard_Pass
 - Gotthard Pass (Wikipedia): https://en.wikipedia.org/wiki/Gotthard_Pass
 - Brenner Pass (Wikipedia): https://en.wikipedia.org/wiki/Brenner_Pass
-- The Brenner Base Tunnel, general brochure (BBT SE; 14th-century freight figure): https://bbt-se.com/fileadmin/broschueren/2021/allgemeine-broschuere-en/5
 - Mont Cenis (Wikipedia): https://en.wikipedia.org/wiki/Mont_Cenis
+- Road to Canossa (Wikipedia; Henry IV's crossing of Mont Cenis): https://en.wikipedia.org/wiki/Road_to_Canossa
 - Roncesvalles (Wikipedia): https://en.wikipedia.org/wiki/Roncesvalles
 - Caravanserai (Wikipedia): https://en.wikipedia.org/wiki/Caravanserai
 - Sultan Han (Wikipedia): https://en.wikipedia.org/wiki/Sultan_Han
