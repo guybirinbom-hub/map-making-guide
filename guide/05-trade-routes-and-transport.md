@@ -282,6 +282,38 @@ Distances are measured on today's river and rounded, so treat them as rough. The
 
 ---
 
+## Roads without wheels: the Andes and Mexico
+
+> **Rule of thumb:** Where there are no carts and no horses, roads can be narrow, steep and stepped. Goods move on human backs, on llamas and in canoes. Way stations still sit about one day's walk apart, but news travels by relay runners.
+
+**Why:** Before the Spanish arrived in the 1500s, the Americas had no horses, oxen or carts. The Inca of the Andes had llamas as pack animals; the Aztecs of Mexico had no pack animals at all. A road for walkers and llamas does not need gentle slopes, so it can climb straight up a mountainside on stairs. Without carts, a state that wants to move food and news must organize people instead: way stations, storehouses and relay runners.
+
+### The Inca road system (Andes, mainly 15th century)
+
+The Inca road network (in Quechua, *Qhapaq Ñan*) ran from today's Colombia to Chile and Argentina. Much of it was built or rebuilt in the 15th century, after the Inca conquests began (c. 1438), but many routes were older roads that the Incas took over, some built centuries earlier by the Wari and Tiwanaku cultures.
+
+| Feature | Number | Notes |
+|---|---|---|
+| Total length | Estimates vary: 23,000–40,000 km (14,000–25,000 mi), some up to 60,000 km | Two main north–south roads, one in the mountains and one along the coast, joined by more than twenty cross roads. The mountain road alone, from Quito through Cusco to Mendoza, was about 5,650 km (3,500 mi) long |
+| Road width | Usually 1–4 m (3–13 ft) | The Cusco–Quito highway was always over 4 m (13 ft) wide, in places up to 16 m (52 ft) |
+| Way stations (*tambos*) | 2,000 or more; usually about one day's walk apart, but from under 10 km to nearly 45 km (6–28 mi) | Lodging, kitchens and storehouses; sited by water and good ground, away from marsh and steep slopes |
+| Relay posts for runners (*chaski*) | About 2.5 km (1.6 mi) apart in one account; other sources give up to 7.5 km (4.7 mi). Four to six runners waited at each post | A message could travel up to 240–300 km (150–190 mi) a day |
+| Llama | Carries about 30 kg (66 lb) for about 20 km (12 mi) a day | Up to 45 kg (99 lb) on short trips |
+| Rope suspension bridges | The greatest spanned about 45 m (150 ft), over the Apurímac canyon | Made of woven grass; local villagers renewed them every one to three years (accounts differ) as labour service. One, the Q'eswachaka, is still rebuilt every June |
+| State storehouses (*qollqa*) | Huánuco Pampa, a provincial centre, had 497 storehouses, about 37,100 m³ in all | Rows of storehouses on hillsides near provincial centres and along the roads |
+
+### Tenochtitlan: a city of causeways and canoes (Mexico, 1325–1521)
+
+The Aztec capital Tenochtitlan stood on an island in Lake Texcoco. Its traditional founding date is 1325. Three main causeways (raised roads across the water) tied it to the shore: north to Tepeyac, south to Iztapalapa and west to Tlacopan. The western causeway was about 3 km (2 mi) long, by one classic account. The causeways had gaps crossed by bridges. Canoes could pass through the gaps, and the bridges could be removed to defend the city. Inside the city, a network of canals meant that every part could be reached on foot or by canoe. Two aqueducts, each over 4 km (2.5 mi) long, brought fresh water from the springs of Chapultepec.
+
+Without pack animals, goods came across the lakes by canoe or on the backs of professional porters (*tlamemeh*). A porter carried about 23 kg (50 lb) for about 21–25 km (13–16 mi) a day, then handed the load on to the next porter.
+
+> **Map tip:** For a people without carts or horses, draw thin roads that climb straight up slopes (mark the steep parts with steps or hatching). Put a way station about every day's walk, about 20–25 km (12–16 mi), closer in mountains. Add small relay huts every few km along the trunk roads, rope-bridge symbols at gorges, and rows of storehouses near provincial towns. A lake capital can sit on an island, joined to the shore by two to four straight causeways with gaps for boats, and fed by canoe traffic across the lake.
+
+> **Fantasy twist:** This is a good model for any people without draft animals: dwarves in mountain halls, forest elves or a hill people who travel on foot. Their roads can be narrow and stepped, and their relay runners can carry news faster than a medieval royal messenger with fresh horses (see [Speed per day](#speed-per-day)). A flying mount does not change the model for bulk goods: it is still one small load per animal.
+
+---
+
 ## Tolls and customs
 
 > **Rule of thumb:** Tolls are taken where traffic cannot avoid them: bridges, town gates, river narrows, mountain gorges, straits and borders.

@@ -50,7 +50,7 @@ The real world already gives us every level of danger. Pick the row that fits ea
 
 | Threat level | Real analogue | Settlement pattern | Defences | How it looks on the map |
 |---|---|---|---|---|
-| **Low** (wolves, bandits) | England or France c. 1250, away from borders | Normal mix: nucleated (clustered) villages on good land, lone farms in uplands | Castles 15–30 km apart; villages unwalled | The baseline map in the other chapters |
+| **Low** (wolves, bandits) | England or France c. 1250, away from borders | Normal mix: nucleated (clustered) villages on good land, lone farms in uplands | Working castles about 20–30 km (12–19 mi) apart (see [chapter 04](04-military-sites.md#borderlands-and-conquered-land)); villages unwalled | The baseline map in the other chapters |
 | **Seasonal raids** (a few times a decade) | Anglo-Scottish border, 14th–16th centuries | Lone farms survive but become tower houses; villages huddle | Tower houses and fortified farmhouses. Late medieval England had over 250 tower houses, Scotland ~800, Ireland over 3,000 | Small tower symbols scattered over farmland |
 | **Frequent raids or large monsters** | Latium (central Italy) c. 920–1030; Wessex in the 870s–890s; the Provence coast in the 900s | Farms abandoned; people move into walled or hilltop villages of 300–1,000 | Walled villages; refuge forts within a day's walk; watchtowers; beacons | Fewer, bigger dots on hilltops; empty valley floors; coasts deserted |
 | **Constant danger** | The "Great Wilderness" between the Teutonic Order and Lithuania (13th–14th centuries); Crusader frontier castles | Only fortified towns and garrison castles; fields only near walls | Great garrisons. The Templar castle of Safed (1260s) held 1,700 people in peacetime and 2,200 in war | Islands of settlement in empty land |
@@ -72,7 +72,7 @@ When King Alfred of Wessex faced Viking armies in the 870s–890s, he built a ne
 - Each hide (a unit of taxed land) supplied one man.
 - Four men defended each pole (about 5 m or 16½ ft) of wall.
 - Winchester was assessed at 2,400 hides, so 600 poles, or about 3 km (1.9 mi) of wall. This closely matches the length of its old Roman walls.
-- The burhs were spread so that few country people lived more than about 15–20 mi (24–32 km), roughly one day's walk, from one.
+- The burhs were spread so that few country people lived more than about 24–32 km (15–20 mi), roughly one day's walk, from one.
 
 This is the best real model for a monster-haunted kingdom: **a planned net of refuges about a day's walk apart, each manned by the farms around it.**
 
@@ -86,12 +86,12 @@ A warning network buys time. Two real systems show the range of options:
 
 | System | Date | Length and spacing | What it did |
 |---|---|---|---|
-| Byzantine beacon chain | 9th century | About 720 km (450 mi) from the fortress of Loulon (near the Cilician Gates pass) to Constantinople. About nine stations, mostly on mountain tops: about 56 km (35 mi) apart in broken country, and 97 km (60 mi) or more on the open plateau | Sent one of 12 pre-arranged messages, each tied to an hour of the day. Modern experiments suggest a message crossed the whole line in about an hour |
+| Byzantine beacon chain | 9th century | About 720 km (450 mi), about nine mountain-top stations 55–100 km (35–60 mi) apart (details in [Watchtowers, beacons and coastal warning](04-military-sites.md#watchtowers-beacons-and-coastal-warning)) | Sent one of 12 pre-arranged messages, each tied to an hour of the day. Modern experiments suggest a message crossed the whole line in about an hour |
 | Hungarian *gyepű* | 11th–13th centuries | A belt around the whole kingdom | An outer border zone deliberately kept empty, blocked with felled trees, hedges, ditches and banks of earth and stone. Gates were the only ways through. Guard settlements of border troops (often archers) kept watch. It failed against the Mongols in 1241, after which Hungary built stone castles |
 
-How close should local watchtowers be? They must see each other's smoke or fire. In broken or wooded country that means a few kilometres apart. Mountain-top beacons can be 50–100 km (30–60 mi) apart. These are rough figures.
+How close should local watchtowers be? They must see each other's smoke or fire. In broken or wooded country that means a few kilometres apart. Mountain-top beacons can be 55–100 km (35–60 mi) apart. These are rough figures.
 
-> **Later era (1500s+):** Muscovy built the Great Abatis Line (an *abatis* is a barrier of felled trees) against Crimean Tatar raiders. It was nominally complete by 1566. It was made of felled trees, ditches, palisades (walls of wooden stakes), watchtowers and small wooden forts. In the second half of the 1500s about 35,000 local militia guarded it (estimates vary; another source gives 65,000 called up each year). Between 1635 and 1654 the Belgorod Line, about 800 km (500 mi) long with its bends, pushed the frontier south. Its purpose was to slow raiders so that villagers could flee and troops could gather. See [What Changes After 1500](09-later-era-1500-1650.md).
+> **Later era (1500s+):** Muscovy's Great Abatis Line (complete by 1566) and the later Belgorod Line (1635–54) are real versions of this: belts of felled trees, ditches, palisades, watchtowers and small forts that slowed raiders so villagers could flee and troops could gather. See [Fortified lines on open frontiers](09-later-era-1500-1650.md#fortified-lines-on-open-frontiers).
 
 ### Guarded roads
 
@@ -136,13 +136,13 @@ Take each kind of magic separately. Ask which input it changes, how strongly, an
 
 **Why:** with a typical medieval yield of 4 : 1, a farmer keeps back 1 of every 4 units of grain as seed and eats or sells 3. If magic doubles the yield to 8 : 1, the farmer keeps 7. Net food more than doubles. The land fills up with people, and the surplus feeds bigger towns.
 
-The best real comparison is the most productive farming in medieval Europe: Flanders and northern Italy. The figures below come from the model in [Population and Settlement Sizes](02-population-and-sizes.md). The "moderate" row is interpolated.
+The best real comparison is the most densely farmed land in medieval Europe: Flanders and Holland in the 15th century. The figures below come from the model in [Population and Settlement Sizes](02-population-and-sizes.md). The "moderate" row is interpolated.
 
 | Strength of the magic | Treat the region like | Rural density | Share living in towns | Farmland radius for a town of 10,000 |
 |---|---|---|---|---|
 | None | Good lowland c. 1300 | 30–50 per km² (78–130 per sq mi) | 10–15% | 21–27 km (13–17 mi) |
 | Moderate (+50% yield) | Between the rows | 40–60 per km² (100–155 per sq mi) | 15–20% | ~15–19 km (9–12 mi) |
-| Strong (about 2× yield) | Flanders, northern Italy | 50–75 per km² (130–190 per sq mi) | 20–40% | ~12–15 km (7–9 mi) |
+| Strong (about 2× yield) | Flanders and Holland (15th century) | 50–75 per km² (130–190 per sq mi) | 20–40% | ~12–15 km (7–9 mi) |
 | Very strong (3× or more) | Nothing in medieval Europe | Higher still | Higher still | Small. The limit becomes water, fuel and transport, not food |
 
 **Who controls it?** If priests bless the fields, the temple takes a share, as the real Church took a tithe (a tenth). Expect rich temples in every village and a great temple-estate near the capital. If the magic is in the soil (a blessed valley), that valley becomes the core of a realm, like the Île-de-France around Paris.
@@ -193,7 +193,7 @@ If healers are rare and expensive, only towns and nobles benefit. Then the towns
 
 **What grows around a portal:** a customs house, warehouses, inns, money-changers, a market, a guard fort, and very often a temple. The portal town becomes a hub, like a crossroads town. If one end is in another realm, expect a **twin town** at each end.
 
-**Capacity decides everything.** Compare the portal with a ship. A typical cog (the main northern cargo ship) carried 40–200 tons.
+**Capacity decides everything.** Compare the portal with a ship. A typical cog (the main northern cargo ship) carried 30–200 tons (see [chapter 05](05-trade-routes-and-transport.md)).
 
 | If a portal moves... | It acts like... | Effect on the map |
 |---|---|---|
@@ -207,7 +207,7 @@ If healers are rare and expensive, only towns and nobles benefit. Then the towns
 
 > **Rule of thumb:** Flying moves people, messages and luxuries. It does not move bulk. A griffon carries about what a pack horse carries.
 
-**Why:** a pack horse carries about 100–120 kg. A flying mount strong enough to carry a rider can carry a similar load. One cog carried 40–200 tons, which equals roughly **350 to 2,000** flying loads. Grain, timber, stone and wine stay on rivers and seas.
+**Why:** a pack horse carries about 100–120 kg. A flying mount strong enough to carry a rider can carry a similar load. One cog carried 30–200 tons, which equals roughly **250 to 2,000** flying loads. Grain, timber, stone and wine stay on rivers and seas.
 
 **What changes:**
 
@@ -310,7 +310,7 @@ Each common fantasy people matches a real way of life. Use the real way of life 
 
 **Real model:** self-governing peasant societies on rich land. Dithmarschen, a marshland on the North Sea coast of Germany, was a peasant republic from the 13th century until 1559. Its parishes ruled themselves. In 1500, at Hemmingstedt, its farmers used dykes and flooded ditches to defeat a Danish royal army.
 
-**What it looks like:** density like Flanders (50–75 per km²) or good lowland (30–50 per km²). Villages 1.5–4 km (1–2.5 mi) apart, many mills, market towns 10–16 km (6–10 mi) apart. Very few castles. Their neighbours, however, build castles along the halfling border.
+**What it looks like:** density like Flanders (50–75 per km²) or good lowland (30–50 per km²). Villages 1.5–4 km (1–2.5 mi) apart, many mills, market towns 9–16 km (6–10 mi) apart. Very few castles. Their neighbours, however, build castles along the halfling border.
 
 ### Orcs and other "horde" peoples
 
@@ -356,7 +356,7 @@ Do not draw them as mindless. Model them on real steppe societies, which had law
 | Peterhof, the Hanseatic *kontor* (trading post) in Novgorod | c. 1200–1494 | A palisaded compound of wooden houses around a stone church of St Peter, which was also the warehouse. About 150–200 German merchants per season, arriving as summer and winter groups. They lived under their own written rules (the *Schra*) | A dwarf or human merchant compound inside an elven or orc town |
 | Fondaco dei Tedeschi, Venice | From 1228 | A building beside the Rialto where German merchants had to lodge and store goods, so Venice could watch and tax them. The word comes from the Arabic *funduq* (an inn and warehouse) | A "strangers' inn" where foreign races must stay |
 | Galata (Pera), the Genoese colony across the harbour from Constantinople | 1267/1273–1453 | A self-governing colony with its own governor. The Genoese walled it despite a ban, and built the Galata Tower in 1348 | A foreign quarter that becomes a fortress |
-| Kaffa, the Genoese port in Crimea | 1266–1475 | Founded with the consent of the Golden Horde (the Mongol khanate that ruled the steppe). It traded grain, furs, slaves, silk and spices between the steppe and the Mediterranean. Some sources claim over 70,000 people, but figures for medieval Kaffa are very uncertain and probably exaggerated; treat it as a large port town | A human port on the edge of orc or nomad lands |
+| Caffa (Kaffa), the Genoese port in Crimea | 1266–1475 | Founded with the consent of the Golden Horde (the Mongol khanate that ruled the steppe). It traded grain, furs, slaves, silk and spices between the steppe and the Mediterranean. Some sources claim over 70,000 people, but figures for medieval Caffa are very uncertain and probably exaggerated; treat it as a large port town | A human port on the edge of orc or nomad lands |
 
 Other kontors stood in London (the Steelyard), Bruges and Bergen (Bryggen, which closed in 1754).
 
@@ -427,7 +427,7 @@ If sea monsters or storms make the sea too risky, trade goes inland, even though
 | A monster-haunted frontier | Refuge forts a day's walk apart; beacons; emptied border belt | Alfred's burhs; Hungarian *gyepű* |
 | Monsters along roads | Cleared verges; patrols; hospices a day apart | Statute of Winchester 1285; *hermandades*; Great St Bernard hospice |
 | A monster holding a pass | Tolls, or traffic shifts to another pass | Fraxinetum raiders in the Alps, 906–973 |
-| Fertility magic | Density like Flanders (50–75 per km²); more and bigger towns | Flanders, northern Italy |
+| Fertility magic | Density like Flanders (50–75 per km²); more and bigger towns | Flanders and Holland |
 | Water magic | Desert cities as dots around magical springs | Qanat cities: Marrakesh, Yazd, Kerman |
 | Healing magic | Faster growth; fast frontier settlement; towns grow by themselves | Colonial North America (doubling in ~25 years) |
 | Portals | Hub towns with customs, warehouses and forts; twin towns | Øresund toll (1429); Cologne staple right (1259) |
@@ -481,10 +481,10 @@ If something exists in your world, other things must exist or change too. Check 
 ## Quick summary
 
 - Apply the real rules first. Then ask which input each fantasy element changes: water, food, defence, travel cost, threats or resources.
-- Danger concentrates people: fewer lone farms, walled hilltop villages, refuge forts about a day's walk (15–20 mi, 24–32 km) apart, watchtowers, cleared roads.
+- Danger concentrates people: fewer lone farms, walled hilltop villages, refuge forts about a day's walk (24–32 km, 15–20 mi) apart, watchtowers, cleared roads.
 - "Points of light" describes a frontier. Each point, if fields stay within 4–5 km (2.5–3 mi) of the walls, holds about 1,500–4,000 people.
 - Fertility magic raises the population ceiling (treat a strongly blessed land like Flanders: 50–75 people per km²). Healing raises the growth rate, not the ceiling.
-- Portals act like harbours and straits: hubs, tolls, warehouses, forts. Their capacity compared with a ship (40–200 tons) decides whether they change bulk trade.
+- Portals act like harbours and straits: hubs, tolls, warehouses, forts. Their capacity compared with a ship (a cog carried 30–200 tons) decides whether they change bulk trade.
 - Flying mounts carry about a pack horse's load (100–120 kg). They change messages, travel and luxury trade, not bulk freight, and they force castles to defend against attack from above.
 - Magic crystals are ore (boom towns, forts, mints). Ley lines are rivers (chains of towers, a big city at the nexus).
 - Place academies like universities (big cities, a few per kingdom) and mage towers like monasteries (remote, but with farms).
@@ -545,8 +545,8 @@ If something exists in your world, other things must exist or change too. Check 
 - Wikipedia, *Peterhof (Novgorod)*: https://en.wikipedia.org/wiki/Peterhof_(Novgorod)
 - Wikipedia, *Fondaco dei Tedeschi*: https://en.wikipedia.org/wiki/Fondaco_dei_Tedeschi
 - Wikipedia, *Galata*: https://en.wikipedia.org/wiki/Galata
-- Wikipedia, *Italians of Crimea* (Kaffa): https://en.wikipedia.org/wiki/Italians_of_Crimea
-- Wikipedia, *Feodosia* (medieval Kaffa): https://en.wikipedia.org/wiki/Feodosia
+- Wikipedia, *Italians of Crimea* (Caffa): https://en.wikipedia.org/wiki/Italians_of_Crimea
+- Wikipedia, *Feodosia* (medieval Caffa): https://en.wikipedia.org/wiki/Feodosia
 - Wikipedia, *Altan Khan* (raids and the 1571 trade settlement): https://en.wikipedia.org/wiki/Altan_Khan
 - Wikipedia, *Song–Tibet relations* (tea-horse markets): https://en.wikipedia.org/wiki/Song%E2%80%93Tibet_relations
 - Wikipedia, *Silent trade*: https://en.wikipedia.org/wiki/Silent_trade

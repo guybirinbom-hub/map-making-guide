@@ -11,6 +11,7 @@ Real people did not put towns in random places. Every village, town and city ans
 - [Patterns and spacing](#patterns-and-spacing)
 - [How settlements change over time](#how-settlements-change-over-time)
 - [Where people do not build](#where-people-do-not-build)
+- [Naming settlements realistically](#naming-settlements-realistically)
 - [Placing settlements on your map: a method](#placing-settlements-on-your-map-a-method)
 - [Quick summary](#quick-summary)
 - [Sources and further reading](#sources-and-further-reading)
@@ -159,7 +160,7 @@ These are the standard "reasons to be here." Most real towns combine two or thre
 
 ### Reading place names
 
-Many real names tell you the site type. You can use the same trick for your fantasy names.
+Many real names tell you the site type. You can use the same trick for your fantasy names. (The everyday village endings, and how to build a whole region's names, are in [Naming settlements realistically](#naming-settlements-realistically).)
 
 | Name element | Meaning | Examples |
 |---|---|---|
@@ -493,7 +494,7 @@ Names are the first thing a reader sees on a map. Real names follow patterns, an
 
 > **Rule of thumb:** Most village names are plain. They join a common ending ("farm", "homestead", "clearing") to a person's name, a tree, an animal or a direction. Each region uses a small set of endings again and again. Save dramatic names for the few places that earned them.
 
-**Why:** The first settlers simply described the place or its owner: "Acca's farm", "the oak clearing", "the north farm". Once a name was in use and written down, it rarely changed. Domesday Book (1086) already names 13,418 settlements in England south of the rivers Ribble and Tees, so most English village names are older than any castle on your map.
+**Why:** The first settlers simply described the place or its owner: "Acca's farm", "the oak clearing", "the north farm". Once a name was in use and written down, it rarely changed. Domesday Book (1086) already names 13,418 settlements in England south of the rivers Ribble and Tees, so most English village names are older than the castles and abbeys on your map.
 
 ### Common English endings
 
@@ -546,7 +547,7 @@ The Normans, by contrast, gave few new village names in England, because the lan
 
 1. **Rivers and big hills keep the oldest names.** In England the oldest place names are river names, many of them Brittonic (the Celtic language spoken before English). *Avon* simply means "river". Use your oldest language for rivers and mountains.
 2. **Villages carry the language of the people who founded them.** Danish settlers left -by and -thorpe in eastern England; Norwegians left -thwaite in the north-west. Where the older language survived longer, as in Cornwall and Cumbria, many village names stayed Brittonic. So a border between two kinds of names is often an old settlement frontier, not a political border.
-3. **Late settlements fill the gaps.** Clearing names (-ley, -thwaite, -rode, -reuth) mark land taken from the forest in the High Middle Ages (see [Forest](#forest)). Planted towns get "new" names: Newport, Villeneuve, Neustadt, Villanueva, Novgorod.
+3. **Later settlements fill the gaps.** Clearing names (-ley, -thwaite, -rode, -reuth) mark land taken from the forest; in Germany the -rode and -reuth names belong mainly to the great clearances of the High Middle Ages (see [Forest](#forest)). Planted towns get "new" names: Newport, Villeneuve, Neustadt, Villanueva, Novgorod.
 4. **Same-name villages get extra words.** Two neighbouring Suttons or Stokes need telling apart. Common extras:
    - the **lord's family**: Stoke Mandeville (the suffix is first recorded in 1284, when the Mandeville family held the manor); Sutton Courtenay (after the Courtenay family took the manor in the 1170s);
    - **size or position**: Great and Little, Upper and Lower, North and South;
@@ -602,7 +603,7 @@ Ask these questions about every dot. A **village** must pass 1–3. A **town** m
 Also check:
 - **Defence:** In a dangerous region, is there a hill, a river loop or a wall? If not, why not?
 - **Spacing:** Is it too close to a place of the same rank? Two market towns 3 km (2 mi) apart compete; one should be a village.
-- **Name:** Does the name fit the site (ford, bridge, mouth, hill)?
+- **Name:** Does the name fit the site (ford, bridge, mouth, hill) and the region's language layer? See [Naming settlements realistically](#naming-settlements-realistically).
 
 > **Fantasy twist:** A magical reason, such as a ley-line nexus, a dragon's peace treaty or a portal, can replace test 4 or 6. It cannot replace tests 1–3. Even a wizard's city needs water and food, or a very good explanation of where they come from.
 
@@ -620,7 +621,9 @@ Also check:
 - Spacing: villages **1.5–4 km (1–2.5 mi)**, market towns **9–16 km (6–10 mi)**, towns and cities much farther apart, depending on how urban the region is.
 - Christaller's **central place** model: many small places close together, a few big ones far apart, in rough hexagons. Distort it along rivers and roads.
 - Settlement is **clustered on good land and thin on bad land**. Empty areas need a reason, and so do crowded ones.
+- Outside Europe: **shifting cultivators** live thinly (world average about 6 per km²), **wet-rice lands** are the most crowded farmland of all (Angkor about 230–300 per km² over its core), and **steppe nomads** use small camps of 2–10 families that move about 4–10 times a year, with fixed winter sites.
 - Places change: Roman sites reused or abandoned, **planted towns** with grids, towns moved, harbours silted, and **more than 3,000 deserted villages** in England alone.
+- **Names** come in layers: rivers keep the oldest names, villages use a few common endings of their founders' language (-ton, -by, -dorf, -ac), and extra words (Great/Little, a lord's name, a river) split duplicates.
 - Use the **"why is it here?" test** on every dot.
 
 ---
@@ -631,6 +634,8 @@ Also check:
 - Beresford, Maurice (1967). *New Towns of the Middle Ages: Town Plantation in England, Wales and Gascony*. London: Lutterworth Press.
 - Beresford, Maurice, and John G. Hurst (eds.) (1971). *Deserted Medieval Villages*. London: Lutterworth Press.
 - Bartlett, Robert (1993). *The Making of Europe: Conquest, Colonization and Cultural Change, 950–1350*. London: Allen Lane.
+- Baugh, Albert C., and Thomas Cable (2002). *A History of the English Language*. 5th ed. London: Routledge. (Numbers of Scandinavian place names in -by, -thorp and -thwaite.)
+- Cameron, Kenneth (1965). *Scandinavian Settlement in the Territory of the Five Boroughs: The Place-Name Evidence*. Nottingham: University of Nottingham. (303 -by names in Domesday in the East Midlands, as cited by Cavill below.)
 - Christaller, Walter (1933). *Die zentralen Orte in Süddeutschland*. Jena: Gustav Fischer. English translation by C. W. Baskin (1966), *Central Places in Southern Germany*. Englewood Cliffs: Prentice-Hall.
 - Dobson, Mary J. (1997). *Contours of Death and Disease in Early Modern England*. Cambridge: Cambridge University Press.
 - Dyer, Christopher (2002). *Making a Living in the Middle Ages: The People of Britain 850–1520*. New Haven: Yale University Press.

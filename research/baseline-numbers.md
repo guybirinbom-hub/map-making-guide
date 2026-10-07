@@ -97,7 +97,7 @@
 **Needs per person**
 - About 200–250 kg of grain a year for bread and pottage, plus barley for ale and oats for horses.
 - That works out to about **1 ha (2.5 acres) of arable land per person**, or **2–3 ha (5–7 acres) of all land** once pasture, meadow and woodland are included.
-- Check against England c. 1300: ~10m acres of arable for 4.75m people gives ≈2.1 acres (0.85 ha) per person. All land comes to ≈2.7 ha per person. Grain supplied only ~1,250–1,800 kcal a day after losses.
+- Check against England c. 1300: ~11.5m acres of arable including fallow (~7.4m sown each year; Broadberry, Campbell et al. 2010) for 4.75m people gives ≈2.4 acres (1.0 ha) per person. All land comes to ≈2.7 ha per person. Grain supplied only ~1,250–1,800 kcal a day after losses.
 
 **Hinterland a town needs**
 
