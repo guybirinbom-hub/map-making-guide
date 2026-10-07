@@ -487,6 +487,90 @@ Empty space is as realistic as settled space. Here is where medieval people avoi
 
 ---
 
+## Naming settlements realistically
+
+Names are the first thing a reader sees on a map. Real names follow patterns, and those patterns tell the story of who settled the land.
+
+> **Rule of thumb:** Most village names are plain. They join a common ending ("farm", "homestead", "clearing") to a person's name, a tree, an animal or a direction. Each region uses a small set of endings again and again. Save dramatic names for the few places that earned them.
+
+**Why:** The first settlers simply described the place or its owner: "Acca's farm", "the oak clearing", "the north farm". Once a name was in use and written down, it rarely changed. Domesday Book (1086) already names 13,418 settlements in England south of the rivers Ribble and Tees, so most English village names are older than any castle on your map.
+
+### Common English endings
+
+These endings come from Old English, the language of the Anglo-Saxons.
+
+| Ending | Meaning | Notes | Examples |
+|---|---|---|---|
+| -ton | Farmstead, estate, village (Old English *tūn*) | The commonest of all: over 4,000 places | Acton ("oak farm"), Wootton ("wood farm"), Newton ("new farm"), Sutton ("south farm") |
+| -ham | Homestead, village (*hām*) | Often among the older names | Nottingham, Dagenham |
+| -wick, -wich | Specialist farm (often dairy), or trading place (*wīc*, from Latin *vicus*) | Inland usually a farm; on coasts and rivers often a port | Keswick ("cheese farm"), Ipswich, Norwich |
+| -worth | Enclosure | Small, often secondary settlements | Tamworth, Kenilworth |
+| -stead | Place, site | — | Hampstead |
+| -cot, -cote | Cottage, hut | Small, often late settlements | Didcot, Ascot |
+| -bury, -borough, -burgh | Fortified place (*burh*); later a town | Use it at old forts, earthworks or fortified towns | Canterbury, Peterborough |
+| -chester, -caster, -cester | Roman fort or town (*ceaster*, from Latin *castra*) | Only on Roman sites | Chester, Lancaster, Gloucester |
+| -ley, -leigh | Wood clearing, woodland pasture (*lēah*) | Common in once-wooded country | Bradley ("broad clearing"), Henley |
+| -field | Open land without trees | — | Sheffield, Lichfield |
+| -den, -don | Valley (*denu*); hill (*dūn*) | Easy to confuse; check the terrain you drew | Croydon (a valley name) |
+| -hurst | Wooded hill | Wooded country | Lyndhurst, Sandhurst |
+| -stow | Meeting place, holy place | — | Bristol ("place at the bridge"), Padstow |
+| -minster | Mother church, monastery | One per large district (see [chapter 08](08-religious-cultural-and-ancient-sites.md)) | Westminster, Axminster |
+
+**The Norse (Viking) layer.** Danish and Norwegian settlers of the 9th–11th centuries added their own endings in northern and eastern England:
+
+| Ending | Meaning | How many | Examples |
+|---|---|---|---|
+| -by | Farm, village | More than 600 places in England (Baugh and Cable); Domesday already records 303 in the East Midlands alone (Cameron) | Grimsby, Whitby, Derby |
+| -thorpe, -thorp | Secondary settlement, outlying farm | About 300 | Scunthorpe, Mablethorpe |
+| -thwaite | Clearing, meadow | About 300; mostly in the north-west (Cumberland, Westmorland, Lancashire) and Yorkshire, where Norwegians settled | Braithwaite, Applethwaite |
+| -toft | Building plot, homestead | — | Lowestoft |
+| -holm(e) | Island, dry ground in wet land | — | Axholme |
+| Kirk- | Church | — | Kirkby |
+
+The Normans, by contrast, gave few new village names in England, because the land was already named. They named their new castles and abbeys instead: Richmond in Yorkshire ("strong hill", founded 1071 by Alan Rufus, probably after a Richemont in Normandy), Belvoir ("fine view"), Beaulieu ("fine place").
+
+### Names in other lands
+
+| Region and language | Common elements (meaning) | Examples |
+|---|---|---|
+| Celtic: Wales, Scotland, Ireland, Cornwall, Brittany | Aber- (Welsh) and Inver- (Gaelic): river mouth; Llan- and Kil-: church; Caer- and Dun-: fort; Pen-: head, hilltop, end; Tre- and Bally-: farm, settlement; Strath-: broad valley | Aberystwyth, Inverness, Llandaff, Kilkenny, Caernarfon, Dundee, Penzance, Tredegar, Ballymena, Strathclyde |
+| German lands | -ingen ("people of"; mostly 6th–9th centuries), -heim (home), -dorf (village), -hausen (houses), -hof (farm), -weiler (hamlet), -stadt or -stedt (place, town), -burg (fortress); clearing names -rode, -rath, -reuth, -ried (high-medieval clearance); -hagen (hedged settlement) | Tübingen, Mannheim, Düsseldorf, Mühlhausen, Darmstadt, Magdeburg, Wernigerode, Bayreuth |
+| East of the Elbe (Slavic names, later Germanized) | -itz, -ow, -in | Chemnitz, Güstrow, Schwerin |
+| France | Gallo-Roman *-acum* ("estate of") became -ac in the south and -y or -ay in the north; -court (farm with a yard) and -ville (farm, later village) from the early Middle Ages; in Normandy, Viking-age -tot (house site; over 300 places), -beuf (booth, shed) and -fleur (stream running to the sea) | Cognac, Bergerac; Vitry; Harcourt, Abbeville; Yvetot, Elbeuf, Honfleur |
+| Italy | -ano (a Roman estate named after its owner, Latin *-anum*), Castel- and Rocca (fortified village, rock fortress), Borgo (market settlement or new town), Pieve (rural mother church) | Castelfranco, Rocca di Papa, Borgo San Sepolcro (today Sansepolcro), Pieve di Cadore |
+| Iberia, Arabic layer | Al- ("the"); Medina- (*madina*, city); Alcalá (*al-qal'a*, castle); Alcázar (*al-qasr*, palace-fortress); Guad- (*wadi*, river valley); Almadén (*al-ma'din*, "the mine") | Medinaceli, Medina del Campo, Alcalá de Henares, Guadalquivir (*al-wadi al-kabir*, "the great river"), Almadén |
+| Iberia, Christian resettlement (*repoblación*) | Villanueva ("new town"), Villafranca ("free town"), Castro- (castle) | Villanueva de la Serena, Villafranca del Bierzo, Castrojeriz |
+| Slavic lands | -grad, -gorod, -gród (fort, town); -ice, -owice ("people of", from a founder's name); -ów, -ov (possessive: "X's place") | Novgorod ("new town"), Belgrade ("white town"), Kraków ("Krak's town") |
+
+### How names pile up in layers
+
+1. **Rivers and big hills keep the oldest names.** In England the oldest place names are river names, many of them Brittonic (the Celtic language spoken before English). *Avon* simply means "river". Use your oldest language for rivers and mountains.
+2. **Villages carry the language of the people who founded them.** Danish settlers left -by and -thorpe in eastern England; Norwegians left -thwaite in the north-west. Where the older language survived longer, as in Cornwall and Cumbria, many village names stayed Brittonic. So a border between two kinds of names is often an old settlement frontier, not a political border.
+3. **Late settlements fill the gaps.** Clearing names (-ley, -thwaite, -rode, -reuth) mark land taken from the forest in the High Middle Ages (see [Forest](#forest)). Planted towns get "new" names: Newport, Villeneuve, Neustadt, Villanueva, Novgorod.
+4. **Same-name villages get extra words.** Two neighbouring Suttons or Stokes need telling apart. Common extras:
+   - the **lord's family**: Stoke Mandeville (the suffix is first recorded in 1284, when the Mandeville family held the manor); Sutton Courtenay (after the Courtenay family took the manor in the 1170s);
+   - **size or position**: Great and Little, Upper and Lower, North and South;
+   - a **market**: Market Harborough, Chipping Norton (*chipping* = market);
+   - a **church or royal owner**: Bishop's Stortford, Abbots Langley, King's Lynn;
+   - a **river**: Stratford-upon-Avon, Newcastle upon Tyne.
+5. **Owners change, names follow.** King's Lynn was "Bishop's Lynn" until 1537, when the town passed from the Bishop of Norwich to Henry VIII.
+
+### A method for naming a region
+
+1. **Write the region's history in two lines.** Who lived here first? Who came later? Who rules now? Choose 1–3 language layers.
+2. **Name rivers and mountains** from the oldest layer.
+3. **Pick 4–8 common endings** from the main settler layer, and build most village names from them (a mapmaking suggestion: in England, -ton alone names over 4,000 places). Join them to personal names, trees, animals, colours and directions.
+4. **Use site words only where the map shows the site:** -ford at a ford, -bridge at a bridge, -mouth at a river mouth, -ey at an island (see [Reading place names](#reading-place-names)).
+5. **Save special elements for special places.** Fort words (-bury, Caer-, Dun-, -grad, Alcalá) go on places with a fort or an old earthwork. Market words (Market-, Chipping-) go on market towns. Church words (Kirk-, Llan-, -minster, Pieve) go on places with an important church. Roman words (-chester) go only on Roman sites.
+6. **Show history with patches.** Put a band of second-layer names along the coast where raiders settled. Use clearing names in old forest. Mix both sides' names in a march.
+7. **Split duplicates with extra words** (Great/Little, a lord's name, a river).
+
+> **Fantasy twist:** Give each people its own set of endings, and let border zones mix them. A valley where dwarf names sit under older elf river names, with human "-ton" villages on the valley floor, tells the reader three chapters of history before they read a word of your book. See [Fantasy Variants](10-fantasy-variants.md).
+
+> **Map tip:** Keep a name sheet for each region: its 4–8 endings, its old river words and 10–20 first parts. Reuse them. Real maps repeat themselves (England has many Suttons, Nortons and Newtons), and that repetition is what makes a region feel like one place. Readers notice when the names in one corner of the map share an "accent".
+
+---
+
 ## Placing settlements on your map: a method
 
 Work from big to small, and from nature to people. Start with a finished terrain map: coasts, mountains, rivers, forests, marshes.

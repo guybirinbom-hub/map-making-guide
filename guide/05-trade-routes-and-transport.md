@@ -200,7 +200,7 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were onl
 
 > **Rule of thumb:** On a navigable lowland river in a settled kingdom, put a bridge about every 20 km (12 mi) of river, with gaps of 10–35 km (6–22 mi). Each bridge has a town. Put ferries and fords in the gaps.
 
-**Why:** A bridge is expensive, so it is built only where main roads must cross. Each one pulls the roads of a whole district towards it. A second bridge close by would split the traffic and the tolls, so bridges spread out along a river at roughly the spacing of market towns.
+**Why:** A bridge is expensive, so it is built only where main roads must cross. Each one pulls the roads of a whole district towards it. A second bridge close by would split the traffic and the tolls, so bridges spread out along a river.
 
 **Numbers:** The River Thames from London to Oxford is about 180 km (112 mi) long by river. By about 1300 it had nine road bridges, and a tenth (Marlow) was added in the 14th century. That is one bridge every 20–22 km (12–14 mi) on average.
 
@@ -224,7 +224,7 @@ Distances are measured on today's river and rounded, so treat them as rough. The
 
 **On the greatest rivers, bridges are much rarer.** Compare the Rhine below Basel, where Cologne had no fixed bridge for centuries (see [Ferries](#ferries)).
 
-> **Map tip:** Use three symbols: a bridge (two short lines across the river), a ford (a dashed line across the river) and a ferry (a small boat or "F"). Put a settlement at almost every bridge on a main road. Put the main port of a river just **downstream** of the lowest bridge. On a settled lowland river, draw a bridge town about every 20 km (12 mi) of river, with ferries and fords between. On a great river, draw only a few fixed bridges, often 50 km (30 mi) or more apart, and ferries in between.
+> **Map tip:** Use three symbols: a bridge (two short lines across the river), a ford (a dashed line across the river) and a ferry (a small boat or "F"). Put a settlement at almost every bridge on a main road. Put the main port of a river just **downstream** of the lowest bridge. On a settled lowland river, draw a bridge town about every 20 km (12 mi) of river, with ferries and fords between. On a great river, draw only a few fixed bridges, often many tens of km apart, and ferries in between.
 
 > **Fantasy twist:** A troll that charges travellers is just a strict toll collector. Traffic keeps using the bridge as long as the toll is cheaper than the detour. If the detour is short, the troll starves.
 
