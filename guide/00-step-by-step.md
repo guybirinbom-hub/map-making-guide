@@ -1,6 +1,6 @@
 # Step by Step: From Blank Map to Living World
 
-This chapter is the master method of the guide. It puts the other chapters in order and tells you what to place first, what comes next, and how to test each result. It assumes your terrain is already drawn: coasts, mountains, rivers, forests, marshes and climate. Every number below is copied from the chapter section linked in that step.
+This chapter is the master method of the guide. It puts the other chapters in order: what to place first, what comes next, and how to test each result. It assumes your terrain is already drawn: coasts, mountains, rivers, forests, marshes and climate. Every number is copied from the chapter section linked in that step.
 
 **In this chapter:**
 
@@ -73,7 +73,7 @@ Each step says what to **place**, gives the key **rules**, links to the section 
 
 ## Part A: Continent and world scale
 
-Here you decide where the people are, who rules them and how goods move. You do not place villages yet.
+Here you decide where the people are, who rules them and how goods move.
 
 ### Step 1: Check the terrain and water
 
@@ -96,7 +96,7 @@ Here you decide where the people are, who rules them and how goods move. You do 
 **Rules:**
 - A person needs about 1 ha (2.5 acres) of ploughland, or 2–3 ha (5–7 acres) of all land once pasture, meadow and woodland are counted.
 - A village needs arable (ploughed fields), meadow (hay), pasture and woodland, so the best land is where these meet: river valleys, plains and gentle hills.
-- Good lowland holds 30–50 people per km² (80–130 per sq mi) at its peak; hills, uplands and mountains hold 2–10 (5–25 per sq mi).
+- Good lowland holds 30–50 people per km² (80–130 per sq mi) at its peak; uplands and mountains hold 2–10 (5–25 per sq mi).
 
 **Read:** [Population density](02-population-and-sizes.md#population-density)
 
@@ -104,7 +104,7 @@ Here you decide where the people are, who rules them and how goods move. You do 
 
 ### Step 3: Work out the population budget
 
-**Place:** nothing yet. This step gives the numbers for every later step. Do it per region now, and add up each realm after Step 4.
+**Place:** nothing yet. Work out the numbers per region now, and add up each realm after Step 4.
 
 **Rules:**
 1. **Measure** each zone. A hex's area is about 0.866 × (width across the flat sides)²; a 30 km hex is about 780 km².
@@ -129,9 +129,9 @@ Here you decide where the people are, who rules them and how goods move. You do 
 **Place:** realm outlines, great fiefs (duchies and large counties) and frontier zones.
 
 **Rules:**
-- Use at least three kinds of state on a continent: one or two feudal kingdoms, one fragmented zone (city-states or a loose empire) and one unusual kind (a league of towns, a church state, a sea empire or nomads).
+- Use at least three kinds of state: one or two feudal kingdoms, a fragmented zone (city-states or a loose empire) and one unusual kind (a town league, church state, sea empire or nomads).
 - A kingdom covers 10,000–450,000 km² (4,000–175,000 sq mi). Direct rule reaches roughly 500–700 km (300–450 mi) from the capital, 8–12 days for a messenger. Farther out, a realm needs viceroys, great vassals, sea routes or a relay post, or it splits.
-- Borders are lines in settled farmland and wide bands in mountains, forests, marshes and war zones. Draw a march (a militarised border province) as hatching 10–50 km (6–30 mi) wide. Add an oddity or two: an enclave, a tiny buffer state, a disputed strip.
+- Borders are lines in settled farmland and wide bands in mountains, forests, marshes and war zones. Draw a march (a militarised border province) as hatching 10–50 km (6–30 mi) wide. Add an enclave or a disputed strip.
 
 **Read:** [Borders and frontiers](03-capitals-and-borders.md#borders-and-frontiers); [How big can a realm be](03-capitals-and-borders.md#how-big-can-a-realm-be)
 
@@ -166,7 +166,7 @@ Here you decide where the people are, who rules them and how goods move. You do 
 
 **Check:** Is every great city on the sea or a navigable river, with a clear reason to be great (a court, a strait, a delta, an export trade)?
 
-> **Fantasy twist:** A griffon carries about a pack horse's load (100–120 kg), so it cannot feed a great city. Only magic that moves bulk, such as a portal passing shiploads of grain every day, frees big cities from the water rule. See [Teleport circles and portals](10-fantasy-variants.md#teleport-circles-and-portals).
+> **Fantasy twist:** A griffon carries only a pack horse's load (100–120 kg). Only magic that moves bulk, such as a portal passing shiploads of grain every day, frees great cities from the water rule. See [Teleport circles and portals](10-fantasy-variants.md#teleport-circles-and-portals).
 
 ### Step 7: Draw the trade routes and sea lanes
 
@@ -188,7 +188,7 @@ Here you decide where the people are, who rules them and how goods move. You do 
 
 ## Part B: Kingdom and region scale
 
-Now zoom in to one realm: the towns that serve it, the castles that hold it, and the routes, churches and industries that tie it together.
+Now zoom in to one realm and fill it in.
 
 ### Step 8: Place regional cities and towns
 
@@ -232,7 +232,7 @@ Now zoom in to one realm: the towns that serve it, the castles that hold it, and
 | March or contested border | 35–60 | 12–20 |
 
 - Put the castle at the edge of its town, with the market at its gate. Wall cities, regional capitals, frontier towns and raided ports; leave most market towns open.
-- Peacetime garrisons are only 5–20 men.
+- Peacetime garrisons are only 5–20 men. Beacon chains run from the border to the capital, about 5–20 km (3–12 mi) apart in hilly country.
 
 **Read:** [How many castles and how far apart](04-military-sites.md#how-many-castles-and-how-far-apart); [How many to draw](04-military-sites.md#how-many-to-draw)
 
@@ -245,7 +245,7 @@ Now zoom in to one realm: the towns that serve it, the castles that hold it, and
 **Place:** bridges, fords, ferries, roads, inns, hospices and tolls.
 
 **Rules:**
-- Crossings first: roads bend to reach them and towns grow at them. A great river gets only a few fixed bridges, often tens of km apart, with ferries and fords between.
+- Crossings first: roads bend to reach them and towns grow at them. A great river gets only a few bridges, often tens of km apart, with ferries and fords between.
 - Main roads link cities through crossings and passes, along valleys and dry ridges; only an older empire's roads run straight. Village tracks run to the market town like wheel spokes.
 - Put an inn or village every 15–30 km (10–19 mi) on main roads, a caravanserai (walled roadside inn) every 30–40 km (19–25 mi) in desert, and a hospice at each main pass. Tolls sit at bridges, gates, gorges, straits and borders.
 - Walkers cover 25–35 km (15–22 mi) a day, ox carts 15–25 km (10–15 mi) and armies with baggage 13–20 km (8–12 mi).
@@ -263,9 +263,9 @@ Now zoom in to one realm: the towns that serve it, the castles that hold it, and
 **Rules:**
 - **Dioceses** (one bishop's area): in an English-style realm, one per 5,000–10,000 km² (2,000–4,000 sq mi), so a cathedral means a main city. In an Italian-style land, one per 500–2,000 km² (190–770 sq mi), many in small towns.
 - **Monasteries:** about 1 religious house per 150 km² (60 sq mi). Cistercians in empty, well-watered valleys; canons at town edges; friars inside towns of about 3,000–5,000 and up. Give big abbeys granges (outlying farms), most within about 25 km (15 mi).
-- **Friaries measure towns:** none at 2,000–3,000 people, about 2 at 10,000, 4 at 20,000–40,000.
+- **Friaries measure towns:** usually none at 2,000–3,000 people, about 2 at 10,000, 4 at 20,000–40,000.
 - **Pilgrim roads** follow existing roads, with stops about 20 km (12 mi) apart and a hospice at every pass.
-- **Charity and learning:** a hospital in every market town; a leper house 1–2 km (about 1 mi) outside each town of 2,000+; one or two universities in a kingdom of 2–5 million.
+- **Hospitals and universities:** a hospital in every market town; a leper house 1–2 km (about 1 mi) outside each town of 2,000+; one or two universities in a kingdom of 2–5 million.
 
 **Read:** [Monasteries, friaries and military orders](08-religious-cultural-and-ancient-sites.md#monasteries-friaries-and-military-orders); [Drawing it all: symbols, density and scale](08-religious-cultural-and-ancient-sites.md#drawing-it-all-symbols-density-and-scale)
 
@@ -306,7 +306,7 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 **Check:** Does every village touch water and have its fields within about 2 km (1.3 mi)?
 
-> **Fantasy twist:** Where monsters roam at night, move people into fewer, walled villages of 300–1,000, with fields within 4–5 km (2.5–3 mi) of the walls. See [Dangerous wilderness and monsters](10-fantasy-variants.md#dangerous-wilderness-and-monsters).
+> **Fantasy twist:** Where monsters roam, people crowd into fewer, walled villages of 300–1,000, with fields within 4–5 km (2.5–3 mi) of the walls. See [Dangerous wilderness and monsters](10-fantasy-variants.md#dangerous-wilderness-and-monsters).
 
 ### Step 15: Add the local features
 
@@ -372,7 +372,7 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 **Place:** nothing new. Fix what fails.
 
 **Rules:**
-- Run the "why is it here?" test on every dot. A village needs water, a mix of land nearby and safety from floods. A town must also stand where routes meet. A city must also be on navigable water or the coast and be the best-connected place in a rich region.
+- Run the "why is it here?" test on every dot. A village needs water, mixed land nearby and safety from floods. A town must also stand where routes meet. A city must also be on navigable water and be the best-connected place in a rich region.
 - Count symbols: far more villages than towns, far more towns than cities.
 - Every empty area needs a reason; every crowded area needs good land.
 - Place labels last, biggest first, with 2–3 typefaces at most.
@@ -420,19 +420,17 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 ## Quick summary
 
-- Decide the era, the scale and the amount of magic first, then write the date on the map and draw a scale bar.
-- Work from big to small and from nature to people: water, farmland, population, realms, capitals, great cities and routes; then towns, castles, roads, churches and industry; then villages, local features and ruins.
+- Decide the era, the scale and the amount of magic first; date the map and draw a scale bar.
+- Work from big to small and from nature to people: continent first, then kingdom, then local area.
 - Population is area × density. Good lowland holds 30–50 people per km² (80–130 per sq mi).
-- Capitals sit in rich, defensible cores on navigable water. Great cities of 50,000+ are rare and always fed by river or sea.
+- Capitals sit in rich, defensible cores on navigable water. Great cities of 50,000+ are rare and almost always fed by river or sea.
 - Bulk goods follow water (land : river : sea ≈ 8 : 4 : 1). Roads bend to crossings and passes, with a stop every 15–30 km (10–19 mi).
-- Spacing: villages 1.5–4 km (1–2.5 mi), market towns 9–16 km (6–10 mi), and cities of 10,000+ from 60–90 km (37–56 mi) apart in very urban regions to 260–400 km (160–250 mi) in thinly urban ones.
-- Every castle controls something: a working castle every 20–30 km (12–19 mi) in a peaceful core, one every 4–6 km (2.5–4 mi) on a contested border.
-- Churches form a carpet, monasteries a scatter (about 1 per 150 km², 60 sq mi), and cathedrals and universities a handful.
-- Industry sits on its heaviest input, and every realm needs salt.
-- Add ruins and older layers, then the fantasy changes, then run the "why is it here?" test and the 20 sanity questions.
+- Spacing: villages 1.5–4 km (1–2.5 mi), market towns 9–16 km (6–10 mi), working castles 20–30 km (12–19 mi) in a peaceful core and 4–6 km (2.5–4 mi) on a contested border.
+- Churches form a carpet, monasteries a scatter (about 1 per 150 km², 60 sq mi), cathedrals and universities a handful. Industry sits on its heaviest input.
+- Finish with ruins, then fantasy changes, then the "why is it here?" test and the 20 sanity questions.
 
 ---
 
 ## Sources and further reading
 
-This chapter is a summary and adds no new research. Every number comes from the chapter section linked in each step. The sources are listed at the end of each chapter, from [Where Settlements Are Built (and Why)](01-settlement-placement.md#sources-and-further-reading) to [Common Mistakes and How to Fix Them](11-common-mistakes.md#sources-and-further-reading), and the shared figures are in [research/baseline-numbers.md](../research/baseline-numbers.md).
+This chapter adds no new research. Every number comes from the chapter section linked in each step, each chapter lists its own sources at the end, and the shared figures are in [research/baseline-numbers.md](../research/baseline-numbers.md).
