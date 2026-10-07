@@ -319,7 +319,7 @@
  "royal_forest_boundary": {
   "name": "Kingswood Chase (royal forest, legal boundary)",
   "pts": [[590, 320], [660, 310], [690, 345], [660, 392], [600, 388], [582, 350]],
-  "style": "dotted line, large italic label"
+  "style": "green dash-dot line, large italic label"
  },
  "marshes": [
   {
@@ -1139,7 +1139,7 @@
    "status": "active",
    "x": 630,
    "y": 395,
-   "controls": "royal residence 32 km from the capital"
+   "controls": "royal residence 31 km from the capital"
   },
   {
    "name": "Crestwatch Tower",

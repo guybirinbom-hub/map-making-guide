@@ -89,7 +89,7 @@ Use this table to check the numbers on your map. It is for settled lowland in th
 | People | 200,000–400,000 | 20–40 per km² (50–105 per sq mi) | Baseline densities |
 | Villages with a church | 500–700 | 1.5–4 km (1–2.5 mi) | England: about 14 km² per parish |
 | Market places | 45–130 | 9–16 km (6–10 mi) | Many were only villages with a weekly market; only 39% still had a market c. 1600 |
-| Towns of 2,000–10,000 | 3–8 (estimate) | Towns of 5,000+: 80–95 km (50–60 mi) in France and Germany | Derived from urbanization rates |
+| Towns of 2,000–10,000 | 3–8 (estimate) | Towns of 5,000+: 80–95 km (50–59 mi) in France and Germany | Derived from urbanization rates |
 | Cities of 10,000+ | 0–1 (France, Germany); 1–3 (Flanders, northern Italy) | 130–170 km (80–105 mi) in France and Germany; 60–90 km (37–56 mi) in Flanders and Italy | Derived from Buringh's city data |
 | Great city of 50,000+ | Usually none; at most one per kingdom | — | Only ~22 in all of Europe, the Middle East and North Africa c. 1300 |
 
@@ -504,7 +504,7 @@ The fixes above name many symbols. Here they are in one place. These symbols mat
 | Deserted village | Grey church alone in a field, labelled "(lost village)" | K (a few), L | 28 |
 | Hillfort | Oval of rings or hachures on a hill | L | 28 |
 
-Three features in this chapter are not in the master legend yet. These suggestions do not clash with any symbol in it:
+These three features use the master legend's symbols:
 
 | Feature | Suggested symbol | Mistakes |
 |---|---|---|

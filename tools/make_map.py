@@ -407,7 +407,7 @@ LEG_TOP = [
     ('beacon', 'Beacon chain (10)'),
     ('h', 'Industry'),
     ('mine', 'Silver, lead mines'),
-    ('salt', 'Salt pans, brine'),
+    ('salt', 'Salt pans'),
     ('quarry', 'Quarry, lime'),
     ('mill', 'Fulling mills'),
     ('vines', 'Vineyards'),
@@ -1121,12 +1121,13 @@ for r_ in D['ruins_and_old_layers']:
 # industry
 IND_GLYPH = {
     'Silverhope mines': g_mine, 'Leadgill mines': g_mine, 'Orsdale mines': g_mine,
-    'Saltwich brine pits': g_salt, 'Saltings salterns': g_salt, 'Salthithe': g_salt,
+    # brine towns and salt landings take '(salt)' in the label, not the salt-pan symbol (chapter 13)
+    'Saltwich brine pits': None, 'Saltings salterns': g_salt, 'Salthithe': None,
     'Chalkhythe quarries': g_quarry, 'Cheapford fair meadow': None, 'Gullhaven strand': None,
     'Tenter valley mills': g_mill, 'Abbotsmere vineyards': g_vines, 'Brimhaven yard': g_arsenal,
 }
 # fairs have no symbol of their own (chapter 13): the fair months go in the town's label
-FAIRS = {'Cheapford': 'wool fair, Sept.', 'Gullhaven': 'herring fair, Sept.–Nov.'}
+FAIRS = {'Cheapford': 'wool fair, Sept.', 'Gullhaven': 'herring fair, Sept.–Nov.', 'Saltwich': '(salt)'}
 IND_AT = {
     'Silverhope mines': (186, 321), 'Leadgill mines': (226, 289), 'Orsdale mines': (186, 394),
     'Saltwich brine pits': (749, 478), 'Cheapford fair meadow': (388, 446),

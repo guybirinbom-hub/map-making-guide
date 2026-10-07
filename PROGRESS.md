@@ -34,11 +34,19 @@ Done in this round:
   - density and food figures (02 and baseline)
   - the Norfolk density note (02, 13)
   - the coastal artillery fort symbol (04, 09, 13)
-- **Final numbers check** of 13, 00 and 12 against the owner chapters: running at the time of writing (`{"mode": "final"}`).
+- **Final numbers check** of 13, 00 and 12 against the owner chapters: done. Its cross-file findings are fixed:
+  - Joachimsthal population
+  - religious-house density
+  - stale legend notes in 10 and 11
+  - the leper-house rule (08 and 12)
+  - "almost always" for great cities on water (00 and 02)
+  - pass, refuge-fort, motte and hillfort rows in the legend
+  - salt symbols on the map
 
 ## What could still be done (optional)
 
 - Chapters are long (9,000–14,000 words; the cheat sheet is about 17,000). A trimming pass could cut repetition, especially in 13.
+- The worked example's main river (the Ambre) has fewer bridges than chapter 05's settled-river rule (about one per 20 km). Chapter 12 explains this as the great-river pattern; adding bridge towns would mean editing `guide/images/worked-example-layout.json` and rerunning `tools/make_map.py`.
 - Chapters 02, 06 and 13 could name the same three standard scales that 00 uses (1:10,000,000 / 1:1,000,000 / 1:50,000–1:100,000).
 - `python3 tools/check_links.py` should stay at 0 problems after any edit.
 

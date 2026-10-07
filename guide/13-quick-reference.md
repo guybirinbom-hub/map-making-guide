@@ -1104,7 +1104,8 @@ The chapters suggest symbols for their own topics. This legend gives one symbol 
 | Great royal castle or fortress | Large castle icon (three towers) | C (greatest only), K |
 | Ordinary castle | Small castle icon (one tower with battlements) | K, L |
 | Toll castle | Small castle icon, with a toll bar and "T" across the river or road | K, L |
-| Motte or small earthwork castle | Small mound with a tower tick on top | L |
+| Refuge fort or burh (no town inside) | Small castle icon; a burh with a town inside uses the town symbol with a battlemented ring | K, L |
+| Motte or small earthwork castle | Small mound with a tower tick on top (grey if abandoned) | L (K for notable or abandoned ones, in grey) |
 | Tower house, peel or bastle | Small solid square | K (border zones), L |
 | Citadel | Small castle icon at the edge of the town ring | K, L |
 | Fortified bridge | Bridge symbol with a small tower | L |
@@ -1159,7 +1160,7 @@ A walled town needs no military symbol of its own: use the town or city symbol w
 | Quarry | Notch in a hillside, with a track to water | K (famous ones), L |
 | Lime, brick or tile kilns; clay pits | Words only: "Limekiln", "Brick Kilns", "Clay Pits" | L |
 | Watermill | Wheel on the stream; leat as a thin blue line | L |
-| Water-powered works (forge, furnace, ore-crushing mill, fulling mill, sugar, paper or powder mill) | Watermill wheel on the stream, labelled with the trade ("Forge", "Furnace", "Walk Mill", "Paper Mill", "Powder Mills") | L |
+| Water-powered works (forge, furnace, ore-crushing mill, fulling mill, sugar, paper or powder mill) | Watermill wheel on the stream, labelled with the trade ("Forge", "Furnace", "Walk Mill", "Paper Mill", "Powder Mills") | L (K for notable ones) |
 | Hammer or furnace pond | One blue pond with a straight dam at its lower end, labelled "Hammer Pond" or "Furnace Pond" | L |
 | Tide mill | Mill wheel on a dam across a tidal creek | L |
 | Ship mill or bridge mill | Small mill wheels in midstream, labelled "ship mills"; or mill wheels on the bridge symbol. Never boats | L |
@@ -1225,6 +1226,7 @@ A walled town needs no military symbol of its own: use the town or city symbol w
 | Portage | Short dotted line between two rivers, labelled with its length | K |
 | Bridge | Two short curved lines ")(" with the road running through; label "rope bridge" where it is one | K, L |
 | Ford | Short dashed line across the river | K, L |
+| Mountain pass | Small saddle mark (a shallow "U" between two hill ticks) on the route, with the pass name and height; never ")(", which is a bridge | K, L |
 | Ferry | Short dotted line across the river with "F" | K, L |
 | Toll | One bar across the road or river with a "T" | K, L |
 | Canal | Straight blue line. Medieval canals were short (Naviglio Grande, Milan, 1177–1272; Stecknitz Canal, 1391–98); long canals with many pound locks belong mostly after 1500 | K, L |
@@ -1271,7 +1273,7 @@ The march band is the frontier itself. A whole military zone, from the forward f
 | Deserted village | Grey church alone in a field, labelled "(lost village)" | K (a few), L |
 | Drowned village | Grey church standing in the water, labelled "(lost village)" | K (a few), L |
 | Old border dyke or linear earthwork (Offa's Dyke type) | Line with short ticks on the ditch side, grey if no longer used, always labelled with its name | K, L |
-| Hillfort | Oval of rings or hachures on a hill | L |
+| Hillfort | Oval of rings or hachures on a hill | L (K for big or famous ones) |
 | Barrow | Small filled mound; long barrow as a longer mound | L |
 | Standing stone | Small upright tick | L |
 | Stone circle | Small ring of dots | L |
@@ -1369,8 +1371,8 @@ Where chapters gave different values, this sheet uses the owner chapter's value.
 | Market towns, in practice | 9–16 km (6–10 mi) | [01 How far apart](01-settlement-placement.md#how-far-apart-the-numbers) | 02 and 10 now agree (earlier 10–16 km) |
 | Main road on a kingdom map | about 30 km per 1,000 km² (48 mi per 1,000 sq mi) | [05 How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw) | 11 now agrees (about 190 red lines on the map; about 4,540 km of real road traced behind them; 48 mi per 1,000 sq mi) |
 | Corsican watchtowers | about 85–90 (a 1617 list counts 86) | [04 Watchtowers](04-military-sites.md#watchtowers-beacons-and-coastal-warning) | 01 and 09 now agree |
-| Religious houses, England | ~900 in the 1530s: one per ~145 km² (56 sq mi); for drawing, about 1 per 150 km² (60 sq mi) | [08 How many of each, per area](08-religious-cultural-and-ancient-sites.md#how-many-of-each-per-area) | 02 rounds it to about one per 140 km² (55 sq mi); the difference is only rounding |
-| Joachimsthal in 1534 | about 20,000 | [07 What a mining town is like](07-industry-and-resources.md#what-a-mining-town-is-like) | 09 gives about 18,000–20,000 |
+| Religious houses, England | ~900 in the 1530s: one per ~145 km² (56 sq mi); for drawing, about 1 per 150 km² (60 sq mi) | [08 How many of each, per area](08-religious-cultural-and-ancient-sites.md#how-many-of-each-per-area) | 02 and 08 agree |
+| Joachimsthal in 1534 | about 20,000 | [07 What a mining town is like](07-industry-and-resources.md#what-a-mining-town-is-like) | 07 and 09 agree |
 
 > **Map tip:** When two numbers disagree, use the range from the chapter linked in the "Owner" column, and pick a value inside it that suits your region.
 

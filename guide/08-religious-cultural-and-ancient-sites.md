@@ -283,7 +283,7 @@ Most almshouses and small hospitals had **4–13 residents**. Thirteen was a fav
 
 Place names show where these were: "Spital", "Spittal", "Spitalfields", "Maudlin" (from Mary Magdalene, a common leper-house saint), "Lazar", or "Saint-Lazare".
 
-> **Map tip:** Give every market town one hospital, and every walled town 2–5. Put a leper house on one main road 1–2 km outside each town of 2,000+; big cities may have one on each main road. On a local map, draw each as a small house with a cross and label it ("St John's Hospital", "the Lazar House"). In an Islamic city, place the hospital near the great mosque and the main market instead.
+> **Map tip:** Give every market town one hospital, and every walled town 2–5. Put a leper house on a main road 1–2 km outside each town of 2,000+ and most market towns (England had about 300, roughly one per 430 km²); big cities may have one on each main road. On a local map, draw each as a small house with a cross and label it ("St John's Hospital", "the Lazar House"). In an Islamic city, place the hospital near the great mosque and the main market instead.
 
 ---
 

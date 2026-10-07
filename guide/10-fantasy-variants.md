@@ -457,7 +457,7 @@ If sea monsters or storms make the sea too risky, trade goes inland, even though
 
 > **Rule of thumb:** One symbol, one meaning. Draw ordinary things (castles, churches, ports, tolls, hospices) with the normal symbols. Give magic its own shapes (diamonds for towers, ley lines and wards; a spiral for portals), so it never looks like a town, a border or a road.
 
-These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). Symbols marked † are fantasy-only. The master legend does not list them yet, so they were chosen not to clash with any symbol it uses.
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). Symbols marked † are fantasy-only. They are listed in the fantasy group of the master legend.
 
 **Danger and defence:**
 

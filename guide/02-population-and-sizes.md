@@ -199,7 +199,7 @@ Medieval reality did not follow the rule neatly:
 | Land type | per km² | per sq mi | Real examples |
 |---|---|---|---|
 | Rich lowland, peak times | 30–50 | 80–130 | Northern Italy 34–40 c. 1300; England's *whole-country* average was already ~36 in 1290, so its best lowland was higher |
-| Very urban, rich lowland | 50–75 | 130–190 | Flanders and Holland in the 15th century (estimate). Exceptional districts went far higher, even without big cities: Norfolk, a mostly rural county, had 486,920 people in 1290 (Broadberry, Campbell & van Leeuwen 2011, Table 8B) on about 5,400 km² (2,100 sq mi). That is roughly 90 per km² (230 per sq mi) (derived). |
+| Very urban, rich lowland | 50–75 | 130–190 | Flanders and Holland in the 15th century (estimate). Exceptional districts went far higher: Norfolk, where most people lived in villages (Norwich was its only city), had 486,920 people in 1290 (Broadberry, Campbell & van Leeuwen 2011, Table 8B) on about 5,400 km² (2,100 sq mi). That is roughly 90 per km² (230 per sq mi) (derived). |
 | Average mixed farmland | 15–30 | 40–80 | Suffolk ~23–25 in 1086; England ~19 in 1377 |
 | Poorer land, young kingdoms | 7–15 | 18–40 | Hungary ~7 (c. 1200) and ~9–11 (c. 1495); Crown of Poland 8.6 (1370) and 13 (1500) |
 | Hill country (farmed valleys with upland grazing), peak times | 8–15 | 21–39 | Cumberland and Westmorland about 15–17 in 1290, as whole counties that include the Eden valley and the Solway plain, so the fells themselves held fewer. The same two counties had about 6–7 in 1377, and northern and western England had under 5 in 1086. (Derived from county estimates in Broadberry, Campbell & van Leeuwen 2011.) |
@@ -268,7 +268,7 @@ A **hinterland** is the area of countryside that feeds a town. The model below a
 |---|---|---|---|
 | 1,000 | 7–8 km (4–5 mi) | ~18 km (11 mi) | Not needed |
 | 10,000 | 21–27 km (13–17 mi) | ~55 km (35 mi) | A river or coast lets food come from 2–10 times farther along the waterway |
-| 50,000 | 46–59 km (29–37 mi) | ~125 km (78 mi) | Must have a river or sea supply |
+| 50,000 | 46–59 km (29–37 mi) | ~125 km (78 mi) | Almost always needs a river or sea supply (rare exceptions: Granada) |
 | 100,000 | 65–84 km (40–52 mi) | ~180 km (110 mi) | Only possible by water |
 
 **Why big cities need water:** Moving bulk goods overland was very expensive. In England around 1300, land transport cost roughly 8 times as much as sea transport, and river transport about 4 times as much (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)). Real examples:
@@ -531,7 +531,7 @@ Using the **average** profile:
 
 **Towns needed newcomers.** Medieval towns had more deaths than births. Death rates could be as high as 6% a year even in normal years. Towns grew only by drawing people in from the countryside, and a quarter to a half of a growing town's people were migrants from nearby villages (Nicholas 2014, via Jedwab et al. 2020). This is why towns sit inside a ring of villages that feed them both food and people.
 
-> **Map tip:** Put a manor house (small open square) in most lowland villages (some English villages had two or more). Place castles much more sparsely. Religious houses were common but mostly small: England had nearly 900 in the 1530s, roughly one per 140 km² (55 sq mi). Friaries sit in towns, while abbeys (a church with a square cloister beside it) often sit in remote valleys (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)). Specialists are rare: a university, a great cathedral school or a famous library belongs to only one or two cities in a kingdom.
+> **Map tip:** Put a manor house (small open square) in most lowland villages (some English villages had two or more). Place castles much more sparsely. Religious houses were common but mostly small: England had nearly 900 in the 1530s, roughly one per 145 km² (56 sq mi). Friaries sit in towns, while abbeys (a church with a square cloister beside it) often sit in remote valleys (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)). Specialists are rare: a university, a great cathedral school or a famous library belongs to only one or two cities in a kingdom.
 
 ---
 

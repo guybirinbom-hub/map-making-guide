@@ -245,7 +245,7 @@ Here you decide where the people are, who rules them and how goods move.
 
 **Rules:**
 - Around 1300, Europe, the Middle East and North Africa together had only about 22 cities of 50,000+ and 8 of 100,000+. Mark only 3–8 great cities on a continent map.
-- A city of 50,000 must have river or sea supply. A city of 100,000 is only possible by water.
+- A city of 50,000 almost always needs river or sea supply (rare exception: Granada on its irrigated plain). A city of 100,000 is only possible by water.
 - Best sites: the lowest bridging point, the head of navigation, a confluence, an estuary or a superb harbour with shelter, deep water and a route inland. On tidal coasts, big ports often sat 50–120 km (30–75 mi) up an estuary.
 
 **Read:** [The biggest cities](02-population-and-sizes.md#the-biggest-cities); [What makes a good harbour](05-trade-routes-and-transport.md#what-makes-a-good-harbour)
