@@ -22,13 +22,13 @@ This chapter is the master method of the guide. It puts the other chapters in or
 
 | Decide | Options | What it changes |
 |---|---|---|
-| **Era** | c. 1300 (the crowded peak), 1350–1450 (after the plague), c. 1500 (recovery) or 1500–1650 (later era) | After the Black Death (1347–51), 30–60% of the people are gone, villages are deserted and towns are half-empty. After 1500, capitals, ports and forts grow. See [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague). |
+| **Era** | c. 1300 (the crowded peak), 1350–1450 (after the plague), c. 1500 or 1500–1650 | After the Black Death (1347–51), 30–60% of the people are gone and villages are deserted. After 1500, capitals, ports and forts grow. See [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague). |
 | **Scale** | Continent, kingdom or local area | What you draw: Part A, B or C below. See [What to show at each scale](06-villages-and-countryside.md#what-to-show-at-each-scale). |
 | **Magic** | None, a little or a lot | Nothing at first. Use the real rules, then adjust in [Step 17](#step-17-make-the-fantasy-adjustments). |
 
-If you draw only one kingdom, do Part A for that kingdom, then Parts B and C. If you draw only a local area, still decide where the nearest market town, castle and city are: they explain your villages.
+If you draw only one kingdom, do Part A for that kingdom, then Parts B and C.
 
-> **Map tip:** Write the date in the title box ("The Kingdom of X, Year 1312") and draw a scale bar first. On a kingdom map at 1 cm = 10 km (about 1 inch = 16 mi), even a great city is only 2–4 mm across, so use symbols. Draw town outlines only on local maps.
+> **Map tip:** Write the date in the title box ("The Kingdom of X, Year 1312") and draw a scale bar first. On a kingdom map at 1 cm = 10 km (about 1 inch = 16 mi), even a great city is only 2–4 mm across: use symbols, not outlines.
 
 ---
 
@@ -65,9 +65,9 @@ flowchart TD
     F18 -. "a check fails" .-> A1
 ```
 
-Each step says what to **place**, gives the key **rules** with numbers, links to the chapter section to **read**, and ends with a **check** question. If a check fails, fix it before you go on: an early mistake spreads into every later step.
+Each step says what to **place**, gives the key **rules**, links to the section to **read** and ends with a **check**. Fix a failed check before you go on: early mistakes spread into every later step.
 
-> **Map tip:** Work in pencil or on separate layers (terrain, land quality, borders, settlements, routes, special sites), so you can switch one off while you check another.
+> **Map tip:** Work in pencil or on separate layers, so you can redraw an early step without erasing everything after it.
 
 ---
 
@@ -77,11 +77,11 @@ Here you decide where the people are, who rules them and how goods move. You do 
 
 ### Step 1: Check the terrain and water
 
-**Place:** rivers, springs, marshes and fords; on each big river, the tidal limit (the highest point the tide reaches) and the head of navigation (the highest point boats can reach).
+**Place:** rivers, springs, marshes, fords, and on each big river the tidal limit (where the tide stops) and the head of navigation (the highest point boats can reach).
 
 **Rules:**
-- Mark which river stretches are **navigable** (deep enough for boats) and where they stop: falls, rapids or shallows. Draw them a little thicker.
-- Where the lowest bridge, the old tidal limit and the highest point for sea ships come together is the best spot on your map for a big town.
+- Mark which stretches are **navigable** (deep enough for boats) and where they stop: falls, rapids or shallows.
+- Where the lowest bridge, the tidal limit and the highest point for sea ships come together is the best spot on the map for a big town.
 - Rivers join as they flow downhill. They almost never split, except in deltas and marshes.
 - Mark strong sites too: hills, river loops, islands and spurs (ridge ends with cliffs on two or three sides).
 
@@ -142,10 +142,10 @@ Here you decide where the people are, who rules them and how goods move. You do 
 **Place:** one capital per realm, or a set of royal residences if the court travels.
 
 **Rules:**
-- A capital needs a rich core region, river or sea access, a defensible site, loyal land around it and legitimacy (an old royal or sacred site). Centrality matters less than you think: Paris, London and Kraków all lay off-centre, on navigable rivers.
+- A capital needs a rich core region, river or sea access, a defensible site, loyal land and legitimacy (an old royal or sacred site). Centrality matters less: Paris, London and Kraków all lay off-centre.
 - In a strong, centralised kingdom the capital holds about 1–2% of the realm's people and is 3–7 times the size of the second city. In a loose realm the largest city holds about 0.5% or less.
 - Before about 1200 most western kings had no fixed capital: draw 5–15 royal residences about a day's travel apart instead.
-- Around a fixed capital, draw 3–6 smaller residences within about 60 km (37 mi), a royal forest with a hunting lodge, a great abbey or burial church, and perhaps a coronation town 50–150 km (30–90 mi) away.
+- Around a fixed capital, draw 3–6 residences within about 60 km (37 mi), a royal forest and a burial church, and perhaps a coronation town 50–150 km (30–90 mi) away.
 
 **Read:** [What makes a capital](03-capitals-and-borders.md#what-makes-a-capital); [Around the capital: the royal landscape](03-capitals-and-borders.md#around-the-capital-the-royal-landscape)
 
@@ -155,27 +155,26 @@ Here you decide where the people are, who rules them and how goods move. You do 
 
 ### Step 6: Place the great cities and ports
 
-**Place:** the few great cities of 50,000+ people and the main ports.
+**Place:** the few great cities (50,000+ people) and the main ports.
 
 **Rules:**
 - Around 1300, Europe, the Middle East and North Africa together had only about 22 cities of 50,000+ and 8 of 100,000+. Mark only 3–8 great cities on a continent map.
 - A city of 50,000 must have river or sea supply. A city of 100,000 is only possible by water.
-- The best sites are the lowest bridging point, the head of navigation, a confluence, an estuary or a superb harbour. On tidal coasts, big ports often sat 50–120 km (30–75 mi) up an estuary.
-- A harbour needs shelter, deep water, fresh water and a river or road inland, and it must not silt up.
+- Best sites: the lowest bridging point, the head of navigation, a confluence, an estuary or a superb harbour with shelter, deep water and a route inland. On tidal coasts, big ports often sat 50–120 km (30–75 mi) up an estuary.
 
 **Read:** [The biggest cities](02-population-and-sizes.md#the-biggest-cities); [What makes a good harbour](05-trade-routes-and-transport.md#what-makes-a-good-harbour)
 
 **Check:** Is every great city on the sea or a navigable river, with a clear reason to be great (a court, a strait, a delta, an export trade)?
 
-> **Fantasy twist:** A griffon carries about what a pack horse carries (100–120 kg), so flying mounts do not feed a great city. Only magic that moves bulk, such as a portal that passes shiploads of grain every day, frees big cities from the water rule. See [Teleport circles and portals](10-fantasy-variants.md#teleport-circles-and-portals).
+> **Fantasy twist:** A griffon carries about a pack horse's load (100–120 kg), so it cannot feed a great city. Only magic that moves bulk, such as a portal passing shiploads of grain every day, frees big cities from the water rule. See [Teleport circles and portals](10-fantasy-variants.md#teleport-circles-and-portals).
 
 ### Step 7: Draw the trade routes and sea lanes
 
 **Place:** sea lanes, river routes, main mountain passes and long land routes.
 
 **Rules:**
-- In England c. 1300, land : river : sea transport cost about 8 : 4 : 1. Bulk goods (grain, timber, stone, salt, wine) follow water, and travel more than 30–50 km (19–31 mi) over land only when they are valuable, or in war or famine.
-- A continent usually has one or two bulk sea networks, several river spines and one or two long luxury routes over land. Copy a real one (the Hanse, Venice and Genoa, the Silk Roads) and join them at a few great ports.
+- Land : river : sea transport cost about 8 : 4 : 1 (England c. 1300). Bulk goods (grain, timber, stone, salt, wine) follow water; they go more than 30–50 km (19–31 mi) by land only if valuable, or in war or famine.
+- A continent usually has one or two bulk sea networks, several river spines and one or two long luxury land routes. Copy a real one (the Hanse, Venice and Genoa, the Silk Roads).
 - Sea lanes follow coasts and island chains. On a galley coast, put a watering port every 100–300 km (60–190 mi).
 - Give each mountain range 1–3 main passes and 2–5 minor ones. Desert routes need water every 30–40 km (19–25 mi).
 
@@ -183,13 +182,13 @@ Here you decide where the people are, who rules them and how goods move. You do 
 
 **Check:** For each region, can you write "exports ..., imports ..." and trace each export to water or a market?
 
-> **Map tip:** A continent map shows realms and great fiefs, 3–8 great cities, sea lanes with their sailing seasons, main passes, great shrines, universities, mining districts in 3–6 mountain areas, and only the greatest fortresses (about 1 per 20,000–50,000 km², 8,000–19,000 sq mi). Leave counties, villages and ordinary castles for the kingdom map.
+> **Map tip:** A continent map shows realms and great fiefs, 3–8 great cities, sea lanes, main passes, great shrines, mining districts in 3–6 mountain areas and only the greatest fortresses (about 1 per 20,000–50,000 km², 8,000–19,000 sq mi). Leave counties, villages and ordinary castles for the kingdom map.
 
 ---
 
 ## Part B: Kingdom and region scale
 
-Now zoom in to one realm and place the towns that serve it, the castles that hold it and the routes, churches and industries that tie it together.
+Now zoom in to one realm: the towns that serve it, the castles that hold it, and the routes, churches and industries that tie it together.
 
 ### Step 8: Place regional cities and towns
 
@@ -232,14 +231,14 @@ Now zoom in to one realm and place the towns that serve it, the castles that hol
 | England and Wales average | ~12 | ~4 |
 | March or contested border | 35–60 | 12–20 |
 
-- Put the castle at the edge of its town, on the high point or by the river, with the market at its gate. Wall cities, regional capitals, frontier towns and raided ports; leave most market towns open.
-- Peacetime garrisons are only 5–20 men. Beacons stand about 5–20 km (3–12 mi) apart in hilly country.
+- Put the castle at the edge of its town, with the market at its gate. Wall cities, regional capitals, frontier towns and raided ports; leave most market towns open.
+- Peacetime garrisons are only 5–20 men.
 
 **Read:** [How many castles and how far apart](04-military-sites.md#how-many-castles-and-how-far-apart); [How many to draw](04-military-sites.md#how-many-to-draw)
 
 **Check:** Can you name what each castle controls, and is the map sparse in the core and dense on the border?
 
-> **Later era (1500s+):** Low, thick star forts with angled bastions spread beyond Italy in the 1530s–1540s. They were so expensive that only frontiers, capitals, main ports and key river crossings get them. See [Gunpowder and the new fortifications](09-later-era-1500-1650.md#gunpowder-and-the-new-fortifications).
+> **Later era (1500s+):** Low, thick star forts with angled bastions spread beyond Italy in the 1530s–1540s. They were so expensive that only frontiers, capitals, main ports and key crossings get them. See [Gunpowder and the new fortifications](09-later-era-1500-1650.md#gunpowder-and-the-new-fortifications).
 
 ### Step 11: Draw roads and crossings
 
@@ -247,7 +246,7 @@ Now zoom in to one realm and place the towns that serve it, the castles that hol
 
 **Rules:**
 - Crossings first: roads bend to reach them and towns grow at them. A great river gets only a few fixed bridges, often tens of km apart, with ferries and fords between.
-- Main roads link cities through the crossings and passes, along valleys and dry ridges. Only an older empire's roads run straight. Local tracks link villages to their market town like the spokes of a wheel.
+- Main roads link cities through crossings and passes, along valleys and dry ridges; only an older empire's roads run straight. Village tracks run to the market town like wheel spokes.
 - Put an inn or village every 15–30 km (10–19 mi) on main roads, a caravanserai (walled roadside inn) every 30–40 km (19–25 mi) in desert, and a hospice at each main pass. Tolls sit at bridges, gates, gorges, straits and borders.
 - Walkers cover 25–35 km (15–22 mi) a day, ox carts 15–25 km (10–15 mi) and armies with baggage 13–20 km (8–12 mi).
 
@@ -277,22 +276,22 @@ Now zoom in to one realm and place the towns that serve it, the castles that hol
 **Place:** mines, salt works, quarries, cloth districts, fisheries and fair towns.
 
 **Rules:**
-- Industry goes to its heaviest input: the ore, the fuel or the water power, not the customer. Check three things for each site: the resource, the fuel and the way out (a river, a coast or a road to one).
+- Industry goes to its heaviest input: the ore, the fuel or the water power, not the customer.
 - Per kingdom, aim for 1–3 mining districts, 1–3 salt sources, one cloth region, one or two fair towns and several ports. Every realm needs salt, or a route that brings it in.
-- A mining district holds 2–7 mining towns 10–40 km (6–25 mi) apart, up side valleys, plus a mint town. Most had 1,000–5,000 people; rare boom towns of 10,000–20,000 could ignore the water rule, because silver pays for carted food.
-- Ironworks need charcoal and fast streams: draw many small forges along the streams, not one big town.
+- A mining district holds 2–7 mining towns 10–40 km (6–25 mi) apart, up side valleys, plus a mint town. Most had 1,000–5,000 people; rare boom towns reached 10,000–20,000.
+- Ironworks need charcoal and fast streams: draw many small forges, not one big town.
 
 **Read:** [The basic rules: what pulls industry to a place](07-industry-and-resources.md#the-basic-rules-what-pulls-industry-to-a-place); [Special town types and how to spot them](07-industry-and-resources.md#special-town-types-and-how-to-spot-them)
 
 **Check:** For every industry, can you point to the resource, the fuel and the way out?
 
-> **Map tip:** A kingdom map shows the capital, the cities, all the towns and the main market towns, with villages only as texture in the plains. Add county borders, royal and county castles, the border chain, cathedrals, great abbeys, shrines and mining districts. Leave mills, hamlets and gallows for the local map.
+> **Map tip:** A kingdom map shows the capital, cities, towns and the main market towns, with villages only as texture. Add county borders, the main castles, cathedrals, great abbeys and mining districts. Leave mills, hamlets and gallows for the local map.
 
 ---
 
 ## Part C: Local area scale
 
-A local map covers one or two parishes up to a small county, roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Here almost every square kilometre has a human feature.
+A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Almost every square kilometre has a human feature.
 
 ### Step 14: Place the villages
 
@@ -336,8 +335,8 @@ A local map covers one or two parishes up to a small county, roughly 5 × 5 km t
 **Place:** old roads, hillforts, castle ruins, deserted villages and moved towns.
 
 **Rules:**
-- Show what was already old at your map's date. Ruins near living towns are quarried away; they survive in empty country.
-- Draw a few long, straight "old roads" linking cities, with later towns along them, and in hilly country 1–3 hillforts per 100 km² (39 sq mi), with barrows along the ridges.
+- Ruins near living towns are quarried away; they survive in empty country.
+- Draw a few long, straight "old roads" linking cities, and in hilly country 1–3 hillforts per 100 km² (39 sq mi).
 - In long-settled land, draw one or two castle ruins or earthworks for every active castle; on a new frontier, almost none.
 - England has more than 3,000 known deserted villages, at least 1,500 abandoned c. 1350–1520. Draw them as a lone church in a field.
 
@@ -356,8 +355,8 @@ A local map covers one or two parishes up to a small county, roughly 5 × 5 km t
 **Place:** the places that magic, monsters and other peoples create, and the places they destroy.
 
 **Rules:**
-- Real rules first. Then ask which input each fantasy element changes (water, food, defence, travel cost, threats or resources), and write one line: "X exists, so Y changes."
-- Add magic in this order: magical resources (a crystal is ore; a ley line is a river); the towers, academies and boom towns that use them; density changes; new hubs such as portals and aeries; then the fortresses.
+- Real rules first. Then ask which input each element changes (water, food, defence, travel cost, threats or resources) and write: "X exists, so Y changes."
+- Add magic in order: resources (a crystal is ore; a ley line is a river), then towers and boom towns, density changes, new hubs (portals, aeries) and finally fortresses.
 - Danger concentrates people: walled hilltop villages, refuge forts about a day's walk (24–32 km, 15–20 mi) apart, and a frontier band of 30–100 km (20–60 mi) between the safe core and the wild.
 - Strong fertility magic (about twice the yield) gives density like Flanders: 50–75 people per km² (130–190 per sq mi).
 - Magic can give a town its reason to exist, but not its water and food. Use no more than three or four fantasy elements per region.
@@ -366,7 +365,7 @@ A local map covers one or two parishes up to a small county, roughly 5 × 5 km t
 
 **Check:** Does every magical city still show where its water and food come from?
 
-> **Later era (1500s+):** For a 1500–1650 map, keep the villages and market towns. Grow the capital and the ocean ports, turn interior castles into ruins or palaces, and add star forts only where they pay, post roads, a canal or a drained polder, and a religious border with ruined abbeys on the Protestant side. See [Drawing a world in transition](09-later-era-1500-1650.md#drawing-a-world-in-transition).
+> **Later era (1500s+):** For a 1500–1650 map, keep the villages and market towns. Grow the capital and ocean ports, turn interior castles into ruins or palaces, and add star forts where they pay, post roads, a drained polder and a religious border. See [Drawing a world in transition](09-later-era-1500-1650.md#drawing-a-world-in-transition).
 
 ### Step 18: Run the final sanity check
 
