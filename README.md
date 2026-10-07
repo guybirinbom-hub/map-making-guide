@@ -13,6 +13,8 @@ It is built on real history, mainly Europe from about **1000 to 1500 AD**, with 
 
 It covers three map scales: **continent/world**, **kingdom/region**, and **local area** (a valley or county). City street plans are out of scope.
 
+**The whole guide as one PDF book:** [map-making-guide.pdf](map-making-guide.pdf). It has a clickable chapters page, two-column pages and bookmarks.
+
 ## How to use this guide
 
 1. **Start with [Step by Step](guide/00-step-by-step.md).** It is the method from blank map to finished map, in order, at each scale. Each step links to the chapter that explains it.
@@ -54,4 +56,5 @@ Shared numbers used across chapters: [research/baseline-numbers.md](research/bas
 
 - [PROGRESS.md](PROGRESS.md) records the decisions behind the guide and how to continue the work.
 - `tools/check_links.py` checks every relative link and section anchor: `python3 tools/check_links.py`
+- `tools/build_pdf.py` rebuilds the PDF from the chapters (needs `pip install weasyprint markdown-it-py mdit-py-plugins`): `python3 tools/build_pdf.py`
 - `.claude/workflows/` holds the research and assembly workflows used to write and check the chapters.
