@@ -115,7 +115,7 @@ At its height the Roman road network had more than 400,000 km (250,000 mi) of ro
 
 In 12th-century England, law books placed **four highways** under the king's special peace: Watling Street, Ermine Street and the Fosse Way (all Roman) and the Icknield Way (prehistoric). In Italy the Via Aemilia still formed the spine of the Po plain.
 
-Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, revised perhaps as late as 1430) shows thin red lines between towns, each marked with a distance in Roman numerals. It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances. It also shows how much main road to draw on a kingdom map (see [How much main road to draw](#how-much-main-road-to-draw)).
+Medieval people did draw road maps. The Gough Map of Britain shows thin red lines between towns, each marked with a distance in Roman numerals. Its date is uncertain. It is conventionally dated c. 1360–70, but a study of its handwriting (Smallwood 2010) suggests it was made one or two decades after 1400, and parts were redone or added later in the 15th century (Solopova 2012; Delano-Smith et al. 2017; both summed up by Oksanen & Brookes 2025). It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances. It also shows how much main road to draw on a kingdom map (see [How much main road to draw](#how-much-main-road-to-draw)).
 
 ### Who maintained roads
 
@@ -518,7 +518,7 @@ From the 12th century, the Counts of Champagne protected merchants travelling to
 | Cloth | High | Any distance | Any distance |
 | Metals (copper, tin, silver, iron) | Medium to high | Long distances | Long distances |
 | Furs, wax, amber | High | Long distances | Long distances |
-| Spices, silk, dyes, gems, sugar | Very high | Across continents | Across oceans |
+| Spices, silk, dyes, gems, [sugar](07-industry-and-resources.md#sugar-estates-mediterranean) | Very high | Across continents | Across oceans |
 | Live animals | Walk themselves | Hundreds of km along drove roads (see [Drove roads](#drove-roads)) | — |
 
 A cart journey that doubles the price of grain adds only a few per cent to the price of pepper, which was worth many times more per kilogram. That is why spices crossed Asia by camel while grain rarely crossed a county by cart.
@@ -533,7 +533,7 @@ A cart journey that doubles the price of grain adds only a few per cent to the p
 | Northern forests | Furs, wax, honey, timber, tar and pitch, potash | Salt, cloth, metal goods, wine |
 | Coasts and islands | Salted fish, sea salt, ships and sailors | Grain, timber, cloth |
 | Wine country (in Europe mostly south of about 50° N, though small vineyards grew farther north) | Wine, brandy (later) | Grain, cloth, fish |
-| Mediterranean dry lands | Olive oil, wine, dried fruit, sugar (Cyprus, Sicily), alum, cotton (Syria), mastic (Chios) | Grain, timber, metals, cloth |
+| Mediterranean dry lands | Olive oil, wine, dried fruit, sugar (Cyprus, Sicily; see [Sugar estates](07-industry-and-resources.md#sugar-estates-mediterranean)), alum, cotton (Syria), mastic (Chios) | Grain, timber, metals, cloth |
 | Cloth towns | Woollen and linen cloth | Wool, dyes, alum, food |
 | Desert and oasis | Dates, salt; transit of gold and slaves | Grain, cloth, metal goods |
 | The "Indies" (South and East Asia) | Pepper and spices, silk, cotton cloth, porcelain, gems | Silver, gold, horses, coral, cloth |
@@ -603,7 +603,7 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 **Why:** A kingdom map shows the main roads that a merchant or a royal messenger would plan a journey on. The lanes between villages are many times denser, but drawn at this scale they turn the map into a spider's web. They belong on a local map.
 
-**Numbers:** A good medieval measure is the Gough Map of Britain (late 14th or early 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements, joined by red lines. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
+**Numbers:** A good medieval measure is the Gough Map of Britain (conventionally dated c. 1360–70; a handwriting study suggests one or two decades after 1400, with additions later in the 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements, joined by red lines. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
 
 | Measure | Value |
 |---|---|
@@ -665,6 +665,7 @@ The Gough Map is a selection, not a full road atlas. It leaves out some importan
 - Childs, Wendy R. (2019). "England's maritime and commercial networks in the late Middle Ages." In Giampiero Nigro (ed.), *Maritime Networks as a Factor in European Integration*. Florence: Firenze University Press.
 - Colyer, Richard J. (1972). "Welsh cattle drovers in the nineteenth century." *National Library of Wales Journal* 17 (4). Quoted in the Lingfield drovers fact sheet listed below.
 - Colyer, Richard J. (1974). "Welsh cattle drovers in the nineteenth century, part 2." *National Library of Wales Journal* 18 (3).
+- Delano-Smith, Catherine, Peter Barber, Damian Bove, et al. (2017). "New light on the medieval Gough Map of Britain." *Imago Mundi* 69 (1): 1–36. https://doi.org/10.1080/03085694.2017.1242838
 - Dollinger, Philippe (1970). *The German Hansa*. Trans. D. S. Ault and S. H. Steinberg. London: Macmillan.
 - Dunn, Ross E. (1986). *The Adventures of Ibn Battuta, a Muslim Traveler of the 14th Century*. Berkeley: University of California Press.
 - Edwards, J. F., and B. P. Hindle (1991). "The transportation system of medieval England and Wales." *Journal of Historical Geography* 17 (2): 123–134.
@@ -685,6 +686,8 @@ The Gough Map is a selection, not a full road atlas. It leaves out some importan
 - Pegolotti, Francesco Balducci (c. 1340). *La pratica della mercatura*. Ed. Allan Evans (1936). Cambridge, Mass.: Mediaeval Academy of America.
 - Prescott, William H. (1843). *History of the Conquest of Mexico*. Book 4, chapter 1 describes the causeways of Tenochtitlan.
 - Pryor, John H. (1988). *Geography, Technology, and War: Studies in the Maritime History of the Mediterranean, 649–1571*. Cambridge: Cambridge University Press.
+- Smallwood, T. M. (2010). "The date of the Gough Map." *Imago Mundi* 62 (1): 3–29. https://doi.org/10.1080/03085690903407997
+- Solopova, Elizabeth (2012). "The making and re-making of the Gough Map of Britain: manuscript evidence and historical context." *Imago Mundi* 64 (2): 155–168. https://doi.org/10.1080/03085694.2012.673758
 - Spufford, Peter (2002). *Power and Profit: The Merchant in Medieval Europe*. London: Thames & Hudson.
 - Unger, Richard W. (1980). *The Ship in the Medieval Economy, 600–1600*. London: Croom Helm.
 - Shared baseline numbers for this guide: the file `research/baseline-numbers.md` in this project (travel speeds, transport costs and spacing, with their sources).

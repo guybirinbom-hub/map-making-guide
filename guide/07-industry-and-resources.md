@@ -91,7 +91,7 @@ Then there are two more pulls:
 - Streets on slopes. Older mining towns are often irregular, because they grew fast around mine shafts. Later ones founded by a ruler (such as the Ore Mountain towns of c. 1500) were often planned, with a grid of streets and a square market place.
 - Heaps of waste rock (spoil heaps) on the hillsides.
 - Smelting huts and ore-crushing mills along the stream below.
-- A **mint**, because silver and gold were turned into coin on the spot.
+- A **mint**, because silver and gold were turned into coin on the spot. A strong kingdom often kept a mint at each big silver mine, as well as in the capital. See [How many mints?](03-capitals-and-borders.md#how-many-mints)
 - A large, rich church for its size. Often a royal castle or official's house to watch the money.
 - Little farmland. Food came in from lowland markets.
 
@@ -182,7 +182,7 @@ Medieval coal pits were small: "bell pits" (a shaft widened at the bottom, aband
 | Scale | What to show |
 |---|---|
 | Continent | A mining-district symbol (crossed hammers or a pick) on 3–6 mountain areas. Not every range has ore. |
-| Kingdom | 1–3 mining districts. In each, a cluster of 2–7 mining towns, each 10–40 km (6–25 mi) apart, plus a mint town. The central Slovak mining towns and the towns of the Ore Mountains are real clusters like this. |
+| Kingdom | 1–3 mining districts. In each, a cluster of 2–7 mining towns, each 10–40 km (6–25 mi) apart, plus a mint town (see [How many mints?](03-capitals-and-borders.md#how-many-mints)). The central Slovak mining towns and the towns of the Ore Mountains are real clusters like this. |
 | Local area | Shafts, spoil heaps, adit mouths in the valley side, ore-crushing mills on the stream, smelting huts, charcoal hearths in the woods, the miners' town on a slope, a castle or official's house. |
 
 > **Fantasy twist:** Dwarves who can drain or shore up deep mines remove the medieval depth limit, so their mines last for centuries instead of decades. Magic ores (mithril and the like) behave like gold or silver: valuable enough to pay for long, guarded roads, so a remote mine can still support a large town. A dragon or monster in the hills is a good reason why a known ore field is *not* worked. More in [chapter 10](10-fantasy-variants.md).

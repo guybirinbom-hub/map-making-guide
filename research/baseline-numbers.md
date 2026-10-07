@@ -193,7 +193,7 @@ Model assumptions:
 ## 9. Castles and fortifications
 
 **Counts**
-- **England and Wales:** ~1,700 medieval castle sites in all. More than 1,000 were built within ~150 years of 1066, but only 500–600 were occupied at any one time after the Conquest. In the late Middle Ages there were over 250 tower houses in England, ~800 in Scotland and over 3,000 built in Ireland (more than 2,000 still stand).
+- **England and Wales:** about 1,700–1,800 medieval castle sites in all (the Gatehouse gazetteer lists 1,761). More than 1,000 were built within ~150 years of 1066, but only 500–600 were occupied at any one time after the Conquest. In the late Middle Ages there were over 250 tower houses in England, ~800 in Scotland and over 3,000 built in Ireland (more than 2,000 still stand).
 - **German-speaking lands:** ~14,000 castles. Broader counts that include ruins and palaces give 19,000–25,000. Switzerland had ~4,000.
 - **France:** no reliable national total; many thousands. The castle boom shows in Provence: 12 castles in 950, 30 by 1000 and over 100 by 1030.
 - **Western Europe as a whole:** 75,000–100,000 castles built.

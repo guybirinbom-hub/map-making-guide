@@ -214,9 +214,9 @@ Full details are in [Trade Routes, Roads and Transport](05-trade-routes-and-tran
 
 ### 15. No roads at all
 
-**Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map of Britain (usually dated c. 1400; scholars disagree, and it was revised during the 15th century) shows about 190 thin red route lines between towns. Nine out of ten have the distance between the towns written on them. Many Roman roads were still in use 1,000 years after they were built.
+**Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map of Britain (late 14th or early 15th century; scholars disagree on the exact date, and parts were redrawn later in the 15th century) shows about 190 thin red route lines between towns. Nine out of ten have the distance between the towns written on them. A modern study traced the real roads behind these lines: about 4,540 km (2,820 mi) of route across England and Wales, split into 455 segments. About a third of that length runs on Roman roads, still in use 1,000 years after they were built. See [How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw).
 
-**Fix:** Connect every town to its neighbours. Draw main roads between cities and along valleys. At kingdom scale you can leave out minor tracks.
+**Fix:** Connect every town to its neighbours. Draw main roads between cities and along valleys. At kingdom scale you can leave out minor tracks. As a guide from the Gough Map, draw about 30 km of main road for every 1,000 km² of settled land (about 50 mi per 1,000 sq mi).
 
 **Exception:** Where water is the road, roads matter less: river routes in Russia, the Venetian lagoon, the Fens of eastern England and archipelagos all relied on boats. Steppe and desert had tracks and caravan routes rather than built roads.
 
@@ -246,7 +246,7 @@ A new pass can make a region rich. The Gotthard route ran through Uri, and contr
 
 ### 18. Bridges everywhere
 
-**Why it looks wrong:** On many maps every town on a big river has a bridge, and roads cross wide rivers wherever they like. In reality stone bridges were costly and valuable, and on the widest rivers they were few. London Bridge (stone, finished 1209) was the only road crossing of the Thames below Kingston upon Thames until Putney Bridge opened in 1729. That is more than 500 years with one bridge for the whole of London. On smaller rivers bridges were more common than many people think: in England, most important crossings had a bridge by the 13th century (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)).
+**Why it looks wrong:** On many maps every town on a big river has a bridge, and roads cross wide rivers wherever they like. In reality stone bridges were costly and valuable, and on the widest rivers they were few. London Bridge (stone, finished 1209) was the only road crossing of the Thames below Kingston upon Thames until Putney Bridge opened in 1729. That is more than 500 years with one bridge for the whole of London. Upstream, where the river is narrower, bridges were more common. Above Kingston the Thames had a bridge town about every 20 km (12 mi) by c. 1300, and more were added later, such as Chertsey (licensed 1410). On smaller rivers, too, bridges were more common than many people think: in England, most important crossings had a bridge by the 13th century (see [The Thames example](05-trade-routes-and-transport.md#how-often-is-a-river-bridged-the-thames-example)).
 
 **Fix:** Cross wide rivers at fords (shallow places), ferries and a few bridges at important towns. A bridge attracts roads, trade and tolls, so it usually has a town or castle beside it. Small streams can have many small bridges.
 
@@ -406,7 +406,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 |---|---|
 | Iron Age hillforts (earth-walled hilltop enclosures, c. 700 BC–AD 43) | 4,147 in Britain and Ireland (Atlas of Hillforts, 2017; see [Ancient and ruined layers](08-religious-cultural-and-ancient-sites.md#ancient-and-ruined-layers)), most of them in Britain (Scotland about 1,700, England about 1,220) |
 | Roman roads, forts, walls and towns | Many roads still in use in the Middle Ages |
-| Early castles abandoned or replaced | Of ~1,700 castle sites in England and Wales, only 500–600 were in use at any one time |
+| Early castles abandoned or replaced | Of about 1,700–1,800 castle sites in England and Wales (the Gatehouse gazetteer lists 1,761; see [chapter 04](04-military-sites.md)), only 500–600 were in use at any one time |
 | Deserted villages | More than 3,000 known in England from all periods; at least 1,500 abandoned c. 1350–1520, most in the 15th century when fields were turned into sheep pasture |
 
 *Medieval Demographics Made Easy* suggests this many ruined castles: (population ÷ 5 million) × the square root of the realm's age in years. Take a realm of about 5 million people where castle-builders have lived for 400–900 years. The formula gives only about 20–30 ruins. That is far fewer than the real landscape had. More than 1,000 castles were built in England and Wales in the 150 years after 1066. Only 500–600 were in use at any one time, so hundreds of early castles already stood abandoned by c. 1200.
@@ -526,6 +526,7 @@ Answer yes or no. Every "no" is a place to look again.
 - Jones, Diana Wynne. *The Tough Guide to Fantasyland*. 1996 (a satire of fantasy clichés, including maps).
 - Lock, Gary, and Ian Ralston. *Atlas of Hillforts of Britain and Ireland*. Online database, University of Oxford, University of Edinburgh and University College Cork, 2017 (4,147 sites).
 - Masschaele, James. "Transport Costs in Medieval England." *Economic History Review* 46 (1993).
+- Oksanen, Eljas, and Stuart Brookes. "The afterlife of Roman roads in England: insights from the fifteenth-century Gough map of Great Britain." *Journal of Archaeological Science* 179 (2025): 106227 (455 route segments, about 4,540 km, 35.5% on Roman roads). Open-access copy at [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10207831).
 - Ross, S. John. *Medieval Demographics Made Easy*. First written 1993; the current PDF is version 1.10 (copyright 1993, 1999–2018).
 - Salter, Mike. *Medieval Walled Towns*. Malvern: Folly Publications, 2013.
 
@@ -547,8 +548,8 @@ Answer yes or no. Every "no" is a place to look again.
 - Wikipedia, more pages checked for this chapter: [Old London Bridge](https://en.wikipedia.org/wiki/Old_London_Bridge); [Gough Map](https://en.wikipedia.org/wiki/Gough_Map); [Brenner Pass](https://en.wikipedia.org/wiki/Brenner_Pass); [Gotthard Pass](https://en.wikipedia.org/wiki/Gotthard_Pass); [Castle](https://en.wikipedia.org/wiki/Castle); [Castles in Great Britain and Ireland](https://en.wikipedia.org/wiki/Castles_in_Great_Britain_and_Ireland); [Zwin](https://en.wikipedia.org/wiki/Zwin); [Bruges](https://en.wikipedia.org/wiki/Bruges); [Sijilmasa](https://en.wikipedia.org/wiki/Sijilmasa); [Ghouta](https://en.wikipedia.org/wiki/Ghouta); [Qanat](https://en.wikipedia.org/wiki/Qanat); [Harrying of the North](https://en.wikipedia.org/wiki/Harrying_of_the_North); [Treaty of York](https://en.wikipedia.org/wiki/Treaty_of_York); [Eastern Settlement](https://en.wikipedia.org/wiki/Eastern_Settlement) (Norse Greenland); [Bryggen](https://en.wikipedia.org/wiki/Bryggen); [Kutná Hora](https://en.wikipedia.org/wiki/Kutn%C3%A1_Hora); [Camino de Santiago](https://en.wikipedia.org/wiki/Camino_de_Santiago); [Great Lavra](https://en.wikipedia.org/wiki/Great_Lavra).
 - German Wikipedia, [Obergermanisch-Raetischer Limes](https://de.wikipedia.org/wiki/Obergermanisch-Raetischer_Limes) (the straight 81 km section from Walldürn to the Haghof near Welzheim).
 - World History Encyclopedia, [Treaty of Tordesillas](https://www.worldhistory.org/Treaty_of_Tordesillas/).
-- Archaeology Data Service, [The Routes and Roads of the Gough Map: GIS Database](https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm) (about 190 route lines, nine-tenths with distances).
-- Gatehouse Gazetteer, [Salter, *Medieval Walled Towns* (2013)](https://gatehouse-gazetteer.info/Books/booktext/mwtms.html).
+- Archaeology Data Service, [The Routes and Roads of the Gough Map: GIS Database](https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm) (Oksanen and Brookes 2024; about 190 route lines, nine-tenths with distances).
+- Gatehouse Gazetteer, [Salter, *Medieval Walled Towns* (2013)](https://gatehouse-gazetteer.info/Books/booktext/mwtms.html); [castle statistics by county](https://gatehouse-gazetteer.info/stats3.html) (1,761 castle sites in England and Wales: 1,252 in England, 509 in Wales).
 - Medievalists.net, [Creighton, "Castles of Communities": medieval town defences in England, Wales and Gascony](https://www.medievalists.net/2010/08/castles-of-communities-medieval-town-defences-in-england-wales-and-gascony/).
 - University of Edinburgh, [Experts map hillforts of UK and Ireland](https://cahss.ed.ac.uk/news-events/news/current-news/experts-map-hill-forts-of-uk-and-ireland) (4,147 sites: 1,695 in Scotland, 1,224 in England); Smithsonian Magazine, [Explore Ancient British Isles Hill Forts with a New Online Atlas](https://www.smithsonianmag.com/smart-news/explore-ancient-british-isles-hill-forts-using-new-online-atlas-180963803/) (2017).
 - English Heritage, [History of Berwick-upon-Tweed Castle and Ramparts](https://www.english-heritage.org.uk/visit/places/berwick-upon-tweed-castle-and-ramparts/history/).

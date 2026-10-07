@@ -172,7 +172,7 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 
 > **Rule of thumb:** Wet rice needs flat, flooded fields. On slopes people build **terraces**; on dry plains they store the monsoon rain in **tanks** (reservoirs held back by an earth dam, called a *bund*); in shallow lakes they build **raised garden beds**. Each system ties a group of villages to one shared water source, so villages, temples and fields line up along the water.
 
-**Why:** A rice field (a *paddy*) must hold standing water, so it needs a level surface with a low bank round it. Water has to pass from field to field down the slope, so farmers form groups that build and run the canals together. Temples or village councils often decide who gets water and when.
+**Why:** A rice field (a *paddy*) must hold standing water, so it needs a level surface with a low bank round it. Water has to pass from field to field down the slope, so farmers form groups that build and run the canals together. Temples or village councils often decide who gets water and when. A paddy can be cropped every year with no fallow, so rice lands feed far more people per square kilometre than European grain fields; for the numbers, see [Beyond Europe](02-population-and-sizes.md#beyond-europe-asia-africa-and-the-americas).
 
 | Landscape | Where and when | Numbers and facts | How to draw it |
 |---|---|---|---|
@@ -338,7 +338,7 @@ Woods were spread very unevenly. Heavy clays, steep slopes and parish edges kept
 |---|---|---|---|
 | **Fishponds** | Ponds for breeding and storing freshwater fish for fast days | Near manors, monasteries and castles, in a valley floor fed by a stream; often a chain of 2–12 ponds joined by channels | About 2,000 are recorded in England, thought to be only a small part of the medieval total. Building peaked in the 12th century. Groups of up to 12 ponds in a line or a cluster; big storage ponds and small, shallow breeding ponds. Example: a grange at North Kelsey (Lincolnshire) had a pond 65 × 50 m (210 × 165 ft) and another about 75 m (250 ft) long |
 | **Dovecotes** | Towers for breeding pigeons for meat and manure | Next to manor houses, parsonages and monasteries | Only manorial lords could keep them in medieval England. In France this was the *droit de colombier*. Medieval ones are usually round and stone-built. Kinwarton (Warwickshire, 14th century) has over 580 nesting holes |
-| **Moated sites** | A house platform surrounded by a wet ditch | Clay lowlands; manor houses, granges, rectories | About 6,000 known in England, most dug c. 1250–1350, with by far the most in central and eastern England; a status symbol as much as a defence |
+| **Moated sites** | A house platform (the "island") surrounded by a wet ditch | Clay lowlands; manor houses, granges, rectories | About 6,000 known in England, most dug c. 1250–1350, with by far the most in central and eastern England; a status symbol as much as a defence. Small: the island is usually about 25–50 m (80–165 ft) across, inside a moat about 7–15 m (23–50 ft) wide, so the whole site is only about 40–80 m (130–260 ft) across. Lincolnshire examples: Heapham, a square island 24 m across in a moat 8–12 m wide; Withcall, islands of 40 × 30 m and 45 × 20 m. A few high-status sites are much bigger: South Kelsey Hall's main island is 110 × 100 m. See [Footprints](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map) |
 | **Monastic grange** | An outlying farm run by a monastery, often worked by lay brothers (monks who did the manual work) or by paid labourers | Next to the abbey or wherever it held land, up to a day's journey or more away | First appeared in the 12th century, led by the Cistercians, and used until the English monasteries were dissolved in 1536–1541. Byland Abbey (North Yorkshire) had an industrial grange at Denby Dale, some 50–60 miles (80–95 km) away |
 | **Tithe barn** | A great barn for crops paid as tithe (one tenth) or rent | Next to a church, rectory or grange | About 200 medieval barns (built before 1550) survive in Britain; not all were tithe barns. Great Coxwell (Oxfordshire), built c. 1292 (roof timbers felled 1291–92) for Beaulieu Abbey's grange: 46 m long, 13 m wide, 15 m high (152 × 43 × 48 ft) |
 | **Sheepfolds and sheepcotes** | Pens and long sheep-houses for winter | On downs, wolds and moors; on monastic sheep granges | In Norfolk, lords had the right to fold their sheep on tenants' fields at night to manure them |
@@ -382,7 +382,7 @@ Place names often record shielings: English and Scots "shiel" or "shield" (Galas
 | **Polders and dykes** | Land below water level, enclosed by dykes and drained | Netherlands: first polders in the 11th century; a cooperative to build and keep up a dam on the Rhine near Wijk bij Duurstede (south-east of Utrecht) c. 1122; the Rijnland water board in 1255; the first drainage windmill near Alkmaar in 1408. Drained peat shrinks and sinks, so dykes had to be raised again and again | Dykes as thick lines, villages strung along them, a grid of drains |
 | **Assarts** | Fields cleared from woodland | Peak in the 13th century, by single farmers, village groups, lords and monasteries (especially the Cistercians). In royal forests a licence or a fine was needed. Many went back to woodland after the Black Death | Irregular hedged fields biting into woodland, with isolated farms |
 
-**Place-name clues:** English assart names include Stocking, Stubbings, Ridding, Royd and Breach. French *essart* and *-sart* and German *-rode*, *-rath* and *-reuth* (as in Bayreuth) mean "cleared land". German eastward settlement (*Ostsiedlung*, 12th–14th centuries) cleared forest in the same way, with Waldhufendörfer and standard farm holdings (the Frankish *Hufe*, about 24 ha or 60 acres).
+**Place-name clues:** English assart names include Stocking, Stubbings, Ridding, Royd and Breach. Older English clearing names end in *-ley* or *-leigh* (Old English *lēah*, "wood, clearing"), and Norse ones in *-thwaite*. French *essart* and *-sart* and German *-rode*, *-rath* and *-reuth* (as in Bayreuth) mean "cleared land". For more name endings and how to use them, see [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically). German eastward settlement (*Ostsiedlung*, 12th–14th centuries) cleared forest in the same way, with Waldhufendörfer and standard farm holdings (the Frankish *Hufe*, about 24 ha or 60 acres).
 
 > **Map tip:** If your kingdom is in its growth phase, show new strip villages pushing up forest valleys and new dykes on the coast. If it is after a plague, show some assarts going back to scrub and a few deserted villages (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)).
 
@@ -445,7 +445,7 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 | Feature | Symbol |
 |---|---|
 | Parish church | Small cross or a church with a tower |
-| Manor house | Small square; double outline if moated |
+| Manor house | Small square; double outline if moated (a real moated site is only about 40–80 m across, so on a 1 cm = 1 km map this is a symbol, not to scale) |
 | Watermill | Wheel on the stream, with the leat as a thin blue line |
 | Windmill | Four-armed cross on a dot or small mound |
 | Open fields | Unhedged areas with hatching in blocks |
@@ -489,7 +489,7 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - Uplands used infield-outfield and summer shielings; the Mediterranean used terraces, canals, norias and qanats; wet-rice lands used terraces, tanks and shared canals with water temples (Bali, Sri Lanka, Angkor), and the Aztecs built raised beds in lakes; Castile moved over 2.5 million sheep each year, some of them 550–750 km (340–470 mi).
 - Mills: 5,624–6,000+ in Domesday England (1086); about 10,000–15,000 by 1300 (estimates vary), roughly one per village. Windmills in England from 1185; tide mills from the 7th century.
 - A medieval "forest" is a legal hunting area, not just trees. Royal forest covered about a third of southern England at its peak. There were about 3,200 deer parks c. 1300, usually 40–80 ha (100–200 acres) with rounded outlines.
-- Many manors have moats (about 6,000 moated sites are known in England), dovecotes and fishponds. Monasteries have granges and great barns.
+- Many manors have moats (about 6,000 moated sites are known in England, most only 40–80 m across), dovecotes and fishponds. Monasteries have granges and great barns.
 - Parish, manor and hundred are different units. Hundreds of very roughly 150–200 km² (60–80 sq mi) met at open-air moot sites.
 - Reclaimed land (fens, polders, assarts) has straight lines and new names; old land has curved boundaries.
 
@@ -531,6 +531,7 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - Herefordshire Through Time, parks and deer parks: https://htt.herefordshire.gov.uk/herefordshires-past/the-medieval-period/countryside-and-landscape/parks-and-deerparks
 - Lincolnshire Heritage Explorer, scheduled monument text on fishponds and granges (North Kelsey Grange): https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1560
 - Lincolnshire Heritage Explorer, scheduled monument text on moated sites (South Kelsey Hall): https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1561
+- Lincolnshire Heritage Explorer, scheduled monument texts on smaller moated sites: Heapham (north-west of Elm Tree Farm), https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1557, and Withcall (north-east of Home Farm), https://heritage-explorer.lincolnshire.gov.uk/Designation/DLI1563
 - National Trust, Kinwarton Dovecote: https://www.nationaltrust.org.uk/visit/warwickshire/kinwarton-dovecote
 - Windmill World, mills in Domesday Book: https://windmillworld.com/watermills/domesday.htm
 - Building History, dovecotes: https://buildinghistory.org/buildings/dovecotes.shtml

@@ -180,6 +180,8 @@ Medieval reality did not follow the rule neatly:
 
 > **Rule of thumb:** A strong, centralised kingdom has one capital 3–7 times bigger than its second city. A land of city-states or weak kings has several rival cities of similar size.
 
+> **Later era (1500s+):** In 1500–1650 some capitals pulled further ahead and reached 5–10 times the size of the second city. London was the extreme case: about 200,000 people by 1603, over 13 times the size of Norwich, the next-largest English city (Mortimer 2012, via Wikipedia). See [What Changes After 1500](09-later-era-1500-1650.md).
+
 > **Map tip:** Decide first what kind of realm you have, centralised (one strong king) or fragmented (many rival lords or city-states), then size the top cities. For a centralised kingdom, draw one great capital and then a gap down to a handful of towns. For a fragmented region, draw 3–5 rival cities of similar size, each with its own little territory. Do not give every country a 100,000-person capital: around 1300, only 8 cities in all of Europe, North Africa and the Middle East reached that size. (A rice-growing empire with canals, like Song China, is different; see [Beyond Europe](#beyond-europe-asia-africa-and-the-americas).)
 
 ---
@@ -200,7 +202,7 @@ Medieval reality did not follow the rule neatly:
 | Poorer land, young kingdoms | 7–15 | 18–40 | Hungary ~7 (c. 1200) and ~9–11 (c. 1495); Crown of Poland 8.6 (1370) and 13 (1500) |
 | Hills, uplands, mountains | 2–10 | 5–25 | Scottish Highlands, Alps, Pyrenees, northern Pennines; northern and western England under 5 in 1086 |
 | Forest or steppe frontier | 1–5 | 3–13 | Lithuania, the Rus' forest zone (estimate) |
-| Shifting (swidden) farming in tropical forest | about 10–35 | about 25–90 | Modern Southeast Asia: 12 in northern Laos to 35 in northern Thailand (FAO) |
+| Shifting (swidden) farming in tropical forest | about 6 on average; 12–35 in busier districts; at most about 55–56 | about 14 on average; 30–90; at most about 145 | World average about 6 in the 1950s (FAO); modern Southeast Asia from 12 in northern Laos to 35 in northern Thailand (Warner 1991, FAO); ceiling about 55–56 (Ruthenberg 1980) |
 | Steppe nomads | under 1–2 | under 3–5 | Herders need huge pastures |
 | Desert | close to 0 | close to 0 | Except oases and irrigated valleys |
 | Irrigated river valley | 100+ on the farmed strip | 260+ | Egypt c. 1340: perhaps 4–8 million people, almost all on the Nile floodplain and delta |
@@ -237,7 +239,7 @@ Medieval reality did not follow the rule neatly:
 - **Wheat yields:** English demesne wheat (grown on the lord's own farm) yielded about 8–12 bushels per acre (0.55–0.8 tonnes per hectare). A bushel is an old measure of volume, about 36 litres.
 - **Result:** About 250–350 kg of food grain per hectare of arable land per year. A person ate about 200–250 kg of grain a year, plus barley for ale and oats for horses.
 
-**Check against history:** England c. 1300 had about 10 million acres of arable for 4.75 million people. That is about 2.1 acres (0.85 ha) per person, or about 2.7 ha of all land per person. Even so, people got only about 1,300 kcal a day from farm produce (Broadberry, Campbell & van Leeuwen 2011). England was at its limit.
+**Check against history:** England c. 1300 had about 11.5 million acres of arable, counting the fallow field. About 7.4 million acres of it were sown each year (Broadberry, Campbell et al. 2010). For 4.75 million people, that is about 2.4 acres (1.0 ha) of arable per person, of which only about 1.6 acres (0.6 ha) carried a crop in any one year. Counting all land, it is about 2.7 ha per person. Even so, people got only about 1,300 kcal a day from farm produce (Broadberry, Campbell & van Leeuwen 2011). England was at its limit.
 
 ### Village territory
 
@@ -369,7 +371,7 @@ All the tiers and densities above come from Europe, North Africa and the Middle 
 | Liangzhe circuit (Yangzi delta and modern Zhejiang), 1102 | ~10 million (households × 5) | Roughly 120,000–130,000 km² | ~80 per km² (~210 per sq mi) (derived) | Denser than Europe's most crowded regions (Flanders and Holland 50–75), even with the Zhejiang hills included |
 | Valley of Mexico, 1519 | 1–1.2 million | 9,600 km² (3,700 sq mi), including about 1,500 km² of lakes | ~100–125 per km² (260–325 per sq mi) (derived) | Lake-bed gardens (chinampas) and irrigated fields |
 | Greater Angkor, 13th century | 700,000–900,000 | About 3,000 km² (1,160 sq mi) | ~230–300 per km² (600–780 per sq mi) averaged over the zone (derived) | A whole city-and-rice-field zone, not a walled town |
-| Shifting cultivation in tropical forest (modern Southeast Asia) | — | — | About 10–35 per km² (25–90 per sq mi) | 12 in northern Laos, 35 in northern Thailand (FAO). One calculation puts the ceiling at about 55 per km² (Ruthenberg 1980, cited by FAO). |
+| Shifting cultivation in tropical forest (world in the 1950s; modern Southeast Asia) | About 200 million people worldwide in the 1950s (very rough FAO estimate) | About 36 million km² (14 million sq mi) worldwide | About 6 per km² (14 per sq mi) as a 1950s world average (FAO 1957); about 12–35 per km² (30–90 per sq mi) in modern examples | 12 in northern Laos, 35 in northern Thailand (Warner 1991, FAO). Ruthenberg (1980, cited by FAO) calculates a ceiling of about 55–56 per km² (about 145 per sq mi). |
 
 **How Song China grew.** Registered households roughly tripled between 980 and 1101, from 6.2 to 17.5 million (Deng 2013). In 1012 the emperor had 30,000 bushels of seed of quick-ripening Champa rice (first brought from Champa, in today's central Vietnam) sent from Fujian to farmers in the lower Yangzi and Huai valleys (Ho 1956). Historians still argue about how much this new rice mattered. Deng (2013) points out that growing two rice crops a year on the same field was rare under the Song and became common only under the Ming (1368–1644).
 
@@ -390,7 +392,7 @@ Most cities in the Americas were far smaller than Tenochtitlan. Of 87 Mesoameric
 
 - A **rice empire** can have a whole-realm average like France's (30–40 per km²), with deltas and river basins at 80 per km² or more, and one or two capitals of several hundred thousand people or more. The "only 4–8 cities over 100,000" rule applies to Europe and the Middle East, not to Song China.
 - A **lake or canal capital** can be packed (Tenochtitlan) or spread out over a huge farmed zone (Angkor). Decide which before you draw it.
-- A **tropical forest with shifting farming** has small villages, about 10–35 people per km², and real towns only on rivers and coasts.
+- A **tropical forest with shifting farming** has small villages, about 6 people per km² on average (12–35 in busier districts, never much above 55), and real towns only on rivers and coasts.
 - A **trading or herding state** (Great Zimbabwe, Kilwa) can be rich and powerful with a capital of only 10,000–20,000 people.
 
 > **Later era (1500s+):** After falling during the Mongol conquest, China's population grew strongly under the Ming: estimates for c. 1600 run from about 160 million to 200 million. In Mexico the opposite happened. After the Spanish conquest (1519–21), epidemics and war cut the native population by at least half in the 16th century, and perhaps by as much as nine-tenths over wide areas (McCaa 2000; estimates vary widely). Tenochtitlan was rebuilt as Mexico City. See [What Changes After 1500](09-later-era-1500-1650.md).
@@ -568,9 +570,9 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Good lowland supports 30–50 people per km² (80–130 per sq mi). Whole realms average 7–40 per km² (10–40 in settled western kingdoms). Europe c. 1300 averaged about 20 per km² (52 per sq mi).
 - Each person needs about 1 ha (2.5 acres) of ploughland, or 2–3 ha (5–7 acres) of all land.
 - A town of 10,000 needs a farmland radius of 21–27 km (13–17 mi) overland on good land. Most cities above 10,000, and almost all above 50,000, are fed by river or sea.
-- Strong kingdoms have one primate capital (1–2% of the realm's people, 3–7 times bigger than the second city). Fragmented regions have several rival cities of similar size.
+- Strong kingdoms have one primate capital (1–2% of the realm's people, 3–7 times bigger than the second city; 5–10 times in some realms after 1500). Fragmented regions have several rival cities of similar size.
 - Only about 8 cities in Europe, North Africa and the Middle East had 100,000+ people c. 1300 or c. 1500.
-- Outside Europe the numbers change with the way of farming: Song China averaged ~30–40 per km² with capitals of perhaps a million; Angkor spread 700,000–900,000 people over ~3,000 km²; Tenochtitlan packed 200,000–250,000 onto an island of 8–13.5 km²; shifting forest farming supports only ~10–35 per km².
+- Outside Europe the numbers change with the way of farming: Song China averaged ~30–40 per km² with capitals of perhaps a million; Angkor spread 700,000–900,000 people over ~3,000 km²; Tenochtitlan packed 200,000–250,000 onto an island of 8–13.5 km²; shifting forest farming supports only about 6 per km² on average (12–35 in busier districts, at most about 55).
 - 1300 is the crowded peak. After the Black Death (1347–51), 30–60% of people are gone, villages are deserted and towns are half-empty for 100–150 years.
 - Gaming formulas are a good first draft, but they shrink great capitals and make castles and universities far too rare.
 
@@ -587,6 +589,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Borsch, S. J. (2005). *The Black Death in Egypt and England: A Comparative Study*. Austin: University of Texas Press.
 - Bosker, M., Buringh, E. & van Zanden, J. L. (2008). "From Baghdad to London: The Dynamics of Urban Growth in Europe and the Arab World, 800–1800." CEPR Discussion Paper 6833.
 - Bosker, M., Buringh, E. & van Zanden, J. L. (2013). "From Baghdad to London: Unraveling Urban Development in Europe, the Middle East, and North Africa, 800–1800." *Review of Economics and Statistics* 95(4): 1418–1437.
+- Broadberry, S., Campbell, B. M. S., Klein, A., Overton, M. & van Leeuwen, B. (2010). "English Economic Growth, 1270–1700." CAGE Working Paper 21. Coventry: University of Warwick. (Table 1: English arable land use, sown and fallow, 1270–1700.)
 - Broadberry, S., Campbell, B. M. S., Klein, A., Overton, M. & van Leeuwen, B. (2015). *British Economic Growth, 1270–1870*. Cambridge: Cambridge University Press.
 - Campbell, B. M. S., Galloway, J. A., Keene, D. & Murphy, M. (1993). *A Medieval Capital and its Grain Supply: Agrarian Production and Distribution in the London Region c. 1300*. Historical Geography Research Series 30.
 - Cesaretti, R., Lobo, J., Bettencourt, L. M. A., Ortman, S. G. & Smith, M. E. (2016). "Population-Area Relationship for Medieval European Cities." *PLOS ONE* 11(10): e0162678.
@@ -595,6 +598,7 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Dols, M. W. (1977). *The Black Death in the Middle East*. Princeton: Princeton University Press.
 - Dyer, C. (2000). "Small towns 1270–1540." In D. M. Palliser (ed.), *The Cambridge Urban History of Britain*, vol. 1. Cambridge: Cambridge University Press.
 - Dyer, C. (2002). *Making a Living in the Middle Ages: The People of Britain 850–1520*. New Haven: Yale University Press.
+- FAO Staff (1957). "Shifting cultivation." *Unasylva* 11(1). Rome: FAO.
 - FAO Forestry Department (1985). "Changes in shifting cultivation in Africa." *Unasylva* 150 (adapted from FAO Forestry Paper 50).
 - Galloway, J. A. (1999). "Metropolitan market networks: London's economic hinterland in the later Middle Ages." *Transactions of the London and Middlesex Archaeological Society* 50: 91–97.
 - Gernet, J. (1962). *Daily Life in China on the Eve of the Mongol Invasion, 1250–1276*. Stanford: Stanford University Press. (Cited via Wikipedia, *Hangzhou*, for the Hangzhou estimate.)
@@ -605,9 +609,10 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Letters, S. (2005). *Gazetteer of Markets and Fairs in England and Wales to 1516*. Kew: List and Index Society.
 - McCaa, R. (2000). "The Peopling of Mexico from Origins to Revolution." In M. R. Haines & R. H. Steckel (eds.), *A Population History of North America*. Cambridge: Cambridge University Press.
 - McEvedy, C. & Jones, R. (1978). *Atlas of World Population History*. London: Allen Lane.
+- Mortimer, I. (2012). *The Time Traveller's Guide to Elizabethan England*. London: The Bodley Head. (Cited via Wikipedia, *Tudor London*, for London c. 1603 against Norwich.)
 - Nicholas, D. M. (2014). *The Growth of the Medieval City: From Late Antiquity to the Early Fourteenth Century*. London: Routledge.
 - Russell, J. C. (1972). "Population in Europe 500–1500." In C. M. Cipolla (ed.), *The Fontana Economic History of Europe*, vol. 1: *The Middle Ages*. London: Collins/Fontana.
-- Ruthenberg, H. (1980). *Farming Systems in the Tropics*. 3rd ed. Oxford: Clarendon Press. (Cited by FAO 1985 for the ceiling on shifting-cultivation density.)
+- Ruthenberg, H. (1980). *Farming Systems in the Tropics*. 3rd ed. Oxford: Clarendon Press. (Cited by FAO 1985, which quotes his p. 62: no more than 56 people per km² under shifting cultivation.)
 - Sanders, W. T., Parsons, J. R. & Santley, R. S. (1979). *The Basin of Mexico: Ecological Processes in the Evolution of a Civilization*. New York: Academic Press.
 - Smith, M. E. (2005). "City Size in Late Postclassic Mesoamerica." *Journal of Urban History* 31(4): 403–434.
 - Treadgold, W. (1997). *A History of the Byzantine State and Society*. Stanford: Stanford University Press.
@@ -641,6 +646,9 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - EBSCO Research Starters, article on the introduction of Champa rice to China (1012): https://ebsco.com/research-starters/history/rice-introduced-china
 - Warner (1991), FAO Community Forestry Note 8: https://www.fao.org/4/u4390e/u4390e02.htm
 - FAO (1985), "Changes in shifting cultivation in Africa", *Unasylva* 150: https://www.fao.org/4/r5265e/r5265e06.htm
+- FAO (1957), "Shifting cultivation", *Unasylva* 11(1) (about 200 million people on 14 million sq mi, 6 per km²): https://www.fao.org/4/x5382e/x5382e03.htm
+- Broadberry, Campbell, Klein, Overton & van Leeuwen (2010), "English Economic Growth, 1270–1700", CAGE Working Paper 21 (PDF): https://warwick.ac.uk/fac/soc/economics/research/centres/cage/manage/publications/21.2010_broadberry_complete.pdf
+- Wikipedia: *Tudor London* https://en.wikipedia.org/wiki/Tudor_London ; *Stuart London* https://en.wikipedia.org/wiki/Stuart_London
 - McCaa, R., "The Peopling of Mexico from Origins to Revolution" (draft of the 2000 chapter): https://users.pop.umn.edu/%7Ermccaa/mxpoprev/cambridg3.htm
 - Cartwright, M. (2019). "Kilwa." *World History Encyclopedia*: https://www.worldhistory.org/Kilwa/
 - Wikipedia (non-European cities and regions): *Song dynasty* https://en.wikipedia.org/wiki/Song_dynasty ; *Population history of China* https://en.wikipedia.org/wiki/Population_history_of_China ; *Liangzhe Circuit* https://en.wikipedia.org/wiki/Liangzhe_Circuit ; *Kaifeng* https://en.wikipedia.org/wiki/Kaifeng ; *Hangzhou* https://en.wikipedia.org/wiki/Hangzhou ; *Angkor Thom* https://en.wikipedia.org/wiki/Angkor_Thom ; *Tenochtitlan* https://en.wikipedia.org/wiki/Tenochtitlan ; *Chinampa* https://en.wikipedia.org/wiki/Chinampa ; *Valley of Mexico* https://en.wikipedia.org/wiki/Valley_of_Mexico ; *Great Zimbabwe* https://en.wikipedia.org/wiki/Great_Zimbabwe ; *Kilwa Kisiwani* https://en.wikipedia.org/wiki/Kilwa_Kisiwani

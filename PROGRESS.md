@@ -29,7 +29,11 @@ The workflow is `.claude/workflows/assemble-guide.js`. Run it by name, or by `sc
 2. **Audit gaps for 00 and 12** (in `research/audit.json`): a "what to draw at which scale" table with target counts for 00, and time slices of the worked kingdom for 12. Run `{"mode": "fix", "files": ["00-step-by-step.md", "12-worked-example.md"]}`.
 3. **Final numbers check:** `{"mode": "final"}` compares 13 and 00 against the owner chapters.
 4. Run `python3 tools/check_links.py`. It should report 0 problems.
-5. Optional: chapters are long (9,000–14,000 words). A later pass could trim repetition.
+5. Small leftovers from the follow-up round:
+   - Chapter 08 (around line 435) says "~1,700 castle sites"; align it with "about 1,700–1,800 (Gatehouse lists 1,761)".
+   - Chapter 05 should use one wording for the Gough Map's date. Its table row "Total length of the red route lines" should say this is the length of the reconstructed roads (Oksanen & Brookes 2025), not lines drawn on the map. The map has about 190 red lines.
+   - Chapter 10 could note that sources differ on the Belgorod Line's end date (1646 or 1654).
+6. Optional: chapters are long (9,000–14,000 words). A later pass could trim repetition.
 
 Process notes:
 - This machine runs only 2 agents at a time per workflow. Launch several workflows in parallel (each with a few files) to go faster.
