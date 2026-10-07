@@ -599,7 +599,7 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 ### How much main road to draw
 
-> **Rule of thumb:** On a kingdom map of settled land, draw about 30 km of main road for every 1,000 km² (about 50 mi per 1,000 sq mi). A square of 100 × 100 km (62 × 62 mi) gets about 300 km (190 mi) of main road: for example three roads crossing it, or four or five shorter roads meeting at towns inside it.
+> **Rule of thumb:** On a kingdom map of settled land, draw about 30 km of main road for every 1,000 km² (about 48 mi per 1,000 sq mi). A square of 100 × 100 km (62 × 62 mi) gets about 300 km (190 mi) of main road: for example three roads crossing it, or four or five shorter roads meeting at towns inside it.
 
 **Why:** A kingdom map shows the main roads that a merchant or a royal messenger would plan a journey on. The lanes between villages are many times denser, but drawn at this scale they turn the map into a spider's web. They belong on a local map.
 
@@ -644,7 +644,7 @@ The Gough Map is a selection, not a full road atlas. It leaves out some importan
 ## Quick summary
 
 - Over land: about 30 km (19 mi) a day on foot, 15–25 km (10–15 mi) by ox cart, 16–30 km (10–20 mi) for a cattle drove, 50–90 km (30–56 mi) for a royal messenger.
-- Water is much cheaper: land : river : sea ≈ 8 : 4 : 1 (England c. 1300). Bulk goods follow water; towns above 10,000 people sit on it.
+- Water is much cheaper: land : river : sea ≈ 8 : 4 : 1 (England c. 1300). Bulk goods follow water; most towns above 10,000 people sit on it.
 - Medieval roads were rights of way, not built roads. Roman roads were reused (about a third of the Gough Map's routes). Roads follow valleys, ridges, fords and bridges. On a kingdom map, draw about 30 km of main road per 1,000 km² (48 mi per 1,000 sq mi).
 - Stone bridges spread from the 12th century. They were paid for by tolls (pontage), rents, gifts and bridge chapels. A settled lowland river has a bridge town about every 20 km (12 mi), like the Thames; the biggest rivers had few bridges and many ferries.
 - A few passes carry most traffic across a range. The lowest takes carts (Brenner, 1,370 m or 4,495 ft). Hospices sit near the summits.

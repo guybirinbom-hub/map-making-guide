@@ -107,7 +107,7 @@ A related mistake is to space villages a day's journey apart, about 25–35 km (
 
 **Why it looks wrong:** This is the opposite error: a city every 30 km (19 mi), each with 20,000 people or more. Around 1300 there were only about 230 cities of 10,000+ in Europe, the Middle East and North Africa together, and only 8 of 100,000+.
 
-**Fix:** Keep the ratio. For every city of 10,000+, draw roughly 5–15 towns of 2,000–10,000, dozens of market towns and hundreds of villages. Big symbols should be rare.
+**Fix:** Keep the ratio. For every city of 10,000+, draw about 10 towns of 2,000–10,000 (see chapter 02), dozens of market towns and hundreds of villages. Big symbols should be rare.
 
 **Exception:** Flanders and northern Italy really were crowded. Flanders had 33–40% of its people in towns, towns of 5,000+ only 35–45 km (22–28 mi) apart, and cities of 10,000+ 60–90 km (37–56 mi) apart. A rich trading region can look busy, but it is the exception on a continent.
 
@@ -319,7 +319,7 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 | Situation | One castle per | Average spacing | Real basis |
 |---|---|---|---|
-| Whole realm after a conquest: castles in use at one time (11th–12th centuries) | 250–300 km² (95–115 sq mi), or about 3,000–4,000 people | 15–18 km (9–11 mi) | England and Wales after 1066: 500–600 in use on about 150,000 km² (58,000 sq mi) |
+| Whole realm after a conquest: castles in use at one time (11th–12th centuries) | 250–300 km² (95–115 sq mi), or about 3,000–4,000 people | about 16–17 km (10–11 mi) | England and Wales after 1066: 500–600 in use on about 150,000 km² (58,000 sq mi) |
 | March or contested border (all castle sites) | 17–28 km² (7–11 sq mi) | 4–6 km (2.5–4 mi) | Welsh March (see [chapter 04](04-military-sites.md#borderlands-and-conquered-land)) |
 | Peaceful core of a kingdom (castles in use) | — | 20–30 km (12–19 mi) (estimate) | Eastern England: a castle in each county town plus a few baronial seats (see [chapter 04](04-military-sites.md#borderlands-and-conquered-land)) |
 | Royal castle chain along a frontier | — | 20–40 km (12–25 mi) along the line | Edward I's North Wales castles, all supplied by sea |
