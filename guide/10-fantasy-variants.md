@@ -318,10 +318,10 @@ Do not draw them as mindless. Model them on real steppe societies, which had law
 
 **How steppe societies worked:**
 - **Herds:** life rested on sheep (meat, milk, wool, fuel) and horses (milk, riding, war). Each warrior rode with several horses, so he could change to a fresh one. Estimates vary: 3–4 horses per Mongol soldier, or 5–8 per steppe warrior (Devereaux).
-- **Few people, much land:** density was under 1–2 per km². In 1206 the whole Mongol army probably numbered under 100,000 men (Timothy May, cited by Devereaux).
-- **Seasonal movement:** camps moved in a regular yearly cycle, usually between summer pastures (uplands or open steppe) and sheltered winter camps (river valleys).
+- **Few people, much land:** density was under 1–2 per km² (under 3–5 per sq mi). In 1206 the whole Mongol army probably numbered under 100,000 men (Timothy May, cited by Devereaux).
+- **Seasonal movement:** camps moved in a regular yearly cycle, usually between summer pastures (uplands or open steppe) and sheltered winter camps (river valleys). For real camp sizes, how often camps moved and how far, see [Steppe and grassland](01-settlement-placement.md#steppe-and-grassland). Use those figures for orc camps too.
 - **Dependence on farmers:** nomads needed grain, metal and cloth that they could not produce. They got them by trade or by raiding (Khazanov 1984). Ming China refused the Mongol leader Altan Khan's requests for trade for years, and he raided instead; in 1550 he even burned the suburbs of Beijing. In 1571 the Ming gave him a title and trading rights, and border horse markets opened at Datong, Xuanfu and other garrisons. After that, raiding fell sharply.
-- **Cities too:** nomad rulers built capitals and trade towns. Karakorum was built in the 1220s–1230s. Batu founded Sarai on the lower Volga in the 1240s. The word "horde" comes from *ordu*, the ruler's camp and court.
+- **Cities too:** nomad rulers built capitals and trade towns. Karakorum was built in the 1220s–1230s. Batu founded Sarai on the lower Volga in the 1240s–1250s. The Franciscan friar William of Rubruck, who passed by in 1253–54, described it as a new town that Batu was still building. The word "horde" comes from *ordu*, the ruler's camp and court.
 
 **What it looks like:** open grassland with seasonal camp symbols; winter camps along rivers; a royal camp or capital; raid trails into farmland (like the Muravsky Trail used by Crimean Tatar raiders into Muscovy); frontier markets and defence lines on the farmers' side.
 
@@ -539,6 +539,7 @@ If something exists in your world, other things must exist or change too. Check 
 - Wikipedia, *Homing pigeon* (medieval pigeon posts): https://en.wikipedia.org/wiki/Homing_pigeon
 - Wikipedia, *Barid*: https://en.wikipedia.org/wiki/Barid
 - Wikipedia, *Mongol military tactics and organization*: https://en.wikipedia.org/wiki/Mongol_military_tactics_and_organization
+- Wikipedia, *Sarai (city)* (founded by Batu; described as a new town by William of Rubruck in 1253–54): https://en.wikipedia.org/wiki/Sarai_(city)
 - Wikipedia, *Sound Dues*: https://en.wikipedia.org/wiki/Sound_Dues
 - Wikipedia, *Staple right*: https://en.wikipedia.org/wiki/Staple_right
 - Wikipedia, *Kontor*: https://en.wikipedia.org/wiki/Kontor
