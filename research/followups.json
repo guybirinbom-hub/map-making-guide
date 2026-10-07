@@ -1,0 +1,161 @@
+{
+ "gaps": [],
+ "fixes": [
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "cross-reference",
+   "instruction": "In 'Naming settlements realistically', add a short note (2–4 sentences) that place-name endings change at language lines: e.g. Germanic -ingen/-heim/-hem/-zeele versus Romance -ville/-court/-ies across the Romance–Germanic line in Belgium and Lorraine. Verify examples. Link to [Language lines are not borders](03-capitals-and-borders.md#language-lines-are-not-borders).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "cross-reference",
+   "instruction": "Where the chapter discusses spacing of ports or river-crossing towns, add links to [Port ranks](05-trade-routes-and-transport.md#port-ranks-how-many-ports-on-a-coast) and [How often is a river bridged?](05-trade-routes-and-transport.md#how-often-is-a-river-bridged-the-thames-example) (bridge towns about every 20 km on a lowland river, gaps 10–35 km; about one head port per 100–150 km of coast).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "cross-reference",
+   "instruction": "Swidden/shifting cultivation density must match chapter 02: give 'about 6 per km² (14 per sq mi) as a 1950s world average (FAO), about 12–35 per km² in modern northern Laos and Thailand examples (Warner 1991, FAO), and a ceiling of about 55–56 per km² (Ruthenberg 1980)'.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "cross-reference",
+   "instruction": "Carrying-capacity section: replace 'about 10 million acres of arable' (England c. 1300) with '~11.5 million acres of arable including fallow (~7.4 million sown each year) (Broadberry, Campbell et al. 2010)' and recompute any per-person figure that used 10 million (11.5m / 4.75m people = about 2.4 acres or 1.0 ha per person).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "cross-reference",
+   "instruction": "Swidden/shifting cultivation density must match chapter 01: give 'about 6 per km² (14 per sq mi) as a 1950s world average (FAO), about 12–35 per km² in modern northern Laos and Thailand examples (Warner 1991, FAO), and a ceiling of about 55–56 per km² (Ruthenberg 1980)'.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "cross-reference",
+   "instruction": "Where the chapter gives capital primacy (capital 3–7x the second city), add that in 1500–1650 some capitals reached 5–10x the second city, with a link to [What Changes After 1500](09-later-era-1500-1650.md).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "kind": "cross-reference",
+   "instruction": "In the 'Language lines are not borders' map tip, make the place-name link point to [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "04-military-sites.md",
+   "kind": "cross-reference",
+   "instruction": "Castle density: '250–300 km²' should convert as 'about 95–115 sq mi' everywhere in this chapter (250 km² = 96.5 sq mi).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "04-military-sites.md",
+   "kind": "cross-reference",
+   "instruction": "Where motte-and-bailey sizes are given, add bailey areas consistent with chapter 08's footprints section: baileys about 0.15–0.7 ha, a large one such as Castle Acre about 3 ha. Link to [Footprints](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "04-military-sites.md",
+   "kind": "cross-reference",
+   "instruction": "In 'Outposts in wild and contested land', add a short 'Later era (1500s+)' callout on the Habsburg Military Frontier (from the 1520s–1550s): a belt of forts, watch posts and armed-peasant settlements facing the Ottomans. Research and verify dates and a few concrete numbers (e.g. number of forts or length) before writing.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "kind": "cross-reference",
+   "instruction": "Make the Gough Map's date consistent in all mentions (about lines 118 and 606): 'conventionally dated c. 1360–70; recent handwriting study suggests one or two decades after 1400, with additions later in the 15th century (Oksanen & Brookes 2025)'.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "kind": "cross-reference",
+   "instruction": "Where sugar appears as a trade good, link to [Sugar estates](07-industry-and-resources.md#sugar-estates-mediterranean).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "06-villages-and-countryside.md",
+   "kind": "cross-reference",
+   "instruction": "Where assart/clearing place names (-rode, -rath, -reuth, -ley) appear, add a link to [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "06-villages-and-countryside.md",
+   "kind": "cross-reference",
+   "instruction": "If the chapter states rice double-cropping in Song China as fact, soften it: its spread under the Song is disputed (Deng 2013); link to [Beyond Europe](02-population-and-sizes.md#beyond-europe-asia-africa-and-the-americas) for rice-basin densities.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "06-villages-and-countryside.md",
+   "kind": "cross-reference",
+   "instruction": "Where moated sites are discussed, add their typical sizes consistent with chapter 08: island about 25–50 m across, moat 7–15 m wide, whole site about 40–80 m; link to [Footprints](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "cross-reference",
+   "instruction": "Where mints at mining towns are mentioned, add a link to [How many mints?](03-capitals-and-borders.md#how-many-mints).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "cross-reference",
+   "instruction": "In the Mudejar entry, add that the Valencian Mudejars were mostly Arabic-speaking Muslim peasants (Wikipedia, Mudéjar), consistent with chapter 03.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "cross-reference",
+   "instruction": "In 'Place names that tell the story', add a link to [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically) for everyday village endings, and avoid repeating that table.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "cross-reference",
+   "instruction": "Where Roman earthworks or old camps are discussed, link to [Roman marching camps as old earthworks](04-military-sites.md#roman-marching-camps-as-old-earthworks).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "cross-reference",
+   "instruction": "Give the Belgorod Line's dates as 1635–1654 (about 800 km with its bends), consistent with chapter 10.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "cross-reference",
+   "instruction": "Check that cog tonnage reads 30–200 tons everywhere (consistent with 05 and 10).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "cross-reference",
+   "instruction": "Where Santa Fe (Granada, 1491) or planned colonial towns appear, link to [Camps that became towns](04-military-sites.md#camps-that-became-towns-or-nearly-did).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "cross-reference",
+   "instruction": "In the horde/steppe peoples section, link to [Steppe and grassland](01-settlement-placement.md#steppe-and-grassland) for real camp sizes and move distances, instead of repeating numbers.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "cross-reference",
+   "instruction": "Castle sites count: replace '~1,700 castle sites in England and Wales' with 'about 1,700–1,800 castle sites (Gatehouse lists 1,761)', consistent with chapter 04.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "cross-reference",
+   "instruction": "Make the Gough Map description consistent with chapter 05: date 'late 14th or early 15th century'; if a route-line count is given, use chapter 05's figures (455 segments, about 4,540 km of red lines, about a third on Roman roads) or link to [How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw).",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "cross-reference",
+   "instruction": "If the chapter claims Kingston was the only Thames crossing between London Bridge and Staines in the Middle Ages, correct it (Chertsey bridge licensed 1410); link to chapter 05's Thames bridges section.",
+   "evidence": "cross-chapter follow-up from stage-2 fix agents"
+  }
+ ]
+}

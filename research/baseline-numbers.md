@@ -135,6 +135,8 @@ Model assumptions:
 | Rider on one horse, many days | 30–50 | 20–30 | — |
 | Hard ride on own horse, few days | 60–80 | 40–50 | — |
 | Royal messenger with changes of horse | 50–90 | 30–56 | 30–40 mi was normal; 52–56 mi when urgent. |
+| Cattle or sheep drove | 16–30 | 10–20 | 10 mi in hills, 20 mi in lowland; flocks 12–14 mi. Mostly 1600s–1800s evidence (ch. 05). |
+| Relay runners (Inca chaski) | 240–300 | 150–190 | Runners posted up to ~7.5 km apart; no horses or wheels (ch. 05). |
 | Organized relay post (Taxis, c. 1500) | up to 150 | ~95 | — |
 | Mongol yam relay | 200–300 (claimed) | 125–190 | — |
 | River boat, downstream | 40–100 | 25–60 | Estimate. Travels in daylight. |
@@ -178,6 +180,9 @@ Model assumptions:
 | Towns of 5k+ | Flanders 35–45 km; northern Italy 50–60 km; France, Germany and Iberia 80–95 km; Britain 130+ km; Poland 180–250 km | Derived from Buringh's data; an upper bound. |
 | Cities of 10k+ | Flanders and Italy 60–90 km; France, Germany and Iberia 130–170 km; Britain and Poland 260–400 km | Same basis. |
 | Inns and stages on main roads | 15–30 km | Roman *mansiones* every 25–30 km. Tudor royal post stages ~20 mi (32 km) apart; continental Taxis post stations 20–40 km (12–25 mi). |
+| Bridge towns on a lowland river | ~20 km (gaps 10–35 km) | Thames c. 1300: 9 bridges, one every 20–22 km; 12 by the 1420s (ch. 05). |
+| Head ports on a coast | ~1 per 100–150 km of coast | Rough estimate from England's customs ports; many small member ports and creeks between (ch. 05). |
+| Main roads (kingdom map) | ~30 km of main road per 1,000 km² | Gough Map of Britain: ~4,540 km of route lines (ch. 05). |
 | Caravanserais | 30–40 km on plains and desert; ≤10 km in mountains | One day's camel stage (Seljuk Anatolia, Iran). |
 | Mongol relay stations | 32–64 km | — |
 
