@@ -55,7 +55,13 @@ code { font-family: var(--sans); font-size: 0.92em; }
 }
 .cols { columns: 2; column-gap: 7.5mm; column-fill: balance; margin-bottom: 1.5mm; }
 .cols > :first-child { margin-top: 0; }
-h2 + .cols, h2 + .table-wrap, h2 + .opener, h2 + figure { break-before: avoid; }
+h2 + .cols, h2 + .table-wrap, h2 + .opener, h2 + figure, h2 + .note-row,
+.note-row + .table-wrap { break-before: avoid; }
+
+/* a section's lone note box: full width, its text in two inner columns */
+.note-row { display: flex; gap: 7.5mm; margin: 2.2mm 0 3.6mm; break-inside: avoid; }
+.note-row .callout { flex: 1 1 0; min-width: 0; margin: 0; }
+.note-row .callout:only-child { columns: 2; column-gap: 7.5mm; }
 
 /* chapter opener: intro text on the left, the chapter's contents box on the right */
 .opener { display: flex; gap: 7.5mm; align-items: flex-start; margin-bottom: 2mm; }
@@ -101,12 +107,13 @@ table { width: 100%; border-collapse: collapse; font: 400 8.2pt/1.3 var(--sans);
 thead { display: table-header-group; }
 th { text-align: left; font-weight: 700; background: var(--paper-tint); color: var(--ink);
      border-bottom: 0.8pt solid var(--muted); padding: 1.5mm 1.8mm; vertical-align: bottom; }
+td:first-child { hyphens: manual; }
 td { padding: 1.2mm 1.8mm; border-bottom: 0.4pt solid var(--rule); vertical-align: top; hyphens: auto; hyphenate-limit-chars: 7 3 3; }
 tr { break-inside: avoid; }
 td strong { font-weight: 700; }
 
 /* ---------- quick summary and sources ---------- */
-.summary { background: var(--paper-tint); padding: 1mm 5mm 3mm; margin: 6mm 0 2mm; }
+.summary { background: var(--paper-tint); padding: 1mm 5mm 3mm; margin: 6mm 0 2mm; break-inside: avoid; }
 .summary h2 { border-top: 0; margin: 3mm 0 2mm; padding-top: 0; font-size: 12.5pt; }
 .summary ul { columns: 2; column-gap: 7mm; font-size: 9.3pt; margin: 0; }
 .summary li { break-inside: avoid; }
@@ -114,7 +121,8 @@ h2.sources-head { font-size: 12pt; }
 .cols.sources { font-size: 7.8pt; line-height: 1.3; color: var(--ink); }
 .cols.sources p, .cols.sources li { margin-bottom: 0.6mm; hyphens: manual; }
 .cols.sources h3 { font-size: 8.8pt; margin-top: 2.5mm; }
-a.url { hyphens: none; word-break: break-all; overflow-wrap: anywhere; }
+a.url { hyphens: none; overflow-wrap: anywhere; }
+.nw { white-space: nowrap; }
 .cols.sources a { overflow-wrap: anywhere; }
 
 /* checklist boxes in chapter 0 */
@@ -140,7 +148,7 @@ a.url { hyphens: none; word-break: break-all; overflow-wrap: anywhere; }
 /* ---------- map page ---------- */
 .map-page { page: landscape; break-before: page; }
 .map-page figure { margin: 0; text-align: center; }
-.map-page img { width: 100%; max-height: 176mm; object-fit: contain; }
+.map-page img { height: 158mm; width: auto; max-width: 100%; }
 .map-page figcaption { font: italic 9pt var(--body); color: var(--muted); margin-top: 2mm; }
 
 /* ---------- cover ---------- */

@@ -46,9 +46,10 @@ CALLOUTS = {
 }
 WIDE = {"h2", "figure", "section"}          # always full width
 WIDE_CLASSES = {"table-wrap", "summary"}
-SHORT_TABLE_ROWS = 10                      # tables this short never split
+SHORT_TABLE_ROWS = 4                       # tables this short never split
 
-md = MarkdownIt("commonmark", {"html": False, "linkify": True}).enable(["table", "strikethrough", "linkify"])
+md = MarkdownIt("commonmark", {"html": False, "linkify": True, "typographer": True}).enable(
+    ["table", "strikethrough", "linkify", "smartquotes"])
 md.use(tasklists_plugin)
 
 
@@ -142,6 +143,38 @@ def convert_chapter(path):
     return {"num": num, "title": title, "sections": sections, "body": body}
 
 
+# ---------------------------------------------------------------- typography
+
+ZWSP = "\u200b"
+
+
+def break_url(text):
+    """Allow line breaks after / _ - . = & in a printed URL (not inside https://)."""
+    m = re.match(r"^(https?://)(.*)$", text)
+    if not m:
+        return text
+    return m.group(1) + re.sub(r"([/_\-.=&?])(?=.)", "\\1" + ZWSP, m.group(2))
+
+
+UNITS = r"km²|km|sq\u00a0mi|sq mi|mi|ha|kg|kcal|cm|mm|m|ft|t"
+
+
+def typeset(html_text):
+    """Non-breaking spaces and unbreakable spans in running text (never inside tags)."""
+    def fix(m):
+        t = m.group(1)
+        t = t.replace("sq mi", "sq\u00a0mi")
+        t = re.sub(r"(\d) (%s)(?![\w²])" % UNITS, "\\1\u00a0\\2", t)
+        t = re.sub(r"\bc\. (?=\d)", "c.\u00a0", t)
+        # number ranges like 8th–11th or 1,500–2,000 stay on one line
+        t = re.sub(r"(?<![\w,.])(\d[\d,.]*(?:st|nd|rd|th|s)?–\d[\d,.]*(?:st|nd|rd|th|s)?%?)",
+                   r'<span class="nw">\1</span>', t)
+        # place-name endings like -ley or -thwaite never split after the hyphen
+        t = re.sub(r"(?<=[\s(“‘/])(-[A-Za-zÀ-ž]{1,14})", r'<span class="nw">\1</span>', t)
+        return ">" + t + "<"
+    return re.sub(r">([^<]+)<", fix, html_text)
+
+
 # ---------------------------------------------------------------- layout blocks
 
 def classes(el):
@@ -172,12 +205,18 @@ def layout_chapter(ch, map_png):
         rows = len(table.find_all("tr")) - 1
         wrap = soup.new_tag("div", attrs={"class": "table-wrap" + (" keep" if rows <= SHORT_TABLE_ROWS else "")})
         table.wrap(wrap)
+    # printed URLs may break after slashes
+    for a in root.find_all("a"):
+        text = a.get_text()
+        if text.startswith("http") and a.string is not None:
+            a.string.replace_with(break_url(text))
+            a["class"] = ["url"]
     # checklist boxes
     for box in root.select("input.task-list-item-checkbox"):
         box.replace_with(BeautifulSoup('<span class="tick"></span>', "html.parser"))
 
     items = [c for c in root.children if getattr(c, "name", None)]
-    out = []
+    out, prelude = [], ""
 
     # "In this chapter" box
     for k, el in enumerate(items[:-1]):
@@ -199,10 +238,9 @@ def layout_chapter(ch, map_png):
             if k + 1 < len(items) and items[k + 1].name == "p" and items[k + 1].find("em"):
                 caption = items[k + 1].decode_contents()
                 items.pop(k + 1)
-            page = BeautifulSoup(
-                '<section class="map-page"><figure><img src="%s" alt="Schematic map of Daravel">'
-                "<figcaption>%s</figcaption></figure></section>" % (map_png.as_uri(), caption), "html.parser")
-            items[k] = page.section
+            prelude = ('<section class="map-page"><figure><img src="%s" alt="Schematic map of Daravel">'
+                       "<figcaption>%s</figcaption></figure></section>" % (map_png.as_uri(), caption))
+            items.pop(k)
             break
 
     # quick summary and sources
@@ -240,6 +278,12 @@ def layout_chapter(ch, map_png):
                 out.append('<div class="opener"><div class="opener-text">%s</div>%s</div>' % (rest, str(navs[0])))
                 run = []
                 return
+        if kind == "cols" and all("callout" in classes(e) for e in run) and len(run) <= 2:
+            for e in run:
+                e["class"] = classes(e) | {"wide"}
+            out.append('<div class="note-row">%s</div>' % "".join(str(e) for e in run))
+            run = []
+            return
         out.append('<div class="%s">%s</div>' % ("cols" if kind == "cols" else "cols sources", inner))
         run = []
 
@@ -259,6 +303,10 @@ def layout_chapter(ch, map_png):
                 leads = []
                 while run and is_lead_in(run[-1]) and len(leads) < 2:
                     leads.insert(0, run.pop())
+                if not leads and len(run) >= 2 and run[-2].name in ("h3", "h4") and run[-1].name == "p" \
+                        and len(run[-1].get_text()) < 320:
+                    leads = [run[-2], run[-1]]
+                    del run[-2:]
                 if leads:
                     lead = soup.new_tag("div", attrs={"class": "table-lead"})
                     for x in leads:
@@ -267,9 +315,11 @@ def layout_chapter(ch, map_png):
             flush()
             out.append(str(el))
             continue
+        if el.name == "h3" and run and opener_done:
+            flush()
         run.append(el)
     flush()
-    return "\n".join(out)
+    return typeset("\n".join(out)), prelude
 
 
 # ---------------------------------------------------------------- flowchart (chapter 0)
@@ -430,10 +480,13 @@ def build(only=None, html_only=False):
 
     parts = [cover_html(map_png.as_uri()), howto_html(), contents_html(chapters)]
     for ch in chapters:
+        body, prelude = layout_chapter(ch, map_png)
+        if prelude:
+            parts.append(prelude)
         parts.append(
             '<section class="chapter" id="c%s"><header class="chapter-head"><p class="chapter-num">%s</p>'
             "<h1>%s</h1></header>%s</section>"
-            % (ch["num"], chapter_label(ch["num"]), nbsp_last(inline(ch["title"])), layout_chapter(ch, map_png)))
+            % (ch["num"], chapter_label(ch["num"]), nbsp_last(inline(ch["title"])), body))
 
     css = font_faces() + "\n" + (TOOLS / "guide.css").read_text(encoding="utf-8")
     doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Map-Making Guide</title>'
