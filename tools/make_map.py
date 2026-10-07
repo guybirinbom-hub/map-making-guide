@@ -418,7 +418,7 @@ LEG_BOT = [
     ('h', 'Routes'),
     ('royal_road', 'Royal highway'),
     ('road', 'Regional road'),
-    ('old_road', 'Old imperial road'),
+    ('old_road', 'Old road, "Street"'),
     ('pilgrim', "Pilgrims' Way"),
     ('mule', 'Mule path'),
     ('sealane', 'Sea lane'),
@@ -514,7 +514,7 @@ FIEF_DASH = '4 1.8 1.1 1.8'       # medium dash-dot
 LIBERTY_DASH = '3 1.5 0.8 1.5'    # thin dash-dot
 DISPUTE_DASH = '2.2 1 0.6 1'
 FOREST_DASH = '3.6 1.5 0.9 1.5'   # royal forest: green dash-dot
-OLD_ROAD = '#6a4a2e'
+OLD_ROAD = '#5f5245'
 
 
 def dyke_svg(pts):
@@ -915,13 +915,14 @@ SYMR = {}   # name -> symbol radius for labels
 # manual attachment offsets for crowded places: name -> {'castle': (dx,dy), 'cross': (dx,dy)}
 ATTACH = {
     'Hallowbridge': {'castle': (-10.5, -10.5), 'cross': (0, -13.5)},
-    'Liskmeet': {'castle': (-8.5, -7), 'cross': (8.5, -8.5),
+    'Liskmeet': {'castle': (-8.5, -7), 'cross': (-5.5, -14.5),
                  'crown': [(-10, 7), (10, 7.5), (0, 11), (-13, 0), (13, 0), (-15, -8), (-4, -17)]},
     'Norburgh': {'castle': (8.5, -6.5), 'cross': (-8.0, -7.5)},
     'Holmstow': {'cross': (-7.0, -6.5), 'shrine': (0, 9.5)},
     'Wyndfoot': {'castle': (-7, -6.5), 'cross': (7, -7)},
     'Ridgegate': {'castle': (-7, -6.5), 'cross': (7, -7)},
     'Kingsmoat': {'castle': (6.5, -5.5), 'crown': (-7, -5)},
+    'Wendmouth': {'castle': (9.5, -7), 'cross': (-5.5, -12), 'pennant': (1.5, 0)},
 }
 # port anchors (absolute positions, in the water)
 PORT_AT = {
@@ -1184,15 +1185,21 @@ for kind, rv, x, y, sh in CROSS:
     (px, py), ang = river_mark(rv, x, y, sh)
     if kind == 'bridge':
         if rv == 'Ambre' and x == 688:
-            px, py, ang = 688, 422.5, 0.0
+            px, py, ang = 688, 423.2, 0.0
         snip = g_bridge(px, py, ang)
-        rr = 4.2
+        rr = 4.0
     elif kind == 'ford':
         snip = g_ford(px, py, ang)
         rr = 4.4
     else:
         snip = g_ferry(px, py, ang)
-        rr = 5.0
+        ra, rb = -math.sin(ang), math.cos(ang)
+        fx = px + math.cos(ang) * 3.4 - ra * 3.6 - 1
+        fy = py + math.sin(ang) * 3.4 - rb * 3.6
+        xs = [px - ra * 5, px + ra * 5, fx - 0.5, fx + 2.9]
+        ys = [py - rb * 5, py + rb * 5, fy - 2.7, fy + 2.7]
+        add_sym((min(xs), min(ys), max(xs), max(ys)), 'X%s:%s,%s' % (kind, x, y), snip, kind)
+        continue
     add_sym((px - rr, py - rr, px + rr, py + rr), 'X%s:%s,%s' % (kind, x, y), snip, kind)
 
 # head of navigation on the Ambre (Cheapford): a small boat on the river
@@ -1352,7 +1359,6 @@ order = sorted(D['settlements'], key=lambda s: (
 
 FORCE = {
     # name: (position, gap) chosen after looking at the render
-    'Westhallow\n(royal tombs)': ('NW', 1.6),
 }
 SUB = {
     'Hallowbridge': None,
@@ -1535,8 +1541,7 @@ def place_line_label(name, text, pts, size, fill, italic=True, bold=False, ls=0.
 
 
 RIVER_LABELS = [
-    ('Ambre', 'R. Ambre', 8.4, (408, 432)),
-    ('Ambre', 'Ambre', 7.6, (215, 448)),
+    ('Ambre', 'R. Ambre', 8.4, (520, 440)),
     ('Lisk', 'R. Lisk', 7.6, (425, 270)),
     ('Brim', 'R. Brim', 7.4, (745, 182)),
     ('Skel', 'R. Skel', 7.4, (560, 66)),
