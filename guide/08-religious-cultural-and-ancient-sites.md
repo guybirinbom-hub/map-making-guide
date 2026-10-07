@@ -45,7 +45,15 @@ These densities come from England, where the counts are good. England covers abo
 | Cathedral | 17 (from 1133) | ~7,600 km² (2,950 sq mi) | 0.13 | Plus 4 in Wales |
 | University | 2 (Oxford, Cambridge) | ~65,000 km² (25,000 sq mi) | 0.015 | Very rare everywhere |
 
-For a sample county of about 2,500 km² (965 sq mi; a square 50 km or 31 mi on a side), this means: about 180 parish churches, 15–20 religious houses, 3–4 friaries in its 1–3 biggest towns, 15–20 hospitals and almshouses over time, about 6 leper houses, 10 or so castles in use, and about a one-in-three chance of a cathedral.
+Take a sample county of about 2,500 km² (965 sq mi), a square 50 km (31 mi) on a side. At English densities it would have:
+
+- about 180 parish churches;
+- 15–20 religious houses;
+- 3–4 friaries in its 1–3 biggest towns;
+- 15–20 hospitals and almshouses over time;
+- about 6 leper houses;
+- 10 or so castles in use;
+- about a one-in-three chance of a cathedral.
 
 > **Map tip:** Do not draw all of these at every scale. On a kingdom map, show cathedrals, great abbeys, major shrines and universities. On a local map, show every parish church, plus the abbeys, friaries, hospitals, gallows and ruins. See [Drawing it all](#drawing-it-all-symbols-density-and-scale).
 
@@ -207,7 +215,7 @@ In England, friars reached further down the town ladder: many county towns of 3,
 
 > **Fantasy twist:** A religious order of warrior-monks in a monster-haunted land behaves like the Templars or the Teutonic Order: fortified commanderies along dangerous roads and frontiers, each with farms to pay for it. Treat them as castles on your map (see [chapter 04](04-military-sites.md)).
 
-> **Map tip:** Put about 1 religious house per 150 km² (60 sq mi) in a settled kingdom. Place Cistercian and Carthusian houses in empty, well-watered valleys away from villages; Benedictine abbeys in old towns or at the centre of a "monastery town"; friaries in towns of about 3,000–5,000 and up, near the walls or gates; nunneries in quiet rural spots. Give each big abbey 5–40 granges, most within about 25 km (15 mi) and a few much farther. Name some farms "Grange", "Temple ..." or "... Abbey Farm".
+> **Map tip:** Put about 1 religious house per 150 km² (60 sq mi) in a settled kingdom. Place Cistercian and Carthusian houses in empty, well-watered valleys away from villages. Put Benedictine abbeys in old towns or at the centre of a "monastery town". Put friaries in towns of about 3,000–5,000 and up, near the walls or gates, and nunneries in quiet rural spots. Give each big abbey 5–40 granges, most within about 25 km (15 mi) and a few much farther. Name some farms "Grange", "Temple ..." or "... Abbey Farm".
 
 ---
 
@@ -239,7 +247,7 @@ Archbishop Sigeric of Canterbury wrote down his route home from Rome in about 99
 - **Hospices** (free lodgings for pilgrims and travellers) at passes, river crossings and empty stretches. The Great St Bernard hospice was founded around 1050 at 2,469 m (8,100 ft), right at the top of the pass. Roncesvalles, below the Pyrenees pass, had a famous pilgrim hospital from the 1100s.
 - **Bridges** built for pilgrims, often by holy men or monasteries. Santo Domingo de la Calzada in Spain grew up around the bridge, road and hospital that St Dominic built in the 1000s. Hospital de Órbigo is named after its pilgrim hospital.
 - **Pilgrim towns** along the road, with many inns, hospitals and a "street of the Franks" for foreign settlers. Puente la Reina is named after its pilgrim bridge.
-- **At the shrine:** a great church, many inns, hospitals, souvenir sellers (pilgrim badges, scallop shells for Santiago), money changers, and often a leper hospital on the approach road. At Canterbury, the leper hospital of Harbledown (c. 1084) stood on the road from London, and pilgrims gave alms there.
+- **At the shrine:** a great church, many inns, hospitals, souvenir sellers (pilgrim badges, scallop shells for Santiago), money changers, and often a leper hospital on the approach road. At Canterbury, the leper hospital of Harbledown (founded c. 1084–85) stood just west of the city on the road from London. Passing pilgrims gave alms there, for example to see a slipper said to have been Becket's.
 
 > **Later era (1500s+):** Protestant lands end pilgrimage. Becket's shrine at Canterbury and the shrine of Walsingham were destroyed in 1538. Catholic pilgrimage continues and new shrines appear, but long international pilgrimages decline.
 
@@ -251,7 +259,7 @@ Archbishop Sigeric of Canterbury wrote down his route home from Rome in about 99
 
 ## Hospitals, leper houses and almshouses
 
-> **Rule of thumb:** Hospitals stand at town gates, bridges and main roads. Leper houses stand outside the town, on the main road in, usually within 1–2 km (about 1 mi) of the gate.
+> **Rule of thumb:** Hospitals stand at town gates, bridges and main roads. Leper houses stand outside the town, on a main road in, often within 1–2 km (about 1 mi) of the gate.
 
 A medieval **hospital** was a religious charity house. Most did not treat illness as we do. They gave food, a bed and prayer to the poor, the old, the sick and travellers. An **almshouse** was a small home for poor old people. A **leper house** (leprosarium, lazar house) housed people with leprosy, a disease that people feared and connected with sin.
 
@@ -262,9 +270,9 @@ A medieval **hospital** was a religious charity house. Most did not treat illnes
 | England, all hospitals and almshouses | 800–1,100 founded c. 1080–1540 (estimates vary) | Over 500 almshouses before the Reformation |
 | England, leper houses | about 300 (estimates vary) | Most founded 1100–1350; many became almshouses later |
 | Kingdom of France | ~2,000 leper houses | King Louis VIII's will (1227) left gifts to about 2,000 leper houses |
-| All of Christendom | 19,000 leper houses | A guess by the chronicler Matthew Paris in the 1200s; not a count |
+| All of Christendom | 19,000 leper houses | A guess by the chronicler Matthew Paris for the early 1200s; not a count |
 
-Most almshouses and small hospitals had **4–13 residents**. Thirteen was a favourite number (Christ and the twelve apostles). The Hospital of St Cross at Winchester, founded about 1132, was one of the first. A few town hospitals were large, with 100 or more beds.
+Most almshouses and small hospitals had **4–13 residents**. Thirteen was a favourite number (Christ and the twelve apostles). The Hospital of St Cross at Winchester, founded about 1132–36 for thirteen poor men, was one of the first. A few town hospitals were large, with 100 or more beds.
 
 ### Where they stood
 
@@ -292,7 +300,7 @@ A **university** was a guild (association) of masters and students, licensed to 
 | Italy | Bologna (by tradition 1088; organised in the late 1100s), Padua 1222, Naples 1224, Siena 1240, Rome 1303, Perugia 1308, Pisa 1343, Pavia 1361, Ferrara 1391, Turin 1404 |
 | France | Paris (c. 1150–1200), Montpellier (medicine from 1220), Toulouse 1229, Orléans 1235, Avignon 1303, Angers 1356, Caen 1432, Bordeaux 1441 |
 | Iberia | Salamanca 1218, Lisbon/Coimbra 1290, Lleida 1300, Barcelona 1450, Zaragoza 1474, Valencia 1499 |
-| Britain | Oxford (teaching by c. 1100; grew after 1167), Cambridge 1209, St Andrews 1413, Glasgow 1451, Aberdeen 1495 |
+| Britain | Oxford (teaching by 1096; grew fast after 1167), Cambridge 1209, St Andrews 1413, Glasgow 1451, Aberdeen 1495 |
 | Central Europe | Prague 1348, Kraków 1364, Vienna 1365, Pécs 1367, Heidelberg 1386, Cologne 1388, Erfurt (1379/1392), Leipzig 1409, Rostock 1419, Leuven 1425, Basel 1460, Tübingen 1477 |
 | North | Uppsala 1477, Copenhagen 1479 |
 | Islamic world (colleges, not universities) | Al-Qarawiyyin mosque, Fez (859); al-Azhar mosque, Cairo (970s); Nizamiyya *madrasa* (college of law), Baghdad (1065–67) |
@@ -301,7 +309,7 @@ The first universities grew out of famous cathedral and city schools in Italy, F
 
 ### How big
 
-Student numbers are uncertain. Oxford had perhaps 1,500–2,000 students around 1300; Paris had several thousand; most universities had a few hundred. The Baghdad Nizamiyya is said to have had about 3,000 students around 1096. A university town filled with colleges, halls, bookshops and inns, and with fights between students and townsfolk.
+Student numbers are uncertain. Oxford had perhaps 1,500–2,000 students around 1300 (modern estimates vary); Paris had several thousand; most universities had a few hundred. The Baghdad Nizamiyya is said to have had about 3,000 students in 1096. A university town filled with colleges, halls, bookshops and inns, and with fights between students and townsfolk.
 
 ### Schools
 
@@ -325,8 +333,8 @@ Student numbers are uncertain. Oxford had perhaps 1,500–2,000 students around 
 Gallows were meant to be seen. They marked the lord's right to judge and kill (**high justice**) and warned travellers.
 
 - **Where:** on a hill or rise, outside the town or village, near a main road, often at the boundary of the lordship or parish.
-- **France:** a lord's gallows were called *fourches patibulaires*. By custom, the number of stone pillars showed his rank: 2 for a simple lord with high justice, 3 for a castellan, 4 for a baron, 6 for a count, 8 for a duke, and as many as he liked for the king. Local customs varied.
-- **Paris:** the great royal gallows of **Montfaucon** stood on a small hill outside the walls, with a leper house nearby. A 19th-century reconstruction gives it 45 places for bodies.
+- **France:** a lord's gallows were called *fourches patibulaires*. By custom, the number of stone pillars showed his rank: 2 for a simple lord with high justice, 3 for a castellan (the lord of a castle and its district), 4 for a baron, 6 for a count, 8 for a duke, and as many as he liked for the king. This was the rule in principle; local customs varied.
+- **Paris:** the great royal gallows of **Montfaucon** stood on a small hill outside the walls, with the leper house of Saint-Lazare in the same area. Viollet-le-Duc's 19th-century drawing shows it with 45 places for bodies, but it may make the gallows grander than it really was.
 - **London:** **Tyburn** stood about 5 km (3 mi) west of Newgate prison, where two Roman roads met (today's Oxford Street and Edgware Road). Its first recorded hanging was in 1196. Close by stood "Oswulf's Stone", which gave its name to the local hundred (district), Ossulstone.
 - **Anglo-Saxon England (before 1066):** archaeologist Andrew Reynolds showed that execution cemeteries were usually on **hundred boundaries**, beside **major roads**, and often on or next to **prehistoric barrows** (burial mounds).
 - **Names:** Gallows Hill, Gallows Green, Hangman's Hill (England); *Galgenberg* (Germany); *Justice* (France).
@@ -335,7 +343,7 @@ Gallows were meant to be seen. They marked the lord's right to judge and kill (*
 
 - **Pillory** (holds the head and hands): in the market place, often on a platform. Used for cheating traders.
 - **Stocks** (hold the feet): the Statute of Labourers of 1351 ordered **every town and village** in England to have stocks. They stood on the green, by the church or in the market.
-- **Ducking stool** at a pond or river; a small lock-up or cage in some towns.
+- **Ducking stool** (a seat on a long pole, used to dip offenders into water) at a pond or river; a small lock-up or cage in some towns.
 
 ### Courts and meeting places
 
@@ -347,8 +355,8 @@ Gallows were meant to be seen. They marked the lord's right to judge and kill (*
 ### Town halls, guildhalls and market crosses
 
 - **Town hall** (guildhall, moot hall, *palazzo comunale*, *Rathaus*): on or beside the main market place. Often with a covered market below and a council chamber above.
-  - London's Guildhall was rebuilt in 1411–1440; a guildhall had stood there since about 1127.
-  - Siena's Palazzo Pubblico (begun 1297) faces the Campo, where the city's three hills meet. Its tower (1325–1344) was built to be taller than Florence's.
+  - London's Guildhall was rebuilt in 1411–1440; a guildhall is first recorded there in 1127 or 1128.
+  - Siena's Palazzo Pubblico (begun 1297) faces the Campo, where the city's three hills meet. Its tower, the Torre del Mangia, was built in the 1320s–1340s (sources give different dates). It was meant to be one of the tallest towers in Italy, a rival to the towers of Florence and of Siena's own cathedral.
 - **Belfries:** Towns in Flanders and northern France built civic bell towers (Bruges, Ghent) to hold the town's bells, charters and archives. They were a symbol of town freedom, a rival to the church tower. UNESCO lists 56 of them.
 - **Guildhalls of crafts and merchants:** in rich trading towns, near the market or the river (cloth halls in Flanders and England).
 - **Market crosses:** a stone cross, later often a roofed shelter, marking the market place and the town's market rights. Proclamations were read there. Examples: Malmesbury (c. 1490), Chichester (1501).
@@ -383,14 +391,14 @@ Gallows were meant to be seen. They marked the lord's right to judge and kill (*
 - **Where:** in towns, almost never in villages in northern Europe. Their quarter had many names: *Jewry* (England), *Judengasse* (Germany), *judería* or *call* (Iberia). It had a synagogue, a ritual bath, a bakery, and a cemetery outside the walls.
 - **Near power:** Jews were under the king's protection in England and many other realms, so they often lived close to the castle or the market.
 - **England:** communities in London, York, Lincoln, Norwich, Oxford, Cambridge, Winchester and other royal towns. There were no more than about 3,000 Jews by 1278. They were expelled in 1290.
-- **Frankfurt:** Jews lived near the cathedral, at the centre of town life, until 1462. Then they were forced into the *Judengasse*, a single curved street about 330 m (1,080 ft) long outside the old wall, with gates. It started with about 110 people and held over 3,000 by the 1500s.
+- **Frankfurt:** Jews lived near the cathedral, at the centre of town life, until 1462. Then they were forced into the *Judengasse*, a single curved street about 330 m (1,080 ft) long and 3–4 m wide, just outside the old wall, with three gates. It started with about 110 people. It held about 260 in 1543 and about 2,700–3,000 by the early 1600s, packed into fewer than 200 houses.
 - **Expulsions:** England 1290; France 1306 and finally 1394; many German cities in the 1400s; Spain 1492; Portugal 1496–97. After an expulsion, the quarter keeps its name ("Old Jewry") but not its people.
 
 ### Muslims under Christian rule
 
 - **Iberia:** Muslims under Christian rule were called **Mudéjars**. They lived in their own quarter (*morería*) with a mosque, bath, cemetery, market and bakery, or in whole Muslim villages. They were especially numerous in the kingdoms of Valencia and Aragon, where they were mostly farmers; in Valencia they may have been a majority of the countryside in the late 1300s. Castile forced them to convert or leave in 1502; Valencia and Aragon in 1525–26.
-- **Conquered mosques:** when Christians took a Muslim city, its great mosque usually became the cathedral: Toledo (taken 1085), Córdoba (1236), Seville (1248). Seville later replaced it with a new Gothic cathedral (begun 1401) but kept the minaret as the bell tower.
-- **Sicily:** under Norman rule (conquest 1061–1091, kingdom from 1130) Sicily had many Muslims, mosques and Arabic-speaking officials. Emperor Frederick II moved the remaining Muslims to **Lucera** in Apulia from 1224; 15,000–20,000 lived there until the town was destroyed in 1300 and its mosques replaced with churches.
+- **Conquered mosques:** when Christians took a Muslim city, its great mosque usually became the cathedral: Toledo (taken 1085), Córdoba (1236), Seville (1248). Seville later replaced it with a new Gothic cathedral (decided 1401, begun 1402) but kept the minaret (the Giralda) as the bell tower.
+- **Sicily:** under Norman rule (conquest 1061–1091, kingdom from 1130) Sicily had many Muslims, mosques and Arabic-speaking officials. Emperor Frederick II moved the remaining Muslims to **Lucera** in Apulia over about twenty years from 1224. Their number reached 15,000–20,000. The colony lasted until 1300, when it was sacked, most people were killed or enslaved, and its mosques were replaced with churches.
 
 ### Christians and Jews under Muslim rule
 
@@ -398,9 +406,9 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 
 ### Orthodox, Armenian and foreign communities
 
-- **Constantinople:** Italian merchants had their own quarters by the Golden Horn. The Venetian quarter dated from 1082; the Genoese got Galata (Pera), across the water, in 1267.
+- **Constantinople:** Italian merchants had their own quarters by the Golden Horn. The Venetian quarter dated from 1082. The Genoese were given Galata (Pera), across the water, in the late 1260s and held it as a walled colony from 1273 to 1453.
 - **Southern Italy:** many Greek-speaking Orthodox monasteries survived in Calabria and Apulia under Latin bishops.
-- **Lviv (Lwów, Poland):** the city had Armenian, Ruthenian (Orthodox) and Jewish quarters next to the Catholic one; the Armenian cathedral was begun in 1363.
+- **Lviv (Lwów, Poland):** the city had Armenian, Ruthenian (Orthodox) and Jewish quarters next to the Catholic one; the Armenian cathedral was built in 1363–1370.
 - **Foreign merchants** often had their own walled compound (*fondaco*, *funduq*, *Kontor*) with a chapel. See [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md).
 
 > **Later era (1500s+):** Segregation becomes stricter. Venice created the first "ghetto" in 1516; in 1555 Venice had 923 Jews among 160,000 people. Rome followed in 1555. Spain expelled the Moriscos (Muslims forced to convert) in 1609–14, emptying hundreds of villages in Valencia and Aragon.
@@ -415,21 +423,21 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 
 ### What a medieval traveller would see
 
-| Old feature | Age in 1300 | How common | Where | How medieval people used it |
+| Old feature | Age (in 1300 unless noted) | How common | Where | How medieval people used it |
 |---|---|---|---|---|
-| **Roman roads** | 1,100–1,600 years | About 3,200–4,000 km (2,000–2,500 mi) of main roads in Britain; over 80,000 km (50,000 mi) of paved roads in the whole empire, with way stations every 25–30 km | Straight lines between old towns and forts, on a raised bank (*agger*) 5–8 m wide | Still main roads (Watling Street, Fosse Way, Ermine Street). English law books of the 1100s put four great roads under the king's special protection. Many parish and county boundaries follow them. |
+| **Roman roads** | 1,100–1,600 years | About 3,200 km (2,000 mi) of main paved roads in Britain, plus many minor roads. In the whole empire, over 80,000 km (50,000 mi) of stone-paved roads (out of 400,000 km in all), with official way stations (*mansiones*) every 25–30 km (16–19 mi) | Straight lines between old towns and forts, often on a raised bank (*agger*); the road itself usually 5–8 m (16–26 ft) wide | Still main roads (Watling Street, Fosse Way, Ermine Street). English law books of the 1100s put four great roads under the king's special protection. Many parish and county boundaries follow them. |
 | **Roman towns and forts** | 1,000–1,800 years | Every Roman province | River crossings, coasts, road junctions | Most Mediterranean ones stayed towns. In Britain some died (Silchester, Wroxeter; see [chapter 01](01-settlement-placement.md#reuse-of-ancient-and-roman-sites)). Forts became castles. |
-| **Hillforts** (Iron Age earthwork forts) | 1,300–2,000+ years | 4,147 in Britain and Ireland (about one per 70 km² on average, but very uneven) | Hilltops and ridge ends, especially in the west and south | Some re-fortified as castles or towns (Old Sarum: castle and cathedral). Many used as sheep pasture or fair grounds. |
-| **Long barrows** (Neolithic burial mounds) | ~4,300–5,100 years | About 300 earthen long barrows in eastern Britain; 20–70 m long | Ridges and hill brows | Landmarks, boundary marks, legends. Wayland's Smithy (Berkshire) is a long barrow named after a legendary smith already in a charter of 955. |
+| **Hillforts** (Iron Age earthwork forts) | 1,300–2,000+ years | 4,147 in Britain and Ireland (Atlas of Hillforts, 2017): about one per 75 km² (29 sq mi) on average, but very uneven | Hilltops and ridge ends, especially in the west and south | Some re-fortified as castles or towns (Old Sarum: castle and cathedral). Many used as sheep pasture or fair grounds. |
+| **Long barrows** (Neolithic burial mounds) | ~4,300–5,100 years | About 300 earthen long barrows in eastern Britain, plus stone-chambered ones in the west; most 20–70 m (65–230 ft) long | Ridges and hill brows | Landmarks, boundary marks, legends. Wayland's Smithy (then in Berkshire, now Oxfordshire) is a chambered long barrow already named after a legendary smith in a charter of 955. |
 | **Round barrows** (Bronze Age burial mounds) | ~2,800–3,800 years | Many thousands in England; often in groups (barrow cemeteries) | Ridges and skylines, chalk downs | New burials in the early Middle Ages; meeting places; gallows sites; boundary markers |
-| **Stone circles and standing stones** | ~3,800–4,600 years | About 1,300 circles in Britain and Ireland | Uplands, moors, river valleys | Feared, Christianised or destroyed. At Avebury, villagers toppled and buried stones in the early 1300s. One man, a barber-surgeon, was crushed by a falling stone (coins of the 1320s were found with him). A church stood just west of the Avebury henge by the 900s. |
-| **Deserted villages** | 0–200 years | About 3,000 known in England; 1,500+ emptied c. 1350–1520 | Clay lowlands and poor land; sheep country | House platforms, hollow lanes and a lone church in a sheep field (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)) |
-| **Abandoned castles** | 0–300 years | England and Wales had ~1,700 castle sites, but only 500–600 in use at once | Hills, river crossings, old borders | Grass-covered mottes (earth mounds) and ruined towers; stone robbed for houses (see [chapter 04](04-military-sites.md)) |
+| **Stone circles and standing stones** | ~3,800–4,600 years | About 1,300 circles in Britain and Ireland | Uplands, moors, river valleys | Feared, Christianised or destroyed. At Avebury, villagers toppled and buried stones in the early 1300s. One man, a barber-surgeon, was found under a fallen stone, with coins of the 1320s. A church was built just west of the Avebury henge (a prehistoric ring of bank and ditch) in the 900s. |
+| **Deserted villages** | Recent: most emptied after 1350, so they matter most for maps set in 1350–1500 | About 3,000 known in England; 1,500+ emptied c. 1350–1520 | Clay lowlands and poor land; sheep country | House platforms, hollow lanes and a lone church in a sheep field (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)) |
+| **Abandoned castles** | Up to ~250 years in 1300; more by 1500 | England and Wales had ~1,700 castle sites, but only 500–600 in use at once | Hills, river crossings, old borders | Grass-covered mottes (earth mounds) and ruined towers; stone robbed for houses (see [chapter 04](04-military-sites.md)) |
 
 ### How old things were reused
 
 - **As quarries.** Roman ruins were the easiest source of cut stone and brick. The Norman abbey church at St Albans was built largely of Roman brick and tile from the ruined Roman town of Verulamium, across the river. Many churches near Roman sites (Wroxeter and its neighbours) are full of Roman stone.
-- **As fortresses.** At Portchester, a Roman fort of about 285–290 still stood complete. The Normans built a castle keep in one corner (late 1000s) and a priory church inside the walls (1130s). In southern France, the Roman amphitheatre of Arles became a fortress with four towers and more than 200 houses inside it.
+- **As fortresses.** At Portchester, a Roman fort of about 285–290 still stood complete. The Normans built a castle keep in one corner (probably late 1000s) and an Augustinian priory inside the walls (founded 1128; its church dates from the 1130s). In southern France, the Roman amphitheatre of Arles became a fortress with four towers and more than 200 houses inside it.
 - **As holy ground.** Churches were built at or beside pagan sites (Rudston, Avebury). Some saints' shrines sat at old Roman cemeteries.
 - **As boundaries and meeting places.** Barrows, stones and Roman roads made ideal parish edges and moot sites, and gallows sites (see [Legal and civic sites](#legal-and-civic-sites)).
 - **As legends.** People explained old earthworks with giants, devils or old heroes. Names like "Grim's Ditch" (Grim being a name for the god Woden) and "Devil's Dyke" are common in England.
@@ -446,7 +454,7 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 
 > **Fantasy twist:** An older, vanished race (elves, giants, an ancient empire) leaves the same kinds of layers: roads, forts on hills, tombs on ridges, stones in circles. If its ruins are still whole near living towns, there must be a reason: fear, a curse, a monster, or a law. Otherwise people would have carted the stone away. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Give a kingdom map a few long, straight "old roads" that link cities in near-straight lines, with later towns along them. On local maps, add 1–3 hillforts per 100 km² in hilly country, scattered barrows along ridges, a stone circle or two on moorland, a ruined motte by an old crossing, and one or two deserted villages shown by a lone church. Label them in the local style: "Old Fort", "Giant's Grave", "Kings' Stones", "Castle Hill", "Old Street".
+> **Map tip:** Give a kingdom map a few long, straight "old roads" that link cities in near-straight lines, with later towns along them. On local maps, add 1–3 hillforts per 100 km² (39 sq mi) in hilly country, scattered barrows along ridges, a stone circle or two on moorland, a ruined motte by an old crossing, and one or two deserted villages shown by a lone church. Label them in the local style: "Old Fort", "Giant's Grave", "Kings' Stones", "Castle Hill", "Old Street".
 
 ---
 
@@ -491,7 +499,7 @@ Use this for an English-style kingdom of about 1–2 million people c. 1300. Sca
 | Religious houses | 300–350 | Monks in valleys, canons at towns, friars in towns, nuns in quiet places |
 | Friaries | 60–75 | Only in towns of 3,000–5,000+; 4–5 in the biggest city |
 | Hospitals and almshouses | 300–400 over time | Gates, bridges, roads |
-| Leper houses | 100–120 | 1–2 km outside towns on main roads |
+| Leper houses | 100–120 | 1–2 km (about 1 mi) outside towns on main roads |
 | University | 0–1 | The biggest cathedral or capital city |
 | Great shrine | 1–3 | One national saint, plus regional ones |
 | Hillforts and barrows (if the land was settled in prehistory) | Hundreds | Hilltops, ridges, downs |
@@ -517,14 +525,14 @@ Use this for an English-style kingdom of about 1–2 million people c. 1300. Sca
 
 ## Quick summary
 
-- One parish church per village, about 4 km (2.5 mi) apart in the lowlands and 8–15 km (5–9 mi) apart in the hills; England had ~9,500 parishes, one per ~14 km².
-- Old towns had many tiny parishes (London 106 in 1371, Norwich 56–58); planted towns had one.
-- Dioceses are small and many in Italy and southern France (Umbria: ~850 km² each), large and few in England (17; ~7,600 km² each) and the north. In Italy a cathedral can sit in a small town.
-- Religious houses: about 1 per 150 km² (England ~900 in the 1530s, average 13 people). Cistercians and Carthusians in empty, watered valleys; Benedictines in old towns; canons at town edges; friars inside towns.
-- Friaries measure town size: none under ~3,000 people, 2 at about 10,000, 4 at 20,000–40,000.
-- Granges lie within a day's walk (~24 km, 15 mi) of their abbey, though often farther.
+- One parish church per village, about 4 km (2.5 mi) apart in the lowlands and 8–15 km (5–9 mi) apart in the hills; England had ~9,500 parishes, one per ~14 km² (5.4 sq mi).
+- Old towns had many tiny parishes (London over 100, Norwich about 56); planted towns had one.
+- Dioceses are small and many in Italy and southern France (Umbria: ~850 km², 330 sq mi, each), large and few in England (17; ~7,600 km², 2,950 sq mi, each) and the north. In Italy a cathedral can sit in a small town.
+- Religious houses: about 1 per 150 km² (60 sq mi) (England ~900 in the 1530s, average 13 people). Cistercians and Carthusians in empty, watered valleys; Benedictines in old towns; canons at town edges; friars inside towns.
+- Friaries roughly measure town size: none under ~3,000 people, 2 at about 10,000, 4 at 20,000–40,000.
+- Granges were meant to lie within a day's walk of their abbey, but many lay farther (Fountains' grange at Cowton was about 32 km, 20 mi, away).
 - Pilgrim roads follow existing roads, with stops about 20 km (12 mi) apart, hospices at passes, pilgrim towns and a leper house near the shrine.
-- Hospitals stand at gates, bridges and roads; leper houses 1–2 km outside towns on main roads.
+- Hospitals stand at gates, bridges and roads; leper houses often 1–2 km (about 1 mi) outside towns on main roads.
 - Universities are rare: ~20 in Europe c. 1300, 60–80 by 1500, mostly in big cities with a bishop or court.
 - Gallows stand on high ground by a main road, outside town, at the lordship's edge; pillories and stocks in the market place; moots at mounds, stones, trees and fords.
 - Jewish and Muslim quarters lie near the castle or market, often later pushed to the edge; their cemeteries lie outside the walls.
@@ -541,7 +549,7 @@ Use this for an English-style kingdom of about 1–2 million people c. 1300. Sca
 - Hay, Denys. *The Church in Italy in the Fifteenth Century*. Cambridge University Press, 1977.
 - Knowles, David, and R. Neville Hadcock. *Medieval Religious Houses: England and Wales*. 2nd ed. Longman, 1971.
 - Le Goff, Jacques. "Apostolat mendiant et fait urbain dans la France médiévale." *Annales ESC* 23 (1968).
-- Lock, Gary, and Ian Ralston. *Atlas of Hillforts of Britain and Ireland*. Online database, University of Oxford and University of Edinburgh, 2017.
+- Lock, Gary, and Ian Ralston. *Atlas of Hillforts of Britain and Ireland*. Online database, University of Oxford, University of Edinburgh and University College Cork, 2017.
 - Margary, Ivan D. *Roman Roads in Britain*. 3rd ed. John Baker, 1973.
 - Morris, Richard. *Churches in the Landscape*. Dent, 1989.
 - Orme, Nicholas. *Medieval Schools: From Roman Britain to Renaissance England*. Yale University Press, 2006.
@@ -556,10 +564,10 @@ Use this for an English-style kingdom of about 1–2 million people c. 1300. Sca
 
 **Web pages consulted**
 
-- Wikipedia: [Dissolution of the monasteries](https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries); [Chapel of ease](https://en.wikipedia.org/wiki/Chapel_of_ease); [Medieval parish churches of York](https://en.wikipedia.org/wiki/Medieval_parish_churches_of_York); [Norman and medieval London](https://en.wikipedia.org/wiki/Norman_and_medieval_London); [Historical development of Church of England dioceses](https://en.wikipedia.org/wiki/Historical_development_of_Church_of_England_dioceses); [Lincoln Cathedral](https://en.wikipedia.org/wiki/Lincoln_Cathedral); [St Botolph's Church, Boston](https://en.wikipedia.org/wiki/St_Botolph%27s_Church,_Boston); [Pieve](https://en.wikipedia.org/wiki/Pieve); [Cistercians](https://en.wikipedia.org/wiki/Cistercians); [List of Cistercian abbeys in Britain](https://en.wikipedia.org/wiki/List_of_Cistercian_abbeys_in_Britain); [Rievaulx Abbey](https://en.wikipedia.org/wiki/Rievaulx_Abbey); [Carthusians](https://en.wikipedia.org/wiki/Carthusians); [Mount Grace Priory](https://en.wikipedia.org/wiki/Mount_Grace_Priory); [London Charterhouse](https://en.wikipedia.org/wiki/London_Charterhouse); [Cluny Abbey](https://en.wikipedia.org/wiki/Cluny_Abbey); [Augustinians](https://en.wikipedia.org/wiki/Augustinians); [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange); [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar); [Mount Athos](https://en.wikipedia.org/wiki/Mount_Athos); [Ribat](https://en.wikipedia.org/wiki/Ribat); [Via Francigena](https://en.wikipedia.org/wiki/Via_Francigena); [Camino de Santiago](https://en.wikipedia.org/wiki/Camino_de_Santiago); [Great St Bernard Hospice](https://en.wikipedia.org/wiki/Great_St_Bernard_Hospice); [Santo Domingo de la Calzada](https://en.wikipedia.org/wiki/Santo_Domingo_de_la_Calzada); [Roncesvalles](https://en.wikipedia.org/wiki/Roncesvalles); [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket); [Jubilee (Christianity)](https://en.wikipedia.org/wiki/Jubilee_(Christianity)); [Harbledown](https://en.wikipedia.org/wiki/Harbledown); [Almshouse](https://en.wikipedia.org/wiki/Almshouse); [Leper colony](https://en.wikipedia.org/wiki/Leper_colony); [History of leprosy](https://en.wikipedia.org/wiki/History_of_leprosy); [St Giles in the Fields](https://en.wikipedia.org/wiki/St_Giles_in_the_Fields); [Bimaristan](https://en.wikipedia.org/wiki/Bimaristan); [List of medieval universities](https://en.wikipedia.org/wiki/List_of_medieval_universities); [Medieval university](https://en.wikipedia.org/wiki/Medieval_university); [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad); [Tyburn](https://en.wikipedia.org/wiki/Tyburn); [Gibbet of Montfaucon](https://en.wikipedia.org/wiki/Gibbet_of_Montfaucon); [Gallows](https://en.wikipedia.org/wiki/Gallows); [Pillory](https://en.wikipedia.org/wiki/Pillory); [Stocks](https://en.wikipedia.org/wiki/Stocks); [Moot hill](https://en.wikipedia.org/wiki/Moot_hill); [Thing (assembly)](https://en.wikipedia.org/wiki/Thing_(assembly)); [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)); [Guildhall, London](https://en.wikipedia.org/wiki/Guildhall,_London); [Palazzo Pubblico](https://en.wikipedia.org/wiki/Palazzo_Pubblico); [Belfries of Belgium and France](https://en.wikipedia.org/wiki/Belfries_of_Belgium_and_France); [Market cross](https://en.wikipedia.org/wiki/Market_cross); [Charnel house](https://en.wikipedia.org/wiki/Charnel_house); [History of the Jews in England (1066–1290)](https://en.wikipedia.org/wiki/History_of_the_Jews_in_England_(1066%E2%80%931290)); [Frankfurter Judengasse](https://en.wikipedia.org/wiki/Frankfurter_Judengasse); [Jewish Cemetery, Worms](https://en.wikipedia.org/wiki/Jewish_Cemetery,_Worms); [Venetian Ghetto](https://en.wikipedia.org/wiki/Venetian_Ghetto); [Mudéjar](https://en.wikipedia.org/wiki/Mud%C3%A9jar); [Lucera](https://en.wikipedia.org/wiki/Lucera); [Roman roads in Britain](https://en.wikipedia.org/wiki/Roman_roads_in_Britain); [Hillfort](https://en.wikipedia.org/wiki/Hillfort); [Atlas of Hillforts of Britain and Ireland](https://en.wikipedia.org/wiki/Atlas_of_Hillforts_of_Britain_and_Ireland); [Long barrow](https://en.wikipedia.org/wiki/Long_barrow); [Bowl barrow](https://en.wikipedia.org/wiki/Bowl_barrow); [Roman roads](https://en.wikipedia.org/wiki/Roman_roads); [Stone circle](https://en.wikipedia.org/wiki/Stone_circle); [Avebury](https://en.wikipedia.org/wiki/Avebury); [Rudston Monolith](https://en.wikipedia.org/wiki/Rudston_Monolith); [Portchester Castle](https://en.wikipedia.org/wiki/Portchester_Castle); [Arles Amphitheatre](https://en.wikipedia.org/wiki/Arles_Amphitheatre); [St Albans Cathedral](https://en.wikipedia.org/wiki/St_Albans_Cathedral); [Spolia](https://en.wikipedia.org/wiki/Spolia).
+- Wikipedia: [Dissolution of the monasteries](https://en.wikipedia.org/wiki/Dissolution_of_the_monasteries); [Chapel of ease](https://en.wikipedia.org/wiki/Chapel_of_ease); [Medieval parish churches of York](https://en.wikipedia.org/wiki/Medieval_parish_churches_of_York); [Norman and medieval London](https://en.wikipedia.org/wiki/Norman_and_medieval_London); [Historical development of Church of England dioceses](https://en.wikipedia.org/wiki/Historical_development_of_Church_of_England_dioceses); [Lincoln Cathedral](https://en.wikipedia.org/wiki/Lincoln_Cathedral); [St Botolph's Church, Boston](https://en.wikipedia.org/wiki/St_Botolph%27s_Church,_Boston); [Pieve](https://en.wikipedia.org/wiki/Pieve); [Cistercians](https://en.wikipedia.org/wiki/Cistercians); [List of Cistercian abbeys in Britain](https://en.wikipedia.org/wiki/List_of_Cistercian_abbeys_in_Britain); [Rievaulx Abbey](https://en.wikipedia.org/wiki/Rievaulx_Abbey); [Carthusians](https://en.wikipedia.org/wiki/Carthusians); [Mount Grace Priory](https://en.wikipedia.org/wiki/Mount_Grace_Priory); [London Charterhouse](https://en.wikipedia.org/wiki/London_Charterhouse); [Cluny Abbey](https://en.wikipedia.org/wiki/Cluny_Abbey); [Augustinians](https://en.wikipedia.org/wiki/Augustinians); [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange); [Knights Templar](https://en.wikipedia.org/wiki/Knights_Templar); [Mount Athos](https://en.wikipedia.org/wiki/Mount_Athos); [Ribat](https://en.wikipedia.org/wiki/Ribat); [Via Francigena](https://en.wikipedia.org/wiki/Via_Francigena); [Camino de Santiago](https://en.wikipedia.org/wiki/Camino_de_Santiago); [Great St Bernard Hospice](https://en.wikipedia.org/wiki/Great_St_Bernard_Hospice); [Santo Domingo de la Calzada](https://en.wikipedia.org/wiki/Santo_Domingo_de_la_Calzada); [Roncesvalles](https://en.wikipedia.org/wiki/Roncesvalles); [Thomas Becket](https://en.wikipedia.org/wiki/Thomas_Becket); [Jubilee (Christianity)](https://en.wikipedia.org/wiki/Jubilee_(Christianity)); [Harbledown](https://en.wikipedia.org/wiki/Harbledown); [Almshouse](https://en.wikipedia.org/wiki/Almshouse); [Leper colony](https://en.wikipedia.org/wiki/Leper_colony); [History of leprosy](https://en.wikipedia.org/wiki/History_of_leprosy); [St Giles in the Fields](https://en.wikipedia.org/wiki/St_Giles_in_the_Fields); [Bimaristan](https://en.wikipedia.org/wiki/Bimaristan); [List of medieval universities](https://en.wikipedia.org/wiki/List_of_medieval_universities); [Medieval university](https://en.wikipedia.org/wiki/Medieval_university); [Al-Nizamiyya of Baghdad](https://en.wikipedia.org/wiki/Al-Nizamiyya_of_Baghdad); [Tyburn](https://en.wikipedia.org/wiki/Tyburn); [Gibbet of Montfaucon](https://en.wikipedia.org/wiki/Gibbet_of_Montfaucon); [Gallows](https://en.wikipedia.org/wiki/Gallows); [Pillory](https://en.wikipedia.org/wiki/Pillory); [Stocks](https://en.wikipedia.org/wiki/Stocks); [Moot hill](https://en.wikipedia.org/wiki/Moot_hill); [Thing (assembly)](https://en.wikipedia.org/wiki/Thing_(assembly)); [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)); [Guildhall, London](https://en.wikipedia.org/wiki/Guildhall,_London); [Palazzo Pubblico](https://en.wikipedia.org/wiki/Palazzo_Pubblico); [Belfries of Belgium and France](https://en.wikipedia.org/wiki/Belfries_of_Belgium_and_France); [Market cross](https://en.wikipedia.org/wiki/Market_cross); [Charnel house](https://en.wikipedia.org/wiki/Charnel_house); [History of the Jews in England (1066–1290)](https://en.wikipedia.org/wiki/History_of_the_Jews_in_England_(1066%E2%80%931290)); [Frankfurter Judengasse](https://en.wikipedia.org/wiki/Frankfurter_Judengasse); [Jewish Cemetery, Worms](https://en.wikipedia.org/wiki/Jewish_Cemetery,_Worms); [Venetian Ghetto](https://en.wikipedia.org/wiki/Venetian_Ghetto); [Mudéjar](https://en.wikipedia.org/wiki/Mud%C3%A9jar); [Lucera](https://en.wikipedia.org/wiki/Lucera); [Roman roads in Britain](https://en.wikipedia.org/wiki/Roman_roads_in_Britain); [Hillfort](https://en.wikipedia.org/wiki/Hillfort); [Atlas of Hillforts of Britain and Ireland](https://en.wikipedia.org/wiki/Atlas_of_Hillforts_of_Britain_and_Ireland); [Long barrow](https://en.wikipedia.org/wiki/Long_barrow); [Bowl barrow](https://en.wikipedia.org/wiki/Bowl_barrow); [Roman roads](https://en.wikipedia.org/wiki/Roman_roads); [Stone circle](https://en.wikipedia.org/wiki/Stone_circle); [Avebury](https://en.wikipedia.org/wiki/Avebury); [Rudston Monolith](https://en.wikipedia.org/wiki/Rudston_Monolith); [Portchester Castle](https://en.wikipedia.org/wiki/Portchester_Castle); [Arles Amphitheatre](https://en.wikipedia.org/wiki/Arles_Amphitheatre); [St Albans Cathedral](https://en.wikipedia.org/wiki/St_Albans_Cathedral); [Spolia](https://en.wikipedia.org/wiki/Spolia); [Pope Boniface VIII](https://en.wikipedia.org/wiki/Pope_Boniface_VIII) (Villani's 200,000 pilgrims); [Catholic Church in Italy](https://en.wikipedia.org/wiki/Catholic_Church_in_Italy) (101 dioceses suppressed in 1986); [Communes of France](https://en.wikipedia.org/wiki/Communes_of_France); [Winchester Cathedral](https://en.wikipedia.org/wiki/Winchester_Cathedral); [Torre del Mangia](https://en.wikipedia.org/wiki/Torre_del_Mangia); [Seville Cathedral](https://en.wikipedia.org/wiki/Seville_Cathedral); [Galata](https://en.wikipedia.org/wiki/Galata); [Zubaidah bint Ja'far](https://en.wikipedia.org/wiki/Zubaidah_bint_Ja%27far); [Hospital of St Cross](https://en.wikipedia.org/wiki/Hospital_of_St_Cross); [Wayland's Smithy](https://en.wikipedia.org/wiki/Wayland%27s_Smithy).
 - French Wikipedia: [Fourches patibulaires](https://fr.wikipedia.org/wiki/Fourches_patibulaires) (pillars by rank); [Léproserie](https://fr.wikipedia.org/wiki/L%C3%A9proserie) (Louis VIII's 2,000 leper houses).
 - Digital Humanities Institute, University of Sheffield, *The Cistercians in Yorkshire*: [Granges and farming](https://www.dhi.ac.uk/cistercians/cistercian_life/environment/farming/farming3.php) (day's-walk rule; Fountains' 39 granges).
-- Fasti Ecclesiae Gallicanae project (147 dioceses within modern France, 1200–1500): [HAL record](https://hal.archives-ouvertes.fr/hal-01834457).
+- Fasti Ecclesiae Gallicanae project (a diocese-by-diocese record of bishops and canons for the dioceses of present-day France, 1200–1500): [HAL record of vol. XIV, Châlons-en-Champagne](https://hal.science/hal-01834457).
 - *Reti Medievali Rivista* 26/2 (2025), section "Sedi diocesane e centri minori in Italia alla fine del medioevo": [introduction](https://www.rmoa.unina.it/7439/1/32_RM_2_2025_Antonetti_Paganelli_Pagnoni.pdf); [Paganelli article](https://www.rmoa.unina.it/7441/1/34_RM_2_2025_Paganelli.pdf).
 - *The Past*, [Full of faith: new insights into the medieval parish churches of Norwich](https://the-past.com/feature/full-of-faith-new-insights-into-the-medieval-parish-churches-of-norwich/).
 

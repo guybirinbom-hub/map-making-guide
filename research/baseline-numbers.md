@@ -1,7 +1,7 @@
 # Shared Baseline Numbers: Human-Made Features on a Realistic Fantasy Map
 
 **Scope:** Europe c. 1000–1500, with the Mediterranean and Middle East where useful. Notes for 1500–1650 appear where things were very different.
-**Corrections:** some figures were revised after the chapter fact-checks (mills, 1377 town sizes, the navigable-water rule, Byzantium 1282, Ghent).
+**Corrections:** some figures were revised after the chapter fact-checks (mills, 1377 town sizes, the navigable-water rule, Byzantium 1282, Ghent, friaries, universities, post stages, later-era growth).
 **Conventions:** Population means people, not households. A household is about 4.5–5 people (Dyer: usually 4–6). "~" means a rounded estimate. A range such as 60–100k shows that scholars disagree. If no date is given, assume c. 1300, the population peak before the plague. Conversions: 1 mi = 1.61 km; 1 per km² = 2.59 per sq mi.
 
 ---
@@ -25,8 +25,8 @@
 | Hamlet | 10–75 | 2–15 | No parish church (a chapel at most). Belongs to a village's parish. Common where settlement is dispersed. |
 | Village | 75–500 (English lowland typical: 150–300) | 15–100 | Parish church, manor house, mill, smithy, open fields and common land. England had roughly 10,000–15,000 mills of all kinds c. 1300 (mostly watermills; estimates vary) against ~9,500 parishes, so roughly one mill per village. |
 | Small market town | 500–2,000 | 100–400 | Chartered weekly market and annual fair, a market place, burgage plots, inns, specialist crafts, one parish church, often a hospital. |
-| Town | 2,000–10,000 | 400–2,000 | Usually walled. Several parishes, merchant and craft guilds, friaries (from the 1220s), hospitals, often a castle, a borough charter and self-government. |
-| City | 10,000–50,000 | 2,000–10,000 | Cathedral, many parishes and friaries, walled suburbs, strong guilds, courts and a mint; sometimes a university (≈20 universities in Europe c. 1300, ≈60–80 by 1500). |
+| Town | 2,000–10,000 | 400–2,000 | Usually walled. Several parishes, merchant and craft guilds, friaries (from the 1220s), hospitals, often a castle, a borough charter and self-government. Friaries mark the upper end: towns of 2,000–3,000 usually had none, ~10,000 had about 2, 20,000–40,000 about 4 (Le Goff's French model). |
+| City | 10,000–50,000 | 2,000–10,000 | Cathedral, many parishes and friaries, walled suburbs, strong guilds, courts and a mint; sometimes a university (≈20 universities in Europe c. 1300, ≈60–80 lasting ones by 1500; over 80 founded counting short-lived ones). Exceptions: Oxford and Cambridge grew in towns of only a few thousand. |
 | Great city | 50,000+ | 10,000+ | A capital or major port with several markets, a university, colonies of foreign merchants and an organized water supply. Grain almost always arrives by water (rare exceptions: Granada on its irrigated plain). |
 
 - **How rare big places were:** Europe plus the Middle East and North Africa (not Russia or Iran) had ~130 cities of 10k+ c. 1000, ~230 c. 1300 and ~250 c. 1500. It had ~11 / ~22 / ~31 of 50k+ and only 4 / 8 / 8 of 100k+ (Bosker, Buringh & van Zanden 2013 dataset).
@@ -177,7 +177,7 @@ Model assumptions:
 | Market towns, in practice | 9–16 km (6–10 mi) | 1,746 English markets recorded by 1300 (one per 75 km², ≈9 km apart), but many were tiny, and only 39% of 1300-era market places still had markets c. 1600. In the late 16th century England and Wales had ~650 working markets, one per ~230 km², ≈16 km (10 mi) apart. |
 | Towns of 5k+ | Flanders 35–45 km; northern Italy 50–60 km; France, Germany and Iberia 80–95 km; Britain 130+ km; Poland 180–250 km | Derived from Buringh's data; an upper bound. |
 | Cities of 10k+ | Flanders and Italy 60–90 km; France, Germany and Iberia 130–170 km; Britain and Poland 260–400 km | Same basis. |
-| Inns and stages on main roads | 15–30 km | Roman *mansiones* every 25–30 km. Tudor royal post stages ~20 mi (32 km) apart. |
+| Inns and stages on main roads | 15–30 km | Roman *mansiones* every 25–30 km. Tudor royal post stages ~20 mi (32 km) apart; continental Taxis post stations 20–40 km (12–25 mi). |
 | Caravanserais | 30–40 km on plains and desert; ≤10 km in mountains | One day's camel stage (Seljuk Anatolia, Iran). |
 | Mongol relay stations | 32–64 km | — |
 
@@ -222,7 +222,7 @@ Model assumptions:
 | Byzantium | ~12m (1025) | 3–5m (1282), falling to ~2m (1312) | Gone (fell 1453); Constantinople 25–80k by then | 1.675m km² (1025); 0.55m (1282); 0.46m (1312) |
 | Europe total | 32–40m (Russell: 38.5m) | 70–80m (Russell, 1340: 73.5m; some estimates up to 100m); ~50–60m by 1400–1450 | 70–90m (McEvedy: ~80m) | — |
 
-- **Later era:** Europe reached ~100m by 1600. England had ~4.1m in 1600 and ~5.3m in 1650.
+- **Later era:** Europe reached ~100m by 1600 counting Russia and Ottoman Europe (de Vries's series without them: ~78m in 1600). England had ~4.1m in 1600 and ~5.3m in 1650.
 - **Sources:** Broadberry, Campbell et al.; Russell 1972 (Fontana); Cipolla 1994; Maddison; McEvedy & Jones 1978; Rabe 1989 and Whaley 2012 (via Eckstein); Kubinyi 1996; Treadgold 1997; *Medieval demography* and *Demographic history of Poland* (Wikipedia).
 
 ---
@@ -246,7 +246,7 @@ Format: city, range in thousands, with the BBvZ central figure in brackets where
 | 11 | Antioch ~45; Thessaloniki, Regensburg, Damascus ~40 | London 60–100 | Lisbon, Palermo, Fez, Damascus 55–65 |
 | 12 | Rome 30–35; Kiev 20–45 | Fez, Marrakesh, Tunis, Naples, Aleppo, Córdoba 55–70; Ghent 40–65 (estimates vary) | Genoa, Rome, Florence, Bursa ~55–60; London ~50 |
 
-- **Later era (c. 1600):** Istanbul 400–700k; Paris ~220–300k; Naples ~250–280k; London ~200k; Venice, Seville, Lisbon and Milan 110–150k.
+- **Later era (c. 1600):** Istanbul 400–700k; Paris ~220–300k; Naples ~250–280k; London ~200k; Venice, Seville, Lisbon and Milan 110–150k (Milan fell to ~70k after the 1629–31 plague).
 - **Sources:** Bosker, Buringh & van Zanden 2013 dataset; Buringh 2021; Chandler 1987; Florence (Villani); Paris (1328 count of 61,098 hearths); Keene (London); Ottoman 1478 survey; Dols (Cairo).
 
 ---
@@ -267,6 +267,6 @@ Format: city, range in thousands, with the BBvZ central figure in brackets where
 ### Later era (1500–1650): what changes on the map
 
 - Bastioned *trace italienne* fortresses and garrison towns replace castles as the main fortifications.
-- Postal relays with stages every ~20 mi.
+- Postal relays with stages every ~20–40 km (12–25 mi).
 - Faster ships: Atlantic and Baltic grain trade.
-- Capitals and Atlantic ports grow 2–4×. All other numbers above stay roughly valid.
+- Capitals and Atlantic ports grow 2–4× (the fastest far more: London ~8×, Amsterdam 10×+ from 1500 to 1650). All other numbers above stay roughly valid.
