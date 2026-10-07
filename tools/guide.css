@@ -1,6 +1,7 @@
 /* Map-Making Guide, print stylesheet for WeasyPrint.
    Layout: A4 book, two text columns (about 55 characters a line);
-   tables, figures and section headings run across the full width. */
+   tables, figures and section headings are separate full-width blocks
+   between two-column runs (never column-span, which WeasyPrint mishandles). */
 :root {
   --ink: #26221c;        /* warm near-black, like iron-gall ink */
   --muted: #6e6457;      /* captions, headers, rules */
@@ -31,13 +32,14 @@
 @page cover { margin: 0; @bottom-center { content: none; } @top-left { content: none; } @top-right { content: none; } }
 @page landscape { size: A4 landscape; margin: 11mm 12mm 13mm; @top-left { content: none; } @top-right { content: none; } }
 
-html { font-family: var(--body); font-size: 9.9pt; line-height: 1.4; color: var(--ink); background: #fff; }
+html { font-family: var(--body); font-size: 9.9pt; line-height: 1.4; color: var(--ink); background: #fff; font-variant-numeric: lining-nums; }
 body { margin: 0; }
 
 /* ---------- running text ---------- */
-p { margin: 0 0 0.55em; orphans: 2; widows: 2; hyphens: auto; }
+p { margin: 0 0 0.55em; orphans: 2; widows: 2; hyphens: auto; hyphenate-limit-chars: 6 3 3; }
 ul, ol { margin: 0 0 0.6em; padding-left: 1.15em; }
-li { margin: 0 0 0.22em; hyphens: auto; }
+li { margin: 0 0 0.22em; hyphens: auto; hyphenate-limit-chars: 6 3 3; }
+ul ul { list-style-type: '– '; }
 li > p { margin: 0; }
 strong { font-weight: 700; }
 a { color: var(--sea); text-decoration: none; }
@@ -51,16 +53,22 @@ code { font-family: var(--sans); font-size: 0.92em; }
   font: 400 27pt/1.1 var(--display); margin: 0; color: var(--ink);
   string-set: chap content(text); bookmark-level: 1;
 }
-.cols { columns: 2; column-gap: 7.5mm; column-fill: balance; }
+.cols { columns: 2; column-gap: 7.5mm; column-fill: balance; margin-bottom: 1.5mm; }
+.cols > :first-child { margin-top: 0; }
+h2 + .cols, h2 + .table-wrap, h2 + .opener, h2 + figure { break-before: avoid; }
+
+/* chapter opener: intro text on the left, the chapter's contents box on the right */
+.opener { display: flex; gap: 7.5mm; align-items: flex-start; margin-bottom: 2mm; }
+.opener-text { flex: 1 1 0; min-width: 0; }
+.opener .intoc { flex: 1 1 0; min-width: 0; margin: 0; }
 
 h2 {
-  column-span: all; font: 700 14pt/1.2 var(--body); color: var(--ink);
+  font: 700 14pt/1.2 var(--body); color: var(--ink);
   margin: 6mm 0 3mm; padding-top: 3mm; border-top: 0.6pt solid var(--rule);
   break-after: avoid; bookmark-level: 2;
 }
 h3 { font: 700 10.4pt/1.25 var(--sans); color: var(--sea); margin: 4.2mm 0 1.6mm; break-after: avoid; bookmark-level: none; }
 h4, h5, h6 { font: 700 9.9pt var(--body); margin: 3mm 0 1mm; break-after: avoid; bookmark-level: none; }
-hr { border: 0; border-top: 0.6pt solid var(--rule); margin: 4mm 0; column-span: all; }
 
 /* chapter's own contents box */
 .intoc { background: var(--paper-tint); padding: 3mm 3.5mm 2mm; margin: 0 0 4mm; break-inside: avoid; }
@@ -82,32 +90,39 @@ blockquote { margin: 2mm 0 3mm; padding: 0 0 0 3mm; border-left: 0.8pt solid var
 blockquote.callout { border-left: 0; }
 
 /* ---------- tables across both columns ---------- */
-.table-wrap { column-span: all; margin: 2.5mm 0 4.5mm; }
+.table-wrap { margin: 2.5mm 0 4.5mm; }
+.table-wrap.keep { break-inside: avoid; }
+.table-lead { break-after: avoid; }
+.table-lead h3, .table-lead h4 { margin-top: 1mm; }
+.table-lead p { margin-bottom: 1.6mm; }
+tbody tr:first-child { break-after: avoid; }
+tbody tr:last-child { break-before: avoid; }
 table { width: 100%; border-collapse: collapse; font: 400 8.2pt/1.3 var(--sans); }
 thead { display: table-header-group; }
 th { text-align: left; font-weight: 700; background: var(--paper-tint); color: var(--ink);
      border-bottom: 0.8pt solid var(--muted); padding: 1.5mm 1.8mm; vertical-align: bottom; }
-td { padding: 1.2mm 1.8mm; border-bottom: 0.4pt solid var(--rule); vertical-align: top; hyphens: auto; }
+td { padding: 1.2mm 1.8mm; border-bottom: 0.4pt solid var(--rule); vertical-align: top; hyphens: auto; hyphenate-limit-chars: 7 3 3; }
 tr { break-inside: avoid; }
 td strong { font-weight: 700; }
 
 /* ---------- quick summary and sources ---------- */
-.summary { column-span: all; background: var(--paper-tint); padding: 1mm 5mm 3mm; margin: 6mm 0 2mm; break-inside: avoid; }
+.summary { background: var(--paper-tint); padding: 1mm 5mm 3mm; margin: 6mm 0 2mm; }
 .summary h2 { border-top: 0; margin: 3mm 0 2mm; padding-top: 0; font-size: 12.5pt; }
 .summary ul { columns: 2; column-gap: 7mm; font-size: 9.3pt; margin: 0; }
 .summary li { break-inside: avoid; }
-.sources { font-size: 7.9pt; line-height: 1.32; color: #3d372f; }
-.sources h2 { font-size: 12pt; }
-.sources h3 { font-size: 8.8pt; }
-.sources p, .sources li { margin-bottom: 0.7mm; }
-.sources a { overflow-wrap: anywhere; word-break: break-word; }
+h2.sources-head { font-size: 12pt; }
+.cols.sources { font-size: 7.8pt; line-height: 1.3; color: var(--ink); }
+.cols.sources p, .cols.sources li { margin-bottom: 0.6mm; hyphens: manual; }
+.cols.sources h3 { font-size: 8.8pt; margin-top: 2.5mm; }
+a.url { hyphens: none; word-break: break-all; overflow-wrap: anywhere; }
+.cols.sources a { overflow-wrap: anywhere; }
 
 /* checklist boxes in chapter 0 */
-.task-list-item { list-style: none; margin-left: -1.1em; }
+.task-list-item { list-style: none; margin-left: -1.1em; padding-left: 4.4mm; text-indent: -4.4mm; }
 .tick { display: inline-block; width: 2.6mm; height: 2.6mm; border: 0.7pt solid var(--muted); margin-right: 1.6mm; vertical-align: -0.3mm; }
 
 /* ---------- flowchart (chapter 0) ---------- */
-.flowchart { column-span: all; margin: 3mm 0 6mm; padding: 4mm 5mm 3mm; background: var(--paper-tint); break-inside: avoid; }
+.flowchart { margin: 3mm 0 6mm; padding: 4mm 5mm 3mm; background: var(--paper-tint); break-inside: avoid; }
 .fc-row { display: flex; justify-content: center; align-items: center; gap: 3mm; }
 .fc-cols { display: flex; justify-content: center; align-items: flex-start; gap: 2mm; }
 .fc-col { width: 47mm; display: flex; flex-direction: column; align-items: stretch; }
@@ -147,9 +162,9 @@ td strong { font-weight: 700; }
 
 .toc { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 9mm; font-family: var(--sans); }
 .toc-ch { margin: 0 0 4.5mm; break-inside: avoid-column; }
-.toc-ch > a { display: block; font: 700 10.5pt/1.25 var(--body); color: var(--ink); margin-bottom: 1.2mm; }
-.toc-ch > a::after { content: leader('.') target-counter(attr(href url), page); font: 500 9pt var(--sans); color: var(--muted); }
 .toc-num { display: block; font: 700 7.4pt var(--label); letter-spacing: 0.12em; color: var(--sea); }
+.toc-num::after { content: leader('.') target-counter(attr(href url), page); font: 500 9pt var(--sans); letter-spacing: 0; color: var(--muted); }
+.toc-title { display: block; font: 700 10.5pt/1.25 var(--body); color: var(--ink); margin-bottom: 1.2mm; }
 .toc-ch ul { list-style: none; padding: 0; margin: 0; }
 .toc-ch li { font: 400 8.3pt/1.3 var(--sans); margin: 0 0 0.7mm; }
 .toc-ch li a { color: var(--ink); }

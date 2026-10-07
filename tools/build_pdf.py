@@ -2,11 +2,16 @@
 """Build map-making-guide.pdf: every chapter in guide/ combined into one book.
 
 Usage:  python3 tools/build_pdf.py [--only 00,05] [--html-only]
-Needs:  pip install weasyprint markdown-it-py mdit-py-plugins
-        tools/build/map.png (made here with tools/render_svg.js if missing)
+Needs:  pip install weasyprint markdown-it-py mdit-py-plugins linkify-it-py beautifulsoup4
+        node + Playwright/Chromium (only to make tools/build/map.png the first time)
 
 Layout: A4, two text columns, tables and figures across the full width,
 a clickable "Chapters" page with page numbers, and PDF bookmarks.
+
+WeasyPrint drops content when a `column-span: all` element sits inside a
+multi-column box at a page break, so nothing spans columns here: each chapter
+is cut into separate blocks (two-column text runs, full-width headings,
+tables and figures). check_pdf() fails the build if a heading goes missing.
 """
 import html
 import importlib.util
@@ -15,6 +20,7 @@ import subprocess
 import sys
 from pathlib import Path
 
+from bs4 import BeautifulSoup
 from markdown_it import MarkdownIt
 from mdit_py_plugins.tasklists import tasklists_plugin
 
@@ -38,8 +44,11 @@ CALLOUTS = {
     "Later era (1500s+):": "later",
     "Fantasy twist:": "fantasy",
 }
+WIDE = {"h2", "figure", "section"}          # always full width
+WIDE_CLASSES = {"table-wrap", "summary"}
+SHORT_TABLE_ROWS = 10                      # tables this short never split
 
-md = MarkdownIt("commonmark", {"html": False}).enable("table").enable("strikethrough")
+md = MarkdownIt("commonmark", {"html": False, "linkify": True}).enable(["table", "strikethrough", "linkify"])
 md.use(tasklists_plugin)
 
 
@@ -61,13 +70,17 @@ def rewrite_href(href, num):
     if href.startswith("#"):
         return "#c%s-%s" % (num, href[1:])
     path, _, frag = href.partition("#")
-    path = path.lstrip("./") if path.startswith("./") else path
-    m = re.match(r"^(\d\d)-[^/]+\.md$", path)
+    m = re.match(r"^(?:\./)?(\d\d)-[^/]+\.md$", path)
     if m:
         return "#c%s-%s" % (m.group(1), frag) if frag else "#c%s" % m.group(1)
     if path.startswith("../"):
         return REPO_URL + path[3:] + ("#" + frag if frag else "")
     return REPO_URL + "guide/" + href
+
+
+def nbsp_last(text):
+    """Keep the last two words of a title together."""
+    return re.sub(r" (\S+)$", " \\1", text.strip())
 
 
 def convert_chapter(path):
@@ -94,6 +107,9 @@ def convert_chapter(path):
             tok.attrSet("id", "c%s-%s" % (num, anchor))
             if tok.tag == "h2":
                 sections.append((tokens[i + 1].content, "c%s-%s" % (num, anchor)))
+        elif tok.type == "hr":
+            i += 1  # section rules come from the h2 itself
+            continue
         elif tok.type == "blockquote_open":
             j = i + 1
             while j < len(tokens) and tokens[j].type != "inline":
@@ -105,46 +121,162 @@ def convert_chapter(path):
                 if len(kids) > 3 and kids[3].type == "text":
                     kids[3].content = kids[3].content.lstrip()
         elif tok.type == "inline":
-            for child in tok.children or []:
-                if child.type == "link_open":
-                    child.attrSet("href", rewrite_href(child.attrGet("href"), num))
+            kids = tok.children or []
+            for k, child in enumerate(kids):
+                if child.type != "link_open":
+                    continue
+                old = child.attrGet("href")
+                new = rewrite_href(old, num)
+                child.attrSet("href", new)
+                if child.markup == "linkify":
+                    child.attrSet("class", "url")
+                # in the cheat sheet, say which chapter a source link points to
+                m = re.match(r"^(?:\./)?(\d\d)-", old)
+                if num == "13" and m and k + 1 < len(kids) and kids[k + 1].type == "text" \
+                        and not re.match(r"^\d", kids[k + 1].content):
+                    kids[k + 1].content = "%s %s" % (m.group(1), kids[k + 1].content)
         out_tokens.append(tok)
         i += 1
 
     body = md.renderer.render(out_tokens, md.options, {})
-    body = post_process(body, num)
     return {"num": num, "title": title, "sections": sections, "body": body}
 
 
-def post_process(body, num):
-    # tables run across both columns
-    body = body.replace("<table>", '<div class="table-wrap"><table>').replace("</table>", "</table></div>")
-    # task-list checkboxes become drawn boxes
-    body = re.sub(r'<input class="task-list-item-checkbox"[^>]*>', '<span class="tick"></span>', body)
-    # "In this chapter" lists become a small contents box
-    body = re.sub(
-        r"<p><strong>In this chapter:</strong></p>\s*<ul>(.*?)</ul>",
-        r'<nav class="intoc"><p class="intoc-title">In this chapter</p><ul>\1</ul></nav>',
-        body, count=1, flags=re.S)
-    # quick summary and sources get their own styles
-    body = re.sub(r'(<h2 id="c%s-quick-summary">.*?</h2>\s*)(<ul>.*?</ul>)' % num,
-                  r'<div class="summary">\1\2</div>', body, count=1, flags=re.S)
-    m = re.search(r'<h2 id="c%s-sources-and-further-reading">' % num, body)
-    if m:
-        body = body[:m.start()] + '<div class="sources">' + body[m.start():] + "</div>"
-    # the Mermaid flowchart becomes a drawn, linked diagram
-    body = re.sub(r'<pre><code class="language-mermaid">.*?</code></pre>', lambda _: flowchart_html(), body, flags=re.S)
-    # the worked-example map gets its own landscape page (inserted before chapter 12)
-    body = re.sub(r'<p><img src="images/worked-example-kingdom\.svg"[^>]*></p>', "", body)
-    return body
+# ---------------------------------------------------------------- layout blocks
+
+def classes(el):
+    return set(el.get("class") or [])
 
 
-STEP_ANCHORS = {}
+def is_wide(el):
+    return el.name in WIDE or bool(classes(el) & WIDE_CLASSES)
 
 
-def flowchart_html():
+def is_lead_in(el):
+    """A heading or a short 'colon' sentence that introduces the next table."""
+    if el.name in ("h3", "h4"):
+        return True
+    if el.name == "p":
+        text = el.get_text(" ", strip=True)
+        return text.endswith(":") and len(text) < 260
+    return False
+
+
+def layout_chapter(ch, map_png):
+    """Cut a chapter's HTML into full-width blocks and two-column runs."""
+    soup = BeautifulSoup('<div id="root">%s</div>' % ch["body"], "html.parser")
+    root = soup.find(id="root")
+
+    # tables: wrapper, short ones kept whole
+    for table in root.find_all("table"):
+        rows = len(table.find_all("tr")) - 1
+        wrap = soup.new_tag("div", attrs={"class": "table-wrap" + (" keep" if rows <= SHORT_TABLE_ROWS else "")})
+        table.wrap(wrap)
+    # checklist boxes
+    for box in root.select("input.task-list-item-checkbox"):
+        box.replace_with(BeautifulSoup('<span class="tick"></span>', "html.parser"))
+
+    items = [c for c in root.children if getattr(c, "name", None)]
+    out = []
+
+    # "In this chapter" box
+    for k, el in enumerate(items[:-1]):
+        if el.name == "p" and el.get_text(strip=True) == "In this chapter:" and items[k + 1].name == "ul":
+            nav = soup.new_tag("nav", attrs={"class": "intoc"})
+            title = soup.new_tag("p", attrs={"class": "intoc-title"})
+            title.string = "In this chapter"
+            nav.append(title)
+            nav.append(items[k + 1].extract())
+            el.replace_with(nav)
+            items[k:k + 2] = [nav]
+            break
+
+    # worked-example map: its own landscape page, with the italic caption under it
+    for k, el in enumerate(items):
+        img = el.find("img") if el.name == "p" else None
+        if img is not None and "worked-example-kingdom" in img.get("src", ""):
+            caption = ""
+            if k + 1 < len(items) and items[k + 1].name == "p" and items[k + 1].find("em"):
+                caption = items[k + 1].decode_contents()
+                items.pop(k + 1)
+            page = BeautifulSoup(
+                '<section class="map-page"><figure><img src="%s" alt="Schematic map of Daravel">'
+                "<figcaption>%s</figcaption></figure></section>" % (map_png.as_uri(), caption), "html.parser")
+            items[k] = page.section
+            break
+
+    # quick summary and sources
+    grouped, k = [], 0
+    while k < len(items):
+        el = items[k]
+        hid = el.get("id", "") if el.name == "h2" else ""
+        if hid.endswith("-quick-summary") and k + 1 < len(items) and items[k + 1].name == "ul":
+            box = soup.new_tag("div", attrs={"class": "summary"})
+            box.append(el)
+            box.append(items[k + 1])
+            grouped.append(box)
+            k += 2
+            continue
+        if hid.endswith("-sources-and-further-reading"):
+            el["class"] = ["sources-head"]
+            grouped.append(el)
+            grouped.append(("sources", items[k + 1:]))
+            break
+        grouped.append(el)
+        k += 1
+
+    run, opener_done = [], False
+
+    def flush(kind="cols"):
+        nonlocal run, opener_done
+        if not run:
+            return
+        inner = "".join(str(e) for e in run)
+        if not opener_done and kind == "cols":
+            opener_done = True
+            navs = [e for e in run if e.name == "nav"]
+            if navs:
+                rest = "".join(str(e) for e in run if e.name != "nav")
+                out.append('<div class="opener"><div class="opener-text">%s</div>%s</div>' % (rest, str(navs[0])))
+                run = []
+                return
+        out.append('<div class="%s">%s</div>' % ("cols" if kind == "cols" else "cols sources", inner))
+        run = []
+
+    for el in grouped:
+        if isinstance(el, tuple):
+            flush()
+            run = list(el[1])
+            flush("sources")
+            continue
+        if el.name == "h2":
+            flush()
+            opener_done = True
+            out.append(str(el))
+            continue
+        if is_wide(el):
+            if "table-wrap" in classes(el):
+                leads = []
+                while run and is_lead_in(run[-1]) and len(leads) < 2:
+                    leads.insert(0, run.pop())
+                if leads:
+                    lead = soup.new_tag("div", attrs={"class": "table-lead"})
+                    for x in leads:
+                        lead.append(x)
+                    el.insert(0, lead)
+            flush()
+            out.append(str(el))
+            continue
+        run.append(el)
+    flush()
+    return "\n".join(out)
+
+
+# ---------------------------------------------------------------- flowchart (chapter 0)
+
+def flowchart_html(step_anchors):
     def box(label, step=None):
-        href = STEP_ANCHORS.get(step)
+        href = step_anchors.get(step)
         inner = html.escape(label)
         if href:
             inner = '<a href="#%s">%s</a>' % (href, inner)
@@ -179,14 +311,18 @@ def flowchart_html():
     )
 
 
-def find_step_anchors(ch00):
+def step_anchors(ch00):
+    anchors = {}
     for text, anchor in ch00["sections"]:
         m = re.match(r"Step (\d+)", text)
         if m:
-            STEP_ANCHORS[int(m.group(1))] = anchor
+            anchors[int(m.group(1))] = anchor
         if text.lower().startswith("what to draw at each scale"):
-            STEP_ANCHORS["scale"] = anchor
+            anchors["scale"] = anchor
+    return anchors
 
+
+# ---------------------------------------------------------------- front matter
 
 def inline(text):
     """Render a heading's inline Markdown without links."""
@@ -201,11 +337,11 @@ def contents_html(chapters):
         secs = "".join(
             '<li><a href="#%s">%s</a></li>' % (a, inline(t)) for t, a in ch["sections"] if t not in skip)
         items.append(
-            '<li class="toc-ch"><a href="#c%s"><span class="toc-num">%s</span>%s</a><ul>%s</ul></li>'
-            % (ch["num"], chapter_label(ch["num"]), inline(ch["title"]), secs))
-    return (
-        '<section class="contents" id="contents"><h1 class="front-title">Chapters</h1>'
-        '<ul class="toc">%s</ul></section>' % "".join(items))
+            '<li class="toc-ch"><a class="toc-num" href="#c%s">%s</a>'
+            '<a class="toc-title" href="#c%s">%s</a><ul>%s</ul></li>'
+            % (ch["num"], chapter_label(ch["num"]), ch["num"], inline(ch["title"]), secs))
+    return ('<section class="contents" id="contents"><h1 class="front-title">Chapters</h1>'
+            '<ul class="toc">%s</ul></section>' % "".join(items))
 
 
 def cover_html(map_uri):
@@ -232,7 +368,7 @@ def howto_html():
     <li><strong>Read Chapters 1–11 when you want the reasons</strong>, the real-world examples and the fine detail.</li>
     <li><strong>See it done in <a href="#c12">Chapter 12: Worked Example</a></strong>, which builds a whole kingdom with
     the guide's numbers and shows the finished map.</li>
-    <li><strong>Check your map</strong> against <a href="#c11">Chapter 11: Common Mistakes</a> when you are done.</li>
+    <li><strong>Check your map against <a href="#c11">Chapter 11: Common Mistakes</a></strong> when you are done.</li>
   </ol>
   <div class="howto-key">
     <p class="howto-key-title">The four kinds of note box</p>
@@ -247,15 +383,36 @@ def howto_html():
 
 
 def font_faces():
+    names = {"Alegreya": "Alegreya", "AlegreyaSans": "Alegreya Sans", "IMFellEnglish": "IM Fell English"}
     faces = []
     for f in sorted(FONTS.glob("*.ttf")):
         m = re.match(r"([A-Za-z]+?)(SC)?-(\d+)(i?)\.ttf", f.name)
-        fam = {"Alegreya": "Alegreya", "AlegreyaSans": "Alegreya Sans", "IMFellEnglish": "IM Fell English"}[m.group(1)]
-        if m.group(2):
-            fam += " SC"
+        fam = names[m.group(1)] + (" SC" if m.group(2) else "")
         faces.append("@font-face { font-family: '%s'; src: url('%s'); font-weight: %s; font-style: %s; }"
                      % (fam, f.as_uri(), m.group(3), "italic" if m.group(4) else "normal"))
     return "\n".join(faces)
+
+
+# ---------------------------------------------------------------- build and check
+
+def check_pdf(pdf, chapters):
+    """Fail if any section heading is missing from the PDF, or a contents entry has page 0."""
+    text = subprocess.run(["pdftotext", "-layout", str(pdf), "-"], capture_output=True, text=True).stdout
+    flat = re.sub(r"[\s­ -]+", "", text).lower()
+    missing = []
+    for ch in chapters:
+        for title, _ in ch["sections"]:
+            plain = re.sub(r"[`*_]|\[([^\]]*)\]\([^)]*\)", r"\1", title)
+            key = re.sub(r"[\s -]+", "", plain).lower()
+            if key and key not in flat:
+                missing.append("%s: %s" % (ch["num"], plain))
+    zero = re.findall(r"\.{3,}\s*0\s*$", text, re.M)
+    if missing or zero:
+        print("CHECK FAILED: %d headings missing, %d contents entries with page 0" % (len(missing), len(zero)))
+        for m in missing[:30]:
+            print("  missing:", m)
+        sys.exit(1)
+    print("check passed: all %d section headings present" % sum(len(c["sections"]) for c in chapters))
 
 
 def build(only=None, html_only=False):
@@ -265,23 +422,18 @@ def build(only=None, html_only=False):
         subprocess.run(["node", str(TOOLS / "render_svg.js"), str(GUIDE / "images/worked-example-kingdom.svg"),
                         str(map_png), "3"], check=True, stdout=subprocess.DEVNULL)
     chapters = [convert_chapter(f) for f in chapter_files(only)]
-    ch00 = next((c for c in chapters if c["num"] == "00"), None)
-    if ch00:
-        find_step_anchors(ch00)
-        ch00["body"] = re.sub(r'<figure class="flowchart">.*?</figure>', lambda _: flowchart_html(),
-                              ch00["body"], flags=re.S)
+    for ch in chapters:
+        if ch["num"] == "00":
+            fc = flowchart_html(step_anchors(ch))
+            ch["body"] = re.sub(r'<pre><code class="language-mermaid">.*?</code></pre>', lambda _: fc,
+                                ch["body"], flags=re.S)
 
     parts = [cover_html(map_png.as_uri()), howto_html(), contents_html(chapters)]
     for ch in chapters:
-        if ch["num"] == "12":
-            parts.append(
-                '<section class="map-page"><figure><img src="%s" alt="Schematic map of Daravel">'
-                '<figcaption>The kingdom of Daravel, c. 1300: the worked example of Chapter 12, drawn with the '
-                'master legend of Chapter 13.</figcaption></figure></section>' % map_png.as_uri())
         parts.append(
             '<section class="chapter" id="c%s"><header class="chapter-head"><p class="chapter-num">%s</p>'
-            '<h1>%s</h1></header><div class="cols">%s</div></section>'
-            % (ch["num"], chapter_label(ch["num"]), inline(ch["title"]), ch["body"]))
+            "<h1>%s</h1></header>%s</section>"
+            % (ch["num"], chapter_label(ch["num"]), nbsp_last(inline(ch["title"])), layout_chapter(ch, map_png)))
 
     css = font_faces() + "\n" + (TOOLS / "guide.css").read_text(encoding="utf-8")
     doc = ('<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Map-Making Guide</title>'
@@ -295,6 +447,7 @@ def build(only=None, html_only=False):
     out = OUT_PDF if not only else BUILD / ("preview-%s.pdf" % "-".join(only))
     weasyprint.HTML(string=doc, base_url=str(ROOT)).write_pdf(out)
     print("wrote", out)
+    check_pdf(out, chapters)
 
 
 if __name__ == "__main__":
