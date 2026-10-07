@@ -1,0 +1,6270 @@
+{
+ "title": "Kingdom of Daravel, c. 1300 (worked example, guide chapter 12)",
+ "canvas": {
+  "width": 1000,
+  "height": 800,
+  "units_per_km": 2,
+  "units_per_mile": 3.22,
+  "scale_bar_suggestion": "50 km = 100 units; 25 mi = 80.5 units",
+  "north": "up",
+  "note": "Schematic. Coordinates are canvas units; x grows east, y grows south."
+ },
+ "coastline": {
+  "pts": [
+   [
+    905,
+    0
+   ],
+   [
+    895,
+    42
+   ],
+   [
+    906,
+    85
+   ],
+   [
+    896,
+    130
+   ],
+   [
+    878,
+    172
+   ],
+   [
+    884,
+    212
+   ],
+   [
+    888,
+    232
+   ],
+   [
+    880,
+    262
+   ],
+   [
+    872,
+    300
+   ],
+   [
+    870,
+    340
+   ],
+   [
+    864,
+    372
+   ],
+   [
+    860,
+    392
+   ],
+   [
+    830,
+    397
+   ],
+   [
+    800,
+    402
+   ],
+   [
+    770,
+    407
+   ],
+   [
+    740,
+    411
+   ],
+   [
+    715,
+    415
+   ],
+   [
+    697,
+    418
+   ],
+   [
+    697,
+    422
+   ],
+   [
+    715,
+    424
+   ],
+   [
+    740,
+    422
+   ],
+   [
+    770,
+    421
+   ],
+   [
+    800,
+    420
+   ],
+   [
+    830,
+    421
+   ],
+   [
+    858,
+    420
+   ],
+   [
+    868,
+    445
+   ],
+   [
+    866,
+    480
+   ],
+   [
+    860,
+    520
+   ],
+   [
+    846,
+    560
+   ],
+   [
+    826,
+    600
+   ],
+   [
+    804,
+    632
+   ],
+   [
+    770,
+    662
+   ],
+   [
+    730,
+    684
+   ],
+   [
+    690,
+    700
+   ],
+   [
+    648,
+    712
+   ],
+   [
+    606,
+    722
+   ],
+   [
+    570,
+    730
+   ],
+   [
+    540,
+    740
+   ],
+   [
+    505,
+    746
+   ],
+   [
+    470,
+    744
+   ],
+   [
+    438,
+    750
+   ],
+   [
+    405,
+    758
+   ],
+   [
+    378,
+    764
+   ],
+   [
+    340,
+    770
+   ],
+   [
+    300,
+    778
+   ],
+   [
+    268,
+    788
+   ],
+   [
+    238,
+    800
+   ]
+  ],
+  "note": "runs from the north edge down the east coast, loops round the Ambre estuary (north shore west, south shore east), then follows the south coast to the bottom edge"
+ },
+ "sea_polygon": {
+  "name": "The Grey Sea",
+  "pts": [
+   [
+    905,
+    0
+   ],
+   [
+    895,
+    42
+   ],
+   [
+    906,
+    85
+   ],
+   [
+    896,
+    130
+   ],
+   [
+    878,
+    172
+   ],
+   [
+    884,
+    212
+   ],
+   [
+    888,
+    232
+   ],
+   [
+    880,
+    262
+   ],
+   [
+    872,
+    300
+   ],
+   [
+    870,
+    340
+   ],
+   [
+    864,
+    372
+   ],
+   [
+    860,
+    392
+   ],
+   [
+    830,
+    397
+   ],
+   [
+    800,
+    402
+   ],
+   [
+    770,
+    407
+   ],
+   [
+    740,
+    411
+   ],
+   [
+    715,
+    415
+   ],
+   [
+    697,
+    418
+   ],
+   [
+    697,
+    422
+   ],
+   [
+    715,
+    424
+   ],
+   [
+    740,
+    422
+   ],
+   [
+    770,
+    421
+   ],
+   [
+    800,
+    420
+   ],
+   [
+    830,
+    421
+   ],
+   [
+    858,
+    420
+   ],
+   [
+    868,
+    445
+   ],
+   [
+    866,
+    480
+   ],
+   [
+    860,
+    520
+   ],
+   [
+    846,
+    560
+   ],
+   [
+    826,
+    600
+   ],
+   [
+    804,
+    632
+   ],
+   [
+    770,
+    662
+   ],
+   [
+    730,
+    684
+   ],
+   [
+    690,
+    700
+   ],
+   [
+    648,
+    712
+   ],
+   [
+    606,
+    722
+   ],
+   [
+    570,
+    730
+   ],
+   [
+    540,
+    740
+   ],
+   [
+    505,
+    746
+   ],
+   [
+    470,
+    744
+   ],
+   [
+    438,
+    750
+   ],
+   [
+    405,
+    758
+   ],
+   [
+    378,
+    764
+   ],
+   [
+    340,
+    770
+   ],
+   [
+    300,
+    778
+   ],
+   [
+    268,
+    788
+   ],
+   [
+    238,
+    800
+   ],
+   [
+    1000,
+    800
+   ],
+   [
+    1000,
+    0
+   ]
+  ]
+ },
+ "estuary": {
+  "name": "Ambre estuary",
+  "mouth": [
+   860,
+   406
+  ],
+  "head": [
+   697,
+   420
+  ],
+  "length_km": 83
+ },
+ "neighbours": [
+  {
+   "name": "KINGDOM OF THELLAND",
+   "label_at": [
+    470,
+    30
+   ],
+   "side": "north of the border"
+  },
+  {
+   "name": "KINGDOM OF MORVANE",
+   "label_at": [
+    55,
+    330
+   ],
+   "side": "west of the mountain crest"
+  }
+ ],
+ "realm_label": {
+  "name": "KINGDOM OF DARAVEL",
+  "label_at": [
+   500,
+   470
+  ]
+ },
+ "rivers": [
+  {
+   "name": "Ambre",
+   "navigation": "sea ships from the mouth to Hallowbridge; river boats from Hallowbridge to Cheapford (head of navigation)",
+   "width": 3,
+   "pts": [
+    [
+     165,
+     445
+    ],
+    [
+     198,
+     450
+    ],
+    [
+     230,
+     446
+    ],
+    [
+     262,
+     446
+    ],
+    [
+     300,
+     452
+    ],
+    [
+     322,
+     447
+    ],
+    [
+     342,
+     445
+    ],
+    [
+     355,
+     442
+    ],
+    [
+     380,
+     438
+    ],
+    [
+     420,
+     428
+    ],
+    [
+     450,
+     418
+    ],
+    [
+     490,
+     425
+    ],
+    [
+     520,
+     436
+    ],
+    [
+     548,
+     440
+    ],
+    [
+     580,
+     433
+    ],
+    [
+     610,
+     426
+    ],
+    [
+     640,
+     423
+    ],
+    [
+     668,
+     421
+    ],
+    [
+     688,
+     421
+    ],
+    [
+     697,
+     420
+    ]
+   ]
+  },
+  {
+   "name": "Lisk",
+   "navigation": "river boats from Liskmeet up to Forgeham",
+   "width": 2,
+   "pts": [
+    [
+     398,
+     100
+    ],
+    [
+     394,
+     145
+    ],
+    [
+     404,
+     195
+    ],
+    [
+     418,
+     245
+    ],
+    [
+     430,
+     292
+    ],
+    [
+     440,
+     335
+    ],
+    [
+     447,
+     380
+    ],
+    [
+     450,
+     418
+    ]
+   ]
+  },
+  {
+   "name": "Tenter Water",
+   "navigation": "not navigable; fast stream with fulling mills",
+   "width": 1,
+   "pts": [
+    [
+     232,
+     560
+    ],
+    [
+     262,
+     540
+    ],
+    [
+     292,
+     520
+    ],
+    [
+     318,
+     500
+    ],
+    [
+     332,
+     472
+    ],
+    [
+     342,
+     445
+    ]
+   ]
+  },
+  {
+   "name": "Brim",
+   "navigation": "small boats from Brimhaven up to Norburgh",
+   "width": 2,
+   "pts": [
+    [
+     590,
+     150
+    ],
+    [
+     640,
+     158
+    ],
+    [
+     700,
+     165
+    ],
+    [
+     760,
+     185
+    ],
+    [
+     818,
+     206
+    ],
+    [
+     887,
+     229
+    ]
+   ]
+  },
+  {
+   "name": "Skel",
+   "navigation": "not navigable above its mouth; border river",
+   "width": 2,
+   "pts": [
+    [
+     520,
+     72
+    ],
+    [
+     560,
+     68
+    ],
+    [
+     600,
+     72
+    ],
+    [
+     630,
+     78
+    ],
+    [
+     665,
+     82
+    ],
+    [
+     720,
+     70
+    ],
+    [
+     780,
+     58
+    ],
+    [
+     840,
+     52
+    ],
+    [
+     895,
+     42
+    ]
+   ]
+  },
+  {
+   "name": "Wend",
+   "navigation": "small boats from Wendmouth up to Wendbury",
+   "width": 2,
+   "pts": [
+    [
+     318,
+     560
+    ],
+    [
+     360,
+     598
+    ],
+    [
+     400,
+     631
+    ],
+    [
+     440,
+     668
+    ],
+    [
+     480,
+     698
+    ],
+    [
+     510,
+     718
+    ],
+    [
+     540,
+     740
+    ]
+   ]
+  },
+  {
+   "name": "Mere",
+   "navigation": "small boats near the mouth only",
+   "width": 1,
+   "pts": [
+    [
+     582,
+     520
+    ],
+    [
+     600,
+     560
+    ],
+    [
+     645,
+     585
+    ],
+    [
+     700,
+     603
+    ],
+    [
+     755,
+     625
+    ],
+    [
+     804,
+     634
+    ]
+   ]
+  },
+  {
+   "name": "Ley Brook",
+   "navigation": "not navigable; mill stream (see local inset)",
+   "width": 1,
+   "pts": [
+    [
+     613,
+     446
+    ],
+    [
+     614,
+     436
+    ],
+    [
+     612,
+     426
+    ]
+   ]
+  },
+  {
+   "name": "Hope Water",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     150,
+     320
+    ],
+    [
+     198,
+     330
+    ],
+    [
+     230,
+     352
+    ],
+    [
+     258,
+     385
+    ],
+    [
+     262,
+     420
+    ],
+    [
+     264,
+     446
+    ]
+   ]
+  },
+  {
+   "name": "Ors Beck",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     165,
+     400
+    ],
+    [
+     195,
+     385
+    ],
+    [
+     232,
+     354
+    ]
+   ]
+  },
+  {
+   "name": "Harrow",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     140,
+     235
+    ],
+    [
+     190,
+     228
+    ],
+    [
+     250,
+     215
+    ],
+    [
+     300,
+     188
+    ],
+    [
+     350,
+     190
+    ],
+    [
+     404,
+     195
+    ]
+   ]
+  },
+  {
+   "name": "Gill Beck",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     180,
+     292
+    ],
+    [
+     215,
+     282
+    ],
+    [
+     250,
+     217
+    ]
+   ]
+  },
+  {
+   "name": "Wolf Beck",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     175,
+     120
+    ],
+    [
+     215,
+     135
+    ],
+    [
+     270,
+     150
+    ],
+    [
+     300,
+     186
+    ]
+   ]
+  },
+  {
+   "name": "Brock Water",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     338,
+     248
+    ],
+    [
+     351,
+     262
+    ],
+    [
+     380,
+     320
+    ],
+    [
+     415,
+     362
+    ],
+    [
+     446,
+     378
+    ]
+   ]
+  },
+  {
+   "name": "Harn Water",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     560,
+     260
+    ],
+    [
+     540,
+     295
+    ],
+    [
+     520,
+     322
+    ],
+    [
+     492,
+     346
+    ],
+    [
+     445,
+     362
+    ]
+   ]
+  },
+  {
+   "name": "Ashen Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     598,
+     335
+    ],
+    [
+     612,
+     392
+    ],
+    [
+     620,
+     424
+    ]
+   ]
+  },
+  {
+   "name": "Sedge",
+   "navigation": "fen boats in its lower course",
+   "width": 1,
+   "pts": [
+    [
+     600,
+     215
+    ],
+    [
+     612,
+     232
+    ],
+    [
+     640,
+     250
+    ],
+    [
+     655,
+     262
+    ],
+    [
+     680,
+     300
+    ],
+    [
+     695,
+     330
+    ],
+    [
+     712,
+     355
+    ],
+    [
+     730,
+     385
+    ],
+    [
+     745,
+     409
+    ]
+   ]
+  },
+  {
+   "name": "Holm Lode",
+   "navigation": "fen boats; pilgrims' boats to Holmstow",
+   "width": 1,
+   "pts": [
+    [
+     750,
+     310
+    ],
+    [
+     760,
+     320
+    ],
+    [
+     770,
+     340
+    ],
+    [
+     778,
+     356
+    ],
+    [
+     790,
+     380
+    ],
+    [
+     800,
+     401
+    ]
+   ]
+  },
+  {
+   "name": "King's Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     590,
+     481
+    ],
+    [
+     620,
+     486
+    ],
+    [
+     650,
+     480
+    ],
+    [
+     660,
+     462
+    ],
+    [
+     656,
+     446
+    ],
+    [
+     650,
+     423
+    ]
+   ]
+  },
+  {
+   "name": "Saltlode",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     705,
+     520
+    ],
+    [
+     705,
+     512
+    ],
+    [
+     740,
+     470
+    ],
+    [
+     760,
+     445
+    ],
+    [
+     772,
+     421
+    ]
+   ]
+  },
+  {
+   "name": "Kest Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     795,
+     520
+    ],
+    [
+     790,
+     490
+    ],
+    [
+     825,
+     468
+    ],
+    [
+     866,
+     452
+    ]
+   ]
+  },
+  {
+   "name": "Coombe",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     530,
+     590
+    ],
+    [
+     540,
+     600
+    ],
+    [
+     560,
+     640
+    ],
+    [
+     575,
+     665
+    ],
+    [
+     590,
+     700
+    ],
+    [
+     606,
+     722
+    ]
+   ]
+  },
+  {
+   "name": "Rush Water",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     735,
+     540
+    ],
+    [
+     760,
+     560
+    ],
+    [
+     770,
+     595
+    ],
+    [
+     755,
+     625
+    ]
+   ]
+  },
+  {
+   "name": "Dun Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     630,
+     625
+    ],
+    [
+     640,
+     640
+    ],
+    [
+     660,
+     668
+    ],
+    [
+     680,
+     698
+    ]
+   ]
+  },
+  {
+   "name": "Abbot's Water",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     470,
+     505
+    ],
+    [
+     481,
+     525
+    ],
+    [
+     497,
+     585
+    ],
+    [
+     470,
+     625
+    ],
+    [
+     448,
+     670
+    ]
+   ]
+  },
+  {
+   "name": "Shep Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     380,
+     520
+    ],
+    [
+     400,
+     540
+    ],
+    [
+     400,
+     600
+    ],
+    [
+     400,
+     631
+    ]
+   ]
+  },
+  {
+   "name": "Hollin Beck",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     255,
+     590
+    ],
+    [
+     280,
+     600
+    ],
+    [
+     305,
+     585
+    ],
+    [
+     318,
+     562
+    ]
+   ]
+  },
+  {
+   "name": "Carrow Water",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     195,
+     600
+    ],
+    [
+     232,
+     620
+    ],
+    [
+     270,
+     660
+    ],
+    [
+     305,
+     722
+    ],
+    [
+     320,
+     773
+    ]
+   ]
+  },
+  {
+   "name": "Weather Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     400,
+     500
+    ],
+    [
+     415,
+     480
+    ],
+    [
+     420,
+     450
+    ],
+    [
+     424,
+     429
+    ]
+   ]
+  },
+  {
+   "name": "Wor Brook",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     500,
+     500
+    ],
+    [
+     505,
+     478
+    ],
+    [
+     510,
+     455
+    ],
+    [
+     515,
+     434
+    ]
+   ]
+  },
+  {
+   "name": "Scar Beck",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     760,
+     100
+    ],
+    [
+     780,
+     128
+    ],
+    [
+     800,
+     160
+    ],
+    [
+     815,
+     203
+    ]
+   ]
+  },
+  {
+   "name": "Wold Beck",
+   "navigation": "not navigable",
+   "width": 1,
+   "pts": [
+    [
+     740,
+     240
+    ],
+    [
+     765,
+     262
+    ],
+    [
+     800,
+     275
+    ],
+    [
+     848,
+     268
+    ],
+    [
+     880,
+     262
+    ]
+   ]
+  }
+ ],
+ "mountains": [
+  {
+   "name": "The Fells",
+   "pts": [
+    [
+     40,
+     40
+    ],
+    [
+     125,
+     95
+    ],
+    [
+     250,
+     98
+    ],
+    [
+     255,
+     160
+    ],
+    [
+     262,
+     230
+    ],
+    [
+     250,
+     300
+    ],
+    [
+     255,
+     370
+    ],
+    [
+     250,
+     425
+    ],
+    [
+     258,
+     470
+    ],
+    [
+     262,
+     520
+    ],
+    [
+     270,
+     580
+    ],
+    [
+     285,
+     640
+    ],
+    [
+     300,
+     700
+    ],
+    [
+     310,
+     760
+    ],
+    [
+     318,
+     800
+    ],
+    [
+     40,
+     800
+    ]
+   ],
+   "note": "high ground on both sides of the crest; draw peaks along the crest line",
+   "peaks": [
+    [
+     110,
+     140
+    ],
+    [
+     118,
+     230
+    ],
+    [
+     115,
+     320
+    ],
+    [
+     128,
+     400
+    ],
+    [
+     140,
+     520
+    ],
+    [
+     160,
+     600
+    ],
+    [
+     185,
+     680
+    ]
+   ]
+  }
+ ],
+ "passes": [
+  {
+   "name": "Wyndgap pass",
+   "x": 130,
+   "y": 432,
+   "kind": "main pass, carts in summer",
+   "hospice": [
+    136,
+    433
+   ]
+  },
+  {
+   "name": "Carrow Gap",
+   "x": 172,
+   "y": 640,
+   "kind": "minor pass, mule path only, no towns",
+   "path": [
+    [
+     232,
+     620
+    ],
+    [
+     200,
+     628
+    ],
+    [
+     172,
+     640
+    ],
+    [
+     120,
+     650
+    ]
+   ]
+  }
+ ],
+ "hills": [
+  {
+   "name": "North Hills",
+   "pts": [
+    [
+     255,
+     98
+    ],
+    [
+     330,
+     95
+    ],
+    [
+     335,
+     235
+    ],
+    [
+     370,
+     285
+    ],
+    [
+     330,
+     305
+    ],
+    [
+     300,
+     295
+    ],
+    [
+     262,
+     230
+    ],
+    [
+     250,
+     160
+    ]
+   ]
+  },
+  {
+   "name": "Skel Hills",
+   "pts": [
+    [
+     600,
+     75
+    ],
+    [
+     700,
+     70
+    ],
+    [
+     800,
+     58
+    ],
+    [
+     870,
+     55
+    ],
+    [
+     880,
+     160
+    ],
+    [
+     810,
+     165
+    ],
+    [
+     760,
+     175
+    ],
+    [
+     700,
+     185
+    ],
+    [
+     640,
+     200
+    ],
+    [
+     600,
+     170
+    ]
+   ]
+  },
+  {
+   "name": "Brim Wolds",
+   "pts": [
+    [
+     650,
+     205
+    ],
+    [
+     760,
+     178
+    ],
+    [
+     830,
+     170
+    ],
+    [
+     850,
+     200
+    ],
+    [
+     840,
+     280
+    ],
+    [
+     800,
+     318
+    ],
+    [
+     740,
+     322
+    ],
+    [
+     700,
+     312
+    ],
+    [
+     660,
+     280
+    ]
+   ]
+  },
+  {
+   "name": "Lisk Hills",
+   "pts": [
+    [
+     335,
+     240
+    ],
+    [
+     370,
+     290
+    ],
+    [
+     440,
+     305
+    ],
+    [
+     530,
+     295
+    ],
+    [
+     575,
+     290
+    ],
+    [
+     560,
+     335
+    ],
+    [
+     520,
+     360
+    ],
+    [
+     470,
+     372
+    ],
+    [
+     420,
+     382
+    ],
+    [
+     370,
+     375
+    ],
+    [
+     342,
+     340
+    ]
+   ]
+  },
+  {
+   "name": "Whitridge",
+   "pts": [
+    [
+     535,
+     295
+    ],
+    [
+     560,
+     295
+    ],
+    [
+     566,
+     560
+    ],
+    [
+     540,
+     560
+    ]
+   ]
+  },
+  {
+   "name": "Wend Downs",
+   "pts": [
+    [
+     300,
+     560
+    ],
+    [
+     360,
+     552
+    ],
+    [
+     440,
+     566
+    ],
+    [
+     500,
+     600
+    ],
+    [
+     522,
+     650
+    ],
+    [
+     470,
+     692
+    ],
+    [
+     400,
+     702
+    ],
+    [
+     330,
+     692
+    ],
+    [
+     300,
+     640
+    ]
+   ]
+  },
+  {
+   "name": "Fell Foothills",
+   "pts": [
+    [
+     258,
+     470
+    ],
+    [
+     300,
+     468
+    ],
+    [
+     340,
+     500
+    ],
+    [
+     348,
+     560
+    ],
+    [
+     300,
+     560
+    ],
+    [
+     270,
+     580
+    ],
+    [
+     262,
+     520
+    ]
+   ]
+  },
+  {
+   "name": "Mere Hills",
+   "pts": [
+    [
+     620,
+     610
+    ],
+    [
+     700,
+     622
+    ],
+    [
+     760,
+     645
+    ],
+    [
+     730,
+     684
+    ],
+    [
+     690,
+     700
+    ],
+    [
+     648,
+     712
+    ],
+    [
+     606,
+     722
+    ],
+    [
+     590,
+     680
+    ]
+   ]
+  }
+ ],
+ "forests": [
+  {
+   "name": "The Harnwood",
+   "pts": [
+    [
+     330,
+     128
+    ],
+    [
+     450,
+     106
+    ],
+    [
+     560,
+     116
+    ],
+    [
+     600,
+     170
+    ],
+    [
+     595,
+     250
+    ],
+    [
+     530,
+     290
+    ],
+    [
+     440,
+     300
+    ],
+    [
+     370,
+     285
+    ],
+    [
+     335,
+     235
+    ]
+   ]
+  },
+  {
+   "name": "Kingswood (woods inside the royal forest)",
+   "pts": [
+    [
+     600,
+     333
+    ],
+    [
+     650,
+     322
+    ],
+    [
+     670,
+     352
+    ],
+    [
+     642,
+     380
+    ],
+    [
+     604,
+     372
+    ]
+   ]
+  }
+ ],
+ "royal_forest_boundary": {
+  "name": "Kingswood Chase (royal forest, legal boundary)",
+  "pts": [
+   [
+    590,
+    320
+   ],
+   [
+    660,
+    310
+   ],
+   [
+    690,
+    345
+   ],
+   [
+    660,
+    392
+   ],
+   [
+    600,
+    388
+   ],
+   [
+    582,
+    350
+   ]
+  ],
+  "style": "dotted line, large italic label"
+ },
+ "marshes": [
+  {
+   "name": "Holm Fens",
+   "pts": [
+    [
+     712,
+     338
+    ],
+    [
+     760,
+     326
+    ],
+    [
+     810,
+     330
+    ],
+    [
+     850,
+     345
+    ],
+    [
+     862,
+     372
+    ],
+    [
+     860,
+     392
+    ],
+    [
+     830,
+     397
+    ],
+    [
+     800,
+     402
+    ],
+    [
+     770,
+     407
+    ],
+    [
+     740,
+     411
+    ],
+    [
+     716,
+     414
+    ],
+    [
+     706,
+     380
+    ]
+   ]
+  },
+  {
+   "name": "The Saltings",
+   "pts": [
+    [
+     720,
+     425
+    ],
+    [
+     770,
+     423
+    ],
+    [
+     830,
+     423
+    ],
+    [
+     856,
+     423
+    ],
+    [
+     864,
+     441
+    ],
+    [
+     820,
+     442
+    ],
+    [
+     770,
+     440
+    ],
+    [
+     725,
+     436
+    ]
+   ]
+  },
+  {
+   "name": "Wend Levels",
+   "pts": [
+    [
+     488,
+     705
+    ],
+    [
+     515,
+     712
+    ],
+    [
+     528,
+     728
+    ],
+    [
+     510,
+     738
+    ],
+    [
+     486,
+     730
+    ]
+   ]
+  }
+ ],
+ "heaths": [
+  {
+   "name": "Brackenheath",
+   "pts": [
+    [
+     566,
+     488
+    ],
+    [
+     660,
+     486
+    ],
+    [
+     695,
+     530
+    ],
+    [
+     675,
+     595
+    ],
+    [
+     600,
+     605
+    ],
+    [
+     566,
+     572
+    ]
+   ]
+  }
+ ],
+ "settlements": [
+  {
+   "name": "Hallowbridge",
+   "tier": "capital",
+   "population": 40000,
+   "x": 688,
+   "y": 416,
+   "region": "Crownlands",
+   "county_seat": true,
+   "walled": true,
+   "castle": "royal citadel (White Keep)",
+   "cathedral": true,
+   "port": true,
+   "notes": "lowest bridge on the Ambre at the tidal limit; royal palace quarter of Westhallow 3 km upstream",
+   "land": "lowland"
+  },
+  {
+   "name": "Liskmeet",
+   "tier": "city",
+   "population": 12000,
+   "x": 450,
+   "y": 414,
+   "region": "Duchy of Lisk",
+   "county_seat": true,
+   "walled": true,
+   "castle": "ducal castle",
+   "cathedral": "archbishop",
+   "university": true,
+   "coronation": true,
+   "notes": "confluence of Ambre and Lisk; old imperial city; coronation cathedral",
+   "land": "lowland"
+  },
+  {
+   "name": "Wendmouth",
+   "tier": "city",
+   "population": 11000,
+   "x": 540,
+   "y": 736,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "walled": true,
+   "castle": "ducal castle",
+   "cathedral": true,
+   "port": true,
+   "notes": "harbour at the mouth of the Wend",
+   "land": "lowland"
+  },
+  {
+   "name": "Brimhaven",
+   "tier": "city",
+   "population": 10000,
+   "x": 884,
+   "y": 226,
+   "region": "Earldom of Brim",
+   "county_seat": true,
+   "walled": true,
+   "castle": "earl's castle",
+   "cathedral": true,
+   "port": true,
+   "notes": "wool port, royal shipyard",
+   "land": "lowland"
+  },
+  {
+   "name": "Tenterford",
+   "tier": "town",
+   "population": 8000,
+   "x": 318,
+   "y": 500,
+   "region": "Duchy of the Fells",
+   "county_seat": true,
+   "castle": "castle",
+   "walled": "ditch and gates",
+   "notes": "cloth town at the mouth of the Tenter valley",
+   "land": "mixed"
+  },
+  {
+   "name": "Ridgegate",
+   "tier": "town",
+   "population": 7000,
+   "x": 548,
+   "y": 440,
+   "region": "Crownlands",
+   "county_seat": true,
+   "walled": true,
+   "castle": "royal castle",
+   "cathedral": true,
+   "notes": "gap town where the Ambre cuts the Whitridge; second bridge",
+   "land": "mixed"
+  },
+  {
+   "name": "Norburgh",
+   "tier": "town",
+   "population": 6500,
+   "x": 700,
+   "y": 165,
+   "region": "North March",
+   "county_seat": true,
+   "walled": true,
+   "castle": "concentric royal fortress",
+   "cathedral": true,
+   "notes": "rear fortress and muster town of the North March",
+   "land": "mixed"
+  },
+  {
+   "name": "Wyndfoot",
+   "tier": "town",
+   "population": 5000,
+   "x": 262,
+   "y": 446,
+   "region": "Duchy of the Fells",
+   "county_seat": true,
+   "walled": true,
+   "castle": "ducal castle",
+   "cathedral": true,
+   "notes": "pass town at the foot of the Wyndgap",
+   "land": "lowland"
+  },
+  {
+   "name": "Holmstow",
+   "tier": "town",
+   "population": 4500,
+   "x": 778,
+   "y": 356,
+   "region": "Liberty of Holmstow",
+   "county_seat": true,
+   "walled": "abbey precinct wall",
+   "notes": "abbey town on a fen island; shrine of St Aldwen; monastic cathedral",
+   "cathedral": true,
+   "land": "marsh"
+  },
+  {
+   "name": "Saltwich",
+   "tier": "town",
+   "population": 4000,
+   "x": 740,
+   "y": 470,
+   "region": "Crownlands",
+   "county_seat": true,
+   "castle": "castle",
+   "walled": "ditch and gates",
+   "notes": "brine springs",
+   "land": "lowland"
+  },
+  {
+   "name": "Hawkridge",
+   "tier": "town",
+   "population": 4000,
+   "x": 300,
+   "y": 182,
+   "region": "North March",
+   "county_seat": true,
+   "walled": true,
+   "castle": "concentric royal fortress",
+   "cathedral": true,
+   "notes": "rear fortress of the western march, on an old imperial fort",
+   "land": "mixed"
+  },
+  {
+   "name": "Cheapford",
+   "tier": "town",
+   "population": 3800,
+   "x": 380,
+   "y": 438,
+   "region": "Duchy of Lisk",
+   "county_seat": true,
+   "castle": "castle",
+   "notes": "ford town, head of navigation, great wool fair",
+   "land": "lowland"
+  },
+  {
+   "name": "Silverhope",
+   "tier": "town",
+   "population": 3500,
+   "x": 198,
+   "y": 330,
+   "region": "Duchy of the Fells",
+   "county_seat": true,
+   "castle": "royal castle",
+   "notes": "silver-lead mining town with royal mint",
+   "land": "upland"
+  },
+  {
+   "name": "Ashenden",
+   "tier": "town",
+   "population": 2800,
+   "x": 612,
+   "y": 392,
+   "region": "Crownlands",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Kingsmoat",
+   "tier": "town",
+   "population": 3000,
+   "x": 650,
+   "y": 480,
+   "region": "Crownlands",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Ambremouth",
+   "tier": "town",
+   "population": 2400,
+   "x": 862,
+   "y": 452,
+   "region": "Crownlands",
+   "port": true,
+   "notes": "outport at the estuary mouth; pilots; lighthouse on Ambre Ness",
+   "land": "lowland"
+  },
+  {
+   "name": "Forgeham",
+   "tier": "town",
+   "population": 2800,
+   "x": 432,
+   "y": 306,
+   "region": "Duchy of Lisk",
+   "county_seat": true,
+   "notes": "iron town at the edge of the Harnwood",
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Brockhurst",
+   "tier": "town",
+   "population": 2700,
+   "x": 415,
+   "y": 362,
+   "region": "Duchy of Lisk",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Harnbury",
+   "tier": "town",
+   "population": 2500,
+   "x": 520,
+   "y": 322,
+   "region": "Duchy of Lisk",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Wythmoor",
+   "tier": "town",
+   "population": 2600,
+   "x": 481,
+   "y": 525,
+   "region": "Duchy of Lisk",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Sedgeworth",
+   "tier": "town",
+   "population": 2400,
+   "x": 505,
+   "y": 478,
+   "region": "Duchy of Lisk",
+   "land": "lowland"
+  },
+  {
+   "name": "Kingsferry",
+   "tier": "town",
+   "population": 2200,
+   "x": 500,
+   "y": 428,
+   "region": "Duchy of Lisk",
+   "notes": "ferry town on the Ambre",
+   "land": "lowland"
+  },
+  {
+   "name": "Leadgill",
+   "tier": "town",
+   "population": 2200,
+   "x": 215,
+   "y": 282,
+   "region": "Duchy of the Fells",
+   "notes": "lead-mining town",
+   "land": "upland"
+  },
+  {
+   "name": "Carrowdale",
+   "tier": "town",
+   "population": 2400,
+   "x": 232,
+   "y": 620,
+   "region": "Duchy of the Fells",
+   "county_seat": true,
+   "cathedral": true,
+   "castle": "county castle",
+   "land": "upland"
+  },
+  {
+   "name": "Fellstead",
+   "tier": "town",
+   "population": 2000,
+   "x": 190,
+   "y": 228,
+   "region": "Duchy of the Fells",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "upland"
+  },
+  {
+   "name": "Skelbridge",
+   "tier": "town",
+   "population": 2800,
+   "x": 664,
+   "y": 86,
+   "region": "North March",
+   "county_seat": true,
+   "walled": true,
+   "castle": "concentric border-bridge castle",
+   "notes": "bridge over the Skel into Thelland; toll",
+   "land": "mixed"
+  },
+  {
+   "name": "Wolfhope",
+   "tier": "town",
+   "population": 2000,
+   "x": 215,
+   "y": 135,
+   "region": "North March",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "upland"
+  },
+  {
+   "name": "Coldhaven",
+   "tier": "town",
+   "population": 2200,
+   "x": 893,
+   "y": 118,
+   "region": "North March",
+   "county_seat": true,
+   "port": true,
+   "notes": "fishing and march port",
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Scarwick",
+   "tier": "town",
+   "population": 2100,
+   "x": 780,
+   "y": 128,
+   "region": "North March",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Gullhaven",
+   "tier": "town",
+   "population": 3000,
+   "x": 866,
+   "y": 300,
+   "region": "Earldom of Brim",
+   "port": true,
+   "notes": "fishing port; autumn herring fair",
+   "land": "lowland"
+  },
+  {
+   "name": "Woldby",
+   "tier": "town",
+   "population": 3300,
+   "x": 765,
+   "y": 262,
+   "region": "Earldom of Brim",
+   "county_seat": true,
+   "cathedral": true,
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Brimstead",
+   "tier": "town",
+   "population": 2300,
+   "x": 818,
+   "y": 208,
+   "region": "Earldom of Brim",
+   "notes": "river port on the Brim",
+   "land": "mixed"
+  },
+  {
+   "name": "Eastwold",
+   "tier": "town",
+   "population": 2800,
+   "x": 680,
+   "y": 300,
+   "region": "Earldom of Brim",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Stowford",
+   "tier": "town",
+   "population": 2500,
+   "x": 760,
+   "y": 320,
+   "region": "Earldom of Brim",
+   "notes": "pilgrim town at the fen edge; causeway to Holmstow",
+   "land": "mixed"
+  },
+  {
+   "name": "Meremouth",
+   "tier": "town",
+   "population": 2800,
+   "x": 800,
+   "y": 630,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "port": true,
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Wendbury",
+   "tier": "town",
+   "population": 3600,
+   "x": 440,
+   "y": 666,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "cathedral": true,
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Downholme",
+   "tier": "town",
+   "population": 2700,
+   "x": 360,
+   "y": 596,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Bramling",
+   "tier": "town",
+   "population": 2400,
+   "x": 610,
+   "y": 560,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "castle": "county castle",
+   "land": "heath"
+  },
+  {
+   "name": "Seacombe",
+   "tier": "town",
+   "population": 2300,
+   "x": 680,
+   "y": 698,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "port": true,
+   "notes": "small harbour",
+   "castle": "county castle",
+   "land": "mixed"
+  },
+  {
+   "name": "Merrow",
+   "tier": "town",
+   "population": 3100,
+   "x": 700,
+   "y": 603,
+   "region": "Duchy of Wend",
+   "county_seat": true,
+   "cathedral": true,
+   "castle": "county castle",
+   "land": "lowland"
+  },
+  {
+   "name": "Abbotsmere",
+   "tier": "town",
+   "population": 2800,
+   "x": 497,
+   "y": 585,
+   "region": "Duchy of Wend",
+   "notes": "Benedictine abbey town; vineyards",
+   "land": "lowland"
+  },
+  {
+   "name": "Saltcove",
+   "tier": "town",
+   "population": 2000,
+   "x": 378,
+   "y": 761,
+   "region": "Duchy of Wend",
+   "port": true,
+   "notes": "fishing town",
+   "land": "lowland"
+  },
+  {
+   "name": "Leyford",
+   "tier": "market_town",
+   "population": 760,
+   "x": 612,
+   "y": 433,
+   "region": "Crownlands",
+   "notes": "centre of the local inset",
+   "land": "lowland"
+  },
+  {
+   "name": "Orsdale",
+   "tier": "market_town",
+   "population": 900,
+   "x": 195,
+   "y": 385,
+   "region": "Duchy of the Fells",
+   "notes": "mining market",
+   "land": "upland"
+  },
+  {
+   "name": "Ambrefold",
+   "tier": "market_town",
+   "population": 800,
+   "x": 322,
+   "y": 447,
+   "region": "Duchy of the Fells",
+   "land": "lowland"
+  },
+  {
+   "name": "Fellbridge",
+   "tier": "market_town",
+   "population": 700,
+   "x": 258,
+   "y": 385,
+   "region": "Duchy of the Fells",
+   "land": "lowland"
+  },
+  {
+   "name": "Wethercote",
+   "tier": "market_town",
+   "population": 800,
+   "x": 415,
+   "y": 480,
+   "region": "Duchy of Lisk",
+   "land": "lowland"
+  },
+  {
+   "name": "Haskel",
+   "tier": "market_town",
+   "population": 800,
+   "x": 492,
+   "y": 346,
+   "region": "Duchy of Lisk",
+   "land": "mixed"
+  },
+  {
+   "name": "Brackenford",
+   "tier": "market_town",
+   "population": 900,
+   "x": 582,
+   "y": 520,
+   "region": "Crownlands",
+   "notes": "heath edge",
+   "land": "heath"
+  },
+  {
+   "name": "Burrowdean",
+   "tier": "market_town",
+   "population": 700,
+   "x": 590,
+   "y": 481,
+   "region": "Crownlands",
+   "land": "lowland"
+  },
+  {
+   "name": "Marrowby",
+   "tier": "market_town",
+   "population": 800,
+   "x": 655,
+   "y": 446,
+   "region": "Crownlands",
+   "land": "lowland"
+  },
+  {
+   "name": "Tollerby",
+   "tier": "market_town",
+   "population": 800,
+   "x": 705,
+   "y": 512,
+   "region": "Crownlands",
+   "land": "lowland"
+  },
+  {
+   "name": "Kestwick",
+   "tier": "market_town",
+   "population": 800,
+   "x": 790,
+   "y": 490,
+   "region": "Crownlands",
+   "land": "lowland"
+  },
+  {
+   "name": "Rushmere",
+   "tier": "market_town",
+   "population": 700,
+   "x": 760,
+   "y": 560,
+   "region": "Duchy of Wend",
+   "land": "lowland"
+  },
+  {
+   "name": "Dunmere",
+   "tier": "market_town",
+   "population": 700,
+   "x": 640,
+   "y": 640,
+   "region": "Duchy of Wend",
+   "land": "mixed"
+  },
+  {
+   "name": "Thrushcombe",
+   "tier": "market_town",
+   "population": 700,
+   "x": 575,
+   "y": 665,
+   "region": "Duchy of Wend",
+   "land": "lowland"
+  },
+  {
+   "name": "Wendle",
+   "tier": "market_town",
+   "population": 700,
+   "x": 470,
+   "y": 625,
+   "region": "Duchy of Wend",
+   "land": "mixed"
+  },
+  {
+   "name": "Shepcote",
+   "tier": "market_town",
+   "population": 800,
+   "x": 400,
+   "y": 540,
+   "region": "Duchy of Lisk",
+   "land": "lowland"
+  },
+  {
+   "name": "Hollinsby",
+   "tier": "market_town",
+   "population": 600,
+   "x": 280,
+   "y": 600,
+   "region": "Duchy of the Fells",
+   "land": "lowland"
+  },
+  {
+   "name": "Brightwold",
+   "tier": "market_town",
+   "population": 600,
+   "x": 305,
+   "y": 722,
+   "region": "Duchy of Wend",
+   "land": "lowland"
+  },
+  {
+   "name": "Hardwold",
+   "tier": "market_town",
+   "population": 700,
+   "x": 612,
+   "y": 232,
+   "region": "Crownlands",
+   "land": "lowland"
+  },
+  {
+   "name": "Netherwick",
+   "tier": "market_town",
+   "population": 700,
+   "x": 655,
+   "y": 262,
+   "region": "Earldom of Brim",
+   "land": "lowland"
+  },
+  {
+   "name": "Coldridge",
+   "tier": "market_town",
+   "population": 700,
+   "x": 351,
+   "y": 262,
+   "region": "Duchy of Lisk",
+   "notes": "on the Fell Street",
+   "land": "mixed"
+  },
+  {
+   "name": "Beckholme",
+   "tier": "market_town",
+   "population": 700,
+   "x": 848,
+   "y": 268,
+   "region": "Earldom of Brim",
+   "land": "lowland"
+  },
+  {
+   "name": "Dykefoot",
+   "tier": "market_town",
+   "population": 600,
+   "x": 270,
+   "y": 150,
+   "region": "North March",
+   "land": "mixed"
+  },
+  {
+   "name": "Harrowell",
+   "tier": "market_town",
+   "population": 700,
+   "x": 735,
+   "y": 540,
+   "region": "Duchy of Wend",
+   "land": "lowland"
+  },
+  {
+   "name": "Fenbury",
+   "tier": "market_town",
+   "population": 700,
+   "x": 704,
+   "y": 358,
+   "region": "Crownlands",
+   "notes": "fen edge",
+   "land": "lowland"
+  },
+  {
+   "name": "Lathbury",
+   "tier": "market_town",
+   "population": 700,
+   "x": 540,
+   "y": 600,
+   "region": "Duchy of Wend",
+   "land": "lowland"
+  }
+ ],
+ "settlement_tiers": {
+  "capital": "great city, 40,000",
+  "city": "10,000-12,000",
+  "town": "2,000-8,000",
+  "market_town": "500-2,000 (only 26 of about 180 are shown)"
+ },
+ "castles": [
+  {
+   "name": "White Keep (royal citadel)",
+   "type": "great tower and curtain wall",
+   "status": "active",
+   "x": 686,
+   "y": 411,
+   "controls": "capital, bridge and port; royal armoury"
+  },
+  {
+   "name": "Wyndgap Castle",
+   "type": "concentric castle",
+   "status": "active",
+   "x": 145,
+   "y": 436,
+   "controls": "the Wyndgap pass"
+  },
+  {
+   "name": "Morvane pass castle (foreign)",
+   "type": "castle",
+   "status": "active, Morvane",
+   "x": 112,
+   "y": 428,
+   "controls": "the other side of the pass"
+  },
+  {
+   "name": "Thelland bridge castle (foreign)",
+   "type": "castle",
+   "status": "active, Thelland",
+   "x": 668,
+   "y": 70,
+   "controls": "north end of the Skel bridge"
+  },
+  {
+   "name": "Ness Castle",
+   "type": "castle with lighthouse tower",
+   "status": "active",
+   "x": 856,
+   "y": 424,
+   "controls": "mouth of the Ambre estuary"
+  },
+  {
+   "name": "Redwater Castle (royal residence)",
+   "type": "castle",
+   "status": "active",
+   "x": 630,
+   "y": 395,
+   "controls": "royal residence 32 km from the capital"
+  },
+  {
+   "name": "Crestwatch Tower",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 150,
+   "y": 118,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Wolf Ford Castle",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 232,
+   "y": 106,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Debatable Tower",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 318,
+   "y": 108,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Liskhead Castle",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 398,
+   "y": 112,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Harnwood Gate",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 470,
+   "y": 95,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Thornford Castle",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 548,
+   "y": 92,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Skelford Castle",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 735,
+   "y": 84,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Ravensford Castle",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 800,
+   "y": 72,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Skelmouth Tower",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 868,
+   "y": 60,
+   "controls": "ford or pass on the northern border"
+  },
+  {
+   "name": "Harnford Tower",
+   "type": "small stone castle or tower (forward line)",
+   "status": "active",
+   "x": 606,
+   "y": 84,
+   "controls": "ford on the Skel"
+  },
+  {
+   "name": "Holtby Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 575,
+   "y": 372,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Sedley Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 705,
+   "y": 452,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Ashcourt Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 800,
+   "y": 470,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Bracken Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 620,
+   "y": 505,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Thornhill Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 395,
+   "y": 330,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Ravenhall",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 480,
+   "y": 368,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Greystone Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 430,
+   "y": 455,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Mardale Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 455,
+   "y": 500,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Ambrecourt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 362,
+   "y": 420,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Downcourt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 420,
+   "y": 610,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Lathholt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 515,
+   "y": 625,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Mereholt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 600,
+   "y": 640,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Seaholt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 720,
+   "y": 650,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Bramwick Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 660,
+   "y": 560,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Chalkhill Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 380,
+   "y": 700,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Wendholt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 470,
+   "y": 715,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Woldcastle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 722,
+   "y": 262,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Gullcourt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 830,
+   "y": 262,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Brimholt",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 760,
+   "y": 212,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Tenterhold",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 255,
+   "y": 520,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Hope Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 240,
+   "y": 370,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Carrow Peel",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 205,
+   "y": 660,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Wolfcrag",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 250,
+   "y": 180,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Brimhead Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 620,
+   "y": 150,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Scar Castle",
+   "type": "baronial castle (stone keep or curtain wall)",
+   "status": "active",
+   "x": 790,
+   "y": 104,
+   "controls": "barony: farmland, villages and a local road"
+  },
+  {
+   "name": "Old motte (Liskmeet)",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 470,
+   "y": 398,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Old motte (Leyford)",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 596,
+   "y": 452,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Lisk ringwork",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 440,
+   "y": 345,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Fen-edge motte",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 690,
+   "y": 350,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Wendle motte",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 520,
+   "y": 680,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Kestwick motte",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 780,
+   "y": 520,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Coldridge motte",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 350,
+   "y": 330,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Bramling motte",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 640,
+   "y": 560,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Wold motte",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 740,
+   "y": 300,
+   "controls": "nothing now: early castle, given up before 1300"
+  },
+  {
+   "name": "Old Harrow castle",
+   "type": "abandoned motte or ringwork (earthwork)",
+   "status": "ruin",
+   "x": 245,
+   "y": 470,
+   "controls": "nothing now: early castle, given up before 1300"
+  }
+ ],
+ "royal_residences": [
+  {
+   "name": "Westhallow Palace and Abbey",
+   "x": 681,
+   "y": 419,
+   "dist_km": 4.0
+  },
+  {
+   "name": "Elmhurst royal manor",
+   "x": 664,
+   "y": 432,
+   "dist_km": 14.0
+  },
+  {
+   "name": "Redwater Castle",
+   "x": 630,
+   "y": 395,
+   "dist_km": 31.0
+  },
+  {
+   "name": "Kingswood hunting lodge",
+   "x": 630,
+   "y": 352,
+   "dist_km": 43.0
+  },
+  {
+   "name": "Kingsmoat royal castle",
+   "x": 650,
+   "y": 480,
+   "dist_km": 37.0
+  }
+ ],
+ "monasteries": [
+  {
+   "name": "Westhallow Abbey",
+   "order": "Benedictine (royal burial church)",
+   "x": 681,
+   "y": 419
+  },
+  {
+   "name": "Holmstow Abbey",
+   "order": "Benedictine (monastic cathedral; shrine of St Aldwen)",
+   "x": 778,
+   "y": 356
+  },
+  {
+   "name": "Abbotsmere Abbey",
+   "order": "Benedictine (abbey town)",
+   "x": 497,
+   "y": 585
+  },
+  {
+   "name": "Harnvale Abbey",
+   "order": "Cistercian",
+   "x": 470,
+   "y": 215
+  },
+  {
+   "name": "Greywater Abbey",
+   "order": "Cistercian",
+   "x": 205,
+   "y": 560
+  },
+  {
+   "name": "Stillwater Abbey",
+   "order": "Cistercian",
+   "x": 392,
+   "y": 627
+  },
+  {
+   "name": "Mirefield Abbey",
+   "order": "Cistercian",
+   "x": 742,
+   "y": 238
+  },
+  {
+   "name": "Coldwater Abbey",
+   "order": "Cistercian",
+   "x": 205,
+   "y": 480
+  },
+  {
+   "name": "Sallowhope Charterhouse",
+   "order": "Carthusian",
+   "x": 168,
+   "y": 525
+  },
+  {
+   "name": "Temple Ambre",
+   "order": "Templar commandery (farm estate with chapel)",
+   "x": 575,
+   "y": 415
+  }
+ ],
+ "church": {
+  "archbishop": "Liskmeet",
+  "cathedrals": [
+   "Hallowbridge",
+   "Liskmeet",
+   "Wendmouth",
+   "Brimhaven",
+   "Ridgegate",
+   "Norburgh",
+   "Wyndfoot",
+   "Holmstow",
+   "Hawkridge",
+   "Carrowdale",
+   "Woldby",
+   "Wendbury",
+   "Merrow"
+  ],
+  "university": "Liskmeet",
+  "great_shrine": "Holmstow (St Aldwen)",
+  "coronation_church": "Liskmeet cathedral",
+  "royal_burial_church": "Westhallow Abbey"
+ },
+ "roads": [
+  {
+   "name": "The King's Way (West Road)",
+   "class": "royal_highway",
+   "pts": [
+    [
+     688,
+     425
+    ],
+    [
+     650,
+     429
+    ],
+    [
+     612,
+     433
+    ],
+    [
+     580,
+     440
+    ],
+    [
+     548,
+     440
+    ],
+    [
+     520,
+     432
+    ],
+    [
+     500,
+     428
+    ],
+    [
+     470,
+     420
+    ],
+    [
+     450,
+     414
+    ],
+    [
+     415,
+     428
+    ],
+    [
+     380,
+     438
+    ],
+    [
+     350,
+     444
+    ],
+    [
+     322,
+     447
+    ],
+    [
+     290,
+     449
+    ],
+    [
+     262,
+     446
+    ],
+    [
+     220,
+     446
+    ],
+    [
+     180,
+     441
+    ],
+    [
+     145,
+     436
+    ],
+    [
+     130,
+     432
+    ],
+    [
+     90,
+     428
+    ],
+    [
+     0,
+     425
+    ]
+   ],
+   "notes": "crosses the Ambre by the bridges at Hallowbridge and Ridgegate, the ford at Cheapford; over the Wyndgap pass into Morvane"
+  },
+  {
+   "name": "The North Road",
+   "class": "royal_highway",
+   "pts": [
+    [
+     688,
+     416
+    ],
+    [
+     684,
+     385
+    ],
+    [
+     676,
+     340
+    ],
+    [
+     680,
+     300
+    ],
+    [
+     690,
+     250
+    ],
+    [
+     696,
+     205
+    ],
+    [
+     700,
+     165
+    ],
+    [
+     684,
+     125
+    ],
+    [
+     664,
+     86
+    ],
+    [
+     666,
+     80
+    ],
+    [
+     655,
+     40
+    ],
+    [
+     650,
+     0
+    ]
+   ],
+   "notes": "to Thelland over the Skel bridge"
+  },
+  {
+   "name": "The South Road",
+   "class": "royal_highway",
+   "pts": [
+    [
+     688,
+     425
+    ],
+    [
+     668,
+     455
+    ],
+    [
+     650,
+     480
+    ],
+    [
+     628,
+     520
+    ],
+    [
+     610,
+     560
+    ],
+    [
+     585,
+     620
+    ],
+    [
+     560,
+     690
+    ],
+    [
+     540,
+     736
+    ]
+   ]
+  },
+  {
+   "name": "The Brim Road",
+   "class": "regional_road",
+   "pts": [
+    [
+     680,
+     300
+    ],
+    [
+     725,
+     282
+    ],
+    [
+     765,
+     262
+    ],
+    [
+     825,
+     240
+    ],
+    [
+     884,
+     226
+    ]
+   ]
+  },
+  {
+   "name": "Old Street (old imperial road, straight)",
+   "class": "old_road_in_use",
+   "pts": [
+    [
+     450,
+     414
+    ],
+    [
+     481,
+     525
+    ],
+    [
+     497,
+     585
+    ],
+    [
+     540,
+     736
+    ]
+   ]
+  },
+  {
+   "name": "Fell Street (old imperial road, straight)",
+   "class": "old_road_in_use",
+   "pts": [
+    [
+     450,
+     414
+    ],
+    [
+     415,
+     360
+    ],
+    [
+     351,
+     262
+    ],
+    [
+     300,
+     182
+    ]
+   ]
+  },
+  {
+   "name": "The Downs Road",
+   "class": "regional_road",
+   "pts": [
+    [
+     380,
+     438
+    ],
+    [
+     350,
+     470
+    ],
+    [
+     318,
+     500
+    ],
+    [
+     335,
+     550
+    ],
+    [
+     360,
+     596
+    ],
+    [
+     400,
+     632
+    ],
+    [
+     440,
+     666
+    ],
+    [
+     490,
+     703
+    ],
+    [
+     540,
+     736
+    ]
+   ]
+  },
+  {
+   "name": "The Fells Road",
+   "class": "regional_road",
+   "pts": [
+    [
+     262,
+     446
+    ],
+    [
+     258,
+     385
+    ],
+    [
+     232,
+     356
+    ],
+    [
+     198,
+     330
+    ],
+    [
+     215,
+     282
+    ],
+    [
+     190,
+     228
+    ],
+    [
+     200,
+     180
+    ],
+    [
+     215,
+     135
+    ]
+   ]
+  },
+  {
+   "name": "Fellstead to Hawkridge",
+   "class": "regional_road",
+   "pts": [
+    [
+     190,
+     228
+    ],
+    [
+     250,
+     212
+    ],
+    [
+     300,
+     182
+    ]
+   ]
+  },
+  {
+   "name": "The Lisk Road (forest road)",
+   "class": "regional_road",
+   "pts": [
+    [
+     450,
+     414
+    ],
+    [
+     446,
+     370
+    ],
+    [
+     432,
+     306
+    ],
+    [
+     418,
+     245
+    ],
+    [
+     404,
+     190
+    ],
+    [
+     398,
+     112
+    ]
+   ]
+  },
+  {
+   "name": "The Harn Road",
+   "class": "regional_road",
+   "pts": [
+    [
+     450,
+     414
+    ],
+    [
+     492,
+     346
+    ],
+    [
+     520,
+     322
+    ],
+    [
+     570,
+     275
+    ],
+    [
+     612,
+     232
+    ],
+    [
+     650,
+     190
+    ],
+    [
+     700,
+     165
+    ]
+   ]
+  },
+  {
+   "name": "March road (east)",
+   "class": "regional_road",
+   "pts": [
+    [
+     700,
+     165
+    ],
+    [
+     760,
+     185
+    ],
+    [
+     818,
+     208
+    ],
+    [
+     884,
+     226
+    ]
+   ]
+  },
+  {
+   "name": "March road (coast)",
+   "class": "regional_road",
+   "pts": [
+    [
+     700,
+     165
+    ],
+    [
+     780,
+     128
+    ],
+    [
+     893,
+     118
+    ]
+   ]
+  },
+  {
+   "name": "March road (west)",
+   "class": "regional_road",
+   "pts": [
+    [
+     215,
+     135
+    ],
+    [
+     270,
+     150
+    ],
+    [
+     300,
+     182
+    ]
+   ]
+  },
+  {
+   "name": "The Salt Road (to the estuary landing)",
+   "class": "regional_road",
+   "pts": [
+    [
+     740,
+     470
+    ],
+    [
+     758,
+     446
+    ],
+    [
+     762,
+     424
+    ]
+   ]
+  },
+  {
+   "name": "The Salt Road (west)",
+   "class": "regional_road",
+   "pts": [
+    [
+     740,
+     470
+    ],
+    [
+     700,
+     476
+    ],
+    [
+     650,
+     480
+    ]
+   ]
+  },
+  {
+   "name": "The Salt Road (south)",
+   "class": "regional_road",
+   "pts": [
+    [
+     740,
+     470
+    ],
+    [
+     705,
+     512
+    ],
+    [
+     700,
+     603
+    ]
+   ]
+  },
+  {
+   "name": "The Coast Road",
+   "class": "regional_road",
+   "pts": [
+    [
+     740,
+     470
+    ],
+    [
+     790,
+     490
+    ],
+    [
+     862,
+     452
+    ]
+   ]
+  },
+  {
+   "name": "South-east road",
+   "class": "regional_road",
+   "pts": [
+    [
+     790,
+     490
+    ],
+    [
+     800,
+     560
+    ],
+    [
+     800,
+     630
+    ],
+    [
+     680,
+     698
+    ],
+    [
+     610,
+     712
+    ],
+    [
+     540,
+     736
+    ]
+   ]
+  },
+  {
+   "name": "Merrow road",
+   "class": "regional_road",
+   "pts": [
+    [
+     650,
+     480
+    ],
+    [
+     705,
+     512
+    ],
+    [
+     700,
+     603
+    ],
+    [
+     680,
+     698
+    ]
+   ]
+  },
+  {
+   "name": "West coast road",
+   "class": "regional_road",
+   "pts": [
+    [
+     540,
+     736
+    ],
+    [
+     470,
+     742
+    ],
+    [
+     378,
+     761
+    ],
+    [
+     305,
+     722
+    ],
+    [
+     232,
+     620
+    ]
+   ]
+  },
+  {
+   "name": "Pilgrims' Way",
+   "class": "pilgrim_road",
+   "pts": [
+    [
+     688,
+     416
+    ],
+    [
+     700,
+     382
+    ],
+    [
+     712,
+     340
+    ],
+    [
+     735,
+     322
+    ],
+    [
+     760,
+     320
+    ],
+    [
+     770,
+     340
+    ],
+    [
+     778,
+     356
+    ]
+   ],
+   "notes": "last stretch is a causeway across the fen; boats also run down the Holm Lode"
+  },
+  {
+   "name": "Ridgegate cross road",
+   "class": "regional_road",
+   "pts": [
+    [
+     548,
+     440
+    ],
+    [
+     505,
+     478
+    ],
+    [
+     481,
+     525
+    ],
+    [
+     400,
+     540
+    ],
+    [
+     360,
+     596
+    ]
+   ]
+  },
+  {
+   "name": "Gull road",
+   "class": "regional_road",
+   "pts": [
+    [
+     765,
+     262
+    ],
+    [
+     820,
+     288
+    ],
+    [
+     866,
+     300
+    ]
+   ]
+  },
+  {
+   "name": "Capital to Ashenden",
+   "class": "regional_road",
+   "pts": [
+    [
+     688,
+     416
+    ],
+    [
+     650,
+     400
+    ],
+    [
+     612,
+     392
+    ],
+    [
+     520,
+     322
+    ]
+   ]
+  }
+ ],
+ "road_classes": {
+  "royal_highway": "thick line",
+  "regional_road": "medium line",
+  "old_road_in_use": "straight medium line, label 'Old Street'",
+  "pilgrim_road": "dotted line with shell symbols"
+ },
+ "bridges": [
+  {
+   "name": "Hallow Bridge",
+   "x": 688,
+   "y": 421,
+   "river": "Ambre",
+   "kind": "stone bridge (lowest bridge; pontage toll)"
+  },
+  {
+   "name": "Ridgegate bridge",
+   "x": 548,
+   "y": 440,
+   "river": "Ambre",
+   "kind": "stone bridge (toll)"
+  },
+  {
+   "name": "Lisk bridges",
+   "x": 450,
+   "y": 418,
+   "river": "Ambre and Lisk",
+   "kind": "two stone bridges at Liskmeet"
+  },
+  {
+   "name": "Wyndfoot bridge",
+   "x": 262,
+   "y": 446,
+   "river": "Ambre",
+   "kind": "stone bridge (small river)"
+  },
+  {
+   "name": "Skel bridge",
+   "x": 665,
+   "y": 82,
+   "river": "Skel",
+   "kind": "fortified border bridge (toll)"
+  },
+  {
+   "name": "Norburgh bridge",
+   "x": 700,
+   "y": 165,
+   "river": "Brim",
+   "kind": "bridge"
+  },
+  {
+   "name": "Wendbury bridge",
+   "x": 440,
+   "y": 668,
+   "river": "Wend",
+   "kind": "bridge"
+  }
+ ],
+ "fords": [
+  {
+   "name": "Cheap Ford",
+   "x": 380,
+   "y": 438,
+   "river": "Ambre"
+  },
+  {
+   "name": "Ambrefold ford",
+   "x": 322,
+   "y": 447,
+   "river": "Ambre"
+  }
+ ],
+ "ferries": [
+  {
+   "name": "Kings Ferry",
+   "x": 500,
+   "y": 427,
+   "river": "Ambre"
+  },
+  {
+   "name": "Thornwick ferry",
+   "x": 606,
+   "y": 426,
+   "river": "Ambre"
+  }
+ ],
+ "tolls": [
+  {
+   "name": "Hallow Bridge pontage and port customs",
+   "x": 690,
+   "y": 421
+  },
+  {
+   "name": "Ridgegate bridge and river toll",
+   "x": 550,
+   "y": 440
+  },
+  {
+   "name": "Wyndgap pass toll",
+   "x": 140,
+   "y": 434
+  },
+  {
+   "name": "Skel bridge border toll",
+   "x": 666,
+   "y": 84
+  },
+  {
+   "name": "Liskmeet bridge tolls",
+   "x": 452,
+   "y": 420
+  }
+ ],
+ "ports": [
+  {
+   "name": "Hallowbridge",
+   "x": 697,
+   "y": 421,
+   "type": "main port (sea ships unload below the bridge); customs house"
+  },
+  {
+   "name": "Ambremouth",
+   "x": 864,
+   "y": 452,
+   "type": "outport and pilots' station"
+  },
+  {
+   "name": "Brimhaven",
+   "x": 887,
+   "y": 229,
+   "type": "port and royal shipyard"
+  },
+  {
+   "name": "Gullhaven",
+   "x": 870,
+   "y": 300,
+   "type": "fishing port; herring fair"
+  },
+  {
+   "name": "Coldhaven",
+   "x": 896,
+   "y": 118,
+   "type": "fishing and march port"
+  },
+  {
+   "name": "Wendmouth",
+   "x": 540,
+   "y": 740,
+   "type": "port at a river mouth"
+  },
+  {
+   "name": "Meremouth",
+   "x": 804,
+   "y": 634,
+   "type": "small port"
+  },
+  {
+   "name": "Seacombe",
+   "x": 682,
+   "y": 700,
+   "type": "small harbour"
+  },
+  {
+   "name": "Saltcove",
+   "x": 378,
+   "y": 764,
+   "type": "fishing harbour"
+  }
+ ],
+ "lighthouse": {
+  "name": "Ambre Ness light",
+  "x": 860,
+  "y": 421
+ },
+ "sea_routes": [
+  {
+   "name": "North coast route (to Thelland)",
+   "pts": [
+    [
+     697,
+     420
+    ],
+    [
+     780,
+     410
+    ],
+    [
+     862,
+     406
+    ],
+    [
+     905,
+     380
+    ],
+    [
+     900,
+     300
+    ],
+    [
+     906,
+     232
+    ],
+    [
+     915,
+     118
+    ],
+    [
+     930,
+     0
+    ]
+   ]
+  },
+  {
+   "name": "South coast route (to Morvane)",
+   "pts": [
+    [
+     862,
+     406
+    ],
+    [
+     890,
+     480
+    ],
+    [
+     860,
+     600
+    ],
+    [
+     806,
+     650
+    ],
+    [
+     700,
+     722
+    ],
+    [
+     545,
+     758
+    ],
+    [
+     380,
+     780
+    ],
+    [
+     250,
+     800
+    ]
+   ]
+  },
+  {
+   "name": "Crossing to the eastern kingdoms",
+   "pts": [
+    [
+     862,
+     406
+    ],
+    [
+     1000,
+     385
+    ]
+   ],
+   "notes": "open-sea crossing; 2-5 days by sailing ship (off the map)"
+  }
+ ],
+ "borders": [
+  {
+   "name": "Realm border with Thelland (north)",
+   "class": "realm",
+   "pts": [
+    [
+     125,
+     95
+    ],
+    [
+     190,
+     100
+    ],
+    [
+     230,
+     88
+    ],
+    [
+     270,
+     98
+    ],
+    [
+     310,
+     92
+    ],
+    [
+     350,
+     100
+    ],
+    [
+     385,
+     92
+    ],
+    [
+     420,
+     80
+    ],
+    [
+     460,
+     74
+    ],
+    [
+     500,
+     82
+    ],
+    [
+     540,
+     76
+    ],
+    [
+     580,
+     70
+    ],
+    [
+     600,
+     72
+    ],
+    [
+     630,
+     78
+    ],
+    [
+     665,
+     82
+    ],
+    [
+     720,
+     70
+    ],
+    [
+     780,
+     58
+    ],
+    [
+     840,
+     52
+    ],
+    [
+     895,
+     42
+    ]
+   ],
+   "notes": "follows hill crests and forest in the west, the River Skel in the east"
+  },
+  {
+   "name": "Realm border with Morvane (west)",
+   "class": "realm",
+   "pts": [
+    [
+     125,
+     95
+    ],
+    [
+     118,
+     160
+    ],
+    [
+     128,
+     230
+    ],
+    [
+     122,
+     300
+    ],
+    [
+     135,
+     370
+    ],
+    [
+     130,
+     432
+    ],
+    [
+     142,
+     500
+    ],
+    [
+     152,
+     570
+    ],
+    [
+     172,
+     640
+    ],
+    [
+     195,
+     700
+    ],
+    [
+     220,
+     760
+    ],
+    [
+     238,
+     800
+    ]
+   ],
+   "notes": "mountain crest (watershed); paired castles at the Wyndgap pass"
+  },
+  {
+   "name": "North March / interior",
+   "class": "great_fief",
+   "pts": [
+    [
+     124,
+     215
+    ],
+    [
+     220,
+     215
+    ],
+    [
+     300,
+     205
+    ],
+    [
+     360,
+     215
+    ],
+    [
+     420,
+     225
+    ],
+    [
+     500,
+     220
+    ],
+    [
+     585,
+     216
+    ],
+    [
+     640,
+     200
+    ],
+    [
+     700,
+     185
+    ],
+    [
+     760,
+     175
+    ],
+    [
+     810,
+     165
+    ],
+    [
+     883,
+     160
+    ]
+   ]
+  },
+  {
+   "name": "Duchy of the Fells (east edge)",
+   "class": "great_fief",
+   "pts": [
+    [
+     300,
+     205
+    ],
+    [
+     325,
+     290
+    ],
+    [
+     340,
+     380
+    ],
+    [
+     355,
+     440
+    ],
+    [
+     350,
+     520
+    ],
+    [
+     348,
+     560
+    ],
+    [
+     345,
+     580
+    ],
+    [
+     320,
+     640
+    ],
+    [
+     300,
+     700
+    ],
+    [
+     300,
+     778
+    ]
+   ]
+  },
+  {
+   "name": "Duchy of Lisk / Crownlands",
+   "class": "great_fief",
+   "pts": [
+    [
+     585,
+     216
+    ],
+    [
+     570,
+     300
+    ],
+    [
+     540,
+     360
+    ],
+    [
+     528,
+     420
+    ],
+    [
+     525,
+     480
+    ],
+    [
+     540,
+     530
+    ]
+   ]
+  },
+  {
+   "name": "Crownlands / Earldom of Brim",
+   "class": "great_fief",
+   "pts": [
+    [
+     640,
+     200
+    ],
+    [
+     615,
+     260
+    ],
+    [
+     650,
+     300
+    ],
+    [
+     700,
+     322
+    ],
+    [
+     712,
+     338
+    ]
+   ]
+  },
+  {
+   "name": "Liberty of Holmstow",
+   "class": "church_liberty",
+   "pts": [
+    [
+     712,
+     338
+    ],
+    [
+     760,
+     326
+    ],
+    [
+     810,
+     330
+    ],
+    [
+     850,
+     345
+    ],
+    [
+     862,
+     372
+    ],
+    [
+     860,
+     392
+    ],
+    [
+     830,
+     397
+    ],
+    [
+     800,
+     402
+    ],
+    [
+     770,
+     407
+    ],
+    [
+     740,
+     411
+    ],
+    [
+     716,
+     414
+    ],
+    [
+     706,
+     380
+    ],
+    [
+     712,
+     338
+    ]
+   ]
+  },
+  {
+   "name": "Crownlands / Duchy of Wend",
+   "class": "great_fief",
+   "pts": [
+    [
+     540,
+     530
+    ],
+    [
+     600,
+     525
+    ],
+    [
+     660,
+     530
+    ],
+    [
+     720,
+     515
+    ],
+    [
+     780,
+     505
+    ],
+    [
+     840,
+     500
+    ],
+    [
+     863,
+     500
+    ]
+   ]
+  },
+  {
+   "name": "Duchy of Lisk / Duchy of Wend",
+   "class": "great_fief",
+   "pts": [
+    [
+     540,
+     530
+    ],
+    [
+     480,
+     555
+    ],
+    [
+     400,
+     565
+    ],
+    [
+     348,
+     560
+    ]
+   ]
+  }
+ ],
+ "border_classes": {
+  "realm": "thick dashed line",
+  "great_fief": "medium dashed line",
+  "church_liberty": "thin dash-dot line"
+ },
+ "frontier_band": {
+  "name": "The North March frontier zone (hatch)",
+  "pts": [
+   [
+    125,
+    95
+   ],
+   [
+    190,
+    100
+   ],
+   [
+    230,
+    88
+   ],
+   [
+    270,
+    98
+   ],
+   [
+    310,
+    92
+   ],
+   [
+    350,
+    100
+   ],
+   [
+    385,
+    92
+   ],
+   [
+    420,
+    80
+   ],
+   [
+    460,
+    74
+   ],
+   [
+    500,
+    82
+   ],
+   [
+    540,
+    76
+   ],
+   [
+    580,
+    70
+   ],
+   [
+    600,
+    72
+   ],
+   [
+    630,
+    78
+   ],
+   [
+    665,
+    82
+   ],
+   [
+    720,
+    70
+   ],
+   [
+    780,
+    58
+   ],
+   [
+    840,
+    52
+   ],
+   [
+    895,
+    42
+   ],
+   [
+    895,
+    102
+   ],
+   [
+    840,
+    112
+   ],
+   [
+    780,
+    118
+   ],
+   [
+    720,
+    130
+   ],
+   [
+    665,
+    142
+   ],
+   [
+    630,
+    138
+   ],
+   [
+    600,
+    132
+   ],
+   [
+    580,
+    130
+   ],
+   [
+    540,
+    136
+   ],
+   [
+    500,
+    142
+   ],
+   [
+    460,
+    134
+   ],
+   [
+    420,
+    140
+   ],
+   [
+    385,
+    152
+   ],
+   [
+    350,
+    160
+   ],
+   [
+    310,
+    152
+   ],
+   [
+    270,
+    158
+   ],
+   [
+    230,
+    148
+   ],
+   [
+    190,
+    160
+   ],
+   [
+    125,
+    155
+   ]
+  ],
+  "depth_km": 30
+ },
+ "debatable_land": {
+  "name": "The Debatable Land",
+  "pts": [
+   [
+    300,
+    86
+   ],
+   [
+    332,
+    86
+   ],
+   [
+    332,
+    98
+   ],
+   [
+    300,
+    98
+   ]
+  ],
+  "notes": "disputed strip, 16 x 6 km"
+ },
+ "region_labels": [
+  {
+   "name": "Crownlands",
+   "x": 640,
+   "y": 455
+  },
+  {
+   "name": "Liberty of Holmstow",
+   "x": 790,
+   "y": 375
+  },
+  {
+   "name": "Duchy of Lisk",
+   "x": 440,
+   "y": 470
+  },
+  {
+   "name": "Duchy of the Fells",
+   "x": 205,
+   "y": 410
+  },
+  {
+   "name": "North March",
+   "x": 480,
+   "y": 150
+  },
+  {
+   "name": "Earldom of Brim",
+   "x": 800,
+   "y": 250
+  },
+  {
+   "name": "Duchy of Wend",
+   "x": 560,
+   "y": 610
+  }
+ ],
+ "industry": [
+  {
+   "kind": "silver-lead mines and royal mint",
+   "name": "Silverhope mines",
+   "x": 190,
+   "y": 325
+  },
+  {
+   "kind": "lead mines; smelting boles on windy ridges",
+   "name": "Leadgill mines",
+   "x": 222,
+   "y": 290
+  },
+  {
+   "kind": "lead and silver mines",
+   "name": "Orsdale mines",
+   "x": 185,
+   "y": 390
+  },
+  {
+   "kind": "brine springs and salt-boiling houses",
+   "name": "Saltwich brine pits",
+   "x": 742,
+   "y": 474
+  },
+  {
+   "kind": "salt landing on the estuary",
+   "name": "Salthithe",
+   "x": 762,
+   "y": 424
+  },
+  {
+   "kind": "salterns (boiling sea water)",
+   "name": "Saltings salterns",
+   "x": 805,
+   "y": 432
+  },
+  {
+   "kind": "limestone quarries and lime kilns, river landing",
+   "name": "Chalkhythe quarries",
+   "x": 556,
+   "y": 448
+  },
+  {
+   "kind": "iron: bloomeries and water-powered forges",
+   "name": "Harnwood forges",
+   "x": 430,
+   "y": 270
+  },
+  {
+   "kind": "iron: bloomeries and forge ponds",
+   "name": "Harn Water forges",
+   "x": 545,
+   "y": 280
+  },
+  {
+   "kind": "forest glasshouse",
+   "name": "Glasshouse clearing",
+   "x": 520,
+   "y": 185
+  },
+  {
+   "kind": "charcoal hearths",
+   "name": "Harnwood charcoal",
+   "x": 480,
+   "y": 250
+  },
+  {
+   "kind": "fulling mills and tenter grounds",
+   "name": "Tenter valley mills",
+   "x": 275,
+   "y": 532
+  },
+  {
+   "kind": "wool fair (autumn)",
+   "name": "Cheapford fair meadow",
+   "x": 385,
+   "y": 444
+  },
+  {
+   "kind": "herring fair and curing grounds",
+   "name": "Gullhaven strand",
+   "x": 868,
+   "y": 310
+  },
+  {
+   "kind": "royal shipyard",
+   "name": "Brimhaven yard",
+   "x": 880,
+   "y": 236
+  },
+  {
+   "kind": "vineyards on south-facing slopes",
+   "name": "Abbotsmere vineyards",
+   "x": 505,
+   "y": 595
+  },
+  {
+   "kind": "brickfields on estuary clay",
+   "name": "Hallowbridge brickfields",
+   "x": 705,
+   "y": 428
+  }
+ ],
+ "salt_roads": [
+  "The Salt Road (to the estuary landing)",
+  "The Salt Road (west)",
+  "The Salt Road (south)"
+ ],
+ "ruins_and_old_layers": [
+  {
+   "kind": "ruined walled town of the Old Empire",
+   "name": "Wendchester",
+   "x": 524,
+   "y": 726
+  },
+  {
+   "kind": "hillfort with ruined church (former see, moved to Wyndfoot)",
+   "name": "Old Harrow",
+   "x": 245,
+   "y": 470
+  },
+  {
+   "kind": "old earthwork dyke (older border bank)",
+   "name": "Thelling Dyke",
+   "pts": [
+    [
+     160,
+     150
+    ],
+    [
+     230,
+     146
+    ],
+    [
+     300,
+     150
+    ],
+    [
+     330,
+     142
+    ]
+   ]
+  },
+  {
+   "kind": "stone circle",
+   "name": "The Grey Wives",
+   "x": 185,
+   "y": 600
+  },
+  {
+   "kind": "barrow group on the downs",
+   "name": "Wend Downs barrows",
+   "x": 440,
+   "y": 585
+  },
+  {
+   "kind": "hillfort",
+   "name": "Downs hillfort (Chalk Ring)",
+   "x": 340,
+   "y": 625
+  },
+  {
+   "kind": "hillfort",
+   "name": "Downs hillfort (Wendle Rings)",
+   "x": 480,
+   "y": 650
+  },
+  {
+   "kind": "hillfort",
+   "name": "Whitridge hillfort",
+   "x": 552,
+   "y": 350
+  },
+  {
+   "kind": "hillfort",
+   "name": "Wold hillfort",
+   "x": 790,
+   "y": 290
+  },
+  {
+   "kind": "hillfort",
+   "name": "Skel Hills hillfort",
+   "x": 700,
+   "y": 112
+  },
+  {
+   "kind": "hillfort",
+   "name": "Fell-edge hillfort",
+   "x": 262,
+   "y": 575
+  },
+  {
+   "kind": "deserted village (cleared by Cistercians)",
+   "name": "Old Harnvale",
+   "x": 476,
+   "y": 222
+  },
+  {
+   "kind": "deserted village (cleared for the royal forest)",
+   "name": "Lostwick",
+   "x": 622,
+   "y": 352
+  },
+  {
+   "kind": "deserted village (burnt in border raids)",
+   "name": "Skelby",
+   "x": 620,
+   "y": 110
+  }
+ ],
+ "beacons": [
+  {
+   "x": 685,
+   "y": 114
+  },
+  {
+   "x": 697,
+   "y": 144
+  },
+  {
+   "x": 705,
+   "y": 174
+  },
+  {
+   "x": 702,
+   "y": 206
+  },
+  {
+   "x": 698,
+   "y": 238
+  },
+  {
+   "x": 692,
+   "y": 269
+  },
+  {
+   "x": 686,
+   "y": 300
+  },
+  {
+   "x": 683,
+   "y": 332
+  },
+  {
+   "x": 686,
+   "y": 364
+  },
+  {
+   "x": 691,
+   "y": 396
+  }
+ ],
+ "zoom_box": {
+  "x0": 601,
+  "y0": 424,
+  "x1": 621,
+  "y1": 444,
+  "note": "10 x 10 km local inset centred on Leyford"
+ },
+ "local_inset": {
+  "scale": "1 unit = 10 m; 1000 units = 10 km (6.2 mi). North is up. Main-map position given by zoom_box.",
+  "rivers": [
+   {
+    "name": "River Ambre (navigable)",
+    "width": 4,
+    "pts": [
+     [
+      0,
+      92
+     ],
+     [
+      120,
+      84
+     ],
+     [
+      250,
+      72
+     ],
+     [
+      380,
+      78
+     ],
+     [
+      500,
+      66
+     ],
+     [
+      560,
+      60
+     ],
+     [
+      650,
+      52
+     ],
+     [
+      780,
+      60
+     ],
+     [
+      900,
+      48
+     ],
+     [
+      1000,
+      40
+     ]
+    ]
+   },
+   {
+    "name": "Ley Brook",
+    "width": 1,
+    "pts": [
+     [
+      470,
+      1000
+     ],
+     [
+      480,
+      900
+     ],
+     [
+      500,
+      800
+     ],
+     [
+      520,
+      700
+     ],
+     [
+      540,
+      600
+     ],
+     [
+      552,
+      500
+     ],
+     [
+      560,
+      430
+     ],
+     [
+      568,
+      330
+     ],
+     [
+      575,
+      230
+     ],
+     [
+      572,
+      140
+     ],
+     [
+      560,
+      62
+     ]
+    ]
+   },
+   {
+    "name": "Hollow Beck",
+    "width": 1,
+    "pts": [
+     [
+      930,
+      1000
+     ],
+     [
+      900,
+      880
+     ],
+     [
+      860,
+      760
+     ],
+     [
+      830,
+      640
+     ],
+     [
+      800,
+      520
+     ],
+     [
+      770,
+      400
+     ],
+     [
+      745,
+      280
+     ],
+     [
+      730,
+      170
+     ],
+     [
+      720,
+      54
+     ]
+    ]
+   },
+   {
+    "name": "Ash Brook",
+    "width": 1,
+    "pts": [
+     [
+      80,
+      760
+     ],
+     [
+      100,
+      650
+     ],
+     [
+      120,
+      540
+     ],
+     [
+      135,
+      420
+     ],
+     [
+      140,
+      300
+     ],
+     [
+      150,
+      190
+     ],
+     [
+      160,
+      84
+     ]
+    ]
+   }
+  ],
+  "meadow": [
+   {
+    "name": "Ambre meadows (flood plain)",
+    "pts": [
+     [
+      0,
+      92
+     ],
+     [
+      250,
+      72
+     ],
+     [
+      500,
+      66
+     ],
+     [
+      650,
+      52
+     ],
+     [
+      1000,
+      40
+     ],
+     [
+      1000,
+      140
+     ],
+     [
+      800,
+      160
+     ],
+     [
+      600,
+      150
+     ],
+     [
+      400,
+      170
+     ],
+     [
+      200,
+      185
+     ],
+     [
+      0,
+      190
+     ]
+    ]
+   },
+   {
+    "name": "meadow strips",
+    "note": "draw a 50-100 m green ribbon along each brook"
+   }
+  ],
+  "roads": [
+   {
+    "name": "The King's Way (royal highway)",
+    "cls": "royal_highway",
+    "pts": [
+     [
+      0,
+      470
+     ],
+     [
+      150,
+      462
+     ],
+     [
+      300,
+      450
+     ],
+     [
+      420,
+      438
+     ],
+     [
+      560,
+      432
+     ],
+     [
+      700,
+      420
+     ],
+     [
+      850,
+      405
+     ],
+     [
+      1000,
+      392
+     ]
+    ]
+   },
+   {
+    "name": "lane Leyford-Thornwick-ferry",
+    "cls": "lane",
+    "pts": [
+     [
+      560,
+      432
+     ],
+     [
+      420,
+      300
+     ],
+     [
+      270,
+      130
+     ],
+     [
+      260,
+      75
+     ]
+    ]
+   },
+   {
+    "name": "lane Leyford-Fennick End-Kettlebury",
+    "cls": "lane",
+    "pts": [
+     [
+      560,
+      432
+     ],
+     [
+      640,
+      250
+     ],
+     [
+      640,
+      150
+     ],
+     [
+      750,
+      120
+     ]
+    ]
+   },
+   {
+    "name": "lane Leyford-Hollowell",
+    "cls": "lane",
+    "pts": [
+     [
+      560,
+      432
+     ],
+     [
+      760,
+      330
+     ]
+    ]
+   },
+   {
+    "name": "lane Leyford-Stanmere-Brackenhurst",
+    "cls": "lane",
+    "pts": [
+     [
+      560,
+      432
+     ],
+     [
+      700,
+      500
+     ],
+     [
+      810,
+      560
+     ],
+     [
+      860,
+      700
+     ],
+     [
+      880,
+      890
+     ]
+    ]
+   },
+   {
+    "name": "lane Leyford-Oxlade-Upper Ley",
+    "cls": "lane",
+    "pts": [
+     [
+      560,
+      432
+     ],
+     [
+      540,
+      560
+     ],
+     [
+      525,
+      690
+     ],
+     [
+      485,
+      880
+     ]
+    ]
+   },
+   {
+    "name": "lane Leyford-Crossby",
+    "cls": "lane",
+    "pts": [
+     [
+      560,
+      432
+     ],
+     [
+      420,
+      520
+     ],
+     [
+      290,
+      600
+     ]
+    ]
+   },
+   {
+    "name": "lane Crossby-Ashlade",
+    "cls": "lane",
+    "pts": [
+     [
+      290,
+      600
+     ],
+     [
+      140,
+      400
+     ]
+    ]
+   },
+   {
+    "name": "lane Ashlade-Thornwick",
+    "cls": "lane",
+    "pts": [
+     [
+      140,
+      400
+     ],
+     [
+      200,
+      260
+     ],
+     [
+      270,
+      130
+     ]
+    ]
+   },
+   {
+    "name": "lane Crossby-Oxlade",
+    "cls": "lane",
+    "pts": [
+     [
+      290,
+      600
+     ],
+     [
+      400,
+      680
+     ],
+     [
+      525,
+      690
+     ]
+    ]
+   },
+   {
+    "name": "lane Hollowell-Kettlebury",
+    "cls": "lane",
+    "pts": [
+     [
+      760,
+      330
+     ],
+     [
+      750,
+      120
+     ]
+    ]
+   },
+   {
+    "name": "drove track to the heath",
+    "cls": "track",
+    "pts": [
+     [
+      290,
+      600
+     ],
+     [
+      300,
+      900
+     ]
+    ]
+   },
+   {
+    "name": "drove track to the heath (east)",
+    "cls": "track",
+    "pts": [
+     [
+      525,
+      690
+     ],
+     [
+      600,
+      900
+     ]
+    ]
+   }
+  ],
+  "settlements": [
+   {
+    "name": "Leyford",
+    "tier": "market_town",
+    "x": 560,
+    "y": 440,
+    "households": 160,
+    "people": "700-800",
+    "features": "parish church, market place and market cross, 2 inns, St John's hospital at the bridge, town mill, pillory and stocks, bridge over the Ley"
+   },
+   {
+    "name": "Thornwick",
+    "tier": "village",
+    "x": 270,
+    "y": 130,
+    "households": 70,
+    "people": "315-350",
+    "features": "church, two manors (Thornwick Hall, moated; the bishop's manor), ferry over the Ambre"
+   },
+   {
+    "name": "Kettlebury",
+    "tier": "village",
+    "x": 750,
+    "y": 120,
+    "households": 60,
+    "people": "270-300",
+    "features": "church, Kettlebury Court (moated), watermill"
+   },
+   {
+    "name": "Ashlade",
+    "tier": "village",
+    "x": 140,
+    "y": 400,
+    "households": 50,
+    "people": "225-250",
+    "features": "church, Ashlade Manor (moated) with small deer park, watermill"
+   },
+   {
+    "name": "Stanmere",
+    "tier": "village",
+    "x": 810,
+    "y": 560,
+    "households": 75,
+    "people": "340-375",
+    "features": "church, Stanmere Hall (moated) with dovecote, fishponds and deer park, watermill, green with pond"
+   },
+   {
+    "name": "Oxlade",
+    "tier": "village",
+    "x": 525,
+    "y": 690,
+    "households": 45,
+    "people": "200-225",
+    "features": "church, watermill; Oxlade Grange nearby"
+   },
+   {
+    "name": "Hollowell",
+    "tier": "village",
+    "x": 760,
+    "y": 330,
+    "households": 55,
+    "people": "250-275",
+    "features": "church, Hollowell Hall (moated), watermill"
+   },
+   {
+    "name": "Upper Ley",
+    "tier": "village",
+    "x": 485,
+    "y": 880,
+    "households": 40,
+    "people": "180-200",
+    "features": "church, manor house, watermill, heath-edge commons"
+   },
+   {
+    "name": "Crossby",
+    "tier": "village",
+    "x": 290,
+    "y": 600,
+    "households": 50,
+    "people": "225-250",
+    "features": "church, manor house, windmill, wayside cross, pond"
+   },
+   {
+    "name": "Brackenhurst",
+    "tier": "village",
+    "x": 880,
+    "y": 890,
+    "households": 35,
+    "people": "160-175",
+    "features": "church, manor house, watermill, heath-edge commons"
+   },
+   {
+    "name": "Mill End",
+    "tier": "hamlet",
+    "x": 590,
+    "y": 215,
+    "households": 8
+   },
+   {
+    "name": "Fennick End",
+    "tier": "hamlet",
+    "x": 640,
+    "y": 150,
+    "households": 8
+   },
+   {
+    "name": "Heathcot",
+    "tier": "hamlet",
+    "x": 300,
+    "y": 905,
+    "households": 8
+   },
+   {
+    "name": "Woodside",
+    "tier": "hamlet",
+    "x": 60,
+    "y": 700,
+    "households": 8
+   },
+   {
+    "name": "Coldhams",
+    "tier": "hamlet",
+    "x": 960,
+    "y": 470,
+    "households": 8
+   }
+  ],
+  "other_households": {
+   "count": 12,
+   "note": "mill houses, the warrener's lodge, park keepers, the grange"
+  },
+  "mills": [
+   {
+    "type": "watermill",
+    "x": 487,
+    "y": 860,
+    "name": "Upper Ley mill"
+   },
+   {
+    "type": "watermill",
+    "x": 522,
+    "y": 700,
+    "name": "Oxlade mill"
+   },
+   {
+    "type": "watermill",
+    "x": 556,
+    "y": 480,
+    "name": "Leyford town mill"
+   },
+   {
+    "type": "watermill",
+    "x": 574,
+    "y": 200,
+    "name": "Ley Mill"
+   },
+   {
+    "type": "watermill",
+    "x": 895,
+    "y": 878,
+    "name": "Brackenhurst mill"
+   },
+   {
+    "type": "watermill",
+    "x": 812,
+    "y": 580,
+    "name": "Stanmere mill"
+   },
+   {
+    "type": "watermill",
+    "x": 752,
+    "y": 300,
+    "name": "Hollowell mill"
+   },
+   {
+    "type": "watermill",
+    "x": 728,
+    "y": 140,
+    "name": "Kettlebury mill"
+   },
+   {
+    "type": "watermill",
+    "x": 135,
+    "y": 430,
+    "name": "Ashlade mill"
+   },
+   {
+    "type": "watermill",
+    "x": 155,
+    "y": 180,
+    "name": "Ash Mill (Thornwick)"
+   },
+   {
+    "type": "windmill",
+    "x": 330,
+    "y": 640,
+    "name": "Crossby windmill"
+   }
+  ],
+  "manors": [
+   {
+    "name": "Thornwick Hall",
+    "x": 300,
+    "y": 150,
+    "moated": true
+   },
+   {
+    "name": "Bishop's manor, Thornwick",
+    "x": 240,
+    "y": 140,
+    "moated": false
+   },
+   {
+    "name": "Kettlebury Court",
+    "x": 780,
+    "y": 150,
+    "moated": true
+   },
+   {
+    "name": "Ashlade Manor",
+    "x": 190,
+    "y": 385,
+    "moated": true
+   },
+   {
+    "name": "Stanmere Hall",
+    "x": 860,
+    "y": 600,
+    "moated": true,
+    "dovecote": true
+   },
+   {
+    "name": "Hollowell Hall",
+    "x": 790,
+    "y": 320,
+    "moated": true
+   },
+   {
+    "name": "Upper Ley manor",
+    "x": 460,
+    "y": 870,
+    "moated": false
+   },
+   {
+    "name": "Crossby manor",
+    "x": 305,
+    "y": 585,
+    "moated": false
+   },
+   {
+    "name": "Brackenhurst manor",
+    "x": 860,
+    "y": 905,
+    "moated": false
+   }
+  ],
+  "grange": {
+   "name": "Oxlade Grange (Cistercian, with great barn and fishponds)",
+   "x": 430,
+   "y": 760
+  },
+  "fishponds": [
+   {
+    "name": "Stanmere ponds (chain of 4)",
+    "pts": [
+     [
+      835,
+      630
+     ],
+     [
+      840,
+      660
+     ],
+     [
+      845,
+      690
+     ],
+     [
+      850,
+      720
+     ]
+    ]
+   },
+   {
+    "name": "Grange ponds",
+    "pts": [
+     [
+      450,
+      775
+     ],
+     [
+      465,
+      790
+     ]
+    ]
+   }
+  ],
+  "open_fields": [
+   {
+    "village": "Leyford",
+    "cx": 560,
+    "cy": 440,
+    "radius": 120,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Thornwick",
+    "cx": 270,
+    "cy": 130,
+    "radius": 180,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Kettlebury",
+    "cx": 750,
+    "cy": 120,
+    "radius": 170,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Ashlade",
+    "cx": 140,
+    "cy": 400,
+    "radius": 160,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Stanmere",
+    "cx": 810,
+    "cy": 560,
+    "radius": 190,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Oxlade",
+    "cx": 525,
+    "cy": 690,
+    "radius": 150,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Hollowell",
+    "cx": 760,
+    "cy": 330,
+    "radius": 160,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Upper Ley",
+    "cx": 485,
+    "cy": 880,
+    "radius": 140,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Crossby",
+    "cx": 290,
+    "cy": 600,
+    "radius": 160,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   },
+   {
+    "village": "Brackenhurst",
+    "cx": 880,
+    "cy": 890,
+    "radius": 130,
+    "note": "arable ring: 2-3 great unhedged fields of strips; leave out meadow, woods and heath"
+   }
+  ],
+  "woods": [
+   {
+    "name": "Westwood (coppice)",
+    "pts": [
+     [
+      0,
+      560
+     ],
+     [
+      70,
+      570
+     ],
+     [
+      95,
+      680
+     ],
+     [
+      80,
+      800
+     ],
+     [
+      0,
+      820
+     ]
+    ]
+   },
+   {
+    "name": "Hollins Wood (coppice)",
+    "pts": [
+     [
+      880,
+      330
+     ],
+     [
+      960,
+      300
+     ],
+     [
+      1000,
+      330
+     ],
+     [
+      1000,
+      450
+     ],
+     [
+      920,
+      440
+     ]
+    ]
+   },
+   {
+    "name": "Oak Hanger (coppice with standards)",
+    "pts": [
+     [
+      330,
+      700
+     ],
+     [
+      420,
+      690
+     ],
+     [
+      440,
+      770
+     ],
+     [
+      360,
+      800
+     ],
+     [
+      320,
+      760
+     ]
+    ]
+   },
+   {
+    "name": "Ley Wood",
+    "pts": [
+     [
+      620,
+      560
+     ],
+     [
+      700,
+      550
+     ],
+     [
+      720,
+      640
+     ],
+     [
+      640,
+      660
+     ]
+    ]
+   }
+  ],
+  "heath": {
+   "name": "Ley Heath (common pasture, gorse and bracken)",
+   "pts": [
+    [
+     180,
+     850
+    ],
+    [
+     400,
+     830
+    ],
+    [
+     600,
+     860
+    ],
+    [
+     780,
+     840
+    ],
+    [
+     820,
+     930
+    ],
+    [
+     800,
+     1000
+    ],
+    [
+     200,
+     1000
+    ],
+    [
+     160,
+     930
+    ]
+   ]
+  },
+  "warren": {
+   "name": "Ley Warren (pillow mounds) and warrener's lodge",
+   "x": 380,
+   "y": 930
+  },
+  "parks": [
+   {
+    "name": "Stanmere Park",
+    "cx": 930,
+    "cy": 720,
+    "r": 55
+   },
+   {
+    "name": "Ashlade Park",
+    "cx": 230,
+    "cy": 330,
+    "r": 40
+   }
+  ],
+  "moot": {
+   "name": "Ley Low (hundred meeting mound)",
+   "x": 380,
+   "y": 448
+  },
+  "gallows": {
+   "name": "Gallows Hill",
+   "x": 700,
+   "y": 452
+  },
+  "crosses": [
+   {
+    "x": 290,
+    "y": 612
+   },
+   {
+    "x": 600,
+    "y": 900
+   }
+  ],
+  "hospital": {
+   "name": "St John's hospital",
+   "x": 566,
+   "y": 424
+  }
+ }
+}

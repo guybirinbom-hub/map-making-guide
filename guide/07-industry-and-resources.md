@@ -353,7 +353,7 @@ Many English wool estates belonged to Cistercian monasteries (see [chapter 08](0
 
 | Cloth centre | When | Notes |
 |---|---|---|
-| **Flanders:** Ghent, Bruges, Ypres, plus Lille and Douai | 12th–14th centuries | The densest cloth region in Europe. Fine cloth from imported English wool. Ghent had about 55,000–65,000 people in the 14th century (estimates vary; some reach 70,000). Bruges perhaps 35,000–46,000. Ypres perhaps 20,000–30,000 c. 1300 (older books say up to 40,000), but only about 10,000–11,000 by 1412, after its industry declined. |
+| **Flanders:** Ghent, Bruges, Ypres, plus Lille and Douai | 12th–14th centuries | The densest cloth region in Europe. Fine cloth from imported English wool. Ghent had perhaps 40,000–65,000 people in the 14th century (estimates vary widely; see chapter 02). Bruges perhaps 35,000–46,000. Ypres perhaps 20,000–30,000 c. 1300 (older books say up to 40,000), but only about 10,000–11,000 by 1412, after its industry declined. |
 | **Florence** | 13th–15th centuries | The chronicler Giovanni Villani wrote that in the 1330s Florence had over 200 wool workshops making 70,000–80,000 cloths a year, and that over 30,000 people lived from the trade. Wool came from England and Spain. |
 | **English cloth districts** | 14th–15th centuries | After about 1350 England made more of its own cloth. Production spread into hilly countryside with fast streams: the West Country (Stroud valleys, Wiltshire), East Anglia, the West Riding of Yorkshire. |
 
