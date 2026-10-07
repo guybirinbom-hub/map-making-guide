@@ -564,7 +564,7 @@ The Normans, by contrast, gave few new village names in England, because the lan
    - a **river**: Stratford-upon-Avon, Newcastle upon Tyne.
 5. **Owners change, names follow.** King's Lynn was "Bishop's Lynn" until 1537, when the town passed from the Bishop of Norwich to Henry VIII.
 
-**Endings change at language lines.** Where two languages meet, the endings switch within a few villages, even inside one realm. In Belgium, north of the Romance–Germanic line, Flemish villages end in Germanic -gem ("home", like German -heim) or -zele ("house, settlement", as in Brussels; spelled -zeele across the border in French Flanders): Wevelgem, Zottegem, Herzele, Bollezeele. South of the line, Romance names such as Soignies and Ottignies ("Otto's lands": a Frankish owner's name with a Romance ending) take over; in Lorraine, -ange (the French spelling of German -ingen: Hayange is German *Hayingen*) on the German-speaking side faces -ville and -court on the French side, and two villages called Audun were told apart as Audun-le-Tiche ("German Audun") and Audun-le-Roman ("Romance Audun"). See [Language lines are not borders](03-capitals-and-borders.md#language-lines-are-not-borders).
+**Endings change at language lines.** Where two languages meet, the endings switch within a few villages, even inside one realm. In Belgium, north of the Romance–Germanic line, many Flemish village names end in Germanic -gem ("home", like German -heim) or -zele ("house, settlement", as in Brussels; spelled -zeele across the border in French Flanders): Wevelgem, Zottegem, Herzele, Bollezeele. South of the line, Romance names such as Soignies and Ottignies ("Otto's lands": a Frankish owner's name with a Romance ending) take over; in Lorraine, -ange (the French spelling of German -ingen: Hayange is German *Hayingen*) on the German-speaking side faces -ville and -court on the French side, and two villages called Audun were told apart as Audun-le-Tiche ("German Audun") and Audun-le-Roman ("Romance Audun"). See [Language lines are not borders](03-capitals-and-borders.md#language-lines-are-not-borders).
 
 ### A method for naming a region
 
@@ -725,6 +725,7 @@ Also check:
 - Marsh fever: the ague (Kent Archaeological Society): https://www.kentarchaeology.org.uk/magazine/121/09-marsh-fever-the-ague
 - Urban foundations in Central Europe, 1150–1950 (University of Oregon): https://pages.uoregon.edu/dluebke/Reformations441/Stadtentstehung.html
 - Wharram Percy (Wikipedia): https://en.wikipedia.org/wiki/Wharram_Percy
+- Rhine ferry Niederheimbach–Lorch (Upper Middle Rhine Valley World Heritage site; few bridges, ferries since the Middle Ages): https://www.welterbe-mittelrheintal.de/en/a-rheinfaehre-niederheimbach-lorch
 
 *Naming settlements*
 - Paul Cavill, "Place-names and historical geography: some issues arising from the Scandinavian settlement in England" (cites Cameron's Domesday counts): https://yugong.fudan.edu.cn/info/1521/29551.htm

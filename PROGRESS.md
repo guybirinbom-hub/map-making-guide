@@ -15,7 +15,7 @@ This guide is being written in stages. This file records what is done, what is l
 |---|---|
 | `research/baseline-numbers.md` | Done; corrected after the fact-checks and the audit |
 | `guide/01` – `guide/11` | Written, fact-checked, and audit gaps/fixes applied (`research/audit.json`) |
-| Cross-chapter follow-ups (`research/followups.json`) | Running at the end of the last session. Check `git log` and the files to confirm they landed. |
+| Cross-chapter follow-ups (`research/followups.json`) | Done |
 | `guide/00-step-by-step.md` | Written |
 | `guide/12-worked-example.md` | Written; schematic map (`guide/images/worked-example-kingdom.svg`) was being drawn |
 | `guide/13-quick-reference.md` | Was being written at the end of the last session |
@@ -33,6 +33,7 @@ The workflow is `.claude/workflows/assemble-guide.js`. Run it by name, or by `sc
    - Chapter 08 (around line 435) says "~1,700 castle sites"; align it with "about 1,700–1,800 (Gatehouse lists 1,761)".
    - Chapter 05's table row "Total length of the red route lines" should say this is the length of the reconstructed roads (Oksanen & Brookes 2025), not lines drawn on the map. The map has about 190 red lines. Chapter 11 could match 05's fuller Gough Map date wording (c. 1360–70 conventionally; Smallwood 2010 suggests after 1400).
    - Chapter 10 could note that sources differ on the Belgorod Line's end date (1646 or 1654).
+   - Chapter 02's carrying-capacity section says "about 1,300 kcal a day", but the baseline gives 1,250–1,800 kcal. Align them.
 6. Optional: chapters are long (9,000–14,000 words). A later pass could trim repetition.
 
 Process notes:
