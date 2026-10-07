@@ -113,9 +113,11 @@ At its height the Roman road network had more than 400,000 km (250,000 mi) of ro
 
 In 12th-century England, law books placed **four highways** under the king's special peace: Watling Street, Ermine Street and the Fosse Way (all Roman) and the Icknield Way (prehistoric). In Italy the Via Aemilia still formed the spine of the Po plain.
 
+Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, revised perhaps as late as 1430) shows thin red lines between towns, each marked with a distance in Roman numerals. It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances.
+
 ### Who maintained roads
 
-- **Landholders.** England's Statute of Winchester (1285) made the people who held the land along a highway responsible for it. On roads between market towns, they had to clear ditches, trees and bushes for **200 feet (about 61 m) on each side**, so that robbers could not hide.
+- **Landholders.** Repairs usually fell on local lords, landholders and communities, not on the king. England's Statute of Winchester (1285) added a security rule. On highways between market towns, the landholders had to clear ditches, trees and bushes for **200 feet (about 61 m) on each side**, so that robbers could not hide.
 - **Towns.** Towns paid for paving their streets and the roads just outside the gates, often with a special toll called *pavage*.
 - **Charity.** Building or mending roads and bridges counted as a pious work. For example, in 1474 Maud Heath gave land and houses to pay for a raised footway (a causeway) from Wick Hill across the flood plain of the River Avon to Chippenham in Wiltshire. A charity still looks after it from her gift, more than 500 years later.
 - **Lords who took tolls** were supposed to keep the road or bridge in repair. Many did not.
@@ -160,7 +162,7 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were onl
 | Krämerbrücke, Erfurt | 1325 (in stone) | Lined with shops and houses |
 | Ponte Vecchio, Florence | 1345 | Shops on the bridge |
 
-**How many?** For England, the historian David Harrison found that there were almost as many bridges in 1250 as in 1750. By the end of the Middle Ages most were solid, well-built structures, and they were repaired regularly. By the late Middle Ages most important crossings in a settled lowland country had a bridge. On the biggest rivers, bridges stayed rare. London Bridge was the only Thames bridge in London until Putney Bridge opened in 1729; the next bridge upstream was at Kingston, about 30 km (19 mi) up the river.
+**How many?** For England, the historian David Harrison found that there were almost as many bridges in 1250 as in 1750. By the end of the Middle Ages most were solid, well-built structures that were repaired regularly, and most important crossings in a settled lowland country had a bridge. On the biggest rivers, bridges stayed rare. London Bridge was the only Thames bridge in London until Putney Bridge opened in 1729; the next bridge upstream was at Kingston, about 30 km (19 mi) up the river.
 
 **Who paid?**
 - **Old duties** on certain lands or villages to repair a bridge.
@@ -269,7 +271,7 @@ Mills need **weirs** (low dams) to raise the water. Fish traps were also built a
 
 **Pound locks** are a chamber with a gate at each end, as in modern canals. China had one by 984. In Europe the first appeared in the Low Countries in the late 14th century: a large lock basin at Vreeswijk (dated 1373 or 1385; sources differ) and the first true pound lock at Damme near Bruges (1396). Near Milan, Bertola da Novate built 18 pound locks on the Bereguardo canal in 1452–58.
 
-**The Stecknitz Canal** (1391–98) linked the Elbe at Lauenburg with Lübeck on the Baltic, so that salt from Lüneburg could travel by water. It ran 97 km (60 mi) along two small rivers, with 11.5 km (7 mi) of dug canal across the watershed (the higher ground between two river systems). It had 13 locks at first (17 later), most of them simple flash locks. Its barges carried about 7.5 tonnes of salt each and needed at least 10 days for the trip one way.
+**The Stecknitz Canal** (1391–98), the first canal in Europe to cross a watershed (the higher ground between two river systems), linked the Elbe at Lauenburg with Lübeck on the Baltic, so that salt from Lüneburg could travel by water. It ran 97 km (60 mi) along two small rivers, with 11.5 km (7 mi) of dug canal across the watershed. It had 13 locks at first (17 later), most of them simple flash locks. Its barges carried about 7.5 tonnes of salt each and needed at least 10 days for the trip one way.
 
 ### Portages
 
@@ -285,7 +287,7 @@ A river port needs a quay, warehouses, a crane and a customs post. The great tre
 
 > **Map tip:** Draw navigable stretches of rivers a little thicker, from the head of navigation down to the sea. Put a town at the head of navigation, at confluences and at every portage end. Draw portages as short dotted lines between two rivers. Add weirs and mills on small rivers, and a toll castle at a narrow gorge on big ones.
 
-> **Later era (1500s+):** Pound locks spread, and canals began to cross watersheds. The Canal de Briare (1604–42) linked the Loire and the Seine. In the Netherlands, horse-drawn passenger canal boats (*trekschuiten*) ran on timetables from 1632 (Amsterdam–Haarlem).
+> **Later era (1500s+):** Pound locks spread, and more canals crossed watersheds. The Canal de Briare (1604–42) linked the Loire and the Seine; it was the first canal in Europe to cross a watershed using pound locks. In the Netherlands, horse-drawn passenger canal boats (*trekschuiten*) ran on timetables from 1632 (Amsterdam–Haarlem).
 
 ---
 
@@ -511,7 +513,7 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Water is much cheaper: land : river : sea ≈ 8 : 4 : 1 (England c. 1300). Bulk goods follow water; towns above 10,000 people sit on it.
 - Medieval roads were rights of way, not built roads. Roman roads were reused. Roads follow valleys, ridges, fords and bridges.
 - Stone bridges spread from the 12th century. They were paid for by tolls (pontage), rents, gifts and bridge chapels. Big rivers had few bridges and many ferries.
-- A few passes carry most traffic across a range. The lowest takes carts (Brenner, 1,370 m or 4,490 ft). Hospices sit near the summits.
+- A few passes carry most traffic across a range. The lowest takes carts (Brenner, 1,370 m or 4,495 ft). Hospices sit near the summits.
 - Inns and stages are 15–30 km (10–19 mi) apart on main roads. Caravanserais are 30–40 km (19–25 mi) apart on plains and 10 km (6 mi) or less in mountains.
 - Tolls sit at choke points. The Rhine had 12 toll stations between Mainz and Cologne alone in 1250.
 - Rivers have a head of navigation, towpaths, weirs, locks and portages. Millers and boatmen fought over the water.
@@ -574,7 +576,9 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Sultan Han (Wikipedia): https://en.wikipedia.org/wiki/Sultan_Han
 - Tolling the Rhine in 1254: Complementary Monopoly Revisited (Medievalists.net): https://www.medievalists.net/2012/12/tolling-the-rhine-in-1254-complementary-monopoly-revisited/
 - Robber baron (feudalism) (Wikipedia): https://en.wikipedia.org/wiki/Robber_baron_(feudalism)
+- Pfalzgrafenstein Castle (Wikipedia): https://en.wikipedia.org/wiki/Pfalzgrafenstein_Castle
 - Sound Dues (Wikipedia): https://en.wikipedia.org/wiki/Sound_Dues
+- Staple right (Wikipedia): https://en.wikipedia.org/wiki/Staple_right
 - Company of the Staple (Wikipedia): https://en.wikipedia.org/wiki/Company_of_the_Staple
 - River navigation in medieval England (Medievalists.net): https://www.medievalists.net/2012/01/river-navigation-in-medieval-england/
 - Inland water transport in medieval England: the view from the mills (Medievalists.net): https://www.medievalists.net/2012/08/inland-water-transport-in-medieval-england-the-view-from-the-mills-a-response-to-jones/
@@ -584,6 +588,10 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Stecknitz Canal (Wikipedia): https://en.wikipedia.org/wiki/Stecknitz_Canal
 - Old Salt Route (Wikipedia): https://en.wikipedia.org/wiki/Old_Salt_Route
 - Trade route from the Varangians to the Greeks (Wikipedia): https://en.wikipedia.org/wiki/Trade_route_from_the_Varangians_to_the_Greeks
+- Dnieper rapids (Wikipedia): https://en.wikipedia.org/wiki/Dnieper_Rapids
+- Gdańsk Crane (Wikipedia): https://en.wikipedia.org/wiki/Gda%C5%84sk_Crane
+- Cog (ship) (Wikipedia): https://en.wikipedia.org/wiki/Cog_(ship)
+- Galley (Wikipedia; Venetian great galleys): https://en.wikipedia.org/wiki/Galley
 - Bremen cog (Wikipedia): https://en.wikipedia.org/wiki/Bremen_cog
 - Hulk (medieval ship type) (Wikipedia): https://en.wikipedia.org/wiki/Hulk_(medieval_ship_type)
 - Carrack (Wikipedia): https://en.wikipedia.org/wiki/Carrack
@@ -600,6 +608,7 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Stourbridge Fair (Wikipedia): https://en.wikipedia.org/wiki/Stourbridge_Fair
 - The Kontore (Die Hanse): https://hanse.org/en/the-medieval-hanseatic-league/die-kontore
 - Hanseatic League (Wikipedia): https://en.wikipedia.org/wiki/Hanseatic_League
+- Steelyard (Wikipedia): https://en.wikipedia.org/wiki/Steelyard
 - Peterhof (Novgorod) (Wikipedia): https://en.wikipedia.org/wiki/Peterhof_(Novgorod)
 - Bryggen (Wikipedia): https://en.wikipedia.org/wiki/Bryggen
 - Fondaco dei Tedeschi (Wikipedia): https://en.wikipedia.org/wiki/Fondaco_dei_Tedeschi
@@ -610,3 +619,4 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 - Amber Road (Wikipedia): https://en.wikipedia.org/wiki/Amber_Road
 - Francesco Balducci Pegolotti (Wikipedia): https://en.wikipedia.org/wiki/Francesco_Balducci_Pegolotti
 - House of Thurn and Taxis (Wikipedia): https://en.wikipedia.org/wiki/House_of_Thurn_and_Taxis
+- Thurn und Taxis (German Wikipedia; the first permanent relay line of 1490): https://de.wikipedia.org/wiki/Thurn_und_Taxis

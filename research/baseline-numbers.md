@@ -124,7 +124,7 @@ Model assumptions:
 | Mode | km/day | mi/day | Notes |
 |---|---|---|---|
 | Walking traveller | 25–35 | 15–22 | Bracton: "a reasonable day's journey" is 20 mi. Foot messengers 25–40 km; professional runners 60+ km. |
-| Peasant to market | 6–10 one way | 4–7 | Out, trade and home in one day (Bracton's 6⅔ mi). |
+| Peasant to market | 6–10 one way | 4–6 | Out, trade and home in one day (Bracton's 6⅔ mi). |
 | Large army with baggage | 13–20 | 8–12 | Armies living off the land: 10–26 km. |
 | Army on forced march | 30–55 | 20–35 | Only for a few days. Harold, 1066: ~185 mi in 5–7 days, probably partly mounted. |
 | Mounted force with spare horses | 55–65 | 35–40 | Mongol strategic moves up to ~95 km (60 mi). |
@@ -139,7 +139,7 @@ Model assumptions:
 | Mongol yam relay | 200–300 (claimed) | 125–190 | — |
 | River boat, downstream | 40–100 | 25–60 | Estimate. Travels in daylight. |
 | River boat, upstream and towed | 10–20 | 6–12 | Danube, Vienna to Passau: ~300 km in 20–31 days. |
-| Galley along a coast | ~55 voyage average including port stops; 45–80 on a rowing day | ~30 / 28–50 | Cruising speed ~3–4.5 kn, up to 10 kn in a sprint. Venice to Jaffa pilgrim galley: 48 days (1480). |
+| Galley along a coast | ~55 voyage average including port stops; 45–80 on a rowing day | ~34 / 28–50 | Cruising speed ~3–4.5 kn, up to 10 kn in a sprint. Venice to Jaffa pilgrim galley: 48 days (1480). |
 | Sailing ship (cog or round ship) | 90–220 while under way; 40–100 as a voyage average | 55–135 / 25–60 | 2–6 kn in fair wind. Candia to Alexandria (~600 km) took 4 days in 1323. |
 
 - **Sources:** Cotterell & Kamminga 1990 (via Adams 2007); Langdon & Claridge 2011; Devereaux (ACOUP 2019); habsburger.net; Hill 1961 (via secondary summaries); Wikipedia *Yam (route)*, *Caravanserai*; pilgrim accounts (Barbatre 1480).
@@ -188,15 +188,15 @@ Model assumptions:
 ## 9. Castles and fortifications
 
 **Counts**
-- **England and Wales:** ~1,700 medieval castle sites in all. More than 1,000 were built within ~150 years of 1066, but only 500–600 were occupied at any one time after the Conquest. In the late Middle Ages there were over 250 tower houses in England, ~800 in Scotland and over 3,000 in Ireland.
+- **England and Wales:** ~1,700 medieval castle sites in all. More than 1,000 were built within ~150 years of 1066, but only 500–600 were occupied at any one time after the Conquest. In the late Middle Ages there were over 250 tower houses in England, ~800 in Scotland and over 3,000 built in Ireland (more than 2,000 still stand).
 - **German-speaking lands:** ~14,000 castles. Broader counts that include ruins and palaces give 19,000–25,000. Switzerland had ~4,000.
 - **France:** no reliable national total; many thousands. The castle boom shows in Provence: 12 castles in 950, 30 by 1000 and over 100 by 1030.
 - **Western Europe as a whole:** 75,000–100,000 castles built.
 
 **Control radius (a heuristic, not a measured figure)**
-- A castle's mounted garrison could dominate the area it could reach in a day's ride out and back: about **15–30 km (10–20 mi)** in radius.
+- A castle's mounted garrison could dominate the area it could reach in a day's ride out and back: about **15–30 km (10–20 mi)** in radius. These zones overlapped: active English castles stood only ~16–17 km apart on average (Welsh March 4–5 km). The castle's direct reach in a fight was only weapon range (~400 m).
 - The Normans' ring of castles around London (Windsor and others) was spaced about a day's march apart.
-- Edward I's North Wales castles stood ~20–40 km apart along the coast, and every one could be supplied by sea.
+- Edward I's North Wales castles stood ~18–50 km apart (most 18–25 km; Harlech–Aberystwyth ~50 km), and every one could be supplied by sea.
 
 **Garrisons**
 - **Peacetime caretaker garrison:** 5–20 men (constable, porter, watchmen and a few men-at-arms).
