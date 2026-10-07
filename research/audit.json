@@ -1,0 +1,493 @@
+{
+ "gaps": [
+  {
+   "file": "01-settlement-placement.md",
+   "missing": "A full place-name toolkit for naming settlements: the core habitative elements (-ton, -ham, -by, -thorpe, -wick, -bury/-burg, -stead, -worth), continental, Celtic, Slavic and Arabic equivalents, how names layer by language and date, manorial affixes, and a step-by-step method for naming a region.",
+   "whyItMatters": "The 'Reading place names' table has only 7 elements (ford, bridge, mouth, confluence, -wick, clearing, island). 08 adds church/Roman names and 06 adds shieling and clearing names, but nowhere does the guide give the everyday village generics or a way to build a consistent regional name set that shows conquest and migration history. Names are the first thing readers see on a map.",
+   "suggestedAddition": "Add a section 'Naming settlements realistically'. (1) English generics: -ton (farmstead, village; the commonest), -ham (homestead, often older), -wick/-wich (dairy farm or trading place), -worth (enclosure), -stead (place), -cot(e) (cottage), -bury/-borough/-burgh (fortified place), -chester/-caster (Roman fort, from castra), -ley/-leigh (wood clearing), -field (open land), -den (valley), -hurst (wooded hill), -stow (holy place), -minster (mother church). Norse layer: -by (farm, village: more than 600 in England, 303 already in Domesday), -thorpe (secondary settlement, about 300), -thwaite (clearing, about 300, mostly Cumbria and Westmorland, outside the Danelaw core), -toft, -holm, Kirk- (Baugh and Cable; Fellows-Jensen). (2) Celtic: Aber-/Inver- (river mouth), Llan-/Kil- (church), Caer-/Dun- (fort), Pen- (head, hilltop), Tre-/Bally- (farm, settlement), Strath- (valley). (3) German: -ingen and -heim (older), -dorf, -hausen, -hof, -weiler (hamlet), -stadt/-stedt, -burg, clearing names -rode/-rath/-reuth/-ried (high-medieval clearance), -hagen (hedged settlement); Slavic -itz/-ow/-in east of the Elbe. French: Gallo-Roman -acum becomes -ac in the south (Cognac, Bergerac) and -y in the north; Frankish -court/-ville/-villiers; Norse -tot/-beuf/-fleur in Normandy. Italian: -ano from Roman estate names (fundus Antonianus), Castel-/Rocca (fortified villages), Borgo (new suburb or town), Pieve (mother church). Iberian Arabic: Al- (the), Medina- (madina, city: Medinaceli, Medina del Campo), Alcala (al-qal'a, fortress), Alcazar (al-qasr, palace-fort), Guad- (wadi, river: Guadalquivir 'great river'), Almaden (al-ma'din, 'the mine'); repopulation names Villanueva, Castro-. Slavic: -grad/-gorod (fort, town: Novgorod 'new town'), -ice (descendants of), -ow/-ov (possessive: Krakow). (4) Layering rules: rivers and hills keep the oldest names; villages carry the language of whoever founded or refounded them; about 13,418 places were already named in Domesday (1086), so village names are old and rarely change; planted towns get 'New' names (Newton, Villeneuve, Neustadt, Villanueva, Novgorod); same-name villages get affixes after a conquest (Sutton Courtenay, from Henry II's grant to Reginald Courtenay in 1177; Stoke Mandeville, affix first recorded 1284), or Great/Little, Upper/Lower, Market/Chipping, King's/Bishop's/Abbots, and river suffixes ('-on-Avon'). (5) Method: pick 1-3 language layers per region from its history; take 70-80% of village names from 4-8 generics of the dominant layer; use ford/bridge/hill/island names only where that feature is drawn; reserve fort, market, church and Roman elements for places that have them; add affixes to split duplicates. Fantasy twist: give each people its own generic set and let border zones mix them, so the map shows who settled where.",
+   "priority": "high"
+  },
+  {
+   "file": "13-quick-reference.md",
+   "missing": "A single master legend and label hierarchy that resolves the symbol and line-style clashes between chapters, plus conventions for showing older layers.",
+   "whyItMatters": "Chapters give the same symbol to different features. A star is the capital (03), a great city (02), a citadel (04), a great shrine (08) and a star fort (04, 09). A 'circle with a ring' is a town (02) and a double circle is a county town (03). A small square is a farmstead (02), a tower house (04) and a manor house (06). A triangle is a watchtower or beacon (04) and a barrow or standing stone (08). A cross is a parish church (06, 08) and a windmill (06). Short bars are tolls (05) and canal locks (09). A dotted line is a county border (03), a track or mule path (05), a royal forest boundary (06) and a pilgrim road (08); a dashed line is a duchy border (03), a sea lane, a drove road and a portage (05). A map built from the guide would be ambiguous.",
+   "suggestedAddition": "One table, one symbol per feature, grouped by settlements, power, military, religious, economic, routes, boundaries and antiquities, with the scale each appears at. Proposed fixes: star only for capitals; star fort as a 5-6-pointed outline, 1500+ only; shrine as scallop or reliquary; county town as circle with central dot; windmill as an X of four sails on a dot; tolls as one bar with a 'T', locks as paired bars; borders always in dash-dot families, routes always solid or dotted. Consolidated type hierarchy from 02, 03 and 11: realm names in spaced capitals; great city 13-14 pt capitals; city 11-12 pt bold; town 9-10 pt; market town 8-9 pt; village 7-8 pt; hamlet 6-7 pt italic; water names italic; nothing under 6 pt; 2-3 typefaces. For older layers adopt the Ordnance Survey convention: since the 1830s OS has lettered Roman antiquities in 'Egyptian' (slab-serif) or plain capitals and non-Roman antiquities (prehistoric and medieval) in Gothic type, so ruins read as ruins without extra symbols (Murray, CAA 1997; Geograph OS symbol articles). Historic model: Saxton's atlas (1579) drew villages as a small building with a spire, towns as clusters of buildings and parks as paled enclosures, and its index counted for each county the cities, bishoprics, market towns, castles, parishes, rivers, bridges, chases, forests and parks: a ready-made 'how many' checklist.",
+   "priority": "high"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "missing": "Population, density and city-size benchmarks from outside Europe and the Islamic Mediterranean: China, Southeast Asia, Mesoamerica and sub-Saharan Africa.",
+   "whyItMatters": "All tier, density and rank-size numbers are European or Middle Eastern. Mapmakers building rice-growing, tropical or Mesoamerican-style realms have no calibration, and the guide's 'only 8 cities over 100,000' rule is wrong for a world that contains a Song China.",
+   "suggestedAddition": "Add a box 'Beyond Europe' with: Song China held about 3.1 million km2 (1.2m sq mi) by 980; the census around 1100 recorded about 20 million households, roughly 90-100 million people (about 30 per km2, 78 per sq mi, on average and far more in the rice basins). Kaifeng and Hangzhou are each commonly put at around 1 million (Hangzhou c. 1270 had about 186,000 registered households; estimates vary widely). Growth rode on early-ripening Champa rice (30,000 bushels of seed sent to the lower Yangzi in 1011-12) and double cropping. Greater Angkor at its height held 700,000-900,000 people across about 3,000 km2 (1,160 sq mi) of houses on mounds, ponds, embankments and rice fields (Klassen et al., Science Advances 2021): a low-density city, roughly 230-300 per km2 averaged over the zone (derived). Tenochtitlan in 1519 had 200,000-250,000 on 8-13.5 km2 of island (roughly 150-300 per ha, derived), fed by chinampas in lakes Xochimilco and Chalco and joined to shore by three causeways. Great Zimbabwe (14th-15th c.): traditionally about 18,000, recent surveys say no more than 10,000. Kilwa (14th c.): at least about 10,000, perhaps 20,000. Shifting (swidden) cultivation supports only about 10-35 people per km2 (FAO). Add a row to 'How big to draw it' for dispersed 'garden' cities (Angkor; the 75 per ha already given for Baghdad) versus packed island cities (Tenochtitlan).",
+   "priority": "high"
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "missing": "Tropical, monsoon, savanna and arctic/tundra rows in the 'Settlement by terrain and biome' table and sections, with densities and patterns.",
+   "whyItMatters": "The biome table covers river plains, hills, uplands, coasts, marsh, forest, steppe, desert, islands and a Norse 'cold north', but has no tropical forest, wet-rice lowland, savanna or tundra entry, although the brief explicitly asks for tropical and arctic variants.",
+   "suggestedAddition": "Add four rows and short sections. (a) Tropical forest and monsoon uplands: shifting (swidden) cultivation, small villages that rotate fields over long fallows, 10-35 people per km2 (26-90 per sq mi) (FAO); paths not roads; towns only on rivers and coasts. (b) Wet-rice lowlands, deltas and monsoon plains: unbroken paddies with villages on dikes, mounds or canal banks; water control (tanks, canals, terraces; see 06) decides the pattern; densities far above European grain land (Song China averaged about 30 per km2 over 3.1m km2, much higher in rice basins; Greater Angkor roughly 230-300 per km2 over 3,000 km2, derived from Klassen et al. 2021). (c) Savanna and Sahel: towns at the desert edge where camel caravans meet river boats (Timbuktu, Gao on the Niger; see 05), villages at wells and seasonal rivers, herders moving with the rains. (d) Arctic tundra and taiga: no grain; reindeer-herding Sami siida bands (related families sharing a herd and territory) gather in a named winter village by a lake or river and split into small groups for spring, summer and autumn sites; Norse-type pastoral farms in fjords and coastal strips (Iceland counted about 4,560 tax-paying farmers in 1097 and had no towns). Map tip: draw shifting fields as scattered clearings of different ages, rice land as a continuous fine grid along rivers, and arctic land as a few winter-village dots with seasonal routes.",
+   "priority": "high"
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "missing": "Numbers for nomad and seasonal camps: camp sizes, number of moves a year, distances between seasonal camps, winter versus summer siting, and the ruler's mobile camp.",
+   "whyItMatters": "The steppe section is four sentences and gives no 'how many, how big, how far apart'. Nomad camps appear in the brief and in 03 and 10 (horde peoples), but a mapmaker cannot place or size them.",
+   "suggestedAddition": "Expand 'Steppe and grassland' with: Camp unit: in Mongolia the basic camp (hot ail) is a cluster of two or more tents, usually 2-8, each holding one family. In war or danger, Mongol clans camped in a ring of wagons (kuriyen); Jamuqa's thirteen kuriyen together held about 30,000 men, about 2,300 each (Rashid al-Din, via modern studies). Movement (modern ethnography as a guide): 6-10 moves a year; about 9 in the Dzungarian Gobi and 10 in the western Khangai; 15-20 km (9-12 mi) between camps in wetter forest-steppe, 70-125 km (43-78 mi) between the most distant camps in the Gobi, up to about 150 km (93 mi) in dry mountains. Winter camps sit in sheltered valleys and south-facing slopes with pens and fodder, often at the same site every year; summer camps sit on open upland pasture near water. The ruler's ordu is a moving town: in 1332 Ibn Battuta called Uzbeg Khan's camp 'a vast city on the move ... with mosques and bazaars', and one khatun's travelling escort alone had about 5,000 horsemen, 400 wagons, 2,000 horses and about 500 oxen and camels. Density stays under 1-2 per km2 (02). Map tip: shade summer and winter pasture zones, put winter-camp dots along rivers, draw seasonal migration arrows, wells and fords, one or two fixed towns (Sarai, Karakorum) and frontier markets on the edge of farmland.",
+   "priority": "high"
+  },
+  {
+   "file": "06-villages-and-countryside.md",
+   "missing": "Kingdom-scale land-use shares: what fraction of a realm is ploughland, woodland, pasture and waste, and how that changes with date.",
+   "whyItMatters": "The guide gives per-person land needs and parish examples, but never says how much of a kingdom map to colour as fields or forest. Most fantasy maps over-forest or under-forest settled lowland. Royal forest (one-third of southern England) is a legal zone, which readers may misread as tree cover.",
+   "suggestedAddition": "Add a table 'How much of the map is fields and woods'. England (about 32 million acres, 13 million ha): arable including fallow 11.5 million acres in 1300, about 36% of the land; 8.7m (27%) in 1380; 7.6m (24%) in 1450; 8.9m (28%) in 1600 (Broadberry, Campbell et al., Table 1). Woodland and wood-pasture about 15% in 1086 (Rackham, from Domesday), cut to about 7-10% by 1349 (Royal Forestry Society; other estimates about 10%), then stable or slightly recovering after the plague. Deer parks nearly 2% (already in 06). Meadow is small (Milton Ernest: 81 of 1,600 acres, about 5%); village sites and roads together about 7% there. The rest is pasture, heath, moor, fen and common waste. Rule for a lowland kingdom c. 1300: about 35-40% ploughland, 7-15% woodland, the rest grazing and waste; uplands far less ploughland. After a plague, cut arable by about a third and expand pasture. Note that the baseline's '10 million acres of arable' should be reconciled with this 11.5 million (which includes fallow).",
+   "priority": "high"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "missing": "A measured density for main roads: how many kilometres of highway a kingdom map should show per area.",
+   "whyItMatters": "05 tells you how roads bend and where they go, and 11 mentions the Gough Map's 190 route lines, but there is no number for how much main road to draw. Maps end up with either a spider web or three lonely roads.",
+   "suggestedAddition": "Add to 'Drawing the route network': the Gough Map of Britain (c. 1360-1410) shows over 600 settlements, and its red route lines total about 4,540 km (2,820 mi) across England and Wales (Oksanen and Brookes, GIS database, 455 segments). About 35.5% of that length follows Roman roads. On about 151,000 km2 (58,000 sq mi) that is roughly 30 km of main road per 1,000 km2 (about 48 mi per 1,000 sq mi). Rule: on a kingdom map, a 100 x 100 km (62 x 62 mi) square of settled country shows about 300 km (190 mi) of main road, i.e. three or four through-routes, each linking towns 15-30 km apart; the Gough Map was a selection, so the real network of lesser roads and lanes was many times denser (every village has 2-3 lanes, per 05). In an old Roman province, put about a third of main-road length on straight Roman alignments.",
+   "priority": "high"
+  },
+  {
+   "file": "00-step-by-step.md",
+   "missing": "A master 'what to draw at which scale' table with scale arithmetic and target counts, pulled together from all chapters, plus a Step 0 that fixes date, realm type and scale.",
+   "whyItMatters": "Scale advice is scattered and partly inconsistent (02, 03, 04, 06 and 08 each have their own scale table). A mapmaker needs one place that says: at this scale, show these features, roughly this many per area, and here is how big things are on paper.",
+   "suggestedAddition": "Step 0: choose the date (1100, 1300, 1450 or 1600 change everything; 11 #29), the realm type (centralised or fragmented; 02, 03) and the scale. Scale arithmetic: continent 1:10,000,000 (1 mm = 10 km): an England-sized kingdom (130,000 km2) is only about 36 x 36 mm. Kingdom 1:1,000,000 (1 mm = 1 km): a great city 2-4 km wide is 2-4 mm, a town 0.5-1 mm, so use symbols. Local 1:50,000-1:100,000 (1 mm = 50-100 m): a village 250-450 m wide is 2.5-9 mm, so draw outlines. Feature filter from the chapters: continent: 3-8 cities of 50,000+, capitals, 1-2 great shrines, universities, arsenals, main passes and sea lanes, about one fortress per 20,000-50,000 km2 (04). Kingdom: every town of 2,000+, the 30-40 main market towns (02), 30-40 counties for an England-sized realm (03), 1-3 mining districts and salt sources (07), 5-10 cathedrals per 50,000 km2 in an English-style church (08), about one royal or major castle per 1,000 km2 (04), about 30 km of main road per 1,000 km2 (05). Local: villages 1.5-4 km apart, about one mill per village, about 73 churches per 1,000 km2, 4-5 moated sites and 2-3 deer parks per 100 km2 (06, 08). Then the existing order: water, farmland, villages, towns, capital, routes, castles, industry, religion, ruins, sanity check.",
+   "priority": "high"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "missing": "How often a major lowland river is crossed: a measured spacing of bridges (and ferries between them) along one river.",
+   "whyItMatters": "05 says 'few bridges on great rivers, tens of km apart' and that most English crossings had bridges, but gives no worked spacing. Mapmakers need a number for how many bridge towns to put along a river.",
+   "suggestedAddition": "Add a worked example: the Thames between London and Oxford, about 180 km (113 mi) by river. By c. 1300 it had road bridges at London (stone, 1176-1209), Kingston (stone foundations c. 1170; repaired 1223), Staines (oaks for repair granted 1228), Windsor (probably 12th c.; rebuilt with oaks granted 1242), Maidenhead (recorded 1297, replacing an earlier wooden bridge), Henley (repair recorded 1223), Caversham at Reading (recorded 1231, with a chapel), Wallingford (recorded 1141, rebuilt in stone c. 1230s) and Oxford. That is about nine bridges, one every 20-22 km (12-14 mi) of river, each with a town. When Abingdon and Culham bridges were built in 1416-22 they took traffic away from Wallingford, which declined: a new bridge can make one town and break another. Rule: on a navigable lowland river in a settled kingdom, a bridge town every 15-30 km of river, with ferries and fords between; on the greatest rivers (Rhine below Basel) far fewer.",
+   "priority": "medium"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "missing": "A port hierarchy with counts: head ports, member ports, creeks and anchorages, and how many of each a coast has.",
+   "whyItMatters": "05 covers harbour quality, galley stops and lighthouses, and 01 gives Hanseatic port spacing, but there is no 'how many ports and of what rank' for an ordinary kingdom's coast, so maps either line every cove with big ports or have one port per coast.",
+   "suggestedAddition": "Add a table 'Port ranks'. Head ports: in late medieval England overseas trade was channelled through 15 designated head customs ports, from Newcastle in the north-east round to Bristol in the south-west (Childs), among them London, Hull, Boston, King's Lynn, Southampton and Bristol; that is roughly one per one to three coastal counties. Member ports: opened under a head port when trade was busy enough. Creeks and landing places: every few kilometres of sheltered shore, used by small coasters and fishing boats. Fleet size: England's whole merchant fleet was perhaps 1,000-2,000 vessels, mostly small coasters and fishing boats under 10-20 tons. Anchorages ('roads'): sheltered water off a coast where fleets waited for wind, such as the Downs off Kent (later guarded by Henry VIII's forts; see 09). Map tip: one large port symbol per head port with customs house and quays, small anchors for member ports, unlabelled landing places in coves, and a named anchorage off the busiest stretch.",
+   "priority": "medium"
+  },
+  {
+   "file": "04-military-sites.md",
+   "missing": "Temporary and semi-permanent military sites: siege camps that became towns, army camps, and Roman marching camps as older earthworks.",
+   "whyItMatters": "The brief lists 'camps' among military features. 04 covers siege castles and muster points but not the camp itself, its size or its remains, even though siege camps can turn into real towns.",
+   "suggestedAddition": "Add a section 'Camps and siege towns'. Calais 1346-47: the English built a camp-town west of the city (Nouville, called Villeneuve-la-Hardie) with two market days a week, supplied by 853 ships crewed by 24,000 sailors, for an army that peaked at about 32,000 (already in 04). Neuss 1474-75: the Burgundian army of more than 14,000 encircled the town for ten months (29 July 1474-27 June 1475), with headquarters in a monastery on an island and units blocking all six gates. Santa Fe (Granada), 1491: after its first camp burned, the Castilian army built a permanent walled camp in sight of Granada, laid out as a cross with a gate at each end (reportedly built in about 80 days); it became a chartered town and still exists. Roman marching camps: more than 290 are known in Britain; rectangular with rounded corners, turf rampart and ditch, usually 4 gates; size classes around 10 ha, around 20 ha and a '63-acre' (25 ha) series; Pennymuir Camp A (42 acres, 17 ha) could hold two legions, 8,000-12,000 men. Map tip: draw a siege camp as a rectangle or ring of tents with a market square beside the besieged town; on a later map, leave it as a 'camp' earthwork or a grid-planned village with a military name.",
+   "priority": "medium"
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "missing": "Language and cultural regions and how they relate to political borders, including language islands and retreating language lines.",
+   "whyItMatters": "Continent and kingdom maps often show peoples or languages. 03 treats borders only as political lines and zones; it never says that language lines are older and more stable than borders, or how they move. This also drives place-name zones.",
+   "suggestedAddition": "Add a short section 'Language lines are not borders'. The Romance-Germanic language line in today's Belgium formed between the 6th and 9th centuries and has hardly moved since (it was only made a legal boundary in 1963), while realms changed over it many times. Breton reached its farthest east in the 9th century, near Rennes and Nantes (the 'Loth line' from Mont-Saint-Michel to the Loire), and then retreated west for centuries. Language islands: German settlers ('Saxons') were brought to Transylvania from the mid-12th century, received self-government in the Diploma Andreanum (1224) and at their peak held about 270 towns and villages inside the Kingdom of Hungary; Muslim Mudejar villages in Christian Valencia are another case (08). Map tip: draw language or culture zones as a separate overlay; let them cross borders; use different place-name generics on each side (see 01); add a few language islands where a ruler planted colonists.",
+   "priority": "medium"
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "missing": "A bureaucratic-empire model of local administration (China): counties with walled seats at regular spacing and periodic market towns.",
+   "whyItMatters": "03's units are all European feudal ones (duchy, county, hundred, manor). A centralised, salaried empire produces a very different and more regular map, which fantasy empires often need.",
+   "suggestedAddition": "Add a row and short note 'Bureaucratic empire': Song China had about 1,230 counties (xian) on about 3.1 million km2, about 2,500 km2 (970 sq mi) per county, so county seats sit about 50-55 km (31-34 mi) apart on a rough hexagonal pattern (derived); Ming China had about 1,385. Each county seat was the government town, and walls spread until nearly all of them had one: about 80% of administrative cities were walled in the 15th century and about 95% in the 16th (walled-cities dataset, Earth System Science Data 2021). Below the county seat, G. William Skinner's 'standard market town' served about 18 villages and 6,000-12,000 people, with periodic markets meeting from every other day to once in ten days. Map tip: in an imperial bureaucracy, draw evenly spaced walled county seats of similar size, each with its own rectangle of wall, and a lattice of periodic market towns between them; local lords and private castles are rare.",
+   "priority": "medium"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "missing": "Road-and-relay systems without wheels or horses (the Inca), and causeway cities (the Aztec), as alternative transport models.",
+   "whyItMatters": "All transport numbers assume carts, pack horses, camels and boats. Mountain, jungle or non-horse cultures (and many fantasy peoples) need a different model with its own spacing and speeds.",
+   "suggestedAddition": "Add a box 'Roads without wheels'. The Inca road network was about 40,000 km (25,000 mi) long (estimates 23,000-60,000 km), mostly 1-4 m wide, with main routes over 4 m. Tambos (state way stations) stood at intervals of about a day's walk, at least 1,000 and perhaps 2,000 of them, sited by water and farmland. Chaski relay huts stood every 2.5 km or so (other sources 6-9 km), so messages moved 240-300 km (150-190 mi) a day by runners. Llamas carried about 30 kg (66 lb) for about 20 km (12 mi) a day. Rope suspension bridges spanned gorges up to about 45 m (148 ft) and were rebuilt about every two years. Big storage centres held state food (Huanuco Pampa had 497 storehouses). In the Valley of Mexico, Tenochtitlan was tied to the shore by three causeways (the western one to Tlacopan about 3 km, 2 mi) and fed by canoe traffic across the lakes. Map tip: draw way stations every day's stage, a relay hut chain along trunk roads, rope bridges at gorges and storehouse clusters at provincial centres.",
+   "priority": "medium"
+  },
+  {
+   "file": "06-villages-and-countryside.md",
+   "missing": "Local-scale features of irrigated rice and water-tank landscapes: paddy terraces, tanks (reservoirs), water temples and cooperative irrigation units.",
+   "whyItMatters": "06 covers Mediterranean terraces, acequias, norias and qanats, but not the wet-rice landscapes that a tropical or Asian-inspired local map needs.",
+   "suggestedAddition": "Add a table 'Rice and tank landscapes'. Bali subak: cooperative irrigation units of canals, tunnels and weirs dating to the 9th century; about 1,200 subak, each serving 50-400 farmers from one water source, with water temples at sources and division points (UNESCO site of 19,500 ha). Sri Lankan tanks: Parakrama Samudra, built by Parakramabahu I (1153-86) by joining earlier tanks, covers about 2,400 ha (24 km2, 9 sq mi) and irrigates about 7,300 ha of paddy, fed and drained by many smaller village tanks. Chinampas: raised garden plots built into shallow lakes (Xochimilco, Chalco) that fed Tenochtitlan. Angkor: houses on mounds, each with a small pond, between embankments and rice fields. Map tip: draw terraces as contour bands, tanks as a curved bund with a sluice and the paddy fan below it, temples at water sources, and villages along canal banks or on mounds.",
+   "priority": "medium"
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "missing": "Correction of the castle-density row in mistake 24, which contradicts chapter 04.",
+   "whyItMatters": "Mistake 24's table labels the England-and-Wales average of active castles (one per 250-300 km2, 15-18 km apart) as 'Newly conquered or contested land', and the quick summary repeats 'Contested land had about one castle per 250-300 km2'. Chapter 04 (the owner of fortification numbers) says contested marches had a castle site every 4-6 km, one per 17-28 km2. A reader following 11 would under-fortify a march by a factor of 5-10.",
+   "suggestedAddition": "Relabel the row 'Whole realm after conquest, active castles (England and Wales 1066-1200): one per 250-300 km2, about 15-18 km (9-11 mi) apart'. Add a separate row 'March or contested border (Welsh March): one castle site per 17-28 km2 (7-11 sq mi), 4-6 km (2.5-4 mi) apart (see 04)'. Fix the quick-summary bullet to match. Also align the 08 'castle in use' density (~220-260 km2, England only) with 04's figure (250-300 km2, England and Wales) or state the different areas.",
+   "priority": "medium"
+  },
+  {
+   "file": "13-quick-reference.md",
+   "missing": "A reconciliation list for numbers that differ between chapters, so the cheat sheet can state one value for each.",
+   "whyItMatters": "PROGRESS requires 13 to match the chapters exactly, but several values differ: cog capacity is 30-200 t (05), roughly 100-300 tons (09) and 40-200 tons (10); hundreds average 130-150 km2 from 812 Domesday hundreds (03) but 150-200 km2 from about 630 hundreds in 1316 (06); English arable is about 10 million acres (baseline, 02) but 11.5 million including fallow in Broadberry et al.'s Table 1; the peasant walk to market is 4-7 mi (baseline) but 4-6 mi (05; 6-10 km is 3.7-6.2 mi); active castles are one per 220-260 km2 (08) versus 250-300 km2 (04); 11's castle row conflicts with 04 (see the 11 gap).",
+   "suggestedAddition": "Before writing 13, resolve each pair in the owning chapter (02 population, 04 fortifications, 05 transport) and state dates or areas explicitly: cog 30-200 t, typical 90-130 t (Bremen cog 1380); hundreds '~130-150 km2 in 1086, ~150-200 km2 by 1316'; arable '~11.5 million acres including fallow (7.4m sown) in 1300'; peasant walk '6-10 km (4-6 mi)'; active castles 'one per 250-300 km2 in England and Wales, ~235 km2 counting England alone'. Then copy only the reconciled values into 13.",
+   "priority": "medium"
+  },
+  {
+   "file": "13-quick-reference.md",
+   "missing": "An expanded 'what exists by which date' table for features and technologies, beyond the seven items in 11.",
+   "whyItMatters": "Mixing eras is one of the most visible errors (11 #29), and the guide's dates are scattered over ten chapters. A cheat sheet needs one timeline the mapmaker can check against the date in the title box.",
+   "suggestedAddition": "One table, first appearance and 'common by', using dates already checked in the chapters plus a few more: stone-bridge boom from the 1130s (Regensburg 1135-46); windmill 1185 (Weedley); Gotthard opened by the Schollenen bridge c. 1220; murage grants from 1220; Dominican and Franciscan friaries in England 1221 and 1224; bastides from 1222 (Cordes); paper mills at Fabriano by 1276 and north of the Alps at Nuremberg in 1390 (Ulman Stromer); first European picture of a cannon 1326; first public hour-striking clock, San Gottardo, Milan, 1336; pound lock at Vreeswijk 1373; Stecknitz summit canal 1391-98; drainage windmill 1408; printing in 236 towns by 1500; first English blast furnace c. 1490; bastioned fortification spreading beyond Italy in the 1530s-40s; enclosed-lake polders from 1612 (Beemster). Mark 'Later era' rows clearly.",
+   "priority": "medium"
+  },
+  {
+   "file": "12-worked-example.md",
+   "missing": "Time slices of the worked kingdom at several dates, with the numbers changing.",
+   "whyItMatters": "The brief asks how the map changes with time. Chapters 01, 02 and 09 explain growth, plague and later change, but no worked example shows the same territory redrawn at different dates, so readers cannot see how much to change.",
+   "suggestedAddition": "Redraw the 02 mini-kingdom (60,000 km2, 1.2 million people in 1300) at four dates. 1100: about 0.45-0.6 million (England grew about 2.7 times between 1086 and 1315), fewer markets and towns, woodland near 15%, many earth-and-timber castles. 1300: 1.2 million, ploughland about 35-40%, woodland about 7-10%, about 110 market centres, towns at their largest. 1400: about 0.65 million (England fell about 46% in 1348-51), 10-25% of villages deserted or shrunken (German settlements fell from about 170,000 to 130,000, minus 23.5%, between 1300 and 1500), ploughland down about a third (England 11.5 to 7.6 million acres by 1450), sheep runs and gardens inside town walls. 1600: back to about 1.0-1.2 million, capital two to four times its medieval size, interior castles ruined or turned into houses, post stations, and abbey ruins if the realm turned Protestant. Show a count table per tier for each date and a thumbnail map for each.",
+   "priority": "medium"
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "missing": "How big religious and lordly complexes are on the ground (precinct and enclosure sizes) for local maps.",
+   "whyItMatters": "08 gives counts and numbers of monks but no footprint, so on a local map an abbey is drawn as a single church symbol or as a vast walled town. 'How big' is one of the five questions the guide promises to answer.",
+   "suggestedAddition": "Add a table 'Footprints'. Cistercian precincts: Roche about 30 acres (12 ha), Kirkstall about 40 acres (16 ha), Fountains about 70 acres (28 ha) inside a 3.4 m (11 ft) wall built in the 13th century, Rievaulx over 90 acres (36 ha) (Sheffield Cistercians project). Glastonbury's surviving abbey grounds cover 36 acres (15 ha). That is roughly 350-600 m (0.2-0.4 mi) across, 14-24 mm on a 1:25,000 map. Moated manor sites: islands usually about 40-60 m (130-200 ft) across, a few high-status ones about 1 ha (Historic England scheduling texts). Motte baileys from about 0.07 to 0.3 ha in recorded examples. For comparison: deer parks 40-80 ha (06), Old Sarum 400 x 360 m and Malbork 21 ha (04). Map tip: draw great abbeys as a walled precinct with gatehouse, church, cloister, fishponds and mill inside; friaries as a small walled plot at the town edge.",
+   "priority": "medium"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "missing": "Numbers for drove roads: speeds, herd sizes, journey times and stopping places.",
+   "whyItMatters": "Drove roads are listed in the road table and live animals in the trade table ('hundreds of km'), but there is no speed in the travel table and no spacing for overnight halts, so mapmakers cannot place them.",
+   "suggestedAddition": "Add a travel-table row and a note: cattle droves moved about 16-20 km (10-12 mi) a day; Welsh drovers took up to about three weeks to cover the 400 km (250 mi) or more to London; herds of up to about 300 cattle were handled by 6-12 men, only the foreman mounted; sheep flocks of 1,500-2,000 took 20-25 days from Wales to London; cattle were shod for the journey. Droving from Wales into England is recorded from the 14th century (peak in the 18th). Halts with grazing and water every day's stage, about 16-20 km apart; routes keep to open hill tracks and avoid towns and tolls. Map tip: draw a broad dashed track from upland breeding grounds to a lowland fair or city, with a halt every day's drive and a big livestock fair at its end.",
+   "priority": "low"
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "missing": "Peat digging as an industry that creates lakes and drowned land.",
+   "whyItMatters": "07 treats peat only as a fuel. Large medieval peat diggings produced some of the most distinctive human-made water landscapes in Europe, which a mapmaker would otherwise read as natural lakes.",
+   "suggestedAddition": "Add a short section 'Peat diggings'. The 63 Norfolk Broads are flooded medieval peat pits: dug for fuel from the 12th to 14th centuries under parish turbary rights (their compartments still follow parish boundaries), sold to Norwich and Great Yarmouth, and abandoned by the end of the 14th century as rising water flooded them (Lambert et al. 1960). In Holland, peat cutting plus storms let the Haarlemmermeer grow from about 9,100 ha around 1250 to 16,850 ha by 1848, merging five lakes and swallowing villages. Map tip: draw peat lakes with straight or blocky edges and narrow baulks between them, a 'turbary' common beside each fen village, and in a later-era map a drowned village or two.",
+   "priority": "low"
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "missing": "Sugar estates and mills as a Mediterranean special industry.",
+   "whyItMatters": "Sugar appears only as a trade good in 05. Sugar production created a distinctive irrigated landscape with mills, aqueducts and fortified estate centres in the medieval Mediterranean.",
+   "suggestedAddition": "Add a row to the master table and a short note: sugar cane needs an irrigated, frost-free coastal plain, a mill to crush cane (water or animal power), fuel for boiling, and a port. Example: Kolossi in Cyprus, an estate of about 60 villages given to the Knights Hospitaller in 1210; a 13th-century sugar factory (on a 12th-century predecessor) stands beside the castle, with a 14th-century mill and an aqueduct bringing water from the Kouris river. Sugar was Cyprus's main medieval export; the biggest owners were the Lusignan kings, the Hospitallers and the Venetian Cornaro family. Map tip: cane fields on irrigated coastal land, a mill and boiling house with an aqueduct, a fortified estate tower, and a loading port nearby.",
+   "priority": "low"
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "missing": "How many mint towns a realm has and how that changes over time.",
+   "whyItMatters": "Mints appear as an institution of capitals and mining towns, but there is no 'how many' or 'where', although mint towns are a classic marker of early boroughs.",
+   "suggestedAddition": "Add a note under 'What is in and around a capital': late Anglo-Saxon England struck coins at up to about 73 mints under Aethelred II (978-1016), in almost every borough; the number fell to nearly 50 in 1154-58, 9 at Henry II's death in 1189, and about 4 normally open under Henry III (London, Canterbury, Bury St Edmunds and Durham). Rule: in an early-medieval realm, a mint in most fortified towns; by the High Middle Ages, a mint in the capital, one or two church or regional centres, and at silver mines (07).",
+   "priority": "low"
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "missing": "Non-European later-era patterns: Japan's 1615 castle reduction and Spanish colonial planned towns.",
+   "whyItMatters": "09 is almost entirely European plus overseas trading posts. Two well-documented changes give mapmakers models for 'castle counts collapse under a strong state' and 'planted colonial towns'.",
+   "suggestedAddition": "Add two short boxes. Japan: the Tokugawa 'one castle per province' order of 1615 (Ikkoku ichijo-rei) had lords demolish all castles except their main residence and seek permission for repairs; the number of castles fell from about 3,000 to about 170, and the survivors became administrative castle towns. Spanish America: Philip II's ordinances of 1573 (Laws of the Indies) set planted towns on a grid around a central plaza, rectangular with length about 1.5 times width, no smaller than 200 x 300 ft (61 x 91 m) and no larger than 530 x 800 ft (162 x 244 m), 600 x 400 ft being ideal, and sized to the expected population. Map tip: for a 1600 map of a centralised realm, cut working castles to one per province; for a colony, draw identical grid towns with a plaza, church and governor's house.",
+   "priority": "low"
+  }
+ ],
+ "fixes": [
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Line 172 (table in mistake 11): replace \"| The next ten or so English towns (1377) | 4,000–5,000 each |\" with \"| The next ten or so English towns (1377) | about 3,500–5,500 each |\".",
+   "evidence": "Owner ch02 line 44: \"About 10 more towns had roughly 3,500–5,500\". Baseline §2: \"about 10 towns of 3.5–5.5k (only about 5 in the 4–5k band)\". The baseline header says the 1377 town sizes were already corrected; ch11 still has the old 4,000–5,000 band."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "contradiction",
+   "instruction": "Line 452 (comparison table): replace \"Often a travelling court; capital 2–4× the second city\" with \"Often a travelling court; in strong kingdoms the capital is 3–7× the second city, while fragmented realms have rival cities of similar size\".",
+   "evidence": "Owner ch02 line 176 (rule of thumb): \"A strong, centralised kingdom has one capital 3–7 times bigger than its second city\". ch02 line 168 also gives London at 3–4× York and Paris at about 6–7× the next cities. The \"2–4×\" in ch09 conflicts with this."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "contradiction",
+   "instruction": "Line 201 (ships table): replace \"| Cog (medieval) | 1200s–1400s | roughly 100–300 tons (estimate) |\" with \"| Cog (medieval) | 1200s–1400s | usually 30–200 tons, rarely 300 (see chapter 05) |\".",
+   "evidence": "Owner ch05 line 300: cog \"30–200 t; Bremen cog (1380) … 90–130 t\". Wikipedia *Cog (ship)*: \"Typical seagoing cogs … were of 30–200 tons burthen … rarely as large as 300 tons\". ch09's 100–300 t is too high."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "contradiction",
+   "instruction": "Line 458 (comparison table): replace \"Cogs and galleys, roughly 100–300 tons (estimate)\" with \"Cogs of 30–200 tons; merchant galleys carrying about 150–250 tons\".",
+   "evidence": "Same conflict as line 201. Ch05 line 300 gives cogs 30–200 t, and ch05 line 302 gives the merchant great galley \"roughly 150–250 t of cargo\"."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "other",
+   "instruction": "Line 571: after fixing lines 201 and 458, delete \", cog tonnage\" from \"Values marked \\\"estimate\\\" (fort sizes, tower spacing, trading-post sizes, cog tonnage)\".",
+   "evidence": "Once the fix takes ch05's sourced 30–200 t, cog tonnage is no longer an estimate derived for this chapter."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 196: replace \"A typical cog (the main northern cargo ship) carried 40–200 tons.\" with \"A typical cog (the main northern cargo ship) carried 30–200 tons (see chapter 05).\"",
+   "evidence": "Owner ch05 line 300 gives 30–200 t. Ch10 uses 40–200, and ch09 uses 100–300, so the guide has three different cog ranges."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 210: replace \"One cog carried 40–200 tons, which equals roughly **350 to 2,000** flying loads.\" with \"One cog carried 30–200 tons, which equals roughly **250 to 2,000** flying loads.\"",
+   "evidence": "Aligns with ch05's 30–200 t. 30,000 kg ÷ 120 kg ≈ 250; 200,000 kg ÷ 100 kg = 2,000."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 487 (Quick summary): replace \"Their capacity compared with a ship (40–200 tons)\" with \"Their capacity compared with a ship (a cog carried 30–200 tons)\".",
+   "evidence": "Same cog range conflict with owner ch05 line 300."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "contradiction",
+   "instruction": "Line 160: replace \"- **Genoa** built nearly 100 towers around Corsica between 1530 and 1620 (a list of 1617 counts 86). See [Where Settlements Are Built](01-settlement-placement.md).\" with \"- **Genoa** built about 85–90 towers around Corsica between 1530 and 1620 (90 were planned in 1531; a list of 1617 counts 86). See [Watchtowers, beacons and coastal warning](04-military-sites.md#watchtowers-beacons-and-coastal-warning).\"",
+   "evidence": "Owner ch04 line 314: \"about 85–90 towers around Corsica in 1530–1620 (a 1617 list counts 86)\". Wikipedia *Genoese towers in Corsica*: 90 towers were decided in 1531 and the 1617 inventory lists 86. \"Nearly 100\" contradicts the 86 in its own parenthesis. The link should go to ch04, which covers the towers in detail (height, guards); ch01 only mentions them in passing."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "contradiction",
+   "instruction": "Line 162 (map tip): replace \"About 90–100 towers on Corsica's roughly 1,000 km (620 mi) of coast is one per 10–11 km (about 6–7 mi).\" with \"About 85–90 towers on Corsica's roughly 1,000 km (620 mi) of coast is one per 11–12 km (about 7 mi).\" In the same line, also replace \"draw a chain of small towers 3–10 km (2–6 mi) apart\" with \"draw a chain of small towers 3–12 km (2–7 mi) apart\" so that the Corsican example falls inside the stated range.",
+   "evidence": "Tower count per ch04 and Wikipedia (86 in 1617). 1,000 km ÷ 85–90 ≈ 11–12 km."
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "contradiction",
+   "instruction": "Line 406 (later-era callout): replace \"Genoa built about 90 watchtowers around the coast of Corsica between 1530 and 1620\" with \"Genoa built about 85–90 watchtowers around the coast of Corsica between 1530 and 1620 (a 1617 list counts 86)\".",
+   "evidence": "Owner ch04 line 314 says \"about 85–90 … (a 1617 list counts 86)\". The 90 was the 1531 plan (Wikipedia *Genoese towers in Corsica*)."
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "contradiction",
+   "instruction": "Line 356 (cloth towns table): replace \"Ghent had about 55,000–65,000 people in the 14th century (estimates vary; some reach 70,000).\" with \"Ghent had perhaps 40,000–65,000 people in the 14th century (estimates vary widely; see chapter 02).\"",
+   "evidence": "Owner ch02 line 170 gives Ghent \"about 40,000\" (some estimates 50,000–65,000), and ch02 line 324 gives Ghent 40–65k. The baseline also says 40–65 and notes that Ghent was already corrected. Ch07's 55–65k range, and its 70,000, fall outside or above the owner's figures. Wikipedia *Ghent* gives about 50,000 in 1300, which is inside 40–65k."
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "contradiction",
+   "instruction": "Line 569 (Quick summary): replace \"(Ghent about 55,000–65,000; Florence)\" with \"(Ghent perhaps 40,000–65,000; Florence)\".",
+   "evidence": "Same Ghent conflict with owner ch02 (40–65k)."
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "contradiction",
+   "instruction": "Line 369: replace \"Market centres should be about 10–16 km (6–10 mi) apart in a crowded realm\" with \"Market centres should be about 9–16 km (6–10 mi) apart in a crowded realm\".",
+   "evidence": "Baseline §8 (the default) and ch01 lines 296, 422 and 460, ch05 lines 360 and 472, ch09 line 48 and ch11 line 100 all give market towns 9–16 km (6–10 mi). The mile figure here (6–10 mi) already matches 9–16 km, not 10–16 km."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 313 (halflings): replace \"market towns 10–16 km (6–10 mi) apart\" with \"market towns 9–16 km (6–10 mi) apart\".",
+   "evidence": "Baseline §8 and every other chapter give 9–16 km (6–10 mi)."
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "contradiction",
+   "instruction": "Line 297: replace \"| Peasant walk to market | 6–10 km (4–7 mi) one way |\" with \"| Peasant walk to market | 6–10 km (4–6 mi) one way |\".",
+   "evidence": "Owner ch05 line 37 and line 473 give 6–10 km \"4–6\" mi, and the baseline row now also reads 4–6. 6–10 km is 3.7–6.2 mi, so \"4–7 mi\" is a leftover conversion."
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "kind": "contradiction",
+   "instruction": "Line 215 (\"How many units\" table): replace \"about 800 hundreds (812 in Domesday)\" with \"about 630 hundreds (628 named in a 1316 inquest; 812 can be traced in Domesday Book, 1086)\". In the Source column of the same row, replace \"Domesday; 1166 survey; baseline\" with \"Domesday; 1166 survey; 1316 inquest; baseline\".",
+   "evidence": "Ch06 line 334: \"about 630 named hundreds were listed in 1316\". Wikipedia *Hundred (county division)*: \"an inquest of 1316 found that by that date 388 of 628 named hundreds were held by the king's subjects.\" A row headed \"England c. 1300\" should not use the 1086 count of about 800."
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "kind": "contradiction",
+   "instruction": "Line 188 (hundred row): replace \"Average ~130–150 km² (50–60 sq mi); range 4.6–982 km²\" with \"Average ~130–150 km² (50–60 sq mi) in 1086, ~150–200 km² (60–80 sq mi) by 1316; range 4.6–982 km²\". At the end of the same row, replace \"roughly 10–12 parishes each\" with \"roughly 10–12 parishes each in 1086; after mergers about 630 named hundreds remained by 1316, with 10–15 parishes each\".",
+   "evidence": "Ch06 lines 327, 334, 370 and 423 give hundreds of ~150–200 km² with 10–15 parishes, based on the 1316 count. Ch03 gives 130–150 km² with 10–12 parishes, based on Domesday. Both are correct for their dates, but neither file states the date, so they read as a contradiction. 130,000 km² ÷ 628 ≈ 207 km²; 9,500 ÷ 628 ≈ 15 parishes."
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "kind": "contradiction",
+   "instruction": "Line 418 (Quick summary): replace \"hundred ~130–150 km²;\" with \"hundred ~130–150 km² in 1086 (~150–200 km² by 1316);\".",
+   "evidence": "Keeps the summary in line with ch06 line 423 (\"very roughly 150–200 km²\")."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Line 341 (castle density table): replace \"| Newly conquered or contested land (11th–12th centuries) |\" with \"| Whole realm after a conquest: castles in use at one time (11th–12th centuries) |\". Directly below that row, insert the new row \"| March or contested border (all castle sites) | 17–28 km² (7–11 sq mi) | 4–6 km (2.5–4 mi) | Welsh March (see chapter 04) |\".",
+   "evidence": "Owner ch04 lines 141 and 156–157: one castle per 250–300 km² (16–17 km apart) is the England-and-Wales average for castles in use. A \"March or contested border\" has castles \"4–6 km (2.5–4 mi) apart\", 5–10× denser. Ch11's own Basis column is the national average, so the row label is wrong."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Line 521 (Quick summary): replace \"Contested land had about one castle per 250–300 km² (95–115 sq mi)\" with \"After 1066 England and Wales had about one castle in use per 250–300 km² (95–115 sq mi), and contested borders far more (a castle site every 4–6 km in the Welsh March)\".",
+   "evidence": "Same mislabel. Ch04 (owner) says contested borders have castles 4–6 km apart, not one per 250–300 km²."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 53 (threat-level table, Low row): replace \"Castles 15–30 km apart; villages unwalled\" with \"Working castles about 20–30 km (12–19 mi) apart (see chapter 04); villages unwalled\".",
+   "evidence": "Owner ch04 lines 156 and 162: in a peaceful core, \"active castles about 20–30 km (12–19 mi) apart\". The 15–30 km figure is the control radius (ch04 line 147), not the spacing."
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "contradiction",
+   "instruction": "Line 42: replace \"| Castle in use | 500–600 at one time | ~220–260 km² (85–100 sq mi) | ~4 |\" with \"| Castle in use | 500–600 at one time (England and Wales) | ~250–300 km² (100–115 sq mi) | ~3–4 |\".",
+   "evidence": "Owner ch04 line 141 gives one active castle per 250–300 km² (100–115 sq mi), and ch11 line 341 gives 250–300 km². The 500–600 count is for England and Wales (~151,000 km²), but ch08 divided it by England's 130,000 km² alone."
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "contradiction",
+   "instruction": "Line 55 (sample county list): replace \"- 10 or so castles in use;\" with \"- 8–10 castles in use;\".",
+   "evidence": "2,500 km² ÷ 250–300 km² per castle (ch04) = 8–10."
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "contradiction",
+   "instruction": "Line 64 (rule of thumb): replace \"In hills they stand 8–15 km (5–9 mi) apart, with small chapels in between.\" with \"In hills they stand about 7–10 km (4–6 mi) apart, more in the emptiest uplands, with small chapels in between.\"",
+   "evidence": "Owner ch02 line 215: \"In uplands, parish churches may be 7–10 km (4–6 mi) apart\". The baseline and ch01 give upland parishes of 50–100+ km², and the guide's hexagon rule (√(A/0.87)) turns that into 7.6–10.7 km."
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "contradiction",
+   "instruction": "Line 528 (Quick summary): replace \"and 8–15 km (5–9 mi) apart in the hills\" with \"and about 7–10 km (4–6 mi) apart in the hills\".",
+   "evidence": "Same conflict with ch02 line 215."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 145 (fertility magic table): replace \"| Strong (about 2× yield) | Flanders, northern Italy | 50–75 per km² (130–190 per sq mi) |\" with \"| Strong (about 2× yield) | Flanders and Holland (15th century) | 50–75 per km² (130–190 per sq mi) |\".",
+   "evidence": "Owner ch02 lines 192–193 and baseline §4: northern Italy c. 1300 had 34–40 per km² (the \"rich lowland 30–50\" row). Only Flanders and Holland reached 50–75. Ch10 says it takes these figures from ch02's model."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "contradiction",
+   "instruction": "Line 430 (summary table, Fertility magic row): replace the analogue cell \"| Flanders, northern Italy |\" with \"| Flanders and Holland |\".",
+   "evidence": "Same density mismatch: the row says \"Density like Flanders (50–75 per km²)\", and northern Italy was 34–40 (ch02 and baseline)."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Line 422 (older layers table): replace \"Over 2,000 in Britain; nearly 600 in Wales\" with \"4,147 in Britain and Ireland (Atlas of Hillforts, 2017; see chapter 08), most of them in Britain (Scotland about 1,690, England about 1,220)\".",
+   "evidence": "Owner of ancient sites, ch08 line 430: \"4,147 in Britain and Ireland (Atlas of Hillforts, 2017)\". Atlas reporting gives Scotland 1,694 and England 1,224, so Britain alone has well over 3,000. \"Over 2,000\" is an outdated figure."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Line 109: replace \"A related mistake is to space villages a day's journey apart, about 30–40 km (19–25 mi). That is the distance between overnight stops for a traveller, not between villages.\" with \"A related mistake is to space villages a day's journey apart, about 25–35 km (15–22 mi). That is a traveller's day on foot, not the distance between villages.\"",
+   "evidence": "Baseline §6 and owner ch05 line 36: walking traveller 25–35 km (15–22 mi) a day. Ch05 lines 205 and 213 put inns 15–30 km apart. 30–40 km is the caravanserai or camel stage, not a day's journey in Europe."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Line 107: replace \"A traveller in settled lowland passed a village every 2–4 km (1–2.5 mi).\" with \"A traveller in settled lowland passed a village every 1.5–4 km (1–2.5 mi).\"",
+   "evidence": "Baseline §8, ch01, ch02, ch06 and ch11's own line 99 and line 111 all give lowland villages 1.5–4 km (1–2.5 mi). Here the km figure disagrees with its own mile figure."
+  },
+  {
+   "file": "04-military-sites.md",
+   "kind": "contradiction",
+   "instruction": "Line 233 (speed table): replace \"Harold's march south in 1066 averaged about 43 km (27 mi) a day.\" with \"Harold's march north to Yorkshire in 1066 covered about 300 km (185 mi) in perhaps 5–7 days, about 43–60 km (27–37 mi) a day, probably partly mounted.\"",
+   "evidence": "Baseline §6 (default for speeds): \"Harold, 1066: ~185 mi in 5–7 days, probably partly mounted\". The 185 mi is London to Tadcaster, the march north; Wikipedia *Battle of Stamford Bridge* says \"from London to Yorkshire, a distance of about 185 miles (298 km), in only four days\". Ch04 calls it the march south and keeps only the 7-day end (43 km/day). If the author prefers the traditional four days, the baseline should change too."
+  },
+  {
+   "file": "baseline-numbers.md",
+   "kind": "contradiction",
+   "instruction": "§9 Garrisons (currently line 204): replace \"- **Wartime:** 30–150 for an ordinary castle; several hundred in great sieges.\" with \"- **Wartime:** 20–150 for an ordinary castle; a few hundred, rarely up to about 1,200 (Kenilworth, 1266), in great sieges.\"",
+   "evidence": "Fortification owner ch04 lines 198–199: \"Small castle under siege 20–150\" (Caernarfon 1403–04 held with about 30) and \"Great castle in a major war 150 to about 1,200\" (Kenilworth). Ch04 summary line 404: \"a few hundred (rarely up to about 1,200)\"."
+  },
+  {
+   "file": "baseline-numbers.md",
+   "kind": "contradiction",
+   "instruction": "§3 table, England row (currently line 48): replace \"~15% including small boroughs\" with \"~15–20% including small boroughs (Dyer argues for ~20%)\".",
+   "evidence": "Population owner ch02 line 109: \"15–20% counting small boroughs | Dyer argues for ~20% in all towns by 1300\". Ch02 line 465: \"England 15–20% counting all small towns\"."
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "contradiction",
+   "instruction": "Line 184 (rule of thumb): replace \"A whole realm, uplands included, averages 10–40 per km² (25–100 per sq mi).\" with \"A whole realm, uplands included, averages about 7–40 per km² (18–100 per sq mi): 10–40 in settled western kingdoms, 7–15 in young eastern ones.\"",
+   "evidence": "Ch02 line 482 says \"7–40 per km² for whole realms\". Ch02's own tables give Hungary ~7 (c. 1200), Crown of Poland 8.6 (1370), Byzantium ~7 (1025) and Poland-Lithuania 6.6 (1500). The rule of thumb's 10–40 excludes these."
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "contradiction",
+   "instruction": "Line 511 (Quick summary): replace \"Whole realms average 10–40 per km².\" with \"Whole realms average 7–40 per km² (10–40 in settled western kingdoms).\"",
+   "evidence": "Same internal conflict with ch02 line 482 and the realm table."
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "contradiction",
+   "instruction": "Line 305: replace \"giving poles every 10–20 years.\" with \"giving poles every few years. Medieval cycles were mostly under 10 years; the 10–20-year cycles of charcoal woods (such as the Siegerland *Hauberg*) belong mostly to the 1500s and later (see [Managed woodland](06-villages-and-countryside.md#managed-woodland)).\"",
+   "evidence": "Woodland owner ch06 line 193: \"Medieval cycles were mostly short, often under 10 years (Rackham); they grew longer in later centuries.\" Wikipedia *Coppicing* (citing Rackham) describes a lengthening \"from medieval values of under ten years to twenty-five or more years in the eighteenth and nineteenth centuries\". Ch07's own Siegerland example (16–20 years) is dated by the ordinances of 1562 and 1565."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "contradiction",
+   "instruction": "Line 522 (Quick summary): replace \"Bastioned \\\"star\\\" fortifications appeared in Italy around 1500–1540 and spread north in the 1530s–40s.\" with \"Bastioned \\\"star\\\" fortifications appeared in Italy from the late 1400s, matured there c. 1500–1540, and spread north in the 1530s–40s.\"",
+   "evidence": "Fortification owner ch04 line 90: \"From the late 1400s Italian engineers built walls lower and thicker … bastions\". Ch11 lines 363 and 447 give \"later 15th century\" and \"Italy, late 15th century\"."
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "contradiction",
+   "instruction": "Line 451: replace \"the royal shipyards (*Drassanes*), built in two stages, from about 1283 to 1328 and from 1328 to 1390.\" with \"the royal shipyards (*Drassanes*), ordered by Peter III in 1285 and enlarged in 1328–90.\"",
+   "evidence": "Fortification and arsenal owner ch04 line 253: \"ordered in 1285, enlarged 1328–90\". Wikipedia *Barcelona Royal Shipyard*: \"In 1285, Peter III of Aragon ordered the construction of the shipyard\"."
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "cross-reference",
+   "instruction": "Line 176: replace \"See [Castles, Forts and Military Outposts](04-military-sites.md).\" with \"For the medieval frontier layout it grew from (a forward line of small posts and a rear line of fortress towns), see [Outposts in wild and contested land](04-military-sites.md#outposts-in-wild-and-contested-land).\"",
+   "evidence": "Ch04 does not cover the Habsburg–Ottoman frontier or Military Frontier. A grep of ch04 finds \"Habsburg\" only in \"King Rudolf of Habsburg destroyed more robber castles\", so the link sends readers to a chapter that does not discuss the topic."
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "cross-reference",
+   "instruction": "Line 544: replace \"A **market** was weekly and local (see [chapter 02](02-population-and-sizes.md)).\" with \"A **market** was weekly and local (see [Trade nodes](05-trade-routes-and-transport.md#trade-nodes-markets-fairs-staples-and-entrepots)).\"",
+   "evidence": "Ch02 gives market-town population tiers but does not explain markets versus fairs. Ch05's Trade nodes table defines the weekly market, the yearly fair, the fair cycle and staples."
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "duplicate",
+   "instruction": "Lines 546–547: replace both bullets (\"- The **Champagne fairs** (eastern France) were the meeting point … The Counts of Champagne protected merchants and their roads.\" and \"- They declined after Champagne passed to the French crown in 1285, and when Genoese and Venetian ships began sailing directly to Flanders (Bruges).\") with one bullet: \"- The **Champagne fairs** (eastern France, late 12th and 13th centuries) were six fairs a year in four towns (Lagny, Bar-sur-Aube, Provins and Troyes) where Flemish cloth met Italian merchants. Their calendar, trading phases and decline are described in [The Champagne fairs](05-trade-routes-and-transport.md#the-champagne-fairs).\" Keep the later bullet about towns 45–65 km apart, which is new information.",
+   "evidence": "Trade-node owner ch05 (\"### The Champagne fairs\") gives the same calendar, phases and decline. The two copies have already drifted: ch05 says Champagne joined France through the 1284 marriage and each fair lasted about six weeks, while ch07 says 1285 and \"several weeks; accounts differ\"."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "duplicate",
+   "instruction": "Line 94: replace the whole callout (\"> **Later era (1500s+):** Muscovy built the Great Abatis Line … See [What Changes After 1500](09-later-era-1500-1650.md).\") with \"> **Later era (1500s+):** Muscovy's Great Abatis Line (complete by 1566) and the later Belgorod Line (1635–54) are real versions of this: belts of felled trees, ditches, palisades, watchtowers and small forts that slowed raiders so villagers could flee and troops could gather. See [Fortified lines on open frontiers](09-later-era-1500-1650.md#fortified-lines-on-open-frontiers).\"",
+   "evidence": "Ch09 lines 171–175, which own the 1500–1650 period, give the same facts (1566, felled trees, ditches, palisades, watchtowers, about 35,000 militia, Belgorod Line). The copies are already drifting: ch10 adds \"65,000 called up each year\" and \"Between 1635 and 1654\", while ch09 says \"From the 1630s\"."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "duplicate",
+   "instruction": "Line 89 (Byzantine beacon chain row): in the \"Length and spacing\" cell, replace \"About 720 km (450 mi) from the fortress of Loulon (near the Cilician Gates pass) to Constantinople. About nine stations, mostly on mountain tops: about 56 km (35 mi) apart in broken country, and 97 km (60 mi) or more on the open plateau\" with \"About 720 km (450 mi), about nine mountain-top stations 55–100 km (35–60 mi) apart (details in [Watchtowers, beacons and coastal warning](04-military-sites.md#watchtowers-beacons-and-coastal-warning))\".",
+   "evidence": "Fortification owner ch04 line 306 already explains this system (720 km, nine stations, \"about 55–100 km (35–60 mi) apart\", 12 hourly messages). Ch10's \"or more\" goes beyond the owner's 100 km upper limit."
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "kind": "duplicate",
+   "instruction": "Line 170: replace \"**Royal forests** were a legal zone, not just woodland. Inside them, deer and trees were protected by special forest law, and villages, fields and heath could all lie inside a \\\"forest\\\". At their peak, in the late 12th and early 13th centuries, royal forests covered about one-third of southern England. Kings used them for hunting and to raise money from fines and licences.\" with \"**Royal forests** were legal hunting zones that could contain villages, fields and heath as well as woods (see [Royal forests](06-villages-and-countryside.md#royal-forests)). Kings used them for hunting and to raise money from fines and licences.\"",
+   "evidence": "Ch06 \"### Royal forests\" (lines 201–207) gives the full explanation: forest law, officials, and \"about one third of southern England\" at the peak. Ch01 line 225 repeats it as well, so the same paragraph appears three times."
+  },
+  {
+   "file": "01-settlement-placement.md",
+   "kind": "duplicate",
+   "instruction": "Line 225: replace \"**A \\\"forest\\\" was not always a forest.** A medieval English \\\"forest\\\" was a **legal** area for royal hunting, not always woodland. At its peak, in the late 12th and early 13th centuries, about a third of the land of southern England was royal forest. Villages existed inside it, but clearing land needed the king's permission, and people who cleared without it were fined or charged rent.\" with \"**A \\\"forest\\\" was not always a forest.** A medieval English \\\"forest\\\" was a **legal** area for royal hunting that could include villages and fields; clearing land in it needed the king's permission. See [Royal forests](06-villages-and-countryside.md#royal-forests).\"",
+   "evidence": "This duplicates ch06 \"### Royal forests\", which owns woodland and forests, and ch03 line 170."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "duplicate",
+   "instruction": "Lines 58–67 (mistake 3): in line 58, replace \"Use these radii (from the shared baseline; real radii are larger when towns compete for food):\" with \"As a rule, a town of 1,000 needs farmland within about 7–8 km (4–5 mi) on good lowland, a town of 10,000 within 21–27 km (13–17 mi), and anything over 50,000 needs river or sea supply. The full table, including poor land, is in [Feeding towns: the hinterland](02-population-and-sizes.md#feeding-towns-the-hinterland).\" Then delete the table (lines 60–65) and the line \"More detail is in [Feeding towns: the hinterland](02-population-and-sizes.md#feeding-towns-the-hinterland).\" (line 67). Finally, in the map tip at line 86, replace \"using the table above\" with \"using the radii above\".",
+   "evidence": "This table is an exact copy of the hinterland table in owner ch02 (lines 255–260) and in baseline §5. A third copy can drift whenever ch02 is corrected."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "duplicate",
+   "instruction": "Lines 291–301 (mistake 21): replace the speed table (\"| Mode | km per day | mi per day |\" through \"| Sailing ship, voyage average | 40–100 | 25–60 |\") with one sentence: \"Use the speeds in [Speed per day](05-trade-routes-and-transport.md#speed-per-day): for example, a walker 25–35 km (15–22 mi) a day, an army with baggage 13–20 km (8–12 mi), a royal messenger 50–90 km (30–56 mi), and a sailing ship 40–100 km (25–60 mi) as a voyage average.\"",
+   "evidence": "This table is a subset copy of the travel table in owner ch05. Ch05 was being revised during this review (it changed while I was reading it), so copies outside the owner chapter drift easily."
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "terminology",
+   "instruction": "Line 508 (Quick summary): replace \"market town 500–2,000\" with \"small market town 500–2,000\".",
+   "evidence": "The tier is named \"Small market town\" in ch02's own ladder table (line 35), its map-symbol table and baseline §2. The summary drops \"small\", and elsewhere the guide uses \"market town\" loosely for market places of any size."
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "terminology",
+   "instruction": "Line 270: replace \"The Darb Zubaydah pilgrim road\" with \"The Darb Zubayda pilgrim road\".",
+   "evidence": "The pilgrimage owner, ch08 line 237, spells it \"Darb Zubayda\" (named after Zubayda, died 831)."
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "terminology",
+   "instruction": "Line 359: replace \"| Kaffa, the Genoese port in Crimea |\" with \"| Caffa (Kaffa), the Genoese port in Crimea |\".",
+   "evidence": "The trade-network owner, ch05, uses \"Caffa (Crimea)\" in its kontor table and \"Caffa\" in its Venice and Genoa network row."
+  },
+  {
+   "file": "README.md",
+   "kind": "cross-reference",
+   "instruction": "Chapter table, lines 17–24: replace each \"| NN | <title> | planned |\" row for chapters 04–11 with a linked draft row, for example \"| 04 | [Castles, Forts and Military Outposts](guide/04-military-sites.md) | draft |\", using the real file names 05-trade-routes-and-transport.md, 06-villages-and-countryside.md, 07-industry-and-resources.md, 08-religious-cultural-and-ancient-sites.md, 09-later-era-1500-1650.md, 10-fantasy-variants.md and 11-common-mistakes.md. Also link row 00 to guide/00-step-by-step.md, which now exists.",
+   "evidence": "All of these files exist in guide/ (ls), but the README lists them as \"planned\" with no links, so readers cannot reach chapters 00 and 04–11 from the table of contents. tools/check_links.py now reports 0 problems; the earlier broken 00-step-by-step.md links in ch01 line 449 and ch10 line 274 resolved once that file appeared during this review."
+  }
+ ]
+}

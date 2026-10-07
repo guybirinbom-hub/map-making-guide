@@ -45,7 +45,7 @@
 | Region | c. 1300 | c. 1500 | Notes |
 |---|---|---|---|
 | Europe | ~9.5% (Bairoch, broad definition); ~5% in 10k+ cities | 5.6% in 10k+ (de Vries) | 85–95% of people are rural almost everywhere. |
-| England | ~2% in 10k+ (London is the only big city); ~10% in towns of 2k+; ~15% including small boroughs | 3.1% (10k+) | — |
+| England | ~2% in 10k+ (London is the only big city); ~10% in towns of 2k+; ~15–20% including small boroughs (Dyer argues for ~20%) | 3.1% (10k+) | — |
 | France | ~3–4% (10k+); ~7–9% (2k+) | ≈4.2% (10k+) | The 1300 figures are derived from Buringh's city data. |
 | Low Countries | Flanders: ~33–40% in towns of all sizes; Belgian area ~13–17% (10k+) | Belgium 21.1%, Netherlands 15.8% (10k+) | Dutch legal towns: 31.5% (1400), 36% (1500); Holland ~45% in 1500. |
 | Northern Italy | Centre-North 18%, Italy 15% (10k+); ~20% (5k+) | North 16%, Italy 15% (Malanima-based); de Vries gives Italy 12.4% | Italy had 79 cities of 10k+ in 1300. |
@@ -201,7 +201,7 @@ Model assumptions:
 **Garrisons**
 - **Peacetime caretaker garrison:** 5–20 men (constable, porter, watchmen and a few men-at-arms).
 - **Frontier castle in peacetime:** Harlech in 1284 had 36 people: 30 soldiers (10 of them crossbowmen) plus a constable, chaplain, smith, carpenter and mason.
-- **Wartime:** 30–150 for an ordinary castle; several hundred in great sieges.
+- **Wartime:** 20–150 for an ordinary castle; a few hundred, rarely up to about 1,200 (Kenilworth, 1266), in great sieges.
 - **Great frontier fortress:** the Templar castle of Safed (1260s) had 1,700 in peacetime (50 knights, 30 sergeant-brothers, 50 turcopoles, 300 crossbowmen, 820 workers and servants, 400 slaves) and 2,200 in war.
 
 **Sources:** Wikipedia *Castle*, *Castles in Great Britain and Ireland*, *Harlech Castle*, *De constructione castri Saphet*.

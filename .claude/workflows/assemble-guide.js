@@ -123,13 +123,17 @@ Return one fix per file location with an exact instruction (quote the current te
 
 if (mode === 'fix') {
   phase('Fix')
-  const jobs = args.jobs || []
-  const out = await pipeline(jobs, (job) => agent(`You are editing ONE chapter of a guide for fantasy mapmakers: ${GUIDE}/${job.file}.
+  const AUDIT = args.auditFile || (REPO + '/research/audit.json')
+  const jobs = args.jobs || (args.files || []).map(f => ({ file: f }))
+  const changes = (job) => job.instructions
+    ? job.instructions.map((s, i) => (i + 1) + '. ' + s).join('\n')
+    : `Read ${AUDIT} with the Read tool. Apply EVERY entry in its "gaps" array and its "fixes" array whose "file" field is "${job.file}". For a gap: add the missing content (follow suggestedAddition; verify its numbers and examples before using them; put it in the most fitting section, or a new ## section). For a fix: apply the instruction (line numbers may have shifted slightly; match the quoted text).`
+  const out = await pipeline(jobs, (job) => agent(`You are editing ONE file of a guide for fantasy mapmakers: ${GUIDE}/${job.file}.
 Apply ALL of the following changes (additions and fixes). For new content, research it with the web tools and use only real, checkable sources; add any new sources to the "Sources and further reading" section. If you add a ## section, add it to the "In this chapter" list. Keep the chapter's style. Do not edit any other file. If a change is wrong after checking, skip it and say why in notDone.
 ${TOOLS_NOTE}
 
 CHANGES:
-${job.instructions.map((s, i) => (i + 1) + '. ' + s).join('\n')}
+${changes(job)}
 
 Shared baseline numbers: ${REPO}/research/baseline-numbers.md (read it if a change touches numbers).
 
@@ -184,6 +188,7 @@ Finally add the image to 12-worked-example.md near the top: ![Schematic map of t
   if (targets.includes('13')) tasks.push(() => agent(`Write ${GUIDE}/13-quick-reference.md: "Quick Reference Cheat Sheet".
 ${READ_ALL}
 A dense one-stop sheet a mapmaker keeps open while drawing: tables, not prose. Sections: settlement tiers (population, features, symbol); population density by land type; urbanization and how many of each tier; spacing (villages, market towns, towns, cities, inns, castles); travel per day by mode and transport cost ratios; political units and sizes; capitals checklist; fortification types by date and where they go; trade goods and route types; rural features; industry siting table; religious sites siting table; city sizes by era (c. 1000 / 1300 / 1500); later-era changes (1500-1650); fantasy adjustments; a 15-question sanity checklist.
+Also read ${REPO}/research/audit.json and include every entry in "gaps" whose "file" is "13-quick-reference.md" (master legend and label hierarchy, a 'what exists by which date' table, and a reconciliation of numbers). Before choosing symbols, grep the chapters for their symbol suggestions and resolve clashes as the audit proposes.
 Every number must be copied from the owner chapter (02 population, 05 travel and costs, 04 fortifications, 03 political units, others for their topics), with a link to the source chapter section under each table. If chapters disagree, do not choose silently: list the disagreement in crossFileProblems and use the owner chapter's value. No Sources section needed (link to chapters instead). End with nothing after the last table except a one-line note pointing to 00-step-by-step.md.
 Style rules:
 ${STYLE}`, { label: 'write:13', phase: 'Write', schema: DONE }))
