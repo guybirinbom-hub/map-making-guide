@@ -203,12 +203,13 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were onl
 
 **Why:** A bridge is expensive, so it is built only where main roads must cross. Each one pulls the roads of a whole district towards it. A second bridge close by would split the traffic and the tolls, so bridges spread out along a river.
 
-**Numbers:** The River Thames from London to Oxford is about 180 km (112 mi) long by river. By about 1300 it had nine road bridges, and a tenth (Marlow) was added in the 14th century. That is one bridge every 20–22 km (12–14 mi) on average.
+**Numbers:** The River Thames from London to Oxford is about 180 km (112 mi) long by river. By about 1300 it had nine road bridges, and a tenth (Marlow) was added in the 14th century. That is one bridge every 20–22 km (12–14 mi) on average. In the gaps, people used ferries: in 1300 a ferrywoman called Sibille was paid three shillings to carry King Edward I across the Thames at Chertsey. After a bridge at Chertsey was licensed in 1410 and Abingdon's bridges were built in 1416–22, there were twelve, about one every 16 km (10 mi).
 
 | Bridge town | Distance from London Bridge by river (approx.) | First record of a bridge |
 |---|---|---|
 | London | 0 | Stone bridge 1176–1209 (earlier bridges since Roman times) |
-| Kingston | 33 km (20 mi) | 12th century: a timber bridge on stone approaches. The only Thames bridge between London and Staines until 1729 |
+| Kingston | 33 km (20 mi) | 12th century: a timber bridge on stone approaches |
+| Chertsey | 51 km (32 mi) | A ferry in 1300; a bridge licensed in 1410 |
 | Staines | 57 km (35 mi) | Repairs with wood from Windsor Forest ordered in 1222 |
 | Windsor | 69 km (43 mi) | Probably 12th century; tolls on boats passing under it recorded by 1172; oaks granted for a new bridge in 1242 |
 | Maidenhead | 80 km (50 mi) | A wooden bridge c. 1280; "almost broken down" by 1297, when a toll (pontage) was granted for repairs |
@@ -219,7 +220,7 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were onl
 | Abingdon | 166 km (103 mi) | Built 1416–22, with a second bridge at Culham and a causeway between them |
 | Oxford (Grandpont, now Folly Bridge) | 179 km (111 mi) | Stone bridge c. 1085 |
 
-Distances are measured on today's river and rounded, so treat them as rough. The gaps between bridges ranged from about 11 km (7 mi), from Staines to Windsor, to about 34 km (21 mi), from Wallingford to Oxford before Abingdon had its bridge.
+Distances are measured on today's river and rounded, so treat them as rough. Around 1300 the gaps between bridges ranged from about 11 km (7 mi), from Windsor to Maidenhead, to about 34 km (21 mi), from Wallingford to Oxford before Abingdon had its bridge.
 
 **A new bridge can make one town and break another.** Abingdon's bridges (1416–22) were paid for by a town guild and two of its members, a London merchant and his wife. They replaced a ferry, so traffic that had crossed the Thames at Wallingford could now cross at Abingdon instead. The completion of the Abingdon bridge badly damaged trade at Wallingford, 21 km (13 mi) downstream.
 
@@ -268,6 +269,7 @@ Distances are measured on today's river and rounded, so treat them as rough. The
 | Caravanserai on plains and desert | 30–40 km (19–25 mi) | Seljuk Anatolia and Iran |
 | Caravanserai in mountains | 10 km (6 mi) or less | Iran |
 | Mongol relay station (*yam*) | 32–64 km (20–40 mi) | Mongol Empire, 13th–14th centuries |
+| Inca way station (*tambo*) | About one day's walk; from under 10 km to nearly 45 km (6–28 mi) | Andes, 15th century (see [Roads without wheels](#roads-without-wheels-the-andes-and-mexico)) |
 | Pass hospice | One near the top of each main pass | Great St Bernard |
 
 ### Kinds of lodging
@@ -295,7 +297,7 @@ The Inca road network (in Quechua, *Qhapaq Ñan*) ran from today's Colombia to C
 
 | Feature | Number | Notes |
 |---|---|---|
-| Total length | Estimates vary: 23,000–40,000 km (14,000–25,000 mi), some up to 60,000 km | Two main north–south roads, one in the mountains and one along the coast, joined by more than twenty cross roads. The mountain road alone, from Quito through Cusco to Mendoza, was about 5,650 km (3,500 mi) long |
+| Total length | Estimates vary: 23,000–40,000 km (14,000–25,000 mi), some up to 60,000 km (37,000 mi) | Two main north–south roads, one in the mountains and one along the coast, joined by more than twenty cross roads. The mountain road alone, from Quito through Cusco to Mendoza, was about 5,650 km (3,500 mi) long |
 | Road width | Usually 1–4 m (3–13 ft) | The Cusco–Quito highway was always over 4 m (13 ft) wide, in places up to 16 m (52 ft) |
 | Way stations (*tambos*) | 2,000 or more; usually about one day's walk apart, but from under 10 km to nearly 45 km (6–28 mi) | Lodging, kitchens and storehouses; sited by water and good ground, away from marsh and steep slopes |
 | Relay posts for runners (*chaski*) | About 2.5 km (1.6 mi) apart in one account; other sources give up to 7.5 km (4.7 mi). Four to six runners waited at each post | A message could travel up to 240–300 km (150–190 mi) a day |
@@ -433,12 +435,12 @@ In the Mediterranean, the historian John Pryor showed that the main **trunk rout
 |---|---|---|---|
 | Head port | A big port with a customs house, quays, warehouses and resident merchants. All foreign trade for its stretch of coast must clear customs here | 15 for all of England | London, Hull, Boston, King's Lynn, Southampton, Bristol, Newcastle |
 | Member port | A smaller port inside a head port's district. It ships goods, but customs are run from the head port | Several per head port | In 1353–54 the customs district of Hull covered "all ports from Whitby inclusive to Grimsby", more than 100 km (60 mi) of coast |
-| Creek or landing place | A beach, creek or river landing used by fishing boats and small coasters. "Creek" was a customs word for such places | Every few km of sheltered shore or tidal river | Gatcombe, Newnham, Berkeley and Tewkesbury on the Severn, named as creeks of Gloucester in 1580 |
+| Creek or landing place | A beach, creek or river landing used by fishing boats and small coasters. "Creek" was a customs word for such places | Every few km of sheltered shore or tidal river (an estimate) | Gatcombe, Newnham, Berkeley and Tewkesbury on the Severn, named as creeks of Gloucester in 1580 |
 | Anchorage (a "road" or roadstead) | Sheltered open water off the coast where ships anchor to wait for a fair wind or to gather into a fleet | One or two on a busy coast | The roadstead off Sluis in the Zwin, Flanders, where a French fleet of over 200 ships lay at anchor in 1340. The Downs, off Kent, which later held as many as 800 sailing ships at once |
 
 **Promotion and decline.** Ranks changed. Throughout the Middle Ages, Gloucester and the whole Severn down to Avonmouth were under Bristol for customs. Only in 1580 did Gloucester become a customs port of its own, with its own creeks. Boston and King's Lynn were great wool ports in the 1200s and 1300s, but as wool exports fell, Hull, Southampton and Bristol became the biggest regional ports of the 1400s.
 
-**How many ships?** The historian Wendy Childs estimates that England's whole commercial fleet was perhaps 1,000–2,000 vessels at times. In the 1300s about 300 English ships a year went to Bordeaux for wine; most loaded 100–150 tons, and a few over 300 tons. In the later 1300s and the 1400s, most major ports could muster about 20 large ships over a decade. Hundreds of small coastal and fishing boats, often under 10 tons and up to 20 tons, made up the rest. In war the king seized merchant ships as transports: fleets of 150–200 were common, and nearly 700 ships were used for the Crécy campaign (1346).
+**How many ships?** The historian Wendy Childs estimates that England's whole commercial fleet was perhaps 1,000–2,000 vessels at times. In the 1300s about 300 ships a year sailed from England to Bordeaux for wine; most loaded 100–150 tons, and a few over 300 tons. In the later 1300s and the 1400s, most major ports could muster about 20 large ships over a decade. Hundreds of small coastal and fishing boats, often under 10 tons and up to 20 tons, made up the rest. In war the king seized merchant ships as transports: fleets of 150–200 were common, and nearly 700 ships were used for the Crécy campaign (1346).
 
 > **Map tip:** On a kingdom map, draw one large port symbol (quays, customs house, label in capitals) for each head port, about one every 100–150 km (60–95 mi) of coast, at the best harbours and river mouths. Draw several small anchors or dots for member ports between them, and leave most coves and creeks as unlabelled landing places. Add one named anchorage ("the Roads", "the Downs") off the busiest stretch of coast or at the mouth of the main trade estuary.
 
@@ -601,11 +603,11 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 **Why:** A kingdom map shows the main roads that a merchant or a royal messenger would plan a journey on. The lanes between villages are many times denser, but drawn at this scale they turn the map into a spider's web. They belong on a local map.
 
-**Numbers:** The best medieval measure is the Gough Map of Britain (late 14th or early 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements, joined by red lines. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
+**Numbers:** A good medieval measure is the Gough Map of Britain (late 14th or early 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements, joined by red lines. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
 
 | Measure | Value |
 |---|---|
-| Total length of the red route lines | About 4,540 km (2,820 mi), in 455 segments |
+| Total length of the red route lines | About 4,540 km (2,820 mi), split into 455 segments in the study's database |
 | Area of England and Wales | About 151,000 km² (58,000 sq mi) |
 | Main road per area | About 30 km per 1,000 km² (48 mi per 1,000 sq mi) |
 | Share of the route length on Roman roads | 35.5% |
@@ -616,7 +618,7 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 The Gough Map is a selection, not a full road atlas. It leaves out some important roads, such as the road from London to Colchester and East Anglia, and Watling Street between London and Canterbury. So 30 km per 1,000 km² is a good amount for a kingdom map, not the whole network. The village lanes (2–3 per village, see above) still exist, but draw them only on a local map.
 
-**Roman roads live on.** About a third of the Gough Map's route length runs on Roman roads, nearly 1,000 years after Roman rule ended in Britain. The rest is newer: medieval roads grew up to serve new towns, markets and bridges.
+**Roman roads live on.** About a third of the Gough Map's route length runs on Roman roads, nearly 1,000 years after Roman rule ended in Britain. Much of the rest first appears in the Middle Ages, when new roads grew up to serve new towns, markets and bridges.
 
 > **Map tip:** Spread the main roads unevenly: more around the capital and in rich, crowded lowland, fewer in hills, moors and forests. Put a town or an inn every 15–30 km (10–19 mi) along each main road. If your kingdom was once part of an older empire, draw about a third of the main-road length as long straight stretches on the old empire's roads, and let the rest bend between medieval towns and bridges.
 
@@ -766,6 +768,7 @@ The Gough Map is a selection, not a full road atlas. It leaves out some importan
 - River Thames: distances and measurements for boaters (GOV.UK; lock-to-lock distances used for the Thames bridge table): https://www.gov.uk/guidance/river-thames-distances-and-measurements-for-boaters
 - Teddington Lock (Wikipedia): https://en.wikipedia.org/wiki/Teddington_Lock
 - Kingston Bridge, London (Wikipedia): https://en.wikipedia.org/wiki/Kingston_Bridge,_London
+- Chertsey Bridge (Wikipedia): https://en.wikipedia.org/wiki/Chertsey_Bridge
 - Remains of an undercroft and 12th century bridge under John Lewis, Kingston (IanVisits): https://www.ianvisits.co.uk/articles/remains-of-an-undercroft-and-12th-century-bridge-under-john-lewis-5153/
 - Staines Bridge (Wikipedia): https://en.wikipedia.org/wiki/Staines_Bridge
 - Windsor Bridge (Wikipedia): https://en.wikipedia.org/wiki/Windsor_Bridge

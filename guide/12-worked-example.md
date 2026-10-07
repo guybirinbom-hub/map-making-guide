@@ -19,7 +19,7 @@ This chapter builds one invented kingdom from an empty terrain map to a full kin
 - [Quick summary](#quick-summary)
 - [Sources and further reading](#sources-and-further-reading)
 
-The order of steps follows [Step by Step](00-step-by-step.md). The coordinates of every place, road, river and border are in [worked-example-layout.json](images/worked-example-layout.json) (canvas 1000 × 800 units, 2 units = 1 km).
+The general method is in [Step by Step](00-step-by-step.md). The coordinates of every place, road, river and border are in [worked-example-layout.json](images/worked-example-layout.json) (canvas 1000 × 800 units, 2 units = 1 km).
 
 ---
 
@@ -409,7 +409,7 @@ Apply the real rules first, then change one input and follow the chain ([The met
 
 | Feature | Realistic Daravel | With monsters |
 |---|---|---|
-| Forest people | ~46,000 in ~180 open villages and many hamlets | Fewer, packed into 30–50 walled villages of 300–1,000 at the forest edge; the interior is empty |
+| Forest people | ~46,000 in ~180 open villages and many hamlets | Perhaps half stay (an estimate), packed into 25–75 walled villages of 300–1,000 at the forest edge; the interior is empty |
 | Refuges | None needed | Refuge forts a day's walk (24–32 km, 15–20 mi) apart round the forest's ~390 km (240 mi) edge: about 12–16 forts |
 | Forest roads | The Lisk Road (154 km) and Fell Street | Cleared about 60 m (200 ft) each side, fortified stops every 15–30 km, patrols |
 | Rangers | — | Lodges at the forest edge, fords and road entries, 15–30 km (10–20 mi) apart |
@@ -424,6 +424,8 @@ Apply the real rules first, then change one input and follow the chain ([The met
 
 > **Fantasy twist:** Change only these two inputs. The vale, rivers, capital, counties and 7,700 villages stay where the real rules put them, and that contrast makes the fantasy parts feel real.
 
+> **Map tip:** Draw the haunted Harnwood as a second hatched frontier band with refuge-fort symbols along its edge. Draw Fellbridge with a road climbing to a gate in the mountainside, and mark the tunnel mouths on both sides of the Wyndgap.
+
 ---
 
 ## Quick summary
@@ -431,7 +433,7 @@ Apply the real rules first, then change one input and follow the chain ([The met
 - **Land × density:** 116,500 km² (45,000 sq mi) gives about 2.4 million people (1.9–2.9 million), ~21 per km² (54 per sq mi).
 - **Average urban profile:** 4 cities, 38 towns, ~180 market towns and ~7,700 villages, 3.3 km (2 mi) apart in the vale.
 - **Primate capital:** Hallowbridge, 40,000 (1.65% of the realm, 3.3 times the second city), at the lowest bridge, 83 km (52 mi) up the estuary.
-- **Royal landscape:** palace and burial abbey 4 km (2.5 mi) away, 5 residences within 43 km (27 mi), a royal forest, coronation 119 km (74 mi) away in the archbishop's city.
+- **Royal landscape:** palace and burial abbey 4 km (2.5 mi) away, 4 more residences within 43 km (27 mi), a royal forest, coronation 119 km (74 mi) away in the archbishop's city.
 - **Politics:** 6 great fiefs plus the Crownlands, 33 counties of ~3,500 km² (1,370 sq mi), ~750 hundreds, a march with a 30 km (19 mi) frontier band, a Debatable Land, a church liberty.
 - **Castles:** ~710 sites, ~225 in use: 20–30 km (12–19 mi) apart in the core, a forward line every 29–43 km (18–27 mi), a beacon chain, a field army of 5,000–12,000.
 - **Routes:** water first; ~900 km of royal highway with an inn every 15–30 km; 4 bridges on the Ambre; one cart pass; Liskmeet is 3½–5 days' walk from the capital.
