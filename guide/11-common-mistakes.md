@@ -99,7 +99,7 @@ Use this table to check the numbers on your map. It is for settled lowland in th
 
 A related mistake is to space villages a day's journey apart, about 25–35 km (15–22 mi). That is a traveller's day on foot, not the distance between villages.
 
-**Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or small dots to stand for the villages. At local scale, draw villages 1.5–4 km (1–2.5 mi) apart in good land. See [Villages, Farms and the Countryside](06-villages-and-countryside.md).
+**Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or tiny dots to stand for the villages. At local scale, draw villages 1.5–4 km (1–2.5 mi) apart in good land. See [Villages, Farms and the Countryside](06-villages-and-countryside.md).
 
 **Exception:** Empty land was real in uplands, steppe, forest and war zones. In 1086, northern and western England had under 5 people per km² (13 per sq mi). One reason was William I's "Harrying of the North" (winter 1069–70), a campaign of deliberate destruction; Domesday Book (1086) still recorded much of Yorkshire as "waste". Poland-Lithuania in 1500 averaged 6.6 people per km² (17 per sq mi), and steppe nomads lived at under 1–2 per km² (3–5 per sq mi).
 
@@ -509,8 +509,10 @@ Three features in this chapter are not in the master legend yet. These suggestio
 | Feature | Suggested symbol | Mistakes |
 |---|---|---|
 | Well or spring | Blue "W" for a well, "Spr" for a spring (the abbreviations used on Ordnance Survey maps) | 1, 2, 27 |
-| Qanat | Straight line of tiny rings, much smaller than a market-town circle, ending at the village gardens (see [chapter 06](06-villages-and-countryside.md)) | 2 |
+| Qanat | Straight line of tiny rings, much smaller than a market-town circle, ending at the village gardens (see [chapter 06](06-villages-and-countryside.md#suggested-symbols)) | 2 |
 | Old border dyke (a long earth bank and ditch) | Line with short ticks on the ditch side, grey if no longer used, labelled with its name | 28 |
+
+> **Map tip:** Copy only the symbols you actually use into a small legend box in a corner of the map. Before you add a new symbol, check that its shape is not already used for something else.
 
 ---
 
@@ -554,7 +556,7 @@ Answer yes or no. Every "no" is a place to look again.
 - Every castle controls something. After 1066 England and Wales had about one castle in use per 250–300 km² (95–115 sq mi), and contested borders far more (a castle site every 4–6 km, or 2.5–4 mi, in the Welsh March). Only about one English borough in four to six was walled.
 - Give every region food plus a speciality, and every remote town a reason.
 - Add ruins and older layers, pick a date, and keep later inventions off the map.
-- Label from big to small, above-right of (or directly above) points, with 2–3 fonts at most.
+- Label from big to small, above-right of (or directly above) points, with 2–3 fonts at most. Give each symbol one meaning only, as in the master legend.
 
 ---
 
@@ -577,6 +579,7 @@ Answer yes or no. Every "no" is a place to look again.
 - Oksanen, Eljas, and Stuart Brookes. "The afterlife of Roman roads in England: insights from the fifteenth-century Gough map of Great Britain." *Journal of Archaeological Science* 179 (2025): 106227 (455 route segments, about 4,540 km, 35.5% on Roman roads). Open-access copy at [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10207831).
 - Ross, S. John. *Medieval Demographics Made Easy*. First written 1993; the current PDF is version 1.10 (copyright 1993, 1999–2018).
 - Salter, Mike. *Medieval Walled Towns*. Malvern: Folly Publications, 2013.
+- Smallwood, T. M. "The Date of the Gough Map." *Imago Mundi* 62, no. 1 (2010): 3–29 (dates the handwriting to one or two decades after 1400).
 
 **Mapmaking and worldbuilding sources consulted**
 
@@ -588,6 +591,7 @@ Answer yes or no. Every "no" is a place to look again.
 - EN World forum: [Worldbuilding: How far should things be?](https://www.enworld.org/threads/worldbuilding-how-far-should-things-be.676076/)
 - S. John Ross, [Medieval Demographics Made Easy (PDF)](https://www.martinralya.com/wp-content/uploads/2021/05/Medieval-Demographics-Made-Easy.pdf).
 - University of Northern British Columbia, [Map lettering lecture notes (PDF)](https://gis.unbc.ca/wp-content/uploads/2025/01/lettering2025.pdf) (Imhof's positioning rules).
+- Ordnance Survey, [Abbreviations used on OS 1:25 000 and 1:50 000 scale mapping](https://docs.os.uk/os-downloads/products/maps-and-imagery-portfolio/maps-and-imagery-fundamentals/maps-and-imagery-products-technical-specification/abbreviations-used-on-os-1-25-000-and-1-50-000-scale-mapping) ("W" for well, "Spr" for spring).
 - Bobák, Petr, Ladislav Čmolík and Martin Čadík. [From Top-Right to User-Right: Perceptual Prioritization of Point-Feature Label Positions](https://arxiv.org/abs/2407.11996) (arXiv, 2024).
 
 **History web pages consulted**

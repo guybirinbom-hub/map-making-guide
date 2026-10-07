@@ -1,6 +1,6 @@
 # Step by Step: From Blank Map to Living World
 
-This chapter is the master method of the guide. It puts the other chapters in order: what to place first, what comes next, and how to test each result. It assumes your terrain is already drawn: coasts, mountains, rivers, forests, marshes and climate. Every number is copied from the chapter section linked in that step.
+This chapter is the master method of the guide. It puts the other chapters in order: what to decide first, what to show at each scale, what to place next and how to test each result. It assumes your terrain is already drawn: coasts, mountains, rivers, forests, marshes and climate. Every historical number is copied from the chapter section linked in that step or table.
 
 **In this chapter:**
 
@@ -31,7 +31,7 @@ Pick one year and keep to it. These four dates give four quite different maps. E
 |---|---|---|---|---|
 | **c. 1100** | Growing, but thin. England had about 1.7 million people in 1086, about a third of its 1300 peak. Fewer and smaller towns. | Mostly mottes (man-made earth mounds) and ringworks of earth and timber; a few great stone keeps (the White Tower, London, c. 1075–1100). | No friaries yet (they arrive in the 1210s–1220s). Universities are only beginning (Bologna, late 11th century). The Cistercian order is new (founded 1098). | Most western kings travel: draw 5–15 royal residences, not one capital. Watermills, but no windmills (first certain record 1185). |
 | **c. 1300** | The crowded peak: England about 4.75 million. Most towns and markets have been founded (1,746 English markets recorded by 1300, many tiny). | Stone castles, concentric castles and town walls. | Friaries in every big town; about 20 universities in Europe. | Fixed capitals in the strongest kingdoms (Paris, Westminster and London). Windmills common in flat, dry country. |
-| **c. 1450** | A third to a half fewer people after the Black Death (1347–51) and later plagues; England's low point was about 1.9 million c. 1450. Deserted villages and more sheep pasture; many small markets have closed. | Many 12th-century castles half-ruined; tower houses in raided borders; by the mid-1400s cannon decide sieges. | Universities spreading (60–80 by 1500). | The first canal pound locks (Low Countries, northern Italy). |
+| **c. 1450** | A third to a half fewer people after the Black Death (1347–51) and later plagues; England's low point was about 1.9 million c. 1450. Deserted villages and more sheep pasture; many small markets are failing. | Many 12th-century castles half-ruined; tower houses in raided borders; by the mid-1400s cannon decide sieges. | Universities spreading (60–80 by 1500). | The first canal pound locks (Low Countries, northern Italy). |
 | **c. 1600** | Back near the 1300 level (England about 4.1 million). Capitals and ocean ports 2–4 times bigger than in 1500 (London about 200,000). | Star forts at frontiers, capitals and main ports; interior castles become ruins or palaces. | In Protestant lands most monasteries are closed (England 1536–1541): draw abbey ruins and a religious border. | Fixed capitals everywhere (Madrid from 1561); post roads with stations every 20–40 km (12–25 mi); ocean trade. |
 
 All figures come from the guide's chapters: [Change over time](02-population-and-sizes.md#change-over-time-growth-famine-and-plague), [When and why capitals became fixed](03-capitals-and-borders.md#when-and-why-capitals-became-fixed) and [What Changes After 1500](09-later-era-1500-1650.md).
@@ -42,7 +42,7 @@ Most real realms sit somewhere between the two columns below. France c. 1200, fo
 
 | | Centralised kingdom | Fragmented realm |
 |---|---|---|
-| **Real examples** | England; France by about 1300 | The Holy Roman Empire (Germany); the city-states of northern Italy |
+| **Real examples** | England; France (more loosely) by about 1300 | The Holy Roman Empire (Germany); the city-states of northern Italy |
 | **Capital** | One fixed capital that holds 1–2% of the realm's people and is 3–7 times the size of the second city | No real capital, or a court in a middling town. Several rival cities of similar size. The largest city holds about 0.5% of the people or less (Cologne in Germany c. 1300: about 0.4–0.5%) |
 | **Inner borders** | A regular network of counties, mostly 50–70 km (30–45 mi) across, each with a king's officer (a sheriff in England) | A patchwork of princes, bishops and free cities, with enclaves (the Empire had about 400 imperial estates in 1521) |
 | **Castles** | Fewer, mostly royal or great baronial: about 4 active castles per 1,000 km² (390 sq mi) in England and Wales | Many small lords' castles and toll castles: in hilly German-type lands about 25 castle sites per 1,000 km², 8–12 of them active (estimate) |
@@ -89,13 +89,13 @@ The sizes of places come from [How big to draw it](02-population-and-sizes.md#ho
 
 > **Rule of thumb:** Draw what a traveller at that scale would notice. A continent map shows the few great places, a kingdom map shows every town, and a local map shows every village and church.
 
-The counts are for c. 1300 and an English-style realm unless the table says otherwise. They are averages: real features cluster on good land and along routes. For areas, 100 km² is 39 sq mi and 1,000 km² is 386 sq mi.
+The counts are for c. 1300 and an English-style realm unless the table says otherwise. They are averages: real features cluster on good land and along routes. For areas, 100 km² is 39 sq mi and 1,000 km² is 386 sq mi. The local column fits maps up to about 20 × 20 km (12 × 12 mi). On a bigger local map, such as a 50 × 50 km (30 × 30 mi) county, draw villages as dots and leave out mills and hamlets.
 
 | Feature | Continent (1:10,000,000) | Kingdom (1:1,000,000) | Local (1:50,000–1:100,000) |
 |---|---|---|---|
 | **Realms and fiefs** | All realms and great fiefs; at least three kinds of state | The realm border, 4–8 duchies or great fiefs, 1–3 special zones (a march, a palatinate, a church territory) | Only a border that crosses the map |
 | **Counties and districts** | — | Counties 50–70 km (30–45 mi) across: 30–40 in an England-sized realm (England had 39 shires) | Hundreds (districts within a county) 12–15 km (7–9 mi) across; parish boundaries |
-| **Great cities (50,000+)** | 3–8 on the whole continent, all on the sea or a navigable river | All, as large symbols | Full outline with suburbs (20–80 mm across, so it may fill the sheet) |
+| **Great cities (50,000+)** | 3–8 on the whole continent, all on the sea or a navigable river | All, as large symbols | Full outline with suburbs, 20–80 mm across |
 | **Cities and towns (2,000–50,000)** | Capitals and the main cities only, as dots | Every town of 2,000+, as a symbol | Outline with walls, gates and market place |
 | **Market towns (500–2,000)** | — | The most important third or so: 30–40 of about 90 in a 60,000 km² realm of 1.2 million | All, 9–16 km (6–10 mi) apart |
 | **Villages** | — | Only as texture in crowded lowland | All: 1.5–4 km (1–2.5 mi) apart, about 7 per 100 km² in lowland |
@@ -123,7 +123,8 @@ The counts are for c. 1300 and an English-style realm unless the table says othe
 
 ```mermaid
 flowchart TD
-    S0["Before you start: era, scale, magic"] --> A1
+    S0["Step 0: date, realm type, scale, magic"] --> SF["What to draw at each scale"]
+    SF --> A1
     subgraph PA["Part A: Continent and world"]
         A1["Step 1: Terrain and water check"] --> A2["Step 2: Good farmland"]
         A2 --> A3["Step 3: Population budget"]
@@ -472,8 +473,11 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 ## Printable checklist
 
-**Before you start**
-- [ ] Date in the title box, scale bar drawn, amount of magic decided
+**Step 0: Before you start**
+- [ ] Date chosen (c. 1100, 1300, 1450 or 1600) and written in the title box
+- [ ] Realm type chosen: centralised, fragmented or in between
+- [ ] Scale chosen, scale bar drawn, target counts for that scale written in the margin
+- [ ] Amount of magic decided
 
 **Part A: Continent and world**
 - [ ] 1. Navigable stretches, heads of navigation, fords and tidal limits marked
@@ -505,7 +509,9 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 ## Quick summary
 
-- Decide the era, the scale and the amount of magic first; date the map and draw a scale bar.
+- Decide the date, the realm type, the scale and the amount of magic first; date the map and draw a scale bar.
+- At 1:N, 1 mm on paper is N ÷ 1,000 metres. On a kingdom map (1:1,000,000) a great city is a 2–4 mm symbol; on a local map (1:50,000–1:100,000) a village is a 2.5–9 mm outline.
+- Each scale has its own filter: a continent map shows 3–8 great cities and the greatest fortresses; a kingdom map shows every town of 2,000+, the counties and the major castles; a local map shows every village, church, mill and moated site.
 - Work from big to small and from nature to people: continent first, then kingdom, then local area.
 - Population is area × density. Good lowland holds 30–50 people per km² (80–130 per sq mi).
 - Capitals sit in rich, defensible cores on navigable water. Great cities of 50,000+ are rare and almost always fed by river or sea.
@@ -518,4 +524,15 @@ A local map covers roughly 5 × 5 km to 50 × 50 km (3 × 3 to 30 × 30 mi). Alm
 
 ## Sources and further reading
 
-This chapter adds no new research. Every number comes from the chapter section linked in each step, each chapter lists its own sources at the end, and the shared figures are in [research/baseline-numbers.md](../research/baseline-numbers.md).
+Almost every historical number in this chapter comes from the chapter section linked in each step or table. Each chapter lists its own sources at the end, and the shared figures are in [research/baseline-numbers.md](../research/baseline-numbers.md).
+
+The scale arithmetic in [What to draw at each scale](#what-to-draw-at-each-scale) (sizes on paper, what one sheet covers, the England-sized example) is this guide's own calculation. It uses these references:
+
+- Ordnance Survey, [A Beginner's Guide to Understanding Map Scales](https://osmaps.com/discover/guides/understanding-map-scales) (what a scale such as 1:25,000 or 1:50,000 means; "large scale" and "small scale"; what each OS scale shows).
+- Wikipedia, [ISO 216](https://en.wikipedia.org/wiki/ISO_216) (A3 paper is 297 × 420 mm; A4 is 210 × 297 mm).
+- *Encyclopaedia Britannica*, [Mediterranean Sea](https://www.britannica.com/place/Mediterranean-Sea) (west–east extent from Gibraltar to the Gulf of İskenderun about 4,000 km, 2,500 mi).
+- Wikipedia, [Cartographic generalization](https://en.wikipedia.org/wiki/Cartographic_generalization) (selecting features and replacing them with symbols as the scale gets smaller).
+
+For the date table in Step 0:
+
+- Mate, Mavis. "The Rise and Fall of Markets in Southeast England". *Canadian Journal of History* 31:2 (1996). Summary at [medievalists.net](https://www.medievalists.net/?p=3837): market revenues began to fall in the 1390s and fell further in the mid-15th century, with empty market stalls common in the Weald.
