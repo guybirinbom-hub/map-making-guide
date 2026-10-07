@@ -129,7 +129,7 @@ if (mode === 'fix') {
     ? job.instructions.map((s, i) => (i + 1) + '. ' + s).join('\n')
     : `Read ${AUDIT} with the Read tool. Apply EVERY entry in its "gaps" array and its "fixes" array whose "file" field is "${job.file}". For a gap: add the missing content (follow suggestedAddition; verify its numbers and examples before using them; put it in the most fitting section, or a new ## section). For a fix: apply the instruction (line numbers may have shifted slightly; match the quoted text).`
   const out = await pipeline(jobs, (job) => agent(`You are editing ONE file of a guide for fantasy mapmakers: ${GUIDE}/${job.file}.
-Apply ALL of the following changes (additions and fixes). For new content, research it with the web tools and use only real, checkable sources; add any new sources to the "Sources and further reading" section. If you add a ## section, add it to the "In this chapter" list. Keep the chapter's style. Do not edit any other file. If a change is wrong after checking, skip it and say why in notDone.
+Apply ALL of the following changes (additions and fixes). For new content, research it with the web tools and use only real, checkable sources; add any new sources to the "Sources and further reading" section. If you add a ## section, add it to the "In this chapter" list. Keep the chapter's style. Do not edit any other guide chapter or research file; edit files under tools/ or guide/images/ only if a change explicitly allows it. If a change is wrong after checking, skip it and say why in notDone.
 ${TOOLS_NOTE}
 
 CHANGES:

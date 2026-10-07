@@ -1,0 +1,116 @@
+{
+ "gaps": [
+  {
+   "file": "00-step-by-step.md",
+   "missing": "A master 'what to draw at which scale' table with scale arithmetic and target counts, pulled together from all chapters, plus a Step 0 that fixes date, realm type and scale.",
+   "whyItMatters": "Scale advice is scattered and partly inconsistent (02, 03, 04, 06 and 08 each have their own scale table). A mapmaker needs one place that says: at this scale, show these features, roughly this many per area, and here is how big things are on paper.",
+   "suggestedAddition": "Step 0: choose the date (1100, 1300, 1450 or 1600 change everything; 11 #29), the realm type (centralised or fragmented; 02, 03) and the scale. Scale arithmetic: continent 1:10,000,000 (1 mm = 10 km): an England-sized kingdom (130,000 km2) is only about 36 x 36 mm. Kingdom 1:1,000,000 (1 mm = 1 km): a great city 2-4 km wide is 2-4 mm, a town 0.5-1 mm, so use symbols. Local 1:50,000-1:100,000 (1 mm = 50-100 m): a village 250-450 m wide is 2.5-9 mm, so draw outlines. Feature filter from the chapters: continent: 3-8 cities of 50,000+, capitals, 1-2 great shrines, universities, arsenals, main passes and sea lanes, about one fortress per 20,000-50,000 km2 (04). Kingdom: every town of 2,000+, the 30-40 main market towns (02), 30-40 counties for an England-sized realm (03), 1-3 mining districts and salt sources (07), 5-10 cathedrals per 50,000 km2 in an English-style church (08), about one royal or major castle per 1,000 km2 (04), about 30 km of main road per 1,000 km2 (05). Local: villages 1.5-4 km apart, about one mill per village, about 73 churches per 1,000 km2, 4-5 moated sites and 2-3 deer parks per 100 km2 (06, 08). Then the existing order: water, farmland, villages, towns, capital, routes, castles, industry, religion, ruins, sanity check.",
+   "priority": "high"
+  },
+  {
+   "file": "12-worked-example.md",
+   "missing": "Time slices of the worked kingdom at several dates, with the numbers changing.",
+   "whyItMatters": "The brief asks how the map changes with time. Chapters 01, 02 and 09 explain growth, plague and later change, but no worked example shows the same territory redrawn at different dates, so readers cannot see how much to change.",
+   "suggestedAddition": "Redraw the 02 mini-kingdom (60,000 km2, 1.2 million people in 1300) at four dates. 1100: about 0.45-0.6 million (England grew about 2.7 times between 1086 and 1315), fewer markets and towns, woodland near 15%, many earth-and-timber castles. 1300: 1.2 million, ploughland about 35-40%, woodland about 7-10%, about 110 market centres, towns at their largest. 1400: about 0.65 million (England fell about 46% in 1348-51), 10-25% of villages deserted or shrunken (German settlements fell from about 170,000 to 130,000, minus 23.5%, between 1300 and 1500), ploughland down about a third (England 11.5 to 7.6 million acres by 1450), sheep runs and gardens inside town walls. 1600: back to about 1.0-1.2 million, capital two to four times its medieval size, interior castles ruined or turned into houses, post stations, and abbey ruins if the realm turned Protestant. Show a count table per tier for each date and a thumbnail map for each.",
+   "priority": "medium"
+  }
+ ],
+ "fixes": [
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "03-capitals-and-borders.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "04-military-sites.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "06-villages-and-countryside.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "07-industry-and-resources.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "08-religious-cultural-and-ancient-sites.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "09-later-era-1500-1650.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "terminology",
+   "instruction": "SYMBOL ALIGNMENT: Chapter 13 is the authority for map symbols. Read the section 'Master legend and label hierarchy' in 13-quick-reference.md (including its clash-resolution table). For every symbol THIS chapter recommends (in tables or Map tips): if 13 gives a different symbol for the same feature, change this chapter to 13's symbol. If this chapter gives a symbol for a feature 13 does not cover, keep it only if it does not clash with a symbol 13 uses for something else; otherwise choose a non-clashing variant. Report every symbol 13 lacks in crossFileProblems (feature + symbol) so 13 can add it. Add one line beside the chapter's main symbol table: 'These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).' Do not edit 13.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "05-trade-routes-and-transport.md",
+   "kind": "contradiction",
+   "instruction": "In the 'How much main road to draw' table, the row 'Total length of the red route lines | About 4,540 km (2,820 mi), split into 455 segments in the study's database' is misleading. Reword it so it says this is the length of the real roads behind the map's red lines as reconstructed by Oksanen & Brookes (2025), in 455 database segments, and that the map itself has about 190 red lines.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "11-common-mistakes.md",
+   "kind": "contradiction",
+   "instruction": "Gough Map date: match chapter 05's wording: conventionally dated c. 1360–70; a handwriting study (Smallwood 2010) suggests one or two decades after 1400, with parts redone or added later in the 15th century.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "10-fantasy-variants.md",
+   "kind": "other",
+   "instruction": "Belgorod Line: keep 1635–1654 but add that one source gives 1646 as the end date (sources differ), consistent with chapter 09.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "contradiction",
+   "instruction": "Internal consistency: the density-by-land table gives 'Hills, uplands, mountains 2–10 per km²' but calculator step 2 uses 'hills 8–15; uplands, forest and marsh 2–5'. Reconcile them so the table and the calculator agree (e.g. split hills from uplands/mountains in the table), checking the sources the chapter already cites. Report the final values in crossFileProblems so chapters 00 and 13 can match.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "02-population-and-sizes.md",
+   "kind": "contradiction",
+   "instruction": "Food need: the carrying-capacity section says 'about 1,300 kcal a day' while research/baseline-numbers.md gives about 1,250–1,800 kcal. Check what the chapter's figure measures (e.g. grain calories only vs total diet) and align the wording with the baseline (or explain the difference in one clause). Report the final value in crossFileProblems.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  },
+  {
+   "file": "12-worked-example.md",
+   "kind": "other",
+   "instruction": "MAP LEGEND ALIGNMENT (you MAY edit tools/make_map.py and guide/images/* for this item): the schematic map guide/images/worked-example-kingdom.svg is generated by `python3 tools/make_map.py` from guide/images/worked-example-layout.json. Compare its legend and symbols with chapter 13's 'Master legend and label hierarchy' (settlement tiers, county town, castle types, abbeys and shrines, borders as dash-dot families vs routes solid/dotted, ports, bridges/fords/ferries, beacons, ruins, camps, industry). Where they differ for the same feature, edit tools/make_map.py so the map uses 13's symbols. Regenerate the SVG, then render and check it with `node tools/render_svg.js guide/images/worked-example-kingdom.svg guide/images/worked-example-kingdom.png 1.5` (it reports label overlaps as JSON), and view the PNG with the Read tool (also crops: the script takes cropX cropY cropW cropH). Iterate until 0 overlaps and it looks clean. Keep the map's numbers and names matching the chapter text. If a 13 symbol cannot be drawn cleanly at this scale, keep the map's version and say so in one line of the map caption in chapter 12.",
+   "evidence": "PROGRESS.md leftovers / master legend alignment"
+  }
+ ]
+}
