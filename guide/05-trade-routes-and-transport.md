@@ -33,7 +33,7 @@ These are the guide's shared numbers. Use them for every journey on your map.
 
 | Mode | km per day | mi per day | Notes |
 |---|---|---|---|
-| Walking traveller | 25–35 | 15–22 | Archbishop Sigeric's journey from Rome to Canterbury (c. 990): about 1,700 km (1,060 mi) in 80 stages, about 20 km (12 mi) a day |
+| Walking traveller | 25–35 | 15–22 | Archbishop Sigeric's journey from Rome to Canterbury (c. 990): about 1,700 km (1,060 mi) in 80 stages, so an average stage was about 20 km (12 mi). A pilgrim's stage was often shorter than a hurried traveller's day |
 | Peasant to market | 6–10 one way | 4–6 | Out, trade and home in one day |
 | Ox cart | 15–25 | 10–15 | Slow, strong and cheap to feed |
 | Horse cart or wagon | 30–40 | 20–25 | Horses can double the speed of oxen |
@@ -54,8 +54,8 @@ These are rough ranges from the table above. Add rest days, Sundays, bad weather
 | Distance | On foot | Ox cart | Courier with fresh horses | Galley | Sailing ship |
 |---|---|---|---|---|---|
 | 100 km (62 mi) | 3–4 days | 4–7 days | 1–2 days | about 2 days | 1–3 days |
-| 300 km (190 mi) | 9–12 days | 2–3 weeks | 4–6 days | 5–6 days | 3–8 days |
-| 1,000 km (620 mi) | 5–6 weeks | 6–10 weeks | 2–3 weeks | about 3 weeks | 1.5–3.5 weeks |
+| 300 km (190 mi) | 9–12 days | 2–3 weeks | 3–6 days | 5–6 days | 3–8 days |
+| 1,000 km (620 mi) | 4–6 weeks | 6–10 weeks | 1.5–3 weeks | 2.5–3 weeks | 1.5–3.5 weeks |
 
 A sailing ship can be faster than anything on land, or it can sit in port for two weeks waiting for a fair wind. Land travel is slower but more predictable.
 
@@ -63,13 +63,13 @@ A sailing ship can be faster than anything on land, or it can sit in port for tw
 
 **Rule:** Per tonne and per kilometre, land transport cost several times more than river transport, and river transport cost more than sea transport.
 
-**Why:** A pack horse carries about 100–120 kg and needs a driver, food, a stable and a shoe-smith. A cog of 90–130 tonnes (the Bremen cog of 1380) needed a crew of roughly 10–13 sailors (a rule of thumb was one sailor per 10 tonnes). One small ship moved as much as about 1,000 pack horses. For comparison, about 3,000 tonnes of goods crossed the Brenner Pass, a main Alpine route, in a whole year in the 14th century (one estimate). That is the cargo of only 25–30 cogs.
+**Why:** A pack horse carries about 100–120 kg. It needs a driver, food, a stable and a smith to shoe it. The Bremen cog of 1380 (a cog is the main northern cargo ship) carried about 90–130 tonnes. A rule of thumb gave one sailor per 10 tonnes of cargo, so it needed a crew of only about 10–13 sailors, perhaps a few more in practice. One small ship moved as much as about 1,000 pack horses. For comparison, one modern estimate puts the goods that crossed the Brenner Pass, a main Alpine route, at about 3,000 tonnes a year in the 14th century. Treat that figure as a rough order of size. If it is right, a whole year's traffic over a main pass was the cargo of only 25–30 cogs.
 
 **Numbers:**
 
 | Comparison | Ratio | Source and place |
 |---|---|---|
-| Land : river : sea, per ton-mile | about 8 : 4 : 1 | England, 1290s–1340s (Masschaele) |
+| Land : river : sea, per ton-mile (the cost of moving one ton one mile) | about 8 : 4 : 1 | England, 1290s–1340s (Masschaele) |
 | Water against land | Water costs about one-tenth of land | England (Campbell et al.; Clark) |
 | Sea : river : land | about 1 : 5 : 28–56 | Roman Empire, Diocletian's Price Edict, 301 AD |
 
@@ -84,7 +84,7 @@ A sailing ship can be faster than anything on land, or it can sit in port for tw
 
 > **Fantasy twist:** A griffon or a teleport circle that carries 100 kg is a pack horse with wings. It changes the speed of news, letters and luxuries, not the price of bread. Only magic that moves *bulk* cheaply (wind-calling for ships, golem wagons, river spirits that tow barges) lets big cities grow away from water. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Later era (1500s+):** Organized relay posts with fresh horses at every stage made messages much faster. The Taxis family's post (from 1490, Innsbruck to Mechelen) could cover up to about 150 km (95 mi) a day. English royal post stages were about 32 km (20 mi) apart. Goods still moved at the old speeds.
+> **Later era (1500s+):** Organized relay posts with fresh horses at every stage made messages much faster. The Taxis family set up their first permanent relay line in 1490, from Innsbruck towards Mechelen in the Low Countries, with horse stations roughly every 37 km (23 mi). By about 1500 such posts could cover up to about 150 km (95 mi) a day. English royal post stages were about 32 km (20 mi) apart. Goods still moved at the old speeds.
 
 ---
 
@@ -117,7 +117,7 @@ In 12th-century England, law books placed **four highways** under the king's spe
 
 - **Landholders.** England's Statute of Winchester (1285) made the people who held the land along a highway responsible for it. On roads between market towns, they had to clear ditches, trees and bushes for **200 feet (about 61 m) on each side**, so that robbers could not hide.
 - **Towns.** Towns paid for paving their streets and the roads just outside the gates, often with a special toll called *pavage*.
-- **Charity.** Building or mending roads and bridges counted as a pious work. For example, Maud Heath left land in 1474 to pay for a raised footway across the flood plain of the River Avon to Chippenham market in Wiltshire. A charity still looks after it.
+- **Charity.** Building or mending roads and bridges counted as a pious work. For example, in 1474 Maud Heath gave land and houses to pay for a raised footway (a causeway) from Wick Hill across the flood plain of the River Avon to Chippenham in Wiltshire. A charity still looks after it from her gift, more than 500 years later.
 - **Lords who took tolls** were supposed to keep the road or bridge in repair. Many did not.
 
 ### Road quality by season
@@ -144,7 +144,7 @@ A ford needs firm gravel and water shallow enough for carts at normal levels. Fl
 
 Where a river is too deep or wide for a ford and too expensive to bridge, there is a ferry. Ferry rights belonged to a lord, a town or a monastery and earned money. For example, in 1330 Edward III gave the monks of Birkenhead Priory the right to run a ferry across the Mersey.
 
-On very big rivers, ferries were normal. On the Rhine below Basel there were almost no fixed bridges in the Middle Ages. Cologne, the biggest city on the river, had no fixed Rhine bridge from Roman times until the 19th century.
+On very big rivers, ferries were normal. On the Rhine below Basel there were only a handful of fixed bridges in the Middle Ages. Cologne, the biggest city on the river, had no fixed Rhine bridge from Roman times until 1859.
 
 ### Bridges
 
@@ -153,21 +153,21 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were alm
 | Bridge | Date | Notes |
 |---|---|---|
 | Stone Bridge, Regensburg (Danube) | 1135–1146 | A model for later stone bridges |
-| Judith Bridge, Prague | 1158–1172 | Replaced by the Charles Bridge from 1357 |
-| Old London Bridge (Thames) | 1176–1209 | 19 arches, about 282 m (926 ft) long, a chapel, and houses along it |
-| Pont Saint-Bénézet, Avignon (Rhône) | 1177–1185 | About 900 m (2,950 ft) and 22 arches when complete |
-| Middle Bridge, Basel (Rhine) | c. 1225 | Part timber, part stone; the oldest bridge site on the Rhine between Lake Constance and the sea |
+| Judith Bridge, Prague | 1158–1172 | Badly damaged by a flood in 1342; replaced by the Charles Bridge, begun in 1357 |
+| Old London Bridge (Thames) | 1176–1209 | 19 arches and a drawbridge, about 282 m (926 ft) long, a chapel, and houses along it |
+| Pont Saint-Bénézet, Avignon (Rhône) | First bridge 1177–1185 (probably timber); rebuilt in stone from 1234 | About 900 m (2,950 ft) and 22 arches when complete |
+| Middle Bridge, Basel (Rhine) | c. 1225 | Part timber, part stone; the oldest bridge site still in use on the Rhine between Lake Constance and the sea |
 | Krämerbrücke, Erfurt | 1325 (in stone) | Lined with shops and houses |
 | Ponte Vecchio, Florence | 1345 | Shops on the bridge |
 
-**How many?** For England, the historian David Harrison found that there were almost as many bridges in 1250 as in 1750, and that medieval bridges were solid, well-maintained structures. By the late Middle Ages most important crossings in a settled lowland country had a bridge. On the biggest rivers, bridges stayed rare. London Bridge was the only Thames bridge in London until Putney Bridge opened in 1729; the next bridge upstream was at Kingston, about 30 km (19 mi) up the river.
+**How many?** For England, the historian David Harrison found that there were almost as many bridges in 1250 as in 1750. By the end of the Middle Ages most were solid, well-built structures, and they were repaired regularly. By the late Middle Ages most important crossings in a settled lowland country had a bridge. On the biggest rivers, bridges stayed rare. London Bridge was the only Thames bridge in London until Putney Bridge opened in 1729; the next bridge upstream was at Kingston, about 30 km (19 mi) up the river.
 
 **Who paid?**
 - **Old duties** on certain lands or villages to repair a bridge.
 - **Tolls.** In England a *pontage* grant let someone take a toll for a few years to repair a bridge. About 370 such grants were made between 1228 and the 1440s.
 - **Rents.** Houses on London Bridge paid for its upkeep.
 - **Charity and trusts.** Gifts and wills paid for bridges. The Rochester Bridge Trust (founded 1399) still owns and maintains bridges there.
-- **Bridge chapels.** A small chapel on or beside the bridge collected gifts for repairs, and travellers prayed there for a safe journey. Most were built in the 14th–15th centuries. Six survive in England: Wakefield (1342–56), St Ives (1426), Rotherham (c. 1483), Bradford-on-Avon, Derby and Rochester.
+- **Bridge chapels.** A small chapel on or beside the bridge collected gifts for repairs, and travellers prayed there for a safe journey. They were not uncommon in the Middle Ages, but most were lost after the Reformation, when an Act of 1547 dissolved chantries (endowed chapels for prayers). Only six survive in England: Wakefield (1342–56), St Ives (1426), Rotherham (1483), Bradford-on-Avon, Derby and Rochester. The last two stand beside their bridges, not on them.
 
 **A bridge blocks ships.** Old London Bridge had such thick piers that the water level could differ by up to 1.8 m (6 ft) from one side to the other, making rapids. Sea ships unloaded *below* the bridge, so the port grew downstream of it.
 
@@ -185,12 +185,12 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were alm
 
 | Pass | Height | Route | Medieval notes |
 |---|---|---|---|
-| Brenner | 1,370 m (4,490 ft) | Augsburg – Innsbruck – Bolzano – Verona – Venice | The lowest main Alpine pass. Mule trains and carts by the 12th century. Emperors used it to reach Italy. About 3,000 tonnes of goods a year in the 14th century |
+| Brenner | 1,370 m (4,495 ft) | Augsburg – Innsbruck – Bolzano – Verona – Venice | The lowest main Alpine pass. Mule trains and carts by the 12th century. Emperors (for example Frederick Barbarossa) used it to reach Italy. Perhaps about 3,000 tonnes of goods a year in the 14th century (one estimate) |
 | Great St Bernard | 2,469 m (8,100 ft) | Martigny – Aosta – Italy | The pilgrim road to Rome (Via Francigena). Hospice founded c. 1050 by St Bernard of Menthon to shelter pilgrims and protect them from bandits |
-| St Gotthard | 2,106 m (6,909 ft) | Lucerne – Uri – Ticino – Milan | Became a through route after the first wooden bridge over the Schöllenen gorge, c. 1220–1230. A mule path only: the first carriage crossed c. 1775 |
+| St Gotthard | 2,106 m (6,909 ft) | Lucerne – Uri – Ticino – Milan | Became a through route after the first wooden bridge over the Schöllenen gorge, c. 1220. Only for people on foot and pack animals: the first carriage crossed in 1775 |
 | Mont Cenis | 2,085 m (6,841 ft) | Lyon – Savoy – Susa – Turin | A main France–Italy route. Emperor Henry IV crossed it in the winter of 1076–77 on his way to Canossa, a famous dangerous winter crossing |
 
-**Seasons.** High passes are snowbound for much of the year. The modern road over the Great St Bernard is open only from June to September. Medieval travellers did cross in winter, but with local guides and real danger.
+**Seasons.** High passes are snowbound for much of the year. The historic road over the Great St Bernard is open only from June to September, and winter snow there can be up to 10 m (33 ft) deep. Medieval travellers did cross in winter, but with local guides and real danger.
 
 **Organization.** Valley villages organized the carrying trade. Local carriers took goods over their own stretch and handed them on to the next village's carriers. Lords and towns took tolls at gorges and narrows on the approach roads.
 
@@ -218,10 +218,10 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were alm
 
 ### Kinds of lodging
 
-- **Town inns** clustered near the town gates, the market place and the bridge. In Chaucer's *Canterbury Tales* (c. 1390s) the pilgrims set off from the Tabard Inn in Southwark, at the south end of London Bridge.
+- **Town inns** clustered near the town gates, the market place and the bridge. In Chaucer's *Canterbury Tales* (c. 1390s) the pilgrims set off from the Tabard Inn in Southwark, on the main road leading south from London Bridge.
 - **Monastic guest houses.** The Rule of St Benedict told monks to receive all guests as Christ. Monasteries on main roads ran large guest houses, and some built inns. The New Inn in Gloucester (mid-15th century) was built by the abbey there for pilgrims.
 - **Hospitals and hospices** sheltered pilgrims and the poor, at town gates, river crossings and mountain passes. Roncesvalles, at the Spanish foot of a Pyrenees pass on the pilgrim road to Santiago, had a large pilgrim hospital.
-- **Caravanserais** (Persian, "caravan palace") were fortified rural inns with one gate, a central courtyard, rooms, stables, water and often a mosque. In towns the same building is a *khan*, in Cairo a *wikala*, and in North Africa a *funduq*. Sultan Han (1229), built by the Seljuk sultan Kayqubad I about 40 km (25 mi) west of Aksaray on the Konya road, is a famous example. Rulers and charitable endowments paid for them, and travellers were often lodged and fed free for up to three days.
+- **Caravanserais** (Persian, "caravan palace") were fortified rural inns with one gate, a central courtyard, rooms, stables, water and often a mosque. Depending on the region, the same kind of building is called a *khan*, a *wikala* (Egypt) or a *funduq* (North Africa). A famous example is Sultan Han (1229). The Seljuk sultan Kayqubad I built it about 40 km (25 mi) west of Aksaray, on the road to Konya. Rulers and pious endowments (*waqf*) paid for such buildings. In Seljuk Anatolia they gave travellers free food, fodder and lodging.
 
 > **Map tip:** On a main road, put an inn symbol (or a village or town) every 15–30 km (10–19 mi). In a desert, put a caravanserai or well every 30–40 km (19–25 mi). If two towns on a road are more than 40 km (25 mi) apart, add a village or an inn between them. Label them: "Inn of the Seven Wells", "Han of ...", "Hospice of ...".
 
@@ -236,8 +236,8 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were alm
 **Why:** A lord or town needs money, and a narrow point makes it easy to stop every cart or boat. Merchants paid as long as the toll cost less than the detour.
 
 **Numbers and examples:**
-- **The Rhine.** In 1250 there were 12 toll stations on the Rhine between Mainz and Cologne alone, about one every 15 km (9 mi). Stations seem to have been at least 5 km (3 mi) apart. Over the centuries, 79 different places took tolls on the Rhine and its tributaries; by one estimate the region had about 60 toll points by the 1300s. The Pfalzgrafenstein (1326–27) is a toll castle built on an island in the middle of the Rhine near Kaub.
-- **Straits.** From 1429 Denmark took the Sound Dues from every foreign ship passing Helsingør, at the entrance to the Baltic. In 1479, 795 ships passed. By 1583 it was 5,400.
+- **The Rhine.** In 1250 there were 12 toll stations on the Rhine between Mainz and Cologne alone, about one every 15 km (9 mi). Stations seem to have been at least 5 km (3 mi) apart. Between about 800 and 1800, 79 different places took tolls on the Rhine and its tributaries. The number of toll stations shot up during the Great Interregnum (1250–1273), when there was no emperor to stop lords from adding new ones. The Pfalzgrafenstein (1326–27) is a toll castle built on an island in the middle of the Rhine near Kaub.
+- **Straits.** From 1429 Denmark took the Sound Dues from every foreign ship passing Helsingør, at the entrance to the Baltic. The strait there is only about 4 km (2.5 mi) wide, so no ship could slip past. In 1479, 795 ships passed. By 1583 it was 5,400.
 - **Bridges and towns.** Pontage (bridge tolls), murage (tolls to pay for town walls) and pavage (tolls for paving) were common in England.
 - **Export customs.** From 1275 the English crown taxed every sack of exported wool. From 1363 all wool for export had to go through the wool staple at Calais (see [staple towns](#trade-nodes-markets-fairs-staples-and-entrepots)).
 
@@ -253,7 +253,7 @@ On very big rivers, ferries were normal. On the Rhine below Basel there were alm
 
 Every river has a **head of navigation**: the highest point boats can reach. Big sea ships stop lower down; small river boats go higher. Where cargo must move from one kind of boat to another, or onto carts, a town grows (see [head of navigation towns](01-settlement-placement.md#classic-site-types)). Around 1300, grain for London was loaded onto boats on the Thames as far upstream as Henley.
 
-How far up English rivers were really navigable is debated. In 1991 Edwards and Hindle argued that rivers were navigable much farther upstream than once thought, and that most of England lay within about 15 miles (24 km) of navigable water. Other historians (Langdon 1993, Jones 2000) found the network smaller, and found that it shrank in the late Middle Ages as obstructions grew.
+How far up English rivers were really navigable is debated. In 1991 Edwards and Hindle argued that rivers were navigable much farther upstream than once thought. On their map, most of England lay within about 15 miles (24 km) of navigable water. Other historians were more cautious. Langdon (1993) argued that some of their evidence showed only occasional river use, not regular traffic. Jones (2000) found that the navigable network shrank in the later Middle Ages, as weirs and other obstructions grew.
 
 ### Going upstream: towpaths
 
@@ -263,17 +263,17 @@ Boats went upstream by sail when the wind allowed, by poles and oars, or were **
 
 Mills need **weirs** (low dams) to raise the water. Fish traps were also built across rivers. Both blocked boats, so millers and boatmen fought for centuries.
 - **Magna Carta (1215), clause 33,** ordered all fish-weirs removed from the Thames, the Medway and all of England except the sea coast.
-- **Exeter.** In the 1270s–1280s the Countess of Devon built a weir for her mills that cut Exeter off from the sea. In 1317 her cousin Hugh de Courtenay built another and forced merchants to unload at his port of Topsham. Exeter answered with a canal (1564–66) that had the first pound locks in Britain.
+- **Exeter.** In the 1270s or 1280s Isabella de Fortibus, Countess of Devon, built a weir for her mills that cut Exeter off from the sea. Trade was restored in 1290. Then in 1317 her cousin Hugh de Courtenay built another weir and a quay at Topsham, so boats had to unload there and pay his tolls. Exeter petitioned the king for about 250 years. In the end the city built its own canal (1564–66) around the weirs. It had the first pound locks in Britain (see below).
 
 **Flash locks** were a gap or gate in a weir. It was opened to let boats shoot down on a rush of water, or to winch them up against it. Slow and dangerous.
 
-**Pound locks** are a chamber with a gate at each end, as in modern canals. China had one by 984. In Europe the first appeared in the Low Countries: Vreeswijk (1373) and Damme (1396). In Milan, Bertola da Novate built 18 pound locks in 1452–58.
+**Pound locks** are a chamber with a gate at each end, as in modern canals. China had one by 984. In Europe the first appeared in the Low Countries in the late 14th century: a large lock basin at Vreeswijk (dated 1373 or 1385; sources differ) and the first true pound lock at Damme near Bruges (1396). Near Milan, Bertola da Novate built 18 pound locks on the Bereguardo canal in 1452–58.
 
-**The Stecknitz Canal** (1391–98) linked Lüneburg's salt to Lübeck. It ran 97 km (60 mi) along rivers, with 11.5 km (7 mi) of dug canal across the watershed, and had 13 locks at first (17 later). Its barges carried about 7.5 tonnes of salt and needed at least 10 days per trip.
+**The Stecknitz Canal** (1391–98) linked the Elbe at Lauenburg with Lübeck on the Baltic, so that salt from Lüneburg could travel by water. It ran 97 km (60 mi) along two small rivers, with 11.5 km (7 mi) of dug canal across the watershed (the higher ground between two river systems). It had 13 locks at first (17 later), most of them simple flash locks. Its barges carried about 7.5 tonnes of salt each and needed at least 10 days for the trip one way.
 
 ### Portages
 
-A **portage** is a place where boats or cargo are carried or dragged overland between two rivers, or around rapids. On the Russian route "from the Varangians to the Greeks" (Baltic to Constantinople), merchants crossed watersheds between river systems by portage. On the Dnieper they also had to get past seven rapids, where the river fell 50 m (165 ft) in 66 km (41 mi), while nomads attacked. Russian place names keep the word *volok* (portage): Volokolamsk means "portage on the Lama".
+A **portage** is a place where boats or cargo are carried or dragged overland between two rivers, or around rapids. On the Russian route "from the Varangians to the Greeks" (Baltic to Constantinople), merchants crossed watersheds between river systems by portage. On the Dnieper they also had to carry or drag their boats past seven rapids (later counts give nine), where the river fell 50 m (165 ft) in 66 km (41 mi), while nomads attacked. Russian place names keep the word *volok* (portage): Volokolamsk means "portage on the Lama".
 
 ### Staple rights
 
@@ -281,7 +281,7 @@ Some river towns forced passing merchants to stop and sell. From 1259 Cologne ma
 
 ### River ports
 
-A river port needs a quay, warehouses, a crane and a customs post. The great treadwheel crane of Gdańsk (1442–44) still stands. Rivers freeze in northern winters, run low in summer droughts and flood in spring, so river traffic has seasons too.
+A river port needs a quay, warehouses, a crane and a customs post. The great treadwheel crane of Gdańsk (1442–44), wrecked in 1945 and rebuilt, can still be seen on the waterfront. Rivers freeze in northern winters, run low in summer droughts and flood in spring, so river traffic has seasons too.
 
 > **Map tip:** Draw navigable stretches of rivers a little thicker, from the head of navigation down to the sea. Put a town at the head of navigation, at confluences and at every portage end. Draw portages as short dotted lines between two rivers. Add weirs and mills on small rivers, and a toll castle at a narrow gorge on big ones.
 
@@ -297,12 +297,12 @@ A river port needs a quay, warehouses, a crane and a customs post. The great tre
 
 | Ship | Where and when | Size | Crew | Best for |
 |---|---|---|---|---|
-| Cog | North Sea and Baltic, 12th–14th c. | 15–25 m (49–82 ft) long, 30–200 t; Bremen cog (1380): 23 m, 90–130 t | About 1 sailor per 10 t | Bulk cargo: grain, timber, salt, fish, beer; the Hanseatic ship |
-| Hulk | Northern Europe, 14th–15th c. | By the 1300s carried as much as a cog | Small | Bulk cargo; replaced the cog in Hanseatic trade |
-| Merchant great galley | Mediterranean (Venice, Genoa), 13th–16th c. | Flanders galley about 37 m (121 ft) long; roughly 150–250 t of cargo | Up to 250, including 150 oarsmen | Spices, silk, money and pilgrims; sailed in state convoys |
+| Cog | North Sea and Baltic, 12th–14th c. | 15–25 m (49–82 ft) long, 30–200 t; Bremen cog (1380): about 23–24 m (75–79 ft), 90–130 t | About 1 sailor per 10 t (a rule of thumb; real crews were often larger) | Bulk cargo: grain, timber, salt, fish, beer; the Hanseatic ship |
+| Hulk | Northern Europe, 14th–15th c. | By the 1300s carried as much as a cog | Small | Bulk cargo; became the main Hanseatic ship in the 14th century |
+| Merchant great galley | Mediterranean (Venice, also Genoa and Florence), c. 1290s–1530s | Up to about 46 m (150 ft); the Flanders galley about 37 m (121 ft) long; about 140–250 t of cargo | Up to about 250, including 150–180 oarsmen | Spices, silk, money and pilgrims; sailed in state convoys |
 | Round ship (*nave*, *nef*) | Mediterranean | Often hundreds of tonnes | Small | Bulk: grain, salt, wine, cotton, alum |
-| Carrack | Mediterranean and Atlantic, 14th–16th c. | Large; Portuguese carracks often over 1,000 t | Large | Long voyages with big cargoes |
-| Caravel | Portugal and Spain, 15th c. | 12–18 m, 50–60 t | Small | Exploration and speed; too small for cheap cargo |
+| Carrack | Mediterranean and Atlantic, 14th–16th c. | Large; 16th-century Portuguese carracks were often over 1,000 t | Large | Long voyages with big cargoes |
+| Caravel | Portugal and Spain, 15th c. | 12–18 m (39–59 ft), 50–60 t | Small | Exploration and speed; too small for cheap cargo |
 
 **Why galleys carried only valuable goods:** a galley with 200 men aboard must stop for water and food every few days and pay all those wages. A cog of the same cargo needs about 10 men. So galleys carried spices, silk and passengers, and round ships carried grain and salt.
 
@@ -310,9 +310,9 @@ A river port needs a quay, warehouses, a crane and a customs post. The great tre
 
 Ships stayed near coasts when they could, for shelter, landmarks, water and trade at each port. They crossed open water on short, well-known lanes: across the Channel and the North Sea, across the Bay of Biscay, or from Crete to Egypt.
 
-In the Mediterranean, the historian John Pryor showed that the main **trunk routes** ran mostly along the northern coasts and island chains (the Adriatic coast, the Ionian islands, Crete, Rhodes, Cyprus). These routes hardly changed from antiquity to the 16th century. Whoever held the islands and harbours along them controlled the sea. Venice held Crete (1211–1669) and the ports of Modon and Coron in southern Greece (1207–1500) as stations for its ships.
+In the Mediterranean, the historian John Pryor showed that the main **trunk routes** (the main long-distance sea lanes) ran mostly along the northern coasts and island chains (the Adriatic coast, the Ionian islands, Crete, Rhodes, Cyprus). These routes hardly changed from antiquity to the 16th century. Whoever held the islands and harbours along them controlled the sea. Venice held Crete (1211–1669) and the ports of Modon and Coron in southern Greece (1207–1500) as stations for its ships.
 
-**How far apart were galley stops?** The Venice–Jaffa pilgrim galleys usually called at Poreč, Zadar, Korčula or Hvar, Dubrovnik, Corfu, Modon, Crete, Rhodes and Cyprus. The stops were roughly 100–450 km (60–280 mi) apart, which is about two to eight days of travel.
+**How far apart were galley stops?** The Venice–Jaffa pilgrim galleys usually called at Poreč, Zadar, Korčula or Hvar, Dubrovnik, Corfu, Modon, Crete, Rhodes and Cyprus. Measured on a modern map, the stops were roughly 100–450 km (60–280 mi) apart, which is about two to eight days of travel. The whole voyage usually took about 6–7 weeks (48 days in 1480), and as little as 29 days with good luck.
 
 > **Rule of thumb:** On a galley coast, put a watering port every 100–300 km (60–190 mi). Big ships can cross wider gaps, but they still prefer a friendly harbour every week or so.
 

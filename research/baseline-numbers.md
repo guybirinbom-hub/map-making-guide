@@ -257,7 +257,7 @@ Format: city, range in thousands, with the BBvZ central figure in brackets where
 |---|---|---|
 | Great Famine, 1315–17 (aftershocks to 1322) | ~10% overall (5–15%); 10–25% in many towns; England −12% between 1315 and 1325; northern France ~10%; cattle plague (1319–20) killed up to 80% of livestock in places | Food supply normal again by ~1325. Northern Europe only; the Mediterranean was largely spared. |
 | Black Death, 1347–51 | Europe 30–60% (traditional ⅓; 45–50%; Benedictow 60%); England −46% (1348–51) and −48% by 1377; Italy (Centre-North) −39% between 1300 and 1400; Florence ~−55%; Paris ~50%; Hamburg and Bremen ≥60%; Bohemia and Galicia under 15%; Egypt ~40% | Plague returned in 1361–62, 1369, 1374–75 and later, and was present somewhere in Europe every year from 1346 to 1671. Europe was back near 1300 levels c. 1500–1550. England bottomed out c. 1450 and regained its 1348 peak only c. 1600–1630. Florence did not regain its size until the 19th century. |
-| Deserted villages, c. 1350–1520 | ≈1,500+ in England alone | Many became pasture, especially sheep runs. |
+| Deserted villages, c. 1350–1520 | ≈1,500+ in England alone (3,000+ known across all periods) | Most were abandoned in the 15th century, not in the plague itself. Many became pasture, especially sheep runs. |
 | Later era | Italian plagues of 1629–31 and 1656–57 killed ≥20%; the Thirty Years' War (1618–48) devastated parts of Germany | — |
 
 - **Sources:** Broadberry, Campbell et al.; Wikipedia *Great Famine*, *Black Death*; Malanima (via CESifo); McEvedy & Jones.
