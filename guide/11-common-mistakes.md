@@ -1,6 +1,6 @@
 # Common Mistakes and How to Fix Them
 
-Most fantasy maps go wrong in the same few ways. Experienced mapmakers on forums, blogs and in mapping guides point out the same problems again and again: cities with no water, towns scattered "like seasoning", roads that go nowhere and a castle on every hill. This chapter lists 30 common mistakes with human-made features. For each one it explains why it looks wrong, how to fix it, and when it can be right, because almost every rule was broken somewhere, by real people, for a good reason.
+Most fantasy maps go wrong in the same few ways. Experienced mapmakers on forums, blogs and in mapping guides point out the same problems again and again: cities with no water, towns sprinkled at random, roads that go nowhere and a castle on every hill. This chapter lists 30 common mistakes with human-made features. For each one it explains why it looks wrong, how to fix it, and when it can be right, because almost every rule was broken somewhere by real people for a good reason.
 
 **In this chapter:**
 
@@ -30,9 +30,9 @@ Each mistake has three parts: **Why it looks wrong**, **Fix** and **Exception** 
 
 **Fix:** Put every village on a stream, a lake shore or a spring line (a row of springs at the foot of chalk or limestone hills). Put towns on rivers. If the site must be dry, such as a hilltop fortress, draw the spring, cistern (a tank for rainwater) or aqueduct that serves it. See [Fresh water](01-settlement-placement.md#fresh-water).
 
-**Exception:** Siena in Tuscany had no usable river nearby. It still grew to about 50,000 people before the Black Death of 1348. It did this with springs and the *bottini*: underground tunnels that collect groundwater. They are first recorded in 1226, reached the main square in 1343 and were about 25 km (16 mi) long by the 14th century. Venice collected rainwater in public cisterns and brought extra water by boat. Constantinople used aqueducts and huge cisterns. If you skip the river, you must draw the engineering.
+**Exception:** Siena in Tuscany had no usable river nearby. It still grew to about 50,000 people (estimates vary: 50,000–70,000) before the Black Death of 1348. It did this with springs and the *bottini*: underground tunnels that collect groundwater. They are first recorded in 1226, and in 1343 their water reached the main square, the Piazza del Campo. The whole system is about 25 km (16 mi) long. Venice collected rainwater in public cisterns and brought extra water by boat. Constantinople used aqueducts and huge cisterns. If you skip the river, you must draw the engineering.
 
-**A note on rivers:** Check the rivers your towns sit on. Rivers join as they flow downhill; they almost never split, except in deltas and marshes. Mapmakers call the splitting river one of the classic "river sins". Put towns at confluences (where two rivers join), not at imaginary forks.
+**A note on rivers:** Check the rivers your towns sit on. Rivers join as they flow downhill. They almost never split, except in deltas and marshes. The fantasy author K. M. Alexander lists the splitting river among the "river sins" of fantasy maps: rivers only split for good in deltas. Put towns at confluences (where two rivers join), not at imaginary forks.
 
 ### 2. A desert city with no oasis or river
 
@@ -44,10 +44,10 @@ Each mistake has three parts: **Why it looks wrong**, **Fix** and **Exception** 
 |---|---|---|
 | A river crossing the desert | River floods or canals water a narrow strip | Cairo on the Nile; Baghdad on the Tigris |
 | An oasis | Springs or shallow groundwater | Sijilmasa in the Tafilalt oasis (Morocco), the northern end of the Sahara caravan trade |
-| A mountain-foot river | Snow-fed stream spread into irrigated orchards | Damascus and its irrigated Ghouta, fed by the Barada river |
-| Qanats | Gently sloping tunnels bring groundwater from the hills | Yazd and Kerman (Iran) |
+| A mountain-foot river | Snow-fed stream spread into irrigated orchards | Damascus and the Ghouta, an oasis of gardens and orchards watered by canals from the Barada river |
+| Qanats | Gently sloping tunnels, with a line of shafts above them, bring groundwater from the hills | Yazd and Kerman (Iran) |
 
-**Exception:** Taghaza, a salt-mining village in the Sahara. When Ibn Battuta passed it in 1352, he found no trees, brackish (slightly salty) water and houses built of salt slabs roofed with camel skins. The miners lived on dates and millet brought by caravan; Sijilmasa was 25 days away. A desert place with no food of its own works only if it produces something valuable and lies on a caravan route.
+**Exception:** Taghaza, a salt-mining village in the Sahara. When Ibn Battuta passed it in 1352, he found no trees, brackish (slightly salty) water and houses built of salt slabs roofed with camel skins. The miners lived on dates brought from Sijilmasa and the Draa valley, millet brought from the Sahel (the dry lands south of the Sahara) and camel meat. Sijilmasa was 25 days away by caravan. A desert place with no food of its own works only if it produces something valuable and lies on a caravan route.
 
 > **Fantasy twist:** A magic spring, a water-making temple or a bound water spirit can justify a desert city. But then the water source becomes the most important and most fought-over place in the city. Draw it, wall it, and put the palace or main temple next to it.
 
@@ -70,18 +70,18 @@ More detail is in [Feeding towns: the hinterland](02-population-and-sizes.md#fee
 
 ### 4. A huge city with no water transport
 
-**Why it looks wrong:** Moving grain overland was slow and costly. In England c. 1300, carrying goods by land, river and sea cost roughly 8 : 4 : 1 per ton-mile. For the Roman world, the historian A. H. M. Jones wrote that it was "cheaper to ship grain from one end of the Mediterranean to the other than to cart it 75 miles". So towns above 10,000 people almost always stood on navigable water or the coast, and cities above 50,000 always needed river or sea supply.
+**Why it looks wrong:** Moving grain overland was slow and costly. In England c. 1300, carrying goods by land, river and sea cost roughly 8 : 4 : 1 per ton-mile (Masschaele 1993). In other words, a cart cost about twice as much as a river boat and eight times as much as a ship. For the Roman world, the historian A. H. M. Jones wrote that it was "cheaper to ship grain from one end of the Mediterranean to the other than to cart it 75 miles" (120 km). So towns above 10,000 people almost always stood on navigable water or the coast. Cities above 50,000 always needed river or sea supply.
 
 **Fix:** Put every city over 10,000 on a navigable river, a lake or a sheltered coast. If you want a big inland capital, give it a canal or a river port, and draw it.
 
 **Exception:** Some big cities managed without a natural waterway, but each had a special answer:
 
-- **Milan** (100,000–150,000 c. 1300) dug the Naviglio Grande, a 50 km (31 mi) canal from the river Ticino. It was begun in 1177, reached Milan in 1258 and was fully navigable by 1272.
-- **Siena** (about 50,000) lived on its own hill-country farmland and on overland carting.
+- **Milan** (100,000–150,000 c. 1300) dug the Naviglio Grande, a 50 km (31 mi) canal from the river Ticino. It was begun in 1177, reached Milan in 1258 and was fully navigable from 1272.
+- **Siena** (about 50,000) lived on the farmland of its own hilly countryside and on grain carted in overland.
 - **Granada** (estimates vary: 50,000–150,000 c. 1300) fed itself from the irrigated plain (*vega*) around it.
-- **Damascus and Aleppo** were fed by irrigated gardens and by pack camels. In the Middle East and North Africa, camels had largely replaced carts since late antiquity (Bulliet 1975), which made land transport cheaper there than in Europe.
+- **Damascus and Aleppo** were fed by irrigated gardens and by pack camels. In the Middle East and North Africa, pack camels had largely replaced wheeled carts by late antiquity, because they were cheaper to run (Bulliet 1975). This made long overland hauls more practical there than in Europe.
 
-> **Later era (1500s+):** Canals with pound locks (locks with two gates that lift boats) appeared in the Low Countries in the late 14th century, and 18 were built on a Milanese canal in 1452–58. After 1500, canals and canalised rivers spread, so an inland city can grow if you draw its canal. Madrid, made the permanent seat of the Spanish court in 1561, grew large without a navigable river, but it was famously hard to supply. See [What Changes After 1500](09-later-era-1500-1650.md).
+> **Later era (1500s+):** Canals with pound locks (a chamber with a gate at each end, which raises or lowers boats) appeared in the Low Countries in the late 14th century. Eighteen were built on a Milanese canal, the Naviglio di Bereguardo, in 1452–58. After 1500, canals and canalised rivers (rivers deepened and fitted with locks) spread, so an inland city can grow if you draw its canal. Madrid, made the permanent seat of the Spanish court in 1561, grew large without a navigable river, but feeding it was a constant problem. See [What Changes After 1500](09-later-era-1500-1650.md).
 
 > **Map tip:** Draw water first, then farmland, then towns. Shade a farmland ring around each town using the table above. Then check: does every town over 10,000 touch navigable water? If not, add a canal, an irrigated plain or a caravan route, or make the town smaller.
 
@@ -98,19 +98,19 @@ Use this table to check the numbers on your map. It is for settled lowland in th
 | People | 200,000–400,000 | 20–40 per km² (50–105 per sq mi) | Baseline densities |
 | Villages with a church | 500–700 | 1.5–4 km (1–2.5 mi) | England: about 14 km² per parish |
 | Market places | 45–130 | 9–16 km (6–10 mi) | Many were only villages with a weekly market; only 39% still had a market c. 1600 |
-| Towns of 2,000–10,000 | 3–8 (estimate) | Towns of 5,000+: 80–95 km (France, Germany) | Derived from urbanization rates |
-| Cities of 10,000+ | 0–1 (France, Germany); 1–3 (Flanders, northern Italy) | 130–170 km (France, Germany); 60–90 km (Flanders, Italy) | Derived from Buringh's city data |
+| Towns of 2,000–10,000 | 3–8 (estimate) | Towns of 5,000+: 80–95 km (50–60 mi) in France and Germany | Derived from urbanization rates |
+| Cities of 10,000+ | 0–1 (France, Germany); 1–3 (Flanders, northern Italy) | 130–170 km (80–105 mi) in France and Germany; 60–90 km (37–56 mi) in Flanders and Italy | Derived from Buringh's city data |
 | Great city of 50,000+ | Usually none; at most one per kingdom | — | Only ~22 in all of Europe, the Middle East and North Africa c. 1300 |
 
 ### 5. Too few settlements
 
 **Why it looks wrong:** Many fantasy maps show five towns in an area the size of England. Real England c. 1300 had about 9,500 parishes, more than 600 boroughs (towns with special legal rights) and about 1,746 places with a market grant, all on 130,000 km² (50,000 sq mi). A traveller in settled lowland passed a village every 2–4 km (1–2.5 mi).
 
-Some forum advice says villages on main roads were "about 24 miles apart, a day's journey". That is the distance between overnight stops for a traveller, not between villages.
+A related mistake is to space villages a day's journey apart, about 30–40 km (20–25 mi). That is the distance between overnight stops for a traveller, not between villages.
 
-**Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or small dots to stand for the villages. At local scale, draw villages 1.5–4 km apart in good land.
+**Fix:** At kingdom scale you do not need to draw every village. Draw the towns, and use a farmland texture or small dots to stand for the villages. At local scale, draw villages 1.5–4 km (1–2.5 mi) apart in good land.
 
-**Exception:** Empty land was real in uplands, steppe, forest and war zones. In 1086, northern and western England had under 5 people per km², partly because of William I's "Harrying of the North" (1069–70). Poland-Lithuania in 1500 averaged 6.6 per km², and steppe nomads lived at under 1–2 per km².
+**Exception:** Empty land was real in uplands, steppe, forest and war zones. In 1086, northern and western England had under 5 people per km² (13 per sq mi). One reason was William I's "Harrying of the North" (winter 1069–70), a campaign of deliberate destruction; Domesday Book (1086) still recorded much of Yorkshire as "waste". Poland-Lithuania in 1500 averaged 6.6 people per km² (17 per sq mi), and steppe nomads lived at under 1–2 per km² (3–5 per sq mi).
 
 ### 6. Too many settlements, or too many big ones
 
@@ -124,9 +124,9 @@ Some forum advice says villages on main roads were "about 24 miles apart, a day'
 
 **Why it looks wrong:** Towns set at equal distances look like a board game. Real settlements cluster along rivers, coasts, spring lines, good soils and roads, and leave gaps on heath, forest, marsh and upland.
 
-**Fix:** Space by the land, not by the ruler. Draw chains of villages along valleys and coasts and leave gaps on hills. Central place theory (Christaller, 1933) predicts a regular net of market towns, but only on a flat, uniform plain; real rivers and hills break the pattern. See [Patterns and spacing](01-settlement-placement.md#patterns-and-spacing).
+**Fix:** Space by the land, not by the ruler. Draw chains of villages along valleys and coasts and leave gaps on hills. Central place theory (Christaller, 1933) is the idea that each market town serves the countryside around it, so market towns end up at fairly even distances. But it predicts a regular net only on a flat, uniform plain. Real rivers and hills break the pattern. See [Patterns and spacing](01-settlement-placement.md#patterns-and-spacing).
 
-**Exception:** Planned colonisation made regular patterns. Nearly 700 *bastides* (planned new towns) were founded in south-western France between 1222 and 1372, most on grid plans. During the German eastward settlement (12th–14th centuries), lords laid out planned villages with long strips of land in rows along roads and forest clearings. Even these follow rivers and ridges.
+**Exception:** Planned colonisation made regular patterns. Nearly 700 *bastides* (planned new towns) were founded in south-western France between 1222 and 1372, most on grid plans. During the German eastward settlement (12th–14th centuries), lords laid out planned villages. Their houses stood in rows along a road or a forest clearing, each with a long strip of land behind it. Even these follow rivers and ridges.
 
 ### 8. Everything on the coast
 
@@ -134,11 +134,11 @@ Some forum advice says villages on main roads were "about 24 miles apart, a day'
 
 **Fix:** Put ports only where there is a good harbour: estuaries, bays, river mouths. Put most villages and many towns inland along rivers. The coast may have the biggest cities; the interior has most of the people.
 
-**Exception:** Where mountains come down to the sea, life really was coastal: Norway, Dalmatia, and Norse Greenland (c. 985–1450), whose two settlements both lay in fjords. A sea-trading power such as Venice could rule a chain of islands and coastal forts (the *Stato da Màr*) with almost no inland territory.
+**Exception:** Where mountains come down to the sea, life really was coastal: Norway, Dalmatia, and Norse Greenland (settled c. 985; the last written record is from 1408, and the colony died out in the 15th century). Both Greenland settlements lay at the heads of fjords. A sea-trading power such as Venice could rule a chain of islands and coastal forts (the *Stato da Màr*, "State of the Sea") with almost no inland territory.
 
 ### 9. Nothing on the coast
 
-**Why it looks wrong:** A long coast with no ports or fishing villages ignores the cheapest transport there was. Sea transport cost about one-eighth of land transport.
+**Why it looks wrong:** A long coast with no ports or fishing villages ignores the cheapest transport there was. In England c. 1300, sea transport cost about one-eighth as much as land transport.
 
 **Fix:** Every good harbour near farmland or a river mouth gets a port. Add fishing villages along sheltered shores.
 
@@ -156,7 +156,7 @@ Some forum advice says villages on main roads were "about 24 miles apart, a day'
 
 **Fix:** Follow rivers inland and put a chain of towns on every navigable river, with village networks across the plains. Leave an interior empty only for a reason you can name: desert, high mountains, cold forest or marsh.
 
-**Exception:** Real empty interiors existed: the Sahara and Arabian deserts, the highlands of Iceland, the Scandinavian mountains and the northern forests of Russia (1–5 people per km²). Even there, draw the routes, oases and stations that cross them.
+**Exception:** Real empty interiors existed: the Sahara and Arabian deserts, the highlands of Iceland, the Scandinavian mountains and the northern forests of Russia (1–5 people per km², or 3–13 per sq mi). Even there, draw the routes, oases and stations that cross them.
 
 ### 11. City sizes wrong for the era
 
@@ -201,13 +201,13 @@ The full treatment is in [Capitals, Realms and Borders](03-capitals-and-borders.
 
 **Fix:** Make borders wiggly in settled land. Use crests, river stretches, marsh and forest edges, and old district lines. In empty land, use a wide frontier zone instead of a line. See [Borders and frontiers](03-capitals-and-borders.md#borders-and-frontiers).
 
-**Exception:** A strong state with surveyors could draw a straight line. The Roman frontier wall in Germany (the Upper Germanic Limes) ran dead straight for 81 km (50 mi) between Walldürn and Welzheim, across valleys and hills (2nd century AD). In 1494, the Treaty of Tordesillas split newly found lands between Spain and Portugal along a meridian 370 leagues west of the Cape Verde Islands. That was a straight line drawn over land that nobody had seen.
+**Exception:** A strong state with surveyors could draw a straight line. The Roman frontier in Germany (the Upper Germanic Limes, a palisade and ditch with watchtowers) ran almost dead straight for 81 km (50 mi), from near Walldürn to the Haghof south of Welzheim, across valleys and hills (mid-2nd century AD). In 1494, the Treaty of Tordesillas split newly found lands between Spain and Portugal along a meridian (a north–south line) 370 leagues, about 2,100 km (1,300 mi), west of the Cape Verde Islands. That was a straight line drawn over land that nobody had seen.
 
 ### 14. Borders that ignore the land, or follow every river
 
 **Why it looks wrong:** A border that crosses a mountain range at a random point looks arbitrary. But the opposite error is also common: making every river a border. Big navigable rivers more often joined their valleys than divided them. For most of its course the Rhine had German lands on both banks, and the Danube ran through Austria and Hungary. Smaller units, like English counties, did often use rivers as boundaries.
 
-**Fix:** Use crests and watersheds for long stretches. Use a river where the border is old or the river is a real obstacle. Example: the Anglo-Scottish border follows the River Tweed for part of its length (fixed by the Treaty of York, 1237).
+**Fix:** Use crests and watersheds (the high ground that divides two river systems) for long stretches. Use a river where the border is old or the river is a real obstacle. Example: the Anglo-Scottish border follows the River Tweed for part of its length. Its line was settled by the Treaty of York (1237) and has changed little since, apart from Berwick and the Debatable Lands.
 
 **Exception:** Realms that controlled a pass usually held both sides of it. Savoy held lands on both sides of the western Alps, Tyrol on both sides of the Brenner Pass, and Navarre on both sides of the western Pyrenees. If a realm lives from a pass, its border runs beyond the pass, not along the crest.
 
@@ -223,7 +223,7 @@ Full details are in [Trade Routes, Roads and Transport](05-trade-routes-and-tran
 
 ### 15. No roads at all
 
-**Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map (c. 1360–1400, perhaps reworked later) shows about 190 red route lines, nearly 5,000 km (3,100 mi) in total, most with the mileage between towns written on them. Many Roman roads were still in use 1,000 years after they were built.
+**Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map of Britain (usually dated c. 1400; scholars disagree, and it was revised during the 15th century) shows about 190 thin red route lines between towns. Nine out of ten have the distance between the towns written on them. Many Roman roads were still in use 1,000 years after they were built.
 
 **Fix:** Connect every town to its neighbours. Draw main roads between cities and along valleys. At kingdom scale you can leave out minor tracks.
 
@@ -241,21 +241,21 @@ Full details are in [Trade Routes, Roads and Transport](05-trade-routes-and-tran
 
 **Why it looks wrong:** A road straight over the highest part of a range cannot be used by people on foot or with pack animals. Mountain crossings were few, slow and often closed in winter.
 
-**Fix:** Run the road up a valley to a low saddle (a pass). Put a hospice, toll station or small castle at or near the top, and towns at the foot of the pass on both sides.
+**Fix:** Run the road up a valley to a low saddle (a pass). Put a hospice (a shelter for travellers, often run by monks or canons), toll station or small castle at or near the top, and towns at the foot of the pass on both sides.
 
 | Pass (Alps) | Height | Medieval note |
 |---|---|---|
-| Brenner | 1,370 m (4,495 ft) | Lowest of the main Alpine passes |
+| Brenner | 1,370 m (4,495 ft) | The lowest of the major passes in the Eastern Alps |
 | Great St Bernard | 2,469 m (8,100 ft) | Hospice for travellers founded c. 1049–1050 |
-| Gotthard | 2,106 m (6,909 ft) | Opened as a trade route c. 1230, when a bridge was built across the Schöllenen gorge |
+| Gotthard | 2,106 m (6,909 ft) | Opened as a trade route c. 1220–1230, when the first wooden bridge was built across the Schöllenen gorge |
 
-A new pass can make a region rich: the valleys at the northern end of the Gotthard route became the core of the Swiss Confederacy.
+A new pass can make a region rich. The Gotthard route ran through Uri, and control of it helped Uri, Schwyz and Unterwalden, the valleys at its northern end, to form the core of the Swiss Confederacy.
 
 **Exception:** Some travellers used high, hard passes because they were shorter or avoided enemies and tolls. Mark such passes "summer only".
 
 ### 18. Bridges everywhere
 
-**Why it looks wrong:** On many maps every town on a big river has a bridge, and roads cross wide rivers wherever they like. In reality stone bridges were costly, rare and valuable. London Bridge (stone, finished 1209) was the only bridge across the Thames in London until Westminster Bridge opened in 1750.
+**Why it looks wrong:** On many maps every town on a big river has a bridge, and roads cross wide rivers wherever they like. In reality stone bridges were costly, rare and valuable. London Bridge (stone, finished 1209) was the only road crossing of the Thames below Kingston upon Thames until Putney Bridge opened in 1729. That is more than 500 years with one bridge for the whole of London.
 
 **Fix:** Cross wide rivers at fords (shallow places), ferries and a few bridges at important towns. A bridge attracts roads, trade and tolls, so it usually has a town or castle beside it. Small streams can have many small bridges.
 
@@ -263,11 +263,11 @@ A new pass can make a region rich: the valleys at the northern end of the Gottha
 
 ### 19. Desert or mountain trade routes with no water or stops
 
-**Why it looks wrong:** A caravan route drawn as one line across 500 km (300 mi) of sand, with nothing on it, cannot be used. Pack animals need water, rest and fodder every day.
+**Why it looks wrong:** A caravan route drawn as one line across 500 km (310 mi) of sand, with nothing on it, cannot be used. Pack animals need water, rest and fodder every day.
 
 **Fix:** Put a stop at every day's stage: 30–40 km (19–25 mi) apart on plains and desert, and 10 km (6 mi) or less in mountains. Each stop needs a well, cistern or oasis. Along trade roads these stops were often *caravanserais*: walled inns built around a courtyard for travellers and their animals.
 
-**Real example:** The Darb Zubaydah pilgrim road ran about 1,300 km (800 mi) from Kufa in Iraq to Mecca. It had 27 main stations about 50 km (30 mi) apart, with smaller rest stops between them, plus wells, cisterns, reservoirs and dams. It was built and kept up mainly between 750 and 1258. Trans-Saharan caravans moved from oasis to well. Ibn Battuta took 25 days from Sijilmasa to Taghaza in 1352.
+**Real example:** The Darb Zubaydah pilgrim road ran about 1,300 km (800 mi) from Kufa in Iraq to Mecca. It had 27 main stations, on average about 50 km (30 mi) apart, with smaller rest stops between them, plus wells, cisterns, reservoirs and dams. It was built and kept up mainly under the Abbasid caliphs, between 750 and 1258. Trans-Saharan caravans moved from oasis to well. Ibn Battuta took 25 days from Sijilmasa to Taghaza in 1352.
 
 **Exception:** A route can cross a waterless stretch of a few days if travellers carry water in skins and know the way. Draw it as a dangerous "dry stretch" and write the number of days on it.
 
@@ -275,18 +275,18 @@ A new pass can make a region rich: the valleys at the northern end of the Gottha
 
 **Why it looks wrong:** Ships need deep, sheltered water out of the wind and waves, and a beach, quay or river mouth where they can unload. A port on top of a cliff, or on a straight coast battered by waves, cannot work.
 
-**Fix:** Put ports in estuaries, river mouths, bays behind headlands, behind islands or spits, or in drowned valleys (fjords and rias). Where a coast is mostly cliffs, put the port in the gap where a valley cuts through. Dover sits in the valley of the little River Dour, between white cliffs.
+**Fix:** Put ports in estuaries (wide, tidal river mouths), river mouths, bays behind headlands, behind islands or spits (long, narrow ridges of sand or shingle), or in drowned valleys (fjords and rias). Where a coast is mostly cliffs, put the port in the gap where a valley cuts through. Dover sits in the valley of the little River Dour, between white cliffs.
 
 **Real warnings:** Exposed and silting harbours really did fail:
 
-- **Dunwich** (Suffolk) was a leading English port in the 13th century. Sand carried along the coast choked its harbour, and storm surges in 1286–87 and 1328 destroyed much of the town. By c. 1350, more than 400 houses and the harbour were gone.
-- **Bruges** lost its access to the sea as the Zwin inlet silted up in the 15th century, and its trade moved to Antwerp.
+- **Dunwich** (Suffolk) was a leading English port in the 13th century. Storm surges in 1286 and 1287, and a great storm in 1328, ate into the town. Sand and shingle carried along the coast pushed the river mouth, and so the harbour, about 4 km (2.5 mi) to the north. Another storm in 1347 swept about 400 houses into the sea. With no harbour, the town was largely abandoned.
+- **Bruges** slowly lost its access to the sea as the Zwin inlet silted up from the late 13th century onwards. By about 1500 the channel was nearly unusable, and the trade of the Low Countries moved to Antwerp.
 
 **Exception:** A cliff-top town can have a port below it. Bonifacio in Corsica (founded as a fortress in 828) stands on limestone cliffs about 70 m (230 ft) high. Its harbour lies below, in a narrow, fjord-like inlet sheltered behind a long promontory. Draw the town on top and the quay below.
 
 ### 21. Ignoring travel time and scale
 
-**Why it looks wrong:** Many maps have no scale, or a scale that breaks the story: an army crosses a 2,000 km (1,250 mi) empire in a week, or a "nearby" town is 300 km away. Readers notice.
+**Why it looks wrong:** Many maps have no scale, or a scale that breaks the story: an army crosses a 2,000 km (1,250 mi) empire in a week, or a "nearby" town is 300 km (190 mi) away. Readers notice.
 
 | Mode | km per day | mi per day |
 |---|---|---|
@@ -300,7 +300,7 @@ A new pass can make a region rich: the valleys at the northern end of the Gottha
 | River boat, upstream | 10–20 | 6–12 |
 | Sailing ship, voyage average | 40–100 | 25–60 |
 
-**Fix:** Draw a scale bar first. Measure the important journeys and write them down. A kingdom 500 km (310 mi) wide is 15–20 days' walk across, and 25–40 days for an army. Popular gaming rules often use "30 miles (48 km) a day". That is a good day for a rider on a road, but too fast for walkers and much too fast for armies and carts.
+**Fix:** Draw a scale bar first. Measure the important journeys and write them down. A kingdom 500 km (310 mi) wide is 15–20 days' walk across, and 25–40 days for an army. Popular gaming rules are often too fast. *Dungeons & Dragons* (5th edition) has travellers on foot cover 24 miles (39 km) a day at a normal pace and 30 miles (48 km) at a fast pace. That is a good day for a rider on a road, but too fast for walkers over many days, and much too fast for armies and carts.
 
 **Exception:** Messages could move much faster with relays. The Mongol relay system was claimed to cover 200–300 km (125–190 mi) a day. Travel downstream and by sea was also much faster than by land.
 
@@ -318,30 +318,30 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 ### 22. Castles on random hills
 
-**Why it looks wrong:** Castles were built to control something: a town, a river crossing, a road, a pass, a harbour, a frontier, or the farms and tenants of a lord's estate. A castle on a random hill in the wilderness controls nothing and cannot feed its garrison. Also, not every castle stood on a hill. England and Wales had about 741 motte-and-bailey castles (an earth mound with a wooden tower, plus a fenced yard called the bailey), and many of them stood on low ground in towns or by rivers, using the water for their moats.
+**Why it looks wrong:** Castles were built to control something: a town, a river crossing, a road, a pass, a harbour, a frontier, or the farms and tenants of a lord's estate. A castle on a random hill in the wilderness controls nothing and cannot feed its garrison. Also, not every castle stood on a hill. England and Wales had about 741 motte-and-bailey castles. A motte is a man-made earth mound with a wooden tower on top; the bailey is a fenced yard beside it. Mottes were typically built on low ground, many of them in towns or by rivers, and streams were dammed or diverted to fill their moats.
 
 **Fix:** For each castle, write down what it controls. Put castles in or beside towns, at bridges and fords, at the mouths of passes, at harbours, along frontiers and at the centre of a lord's lands.
 
-**Exception:** Hilltop castles were common where the hills overlooked a route. The Rhine Gorge, 65 km (40 mi) between Bingen/Rüdesheim and Koblenz, has about 40 hilltop castles. Many of their lords lived on tolls from river traffic. The toll castle of Pfalzgrafenstein (1326–27) even stands on an island in the river. The hills were chosen because of the river, not at random.
+**Exception:** Hilltop castles were common where the hills overlooked a route. The Rhine Gorge, 65 km (40 mi) between Bingen/Rüdesheim and Koblenz, has about 40 hilltop castles. Many of their lords lived on tolls from river traffic. The toll castle of Pfalzgrafenstein (its tower built 1326–27 for King Louis IV) even stands on an island in the river at Kaub. The hills were chosen because of the river, not at random.
 
 ### 23. Too many castles
 
-**Why it looks wrong:** A castle on every hill and by every village, and every one a great stone fortress. Stone castles were very expensive: a stone keep (a great tower) could take up to ten years to build. Every castle also needed a garrison and land to pay for it.
+**Why it looks wrong:** A castle on every hill and by every village, and every one a great stone fortress. Stone castles were very expensive, and it was usual for one to take the best part of ten years to finish. Every castle also needed a garrison and land to pay for it.
 
-**Fix:** Keep big royal fortresses rare: one or two per region, at key towns, passes and frontiers. Peacetime garrisons were small, often 5–20 men. Fill the rest with smaller lordly castles, tower houses and fortified manor houses. Use the density table under mistake 24.
+**Fix:** Keep big royal fortresses rare: one or two per region, at key towns, passes and frontiers. Peacetime garrisons were small, often 5–20 men. Fill the rest with smaller lordly castles, tower houses (tall, small stone towers lived in by minor lords) and fortified manor houses. Use the density table under mistake 24.
 
-**Exception:** Where lordship was split among many small nobles, castles really were everywhere. The German-speaking lands had about 14,000 castles over the whole period, and Switzerland about 4,000. Most were small towers, not great fortresses, and not all were in use at the same time. Late medieval border zones filled with tower houses: about 800 in Scotland and over 3,000 in Ireland.
+**Exception:** Where lordship was split among many small nobles, castles really were everywhere. The German-speaking lands had about 14,000 castles over the whole period, and Switzerland, where no ruler controlled who could build one, about 4,000. Most were small towers, not great fortresses, and not all were in use at the same time. Late medieval border zones filled with tower houses: about 800 in Scotland and over 3,000 in Ireland.
 
 ### 24. Too few castles
 
-**Why it looks wrong:** A realm of millions has three castles, one in each corner. Some popular gaming rules make this worse. *Medieval Demographics Made Easy* (S. John Ross, 1993–2005) suggests one working castle per 50,000 people. For Norman England, with about 2 million people, that gives about 40 castles. In fact, England and Wales had 500–600 castles in use at any one time after 1066.
+**Why it looks wrong:** A realm of millions has three castles, one in each corner. Some popular gaming rules make this worse. *Medieval Demographics Made Easy* (S. John Ross, first written 1993 and revised several times since) suggests one working castle per 50,000 people. For Norman England, with about 1.7–2 million people, that gives only 35–40 castles. In fact, England and Wales had 500–600 castles in use at any one time after 1066: more than ten times as many.
 
 | Situation | One castle per | Average spacing | Real basis |
 |---|---|---|---|
-| Newly conquered or contested land (11th–12th centuries) | 200–300 km² (80–115 sq mi), or about 3,000–4,000 people | ~15 km (9 mi) | England and Wales after 1066: 500–600 in use on about 150,000 km² |
+| Newly conquered or contested land (11th–12th centuries) | 250–300 km² (95–115 sq mi), or about 3,000–4,000 people | 15–18 km (9–11 mi) | England and Wales after 1066: 500–600 in use on about 150,000 km² (58,000 sq mi) |
 | Royal castle chain along a frontier | — | 20–40 km (12–25 mi) along the line | Edward I's North Wales castles, all supplied by sea |
-| Fragmented lordship (many small towers, all periods together) | ~10 km² (4 sq mi) | 3–4 km (2–2.5 mi) | Switzerland: ~4,000 sites on 41,000 km² |
-| Popular gaming rule | 50,000 people | — | About one-tenth of what Norman England actually had |
+| Fragmented lordship (many small towers, all periods together) | ~10 km² (4 sq mi) | 3–4 km (2–2.5 mi) | Switzerland: ~4,000 sites on 41,000 km² (16,000 sq mi) |
+| Popular gaming rule | 50,000 people | — | Less than one-tenth of what Norman England actually had |
 
 **Exception:** Peaceful, centralised realms needed fewer working castles. Many early earth-and-timber castles were abandoned within a century or two. So a late medieval map can show fewer working castles and more castle ruins.
 
@@ -349,7 +349,12 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 **Why it looks wrong:** Many fantasy maps put a wall around every dot. Walls were expensive to build and to maintain. English towns usually paid for them with a royal grant of *murage* (the right to charge tolls for wall-building), and only did so when there was a real threat.
 
-**Numbers:** In England and Wales, about 130 towns had walls or other defences (Mike Salter describes 99 sites in England and 33 in Wales). England had more than 600 boroughs and about 1,700 places with market grants. So only about one borough in five or six was defended, and most small market towns had no walls at all. Many "defended" towns had only a bank and ditch, with gates or bars where tolls were collected. In south-western France, most of the nearly 700 bastides started without walls; the Treaty of Paris (1229) banned walls in much of the region. Many were walled only during the Hundred Years' War.
+**Numbers:**
+
+- **England and Wales:** Mike Salter's survey of walled towns (2013) describes 99 defended towns in England and 33 in Wales. It also lists 54 more English places with slighter or less certain defences. So England had roughly 100–150 defended towns.
+- **Compare:** England had more than 600 boroughs and about 1,700 places with market grants. So only about one English borough in four to six was defended, and most small market towns had no walls at all.
+- **Many "defended" towns were not stone-walled.** They had only a bank and ditch, with gates or bars (barriers across the street) where tolls were collected.
+- **South-western France:** most of the nearly 700 bastides started without walls. In the lands of the Count of Toulouse, the Treaty of Paris (1229) at first forbade new fortifications. Many bastides were walled only during the Hundred Years' War (1337–1453).
 
 **Fix:** Wall the big cities, the regional capitals, the frontier towns and the ports facing raids. Leave most market towns open, or give them a ditch and gates.
 
@@ -357,7 +362,7 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 > **Later era (1500s+):** Gunpowder changed walls. Low, thick walls with angled bastions (pointed platforms for cannon) appeared in Italy in the later 15th century and spread beyond Italy in the 1530s–40s. These "star forts" and garrison towns replace castles as the main strongholds. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Fantasy twist:** Flying enemies or monsters change the rules. If dragons or flying mounts are common, walls matter less than towers, roofs and shelters, and castles move to places that are hard to see from the air. If monsters roam the countryside, more villages get palisades and fewer people live on isolated farms. See [Fantasy Variants](10-fantasy-variants.md).
+> **Fantasy twist:** Flying enemies or monsters change the rules. If dragons or flying mounts are common, walls matter less than towers, roofs and shelters, and castles move to places that are hard to see from the air. If monsters roam the countryside, more villages get palisades (fences of sharpened stakes) and fewer people live on isolated farms. See [Fantasy Variants](10-fantasy-variants.md).
 
 > **Map tip:** Next to each castle symbol, write one word for what it controls: "ford", "pass", "port", "town", "march" (border province). Use one symbol for great royal castles, a smaller one for lords' castles, and a third for ruins. Draw a full wall ring only around cities and frontier towns; give market towns a simple dot or a gate symbol.
 
@@ -377,9 +382,9 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 **Exception:** Specialised places existed when trade fed them:
 
-- **Bergen** (Norway) exported stockfish (dried cod) and imported grain through Hanseatic (north German) merchants.
+- **Bergen** (Norway) exported stockfish (dried cod) from northern Norway and imported grain. From about 1350 the trade was run by Hanseatic (north German) merchants from their own quarter on the harbour, the Bryggen.
 - **The Flemish cloth towns** imported English wool and grain from abroad.
-- **Kutná Hora** (Bohemia) grew from a silver rush in the late 13th century and became one of the richest towns in the kingdom.
+- **Kutná Hora** (Bohemia) grew from a silver rush that began c. 1260. From 1300 it held the royal mint, and it became the second most important town in the kingdom after Prague.
 - **Taghaza** (Sahara) lived only on salt.
 
 ### 27. Isolated towns with no reason to exist
@@ -393,10 +398,10 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 | Place | Reason | Date |
 |---|---|---|
 | Taghaza (Sahara) | Salt mine | Visited by Ibn Battuta in 1352 |
-| Kutná Hora (Bohemia) | Silver | Boom from the late 13th century |
-| Santiago de Compostela (Galicia) | Pilgrimage to the tomb of St James | Tomb reported in the 9th century; pilgrimage peaked in the 11th–13th centuries |
+| Kutná Hora (Bohemia) | Silver | Mining from c. 1260; boom in the late 13th and 14th centuries |
+| Santiago de Compostela (Galicia) | Pilgrimage to the tomb of St James | Tomb reported in the 9th century; pilgrims from beyond the Pyrenees from the mid-11th century; a highly organised mass pilgrimage by the 12th century |
 | Great St Bernard hospice (Alps) | Shelter at a high pass | Founded c. 1049–1050 |
-| Mount Athos (Greece) | Monasteries | Great Lavra founded 963 |
+| Mount Athos (Greece) | Monasteries | Great Lavra, the first large monastery, founded 963 |
 
 > **Fantasy twist:** A rare magic resource, such as a mana spring or a dragon-bone quarry, works just like a silver mine. It creates a boom town in a bad place, a road to reach it, a castle to guard it, and food caravans to feed it.
 
@@ -419,7 +424,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 | Early castles abandoned or replaced | Of ~1,700 castle sites in England and Wales, only 500–600 were in use at any one time |
 | Deserted villages | More than 3,000 known in England from all periods; at least 1,500 abandoned c. 1350–1520, most in the 15th century when fields were turned into sheep pasture |
 
-*Medieval Demographics Made Easy* suggests this many ruined castles: (population ÷ 5 million) × the square root of the realm's age in years. For an English-sized realm that gives only about 20–30 ruins, which is far fewer than the real landscape had.
+*Medieval Demographics Made Easy* suggests this many ruined castles: (population ÷ 5 million) × the square root of the realm's age in years. Take a realm of about 5 million people where castle-builders have lived for 400–900 years. The formula gives only about 20–30 ruins. That is far fewer than the real landscape had. More than 1,000 castles were built in England and Wales in the 150 years after 1066, but only 500–600 were in use at any one time, so hundreds of early castles already stood abandoned by c. 1200.
 
 **Fix:** Add a layer of ruins and older features: old forts on hilltops, an old straight road that new towns ignore, a deserted village, a ruined abbey or castle, an old border dyke (a long earth bank and ditch). Let some towns stand on top of older ones. See [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md).
 
@@ -434,7 +439,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 | Feature | First appears in Europe | Common by |
 |---|---|---|
 | Watermill | Roman times | About one per village in England by c. 1300 (over 10,000 mills) |
-| Windmill (post mill) | 1185, first certain record (Weedley, Yorkshire) | 13th century |
+| Windmill (post mill: the whole mill body turns on a post to face the wind) | 1185, first certain record (Weedley, Yorkshire) | 13th–14th centuries |
 | Friaries in towns | 1220s | Late 13th century |
 | Universities | Bologna, late 11th century | About 20 c. 1300; 60–80 by 1500 |
 | Gunpowder cannon | First European picture, 1326 | Decisive in sieges by the mid-15th century |

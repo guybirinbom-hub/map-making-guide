@@ -26,7 +26,7 @@ The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500).
 | Need | What people looked for | How close it must be | What it looks like on a map |
 |---|---|---|---|
 | Fresh water | River, stream, spring, reliable well, lake | Inside or next to the settlement | Every village touches blue: a river, a stream or a spring line |
-| Food | A **mix** of land: arable (ploughed fields), meadow (hay), pasture (grazing), woodland | Fields within a 15–30 minute walk | Villages sit where two kinds of land meet |
+| Food | A **mix** of land: arable (ploughed fields), meadow (hay), pasture (grazing), woodland | Fields within a 15–30 minute walk (roughly 1–2.5 km, 0.6–1.5 mi) | Villages sit where two kinds of land meet |
 | Fuel and building material | Wood, peat or coal; stone, clay or timber | Within a few km for daily fuel; farther for building stone (by water) | Woods near most villages; quarries near stone towns |
 | Defence | Hills, river bends, islands, spurs (rock tongues), marsh around a dry spot | The site itself | Towns on hills, in river loops, on islands |
 | Communications | Fords, bridges, confluences, harbours, the mouth of a mountain pass, crossroads | The site itself | Bigger places at river crossings and route junctions |
@@ -39,10 +39,10 @@ The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500).
 **Why:** Water is heavy. Carrying it uphill every day is hard work. Deep wells were expensive to dig.
 
 **Real examples:**
-- Around 1220 the bishop of Old Sarum (an old hill fort near modern Salisbury, England) moved his cathedral, with the Pope's permission, down to the river valley. The complaints were lack of water, constant wind, and quarrels with the castle garrison. New Salisbury grew by the river. Old Sarum slowly emptied.
+- Old Sarum is an Iron Age hill fort near modern Salisbury, England, with a Norman castle and cathedral inside it. The clergy complained about three things: water was scarce and expensive (and the castle guards sometimes controlled access to it), the wind was fierce, and they quarrelled with the castle garrison. Pope Honorius III gave permission to move (1217–18), and in 1220 the bishop laid the foundation stone of a new cathedral down in the river valley. New Salisbury grew by the river. Old Sarum slowly emptied.
 - On chalk and limestone hills, water sinks into the rock. It comes out as springs where the porous rock sits on clay. Villages form a line along these springs (see [spring-line villages](#classic-site-types) below).
 
-**Flood risk.** People wanted water close, but not in the house. The usual answer was a **river terrace**: a flat step of gravel a few metres above the flood plain. Roman and medieval London stood on two low gravel hills (Cornhill and Ludgate Hill) on the north bank of the Thames, about 15 m (50 ft) high, opposite a gravel patch at Southwark on the south bank. The flood plain itself was left as meadow.
+**Flood risk.** People wanted water close, but not in the house. The usual answer was a **river terrace**: a flat step of gravel a few metres above the flood plain. Roman and medieval London stood on two low hills (Cornhill and Ludgate Hill) on the north bank of the Thames. The higher one, Cornhill, rises only to about 18 m (58 ft) above sea level. Across the river, on the south bank, was a patch of dry ground at Southwark. The flood plain itself was left as meadow.
 
 ### Food: a mix of land
 
@@ -50,7 +50,7 @@ The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500).
 
 | Land type | Use | Where it is |
 |---|---|---|
-| Arable | Grain for bread, ale and pottage | Well-drained, fairly flat land |
+| Arable | Grain for bread, ale and pottage (a thick stew of grain and vegetables) | Well-drained, fairly flat land |
 | Meadow | Hay to feed animals in winter | Flood plains and wet valley floors |
 | Pasture | Summer grazing for oxen, sheep, cows | Hills, heaths, rough ground, fallow fields |
 | Woodland | Fuel, building timber, pigs (acorns) | Steeper or poorer land, parish edges |
