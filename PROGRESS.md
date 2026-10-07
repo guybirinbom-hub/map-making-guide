@@ -21,6 +21,16 @@ This guide is being written in stages. This file records what is done, what is l
 | `guide/13-quick-reference.md` | Done (includes the master legend and a table reconciling the numbers between chapters) |
 | `README.md` | Done |
 
+## Current round (started 2026-10-07)
+
+The final round is in `research/followups2.json`. It covers:
+- audit gaps for 00 and 12
+- symbol alignment with chapter 13's master legend in chapters 02–11
+- restyling the worked-example map to the master legend (`tools/make_map.py` and `tools/render_svg.js`)
+- the small leftovers below
+
+It runs as `{"mode": "fix", "auditFile": "research/followups2.json", "files": [...]}`. Next come adding any missing symbols to 13, then `{"mode": "final"}` and the link check.
+
 ## What is left (next session)
 
 The workflow is `.claude/workflows/assemble-guide.js`. Run it by name, or by `scriptPath` if the name is not listed:
