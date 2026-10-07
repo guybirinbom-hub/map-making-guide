@@ -216,7 +216,7 @@ Full details are in [Trade Routes, Roads and Transport](05-trade-routes-and-tran
 
 **Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map of Britain (conventionally dated c. 1360–70; a handwriting study (Smallwood 2010) suggests one or two decades after 1400, with parts redone or added later in the 15th century) shows about 190 thin red route lines between towns. Nine out of ten have the distance between the towns written on them. A modern study traced the real roads behind these lines: about 4,540 km (2,820 mi) of route across England and Wales, split into 455 segments. About a third of that length runs on Roman roads, still in use 1,000 years after they were built. See [How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw).
 
-**Fix:** Connect every town to its neighbours. Draw main roads between cities and along valleys. At kingdom scale you can leave out minor tracks. As a guide from the Gough Map, draw about 30 km of main road for every 1,000 km² of settled land (about 50 mi per 1,000 sq mi).
+**Fix:** Connect every town to its neighbours. Draw main roads between cities and along valleys. At kingdom scale you can leave out minor tracks. As a guide from the Gough Map, draw about 30 km of main road for every 1,000 km² of settled land (about 48 mi per 1,000 sq mi).
 
 **Exception:** Where water is the road, roads matter less: river routes in Russia, the Venetian lagoon, the Fens of eastern England and archipelagos all relied on boats. Steppe and desert had tracks and caravan routes rather than built roads.
 

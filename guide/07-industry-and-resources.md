@@ -19,7 +19,7 @@ Most medieval towns grew because of farming and trade. Some towns grew for a dif
 - [Quick summary](#quick-summary)
 - [Sources and further reading](#sources-and-further-reading)
 
-The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500). Settlement sizes follow [Population and Settlement Sizes](02-population-and-sizes.md). Roads, rivers, ports and transport costs are in [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md). Ordinary village mills and woodland use are in [Villages, Farms and the Countryside](06-villages-and-countryside.md).
+The baseline period is the High and Late Middle Ages in Europe (c. 1000–1500). Settlement sizes follow [Population and Settlement Sizes](02-population-and-sizes.md). Roads, rivers, ports and transport costs are in [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md). Ordinary village mills and woodland use are in [Villages, Farms and the Countryside](06-villages-and-countryside.md). The map symbols for this chapter are listed in [Suggested symbols](#suggested-symbols).
 
 ---
 
@@ -175,7 +175,7 @@ Coal was a small, local fuel in the Middle Ages, used mainly by smiths, lime bur
 
 Medieval coal pits were small: "bell pits" (a shaft widened at the bottom, abandoned when it got dangerous) and shallow tunnels into hillsides.
 
-> **Later era (1500s+):** Coal boomed when wood became scarce. Tyne shipments grew from about 15,000 tonnes a year before 1539 to about 240,000 tonnes in 1600 and 425,000 in 1634. Draw a forest of colliery (coal-mine) hamlets along the Tyne and a stream of collier ships (coal-carrying ships) to London.
+> **Later era (1500s+):** Coal boomed when wood became scarce. Tyne shipments grew from about 15,000 tonnes a year before 1539 to about 240,000 tonnes in 1600 and 425,000 in 1634. Draw many colliery (coal-mine) hamlets along the Tyne, each with the mine symbol (crossed hammers), and a sea lane (a dotted line at sea) to London labelled "colliers" (coal-carrying ships).
 
 ### Mining districts on the map
 
@@ -187,7 +187,7 @@ Medieval coal pits were small: "bell pits" (a shaft widened at the bottom, aband
 
 > **Fantasy twist:** Dwarves who can drain or shore up deep mines remove the medieval depth limit, so their mines last for centuries instead of decades. Magic ores (mithril and the like) behave like gold or silver: valuable enough to pay for long, guarded roads, so a remote mine can still support a large town. A dragon or monster in the hills is a good reason why a known ore field is *not* worked. More in [chapter 10](10-fantasy-variants.md).
 
-> **Map tip:** Draw a mining town up a side valley, with a road down to the nearest market town or river. Label the mine with a name (in German lands, mine names were often saints or wishes: "St Anne's Find", "Good Hope"). Add a few abandoned shafts and a ghost hamlet. Mining landscapes are full of failed attempts.
+> **Map tip:** Draw a mining town up a side valley, with a road down to the nearest market town or river. Label the mine with a name (in German lands, mine names were often saints or wishes: "St Anne's Find", "Good Hope"). Add a few abandoned shafts (the mine symbol drawn grey, labelled "(old shaft)") and a ghost hamlet (grey house marks, labelled "(lost hamlet)"). Mining landscapes are full of failed attempts.
 
 ---
 
@@ -238,7 +238,7 @@ Brine boiling burned enormous amounts of wood. Brine towns were often blamed for
 
 > **Fantasy twist:** Fire magic or magical heat removes the fuel problem of brine boiling. Then brine towns can grow without eating their forests, and a salt spring in a treeless land becomes valuable. A "salt mage" guild would be as powerful as a mint.
 
-> **Map tip:** Place a brine town on lowland near a spring, with woods or peat bogs nearby (or a river to bring fuel). Draw 2–4 roads radiating from it, each labelled "Salt Road" or "Saltway" on the first stretch. Sea-salt pans need flat, sheltered shore and a warm, dry summer: draw a checkerboard of small rectangles along a lagoon. In the north, keep sea salt small and import "bay salt" by ship. Place names with "Hall", "Salz", "Sal" or "Saline" often, but not always, mark salt. In England, the "-wich" brine towns of Cheshire and Worcestershire (Droitwich, Nantwich, Middlewich, Northwich) are a real cluster.
+> **Map tip:** Place a brine town on lowland near a spring, with woods or peat bogs nearby (or a river to bring fuel). On a local map, mark the spring with a small blue dot labelled "Brine Pit"; on a kingdom map, add "(salt)" to the town's label instead. Draw 2–4 roads radiating from it, each labelled "Salt Road" or "Saltway" on the first stretch. Sea-salt pans need flat, sheltered shore and a warm, dry summer: draw a checkerboard of small rectangles along a lagoon. In the north, keep sea salt small and import "bay salt" by ship. Place names with "Hall", "Salz", "Sal" or "Saline" often, but not always, mark salt. In England, the "-wich" brine towns of Cheshire and Worcestershire (Droitwich, Nantwich, Middlewich, Northwich) are a real cluster.
 
 ---
 
@@ -279,14 +279,14 @@ Brick and tile kilns stood outside the town walls, near clay pits and water, bec
 
 - Lime (made by burning limestone or chalk) was needed for mortar, plaster and limewash, and sometimes spread on fields.
 - Kilns stood next to limestone or chalk outcrops, or next to big building sites, or at ports where stone and fuel could both arrive by boat. Lime burners were among the first medieval users of coal.
-- A lime kiln is a small industrial site, not a settlement. On a local map, draw kilns as small round towers or mounds along a limestone edge.
+- A lime kiln is a small industrial site, not a settlement. On a local map, mark kilns along a limestone edge with the word "Limekiln" (or "Limekilns" for a row), not with a picture. A small tower would read as a castle, and a small mound as a barrow (an ancient burial mound) or a motte (a castle mound).
 
 ### Pottery
 
 - Everyday pots were made in **potters' villages** near good clay, with woodland or heath for fuel. Most sold within a day's travel by cart.
 - A few kinds of pottery were traded across Europe: Rhineland stoneware (Siegburg, Langerwehe, Raeren) went down the Rhine to the North Sea and the Baltic; lustreware from Málaga and Manises (near Valencia) went around the Mediterranean and to England.
 
-> **Map tip:** On a kingdom map, mark only famous quarries (with a symbol and a name like "Marble Quarries") and the brick-built towns of clay lowlands. On a local map, add clay pits and kilns outside the walls, a quarry track to the river, and a lime kiln at a limestone edge. In a region of stone, make towns grey; in a clay lowland, make them red.
+> **Map tip:** On a kingdom map, mark only famous quarries (with the quarry symbol, a notch in the hillside, and a name like "Marble Quarries") and the brick-built towns of clay lowlands. On a local map, add clay pits and kilns outside the walls (labelled "Clay Pits", "Brick Kilns"), a quarry track to the river, and a lime kiln at a limestone edge. If you colour your town symbols, use a pale stone colour (buff or cream) in a region of stone and brick red in a clay lowland. Do not use grey: the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy) keeps grey for ruins and abandoned places.
 
 ---
 
@@ -332,7 +332,7 @@ How much forest does an ironworks need? In the Weald, historians estimate that a
 
 > **Fantasy twist:** If the forest is home to elves, spirits or monsters, charcoal burners, glassmakers and tar boilers become the frontier people of your world. They need permission, guards or a truce. A realm that cannot cut its forests cannot make iron or glass, and must import them.
 
-> **Map tip:** Draw a forest with small clearings: a charcoal hearth, a glasshouse, a forge by a stream with its pond, a woodcutters' hamlet. Add one track out of the forest to a river. Mark a few clearings as abandoned ("Old Glasshouse"). Forest industries leave no towns, only hamlets with names like Coalpit, Furnace, Hammer or, in German lands, Glashütte (glass hut).
+> **Map tip:** Draw a forest with small clearings, each labelled with its work: "Charcoal Hearths", "Glasshouse", a "Forge" by a stream with its pond (draw the forge as a watermill wheel on the stream), a woodcutters' hamlet. Add one track out of the forest to a river. Mark a few clearings as abandoned ("Old Glasshouse"). Forest industries leave no towns, only hamlets with names like Coalpit, Furnace, Hammer or, in German lands, Glashütte (glass hut).
 
 ---
 
@@ -369,7 +369,7 @@ Villages such as Nieuwerkerk and Rietwijk were swallowed, and the village of Aal
 
 > **Later era (1500s+):** After about 1530, Dutch diggers began to dredge peat from under the water with a net on a long pole. They dried the wet peat on long, narrow strips of land left between the pits (*legakkers*). This made whole lake districts shaped like a comb of thin strips and long water channels, such as the Loosdrechtse and Vinkeveense Plassen in the north-west of the province of Utrecht. From the 1600s, Dutch investors pumped many lakes dry with windmills (the Beemster by 1612); see [Drainage and new land](09-later-era-1500-1650.md#drainage-and-new-land).
 
-> **Map tip:** Draw peat lakes with straight or blocky edges, not smooth round ones, and leave narrow banks (baulks) and causeways between them. Put a "turbary" or "Turf Fen" common beside each fen village, and a river or canal carrying turf boats to the nearest town. The Broads lie within about 30 km (19 mi) of Norwich, along its rivers. For a map set a century or more after the digging, turn the pits into a chain of lakes, and mark a drowned village or two (label it, for example, "Drowned Church" or "Old Fenby, lost to the water").
+> **Map tip:** Draw peat lakes with straight or blocky edges, not smooth round ones, and leave narrow banks (baulks) and causeways between them. Put a "turbary" or "Turf Fen" common beside each fen village (the commons symbol, tufts or stipple, with that label), and a river or canal carrying turf boats to the nearest town. The Broads lie within about 30 km (19 mi) of Norwich, along its rivers. For a map set a century or more after the digging, turn the pits into a chain of lakes, and mark a drowned village or two: a grey church standing in the water (the master legend's symbol for a lost village), labelled, for example, "Old Fenby (lost village)" or "Drowned Church".
 
 ---
 
@@ -411,7 +411,7 @@ Many English wool estates belonged to Cistercian monasteries (see [chapter 08](0
 - A water-powered mill did the work of many fullers, so water fulling was much cheaper than fulling by foot.
 - The historian Eleanora Carus-Wilson argued (1941) that fulling mills pulled the English cloth industry out of the old towns and into the countryside, where fast streams were. Later historians think she exaggerated, but the pattern of cloth villages along hill streams is real.
 
-> **Map tip:** Put fulling mills on fast streams in hilly country near sheep land. A cloth district on the map is a hill valley with a string of villages and mills along the stream, a market town at the valley mouth where cloth is sold, and tenter grounds on the slopes.
+> **Map tip:** Put fulling mills on fast streams in hilly country near sheep land. A cloth district on the map is a hill valley with a string of villages and fulling mills along the stream (draw each mill as a watermill wheel; English names for a fulling mill include "Walk Mill" and "Tuck Mill", and in Wales a *pandy*), a market town at the valley mouth where cloth is sold, and tenter grounds on the slopes.
 
 ### Dyes and mordants
 
@@ -433,7 +433,7 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 > **Later era (1500s+):** Protestant refugees from Flanders brought the "New Draperies" (lighter cloths) to English towns such as Norwich and Colchester. English cloth replaced raw wool as the country's great export.
 
-> **Map tip:** On a kingdom map, draw one or two textile regions, not more. Show sheep country (downs, hills, dry plateaus) with a few wool market towns; a cloth region with several close-set towns and mill streams; and, if you like, a dye district on good plains nearby ("Woad Country"). Silk belongs in rich southern or eastern cities that trade with the Byzantine or Islamic world. On a local map, add tenter grounds, a cloth hall, dyers by the river below town and fulling mills on the side streams.
+> **Map tip:** On a kingdom map, draw one or two textile regions, not more. Show sheep country (downs, hills, dry plateaus) with a few wool market towns; a cloth region with several close-set towns and mill streams; and, if you like, a dye district on good plains nearby ("Woad Country"). Silk belongs in rich southern or eastern cities that trade with the Byzantine or Islamic world. On a local map, add tenter grounds (an open field beside the town labelled "Tenters"), a cloth hall, dyers by the river below town and fulling mills on the side streams.
 
 ---
 
@@ -465,7 +465,7 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 
 > **Later era (1500s+):** Dutch "herring busses" (large decked fishing boats that salted the fish at sea) made Holland rich from the 1400s on. From the 1500s, Basque, Portuguese, French and English ships sailed to Newfoundland for cod.
 
-> **Map tip:** Put herring markets on a beach or spit next to a narrow sea passage, with a small town or two and a large empty area labelled "fair ground" or "curing booths". Put stockfish stations along Arctic coasts with racks, and one big trading town with a German (or foreign) quarter at the end of the route. Draw fishing hamlets in every sheltered cove, roughly a few kilometres apart along good coasts, fewer along cliffs.
+> **Map tip:** Put herring markets on a beach or spit next to a narrow sea passage, with a small town or two and a large empty area labelled "fair ground" or "curing booths". Put stockfish stations along Arctic coasts, with their racks labelled "Fish Racks", and one big trading town with a German (or foreign) quarter at the end of the route. Draw fishing hamlets in every sheltered cove, roughly a few kilometres apart along good coasts, fewer along cliffs.
 
 ---
 
@@ -492,7 +492,7 @@ Woad needed rich, well-manured arable land and a woad mill to crush the leaves. 
 - **Seville**: the *Atarazanas* (shipyards), built under Alfonso X from 1252 outside the walls, by the river, with 17 long brick halls.
 - **Rouen**: the French royal galley yard (*Clos des Galées*), founded in the 1290s (usually dated 1294) with Genoese help.
 
-> **Map tip:** Put an arsenal at the edge of a big port city, on its own basin, behind its own walls. Draw a timber road or river from the forests to it. On a kingdom map, label 1–3 royal shipyards on the coast facing the realm's main enemy. Add tar and timber ports in the northern forests if your realm builds ships.
+> **Map tip:** Put an arsenal at the edge of a big port city, on its own basin, behind its own walls. Draw a timber road or river from the forests to it. On a kingdom map, mark 1–3 royal shipyards or arsenals on the coast facing the realm's main enemy, each with an anchor plus a castle tower. Ordinary beach and creek yards need no symbol; on a local map, just label them "Shipyard". Add tar and timber ports in the northern forests if your realm builds ships.
 
 ---
 
@@ -553,7 +553,7 @@ Sugar came to the Mediterranean from the Islamic world. Crusaders met it in the 
 
 > **Later era (1500s+):** Sugar moves out into the Atlantic: to Madeira (cane brought in by the Portuguese in the 1420s; a large producer by the 1490s), the Canary Islands, and then Brazil and the Caribbean, on plantations worked by enslaved Africans. The Mediterranean sugar estates, with their higher costs, slowly decline.
 
-> **Map tip:** In a warm southern kingdom, draw one or two sugar districts on irrigated coastal plains: small square cane fields, straight water channels from a river, and a sugar mill and boiling house fed by an aqueduct. Put a fortified estate tower beside the works (the older castle at Kolossi was wrecked by Mamluk raiders in the 1420s), and a loading port within a short cart trip, like Kolossi and Limassol. A sugar district is a cluster of several mills, not one big town. Label it "Sugar Mill" or "the Commandery".
+> **Map tip:** In a warm southern kingdom, draw one or two sugar districts on irrigated coastal plains: cane fields as small enclosed plots (the enclosed-fields symbol), thin blue irrigation channels from a river (drawn like a mill leat, thinner than a canal), and a sugar mill and boiling house fed by an aqueduct. Draw a water-driven mill as a watermill wheel labelled "Sugar Mill". Put a fortified estate tower beside the works, drawn as a small solid square (the tower-house symbol); if a military order owns the estate, as the Hospitallers owned Kolossi, use the commandery symbol instead, a small church with a shield. (The older castle at Kolossi was wrecked by Mamluk raiders in the 1420s.) Put a loading port within a short cart trip, like Kolossi and Limassol. A sugar district is a cluster of several mills, not one big town; name the estate as well as the mills ("the Commandery").
 
 ---
 
@@ -587,7 +587,7 @@ Most towns are market towns. These are the special ones. Each has a "signature" 
 | **Mining town** | Up a valley in the hills; spoil heaps, shafts, mint, big church; little farmland | 1,000–5,000; boom towns 10,000–20,000 | Ore-bearing hills, near wood and fast water | Goslar, Freiberg, Kutná Hora, Kremnica, Iglesias |
 | **Salt town** | Brine spring or salt mine; boiling houses; salt roads radiating out | Small to middle-sized, but rich for its size | Over salt beds; sea-salt pans on warm, sheltered coasts | Lüneburg, Droitwich, Halle, Salins, Wieliczka, Ston |
 | **Port** | Harbour, quays, warehouses, lighthouse or harbour chain | Any size; the largest cities were ports | Estuaries, bays, river mouths | See [chapter 05](05-trade-routes-and-transport.md) |
-| **Fishing village** | Beach or cove, boats drawn up, drying racks or smokehouses | 50–500 (a village or hamlet); seasonal stations swell in season | Sheltered coast, river mouths | Lofoten stations, Skanör and Falsterbo |
+| **Fishing village** | Beach or cove, drying racks or smokehouses (label them; do not draw boats, because a small boat marks the head of navigation) | 50–500 (a village or hamlet); seasonal stations swell in season | Sheltered coast, river mouths | Lofoten stations, Skanör and Falsterbo |
 | **Cloth town** | Cloth hall, tenter grounds, fulling mills on nearby streams, dyers by the river | 2,000–10,000 usually; the Flemish giants 20,000–65,000 | Near wool, water power and trade routes | Ghent, Bruges, Ypres, Florence, English cloth towns |
 | **Fair town** | Big open fairground (often a meadow outside the walls), many inns and warehouses, several roads meeting | Often only a small or middle town | Where regions and routes meet | Troyes, Provins, Lagny, Bar-sur-Aube; Frankfurt; Stourbridge Fair at Cambridge |
 | **Iron or craft town** | Forges and grinding mills along streams; guild halls | 1,000–10,000; bigger trade cities | Edge of iron or wood districts, on a trade route | Steyr, Solingen, Dinant, Nuremberg |
@@ -608,9 +608,38 @@ A **fair** was a big market held once or a few times a year, often for days or w
 
 Hot springs attracted bathers from Roman times. Medieval spa towns were small but busy with visitors: Bath in England, Aachen (Charlemagne's favourite residence), Baden in Switzerland (described as a lively resort by the Italian scholar Poggio Bracciolini in 1416) and Karlsbad in Bohemia. In the Islamic world, public bath houses (*hammams*) stood in every city, so baths alone do not make a spa town there.
 
+### Suggested symbols
+
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).
+
+Many small works (kilns, racks, forest clearings) are best shown with a word, not a picture. A new little picture can easily look like a symbol that already means something else: a small tower reads as a castle, a mound as a barrow, a boat as the head of navigation.
+
+| Feature | Symbol | Show at which scale |
+|---|---|---|
+| Mine or mining district | Crossed hammers (or a pick) | Continent (3–6 districts), kingdom, local |
+| Mining town | Its usual town symbol, with crossed hammers beside it | Kingdom, local |
+| Old shaft or worked-out mine | Crossed hammers drawn grey, labelled "(old shaft)" | Local |
+| Mint or coinage town | No extra symbol: add "(mint)" or "(coinage town)" to the town's label | Kingdom, local |
+| Salt pans | Checkerboard of small rectangles along the shore | Kingdom, local |
+| Brine spring or hot spring | Small blue dot, labelled "Brine Pit" or "Hot Spring"; on a kingdom map, add "(salt)" or "(baths)" to the town's label instead | Kingdom (label only), local |
+| Salt road | The ordinary road line, labelled "Salt Road" or "Saltway" on its first stretch | Kingdom, local |
+| Quarry | Notch in a hillside, with a track to water | Kingdom (famous ones), local |
+| Lime, brick or tile kilns; clay pits | Words only: "Limekiln", "Brick Kilns", "Clay Pits" | Local |
+| Water-powered works (forge, furnace, ore-crushing mill, fulling mill, sugar mill) | Watermill wheel on the stream, labelled with the trade ("Forge", "Furnace", "Walk Mill", "Sugar Mill"); a hammer pond as one blue pond with a straight dam at its lower end | Local |
+| Charcoal hearths, glasshouse, tar kilns | A clearing in the wood symbol, labelled with the trade | Local |
+| Peat diggings (turbary) | Commons symbol (tufts or stipple), labelled "Turf Fen"; flooded pits as blue lakes with straight, blocky edges | Local |
+| Drowned village | Grey church standing in the water, labelled "(lost village)" | Kingdom (a few), local |
+| Tenter grounds, fair field, fish racks | Open ground labelled "Tenters", "Fair Field" or "Fish Racks" | Local |
+| Fair town | Its usual town symbol, with the fair months in the label ("Provins: May and September fairs") | Kingdom |
+| Vineyards | Hatched strips on south-facing slopes | Kingdom, local |
+| Port (for wine, coal, fish or timber) | Large anchor with a quay (head port), or a small anchor (member port) | Continent, kingdom |
+| Arsenal or royal shipyard | Anchor plus a castle tower | Continent, kingdom |
+| Ordinary shipyard | The label "Shipyard" on the shore; no symbol | Local |
+| Fortified estate tower (for example on a sugar estate) | Small solid square (tower house); a small church with a shield if a military order owns it | Local |
+
 > **Fantasy twist:** Flying mounts or teleport circles make light, valuable goods (gold, silver, silk, potions) even less tied to roads, but bulk goods (salt, grain, stone, timber) still follow water. So magic adds new special towns (an airship yard, a mage-crafting town at a crystal mine) without removing the old ones. See [chapter 10](10-fantasy-variants.md).
 
-> **Map tip:** Every special town needs its "why" visible on the map: a mine symbol, salt pans, a fairground, vineyards, a harbour. Use a different small symbol for each type, and give each a name that hints at its trade (Silverdale, Saltwich, Clothford, Forgeham). On a kingdom map, aim for something like 1–3 mining districts, 1–3 salt sources, one cloth region, one or two fair towns and several ports. That is enough to make the economy feel real without crowding the map.
+> **Map tip:** Every special town needs its "why" visible on the map: a mine symbol, salt pans, a fairground, vineyards, a harbour. Use the symbols in the table above, and give each a name that hints at its trade (Silverdale, Saltwich, Clothford, Forgeham). On a kingdom map, aim for something like 1–3 mining districts, 1–3 salt sources, one cloth region, one or two fair towns and several ports. That is enough to make the economy feel real without crowding the map.
 
 ---
 

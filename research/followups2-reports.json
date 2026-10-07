@@ -1,0 +1,378 @@
+[
+ {
+  "from": "03-capitals-and-borders.md",
+  "note": "13 lacks: Boundary stone. 03 uses the letters \"BS\" on the boundary line, as on Ordnance Survey maps (OS also uses BP = boundary post or plate). Local scale."
+ },
+ {
+  "from": "03-capitals-and-borders.md",
+  "note": "13 lacks: League member town (Hanse-style). 03 uses the normal tier symbol with the name underlined in the league's colour. Continent and kingdom scale."
+ },
+ {
+  "from": "03-capitals-and-borders.md",
+  "note": "13 lacks area-fill colour conventions, which 03 uses: a pale fill per realm; a vassal duchy in a lighter shade of its king's colour; church lands, palatinates and free cities in their own colour; a nomadic empire's tributary ring in a lighter tint of the empire's colour; a maritime empire's colour only on its islands and harbour towns. 13 should also say the language/culture 'soft colour tint' needs a different hue or pattern from these political fills so the two layers are not confused."
+ },
+ {
+  "from": "03-capitals-and-borders.md",
+  "note": "13's clash-resolution table still names chapter 03 for the star (capital), the ringed or double circle (county town), the dotted line (county border), the dashed line (duchy border) and the crown. 03 now follows 13's resolution in every case, so those mentions describe the old state of 03."
+ },
+ {
+  "from": "03-capitals-and-borders.md",
+  "note": "06-villages-and-countryside.md line ~237 (Royal forests Map tip) still says to draw a royal forest boundary 'as a dotted line'. That clashes with 13 (green dash-dot) and with 03's updated text. 06's own symbol-alignment job should fix it."
+ },
+ {
+  "from": "02-population-and-sizes.md",
+  "note": "DENSITY (final values in 02): rich lowland 30–50/km² (80–130/sq mi); very urban lowland 50–75 (130–190); average mixed farmland 15–30 (40–80); poorer land, young kingdoms 7–15 (18–40); hill country at peak 8–15 (21–39); high uplands, moors, mountains 2–5 (5–13); forest or steppe frontier 1–5 (3–13). Calculator: rich lowland 30–40, average 15–25, hill country 8–15, high uplands, mountains, forest and marsh 2–5, desert 0. Chapter 13's 'Population density by land type' table still has 'Hills, uplands, mountains 2–10 (5–25)'; split it into the two rows above. Its calculator labels 'Hills' and 'Uplands, forest and marsh' can become 'Hill country' and 'High uplands, mountains, forest and marsh'. Chapter 00 should use the same values."
+ },
+ {
+  "from": "02-population-and-sizes.md",
+  "note": "research/baseline-numbers.md section 4 still has 'Uplands and marginal land 2–10 (5–25)'. Update it to hill country 8–15 at peak (Cumberland and Westmorland about 15–17/km² in 1290, from Broadberry, Campbell & van Leeuwen 2011 Table 8B and historic county areas) and high uplands or mountains 2–5 (estimate)."
+ },
+ {
+  "from": "02-population-and-sizes.md",
+  "note": "FOOD (final value in 02): c. 1300 (1300–1319) about 1,300–1,350 kcal per person per day from the main crops plus animal products, after seed, fodder, storage losses and milling or brewing losses. Grain alone about 1,200–1,250; grain rose to about 1,800 by the 1380s; about 2,000 kcal needed (Broadberry, Campbell & van Leeuwen 2011, Table 7). The baseline line 'Grain supplied only ~1,250–1,800 kcal a day after losses' under 'England c. 1300' mixes dates: 1,242 is grain in 1300/09, 1,801 is grain in 1380/89. Reword the baseline so it does not attach 1,800 to c. 1300."
+ },
+ {
+  "from": "02-population-and-sizes.md",
+  "note": "SYMBOLS 13 lacks (used in 02's Map tips; none clash with 13 as now worded): Angkor-type capital, a walled square core with large rectangular reservoirs (barays); dispersed house-mound zone, tiny dots and small ponds among rice fields with no outer wall; rice paddies; villages on dikes and mounds among paddies; causeways from an island city to the shore; chinampa (lake-garden) plots, a band of narrow garden strips in a shallow lake; shifting-cultivation clearings of different ages around small villages; post-plague town, open green space inside the walls; upper limit of hill farming (the hill-farm line). Drafting aids 02 now says to draw in pencil or on a hidden layer: density-zone shading (would otherwise clash with 13's soft tint for language areas) and hinterland radius circles (would otherwise clash with the ringed-circle town symbol)."
+ },
+ {
+  "from": "02-population-and-sizes.md",
+  "note": "Chapter 13 is not consistent with itself: its 'Settlement tiers' table gives City at kingdom scale as 'larger walled symbol', but the master legend says 'Circle with a thick battlemented ring'. 02 now uses the master legend wording with 'a larger walled symbol' in brackets. 13's clash table still lists 'Small square: Farmstead (02)' and 'Star: great city (02)'; 02 now uses a tiny dot and a large ringed circle, so those notes can say the clash is resolved."
+ },
+ {
+  "from": "02-population-and-sizes.md",
+  "note": "For a later check, not changed: Broadberry, Campbell & van Leeuwen 2011 Table 8B gives Norfolk 486,920 people in 1290. On a county of roughly 5,300 km² that is about 90 per km², well above 02's 'Rich lowland, peak times 30–50' and 'Very urban, rich lowland 50–75' rows. Worth checking whether 02 or 13 should mention that the densest English county far exceeded these ranges."
+ },
+ {
+  "from": "04-military-sites.md",
+  "note": "After the changes, every symbol chapter 04 uses is in chapter 13's master legend, so chapter 13 is not missing any of this chapter's symbols. Two features are covered by rows elsewhere in 13, not by rows of their own in its Military table: walled town is in 13's Town/City rows ('battlements on the ring if walled'), and fortified manor house is in its 'Manor house' row (open square, double outline if moated)."
+ },
+ {
+  "from": "04-military-sites.md",
+  "note": "Toll castle (chapter 04's frontier map tip): drawn as a small castle icon with 13's toll bar and 'T' across the river. Chapter 13 has no row named 'toll castle'. It could add one (castle icon plus toll bar 'T'), matching 03 and 05, which already describe it this way."
+ },
+ {
+  "from": "04-military-sites.md",
+  "note": "Military-order commandery: chapters 08 and 04 both say that a fortified commandery or a real frontier castle of an order takes a castle icon, and only farm commanderies take 'small church with a shield'. Chapter 13's row gives only the church with a shield; it could add this note."
+ },
+ {
+  "from": "04-military-sites.md",
+  "note": "Frontier width: chapter 13 and chapter 03 give the march band as 10–50 km (6–30 mi) wide. Chapter 04's frontier map tip used to say 'draw a band about 30–80 km (20–50 mi) deep'. I reworded 04 so that the hatched or colour band is the march symbol, and 30–80 km is the depth of the whole military zone from the forward forts back to the fortress towns. Chapter 13 could add a note that fortress towns can lie behind the hatched band, so the two numbers are not read as a contradiction."
+ },
+ {
+  "from": "04-military-sites.md",
+  "note": "Chapter 13 lists 'Bastioned citadel (1500s+ only): pentagon outline joined to the town'. Chapter 04 does not use it, so there is nothing to align. Noted only for completeness."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "13-quick-reference.md master legend has no symbol for a HOLLOW WAY (sunken lane). Chapter 05 now uses: two thin parallel solid lines (local maps only)."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "13-quick-reference.md master legend has no symbol for a CAUSEWAY across marsh or flood plain. Chapter 05 uses: a solid road line on a bank across the marsh."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "13-quick-reference.md master legend has no symbol for a LIGHTHOUSE. Chapter 05 now uses: a small tower with short rays, never a star."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "13-quick-reference.md master legend has no symbol for a STEEP OR STEPPED ROAD SECTION (Andes-style roads without wheels). Chapter 05 uses: steps or small chevrons '>' on the road line."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "13-quick-reference.md has no ROPE BRIDGE entry. Chapter 05 uses the ordinary bridge symbol ')(' labelled 'rope bridge'. 13 could note this."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "13-quick-reference.md marks 'Canal' as 1500s+ only and draws a lock only 'across the canal'. Chapter 05 describes medieval canals and locks: the Stecknitz Canal 1391-98, Damme pound lock 1396, the Bereguardo canal locks 1452-58. Chapter 05's points table now says a lock is 'two short bars close together across the river or canal'. 13 may want to drop the 1500s+ tag or note medieval exceptions, and allow locks on rivers."
+ },
+ {
+  "from": "05-trade-routes-and-transport.md",
+  "note": "Minor rounding mismatch: 11-common-mistakes.md says 'about 50 mi per 1,000 sq mi' for main-road density, while 05 and 13 say 48 mi per 1,000 sq mi (both come from 30 km per 1,000 km²)."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Tide mill — mill wheel on a dam across a tidal creek (L)."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Ship mill / bridge mill — small mill wheels in midstream labelled 'ship mills'; mill wheels on the bridge symbol (L). Chapter 06 used to say 'small boats moored midstream', which clashed with 13's head-of-navigation boat."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Boundary stone — the letters 'BS' written on the boundary line, as on Ordnance Survey maps (L)."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Dyke or sea bank — bold line with short ticks (hachures) on the water side (K, L). A plain thick line would clash with the royal highway."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lists Polder as '(1500s+)' only, but chapter 06 shows medieval polders from the 11th century (Rijnland water board 1255). The 'grid inside a dike' symbol works for the Middle Ages too, with drainage mills only from 1408."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Qanat — straight line of tiny rings (shaft mouths with spoil heaps) ending in green gardens (K, L). Must stay much smaller than the small-market-town open circle."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Rice terraces — tight parallel lines that follow the contours (K, L)."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Tank (reservoir) — curved dam line with water behind it and a fan of small fields below (K, L)."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks: Tofts and crofts — a row of narrow plot outlines along the street, each with a small house mark at the street end; crofts as long narrow plots behind (L). Plain small rectangles would clash with fishponds."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 lacks (minor): Chinampas — narrow parallel green strips with thin blue canals between them, at a lake edge (L)."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13's 'Royal residence or hunting lodge = small crown' is unclear for a non-royal lord's lodge in a deer park. Chapter 06 now uses the crown only for a royal hunting lodge. 13 could say so."
+ },
+ {
+  "from": "06-villages-and-countryside.md",
+  "note": "13 gives the hundred/parish/manor dash-dot-dot boundary at scale L only, but chapter 06 (hundreds map tip) recommends showing hundreds on a county (K-scale) map. 13 could add K for hundreds."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbols chapter 13's master legend lacks, now used in 07 (#suggested-symbols), for 13 to add. Mining town: its usual town symbol with crossed hammers beside it (K, L)."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: mint or coinage town gets no extra symbol, only \"(mint)\" or \"(coinage town)\" in the town label (K, L). This matches 03's note that mints are too small for a symbol on a kingdom map, and 09's use of a \"mint\" label."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: spring (brine or hot). A small blue dot labelled \"Brine Pit\" or \"Hot Spring\" (L); on a kingdom map, \"(salt)\" or \"(baths)\" added to the town label instead."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: lime, brick or tile kilns and clay pits are words only: \"Limekiln\", \"Brick Kilns\", \"Clay Pits\" (L). No picture, because a tower or mound would clash with the castle, barrow and motte symbols."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: water-powered works (forge, furnace, ore-crushing mill, fulling mill, sugar mill). The watermill wheel on the stream, labelled with the trade (L). A hammer or furnace pond is one blue pond with a straight dam at its lower end."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: forest works (charcoal hearths, glasshouse, tar kilns). A clearing in the wood symbol, labelled with the trade (L)."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: peat diggings or turbary. The commons symbol (tufts or stipple) labelled \"Turf Fen\"; flooded pits as blue lakes with straight, blocky edges (L)."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: drowned village. A grey church standing in the water, labelled \"(lost village)\" (K for a few, L). This is a variant of 13's deserted-village symbol."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: tenter grounds, fair field and fish racks are open ground labelled \"Tenters\", \"Fair Field\" or \"Fish Racks\" (L)."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: ordinary shipyard gets no symbol, only the label \"Shipyard\" on the shore (L). Royal shipyards use 13's arsenal symbol."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "Symbol 13 lacks: irrigation channel. A thin blue line drawn like a mill leat, thinner than the canal line (L)."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "13-quick-reference.md line 751 (Industry siting table, Fishing village row) still says \"Beach or cove, boats drawn up, drying racks\". This clashes with 13's own rule that a small boat means the head of navigation. 07 now says to label racks and smokehouses and not to draw boats."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "12-worked-example.md line 286 says to draw \"the 4 bridges as bars, the fords as dashes and the ferries as small boats\". This clashes with 13's legend: a bridge is \")(\", one bar with \"T\" is a toll, a ferry is a short dotted line with \"F\", and a small boat is the head of navigation."
+ },
+ {
+  "from": "07-industry-and-resources.md",
+  "note": "13-quick-reference.md line 1199 (master legend Source line) cites only 07's #mining-districts-on-the-map. 07 now has a full symbol table at #suggested-symbols, which 13 could cite instead or as well."
+ },
+ {
+  "from": "08-religious-cultural-and-ancient-sites.md",
+  "note": "13-quick-reference.md master legend has no symbol for a cemetery (Jewish, Muslim or plague burial ground). Chapter 08 uses: 'small walled plot outside a gate, with a name label (e.g. \"Jewbury\")'. It does not clash with anything in 13. Suggest adding it under 'Religious and charitable', scale L."
+ },
+ {
+  "from": "08-religious-cultural-and-ancient-sites.md",
+  "note": "13-quick-reference.md 'Moot (assembly) site' row could mention the Norse/Germanic thing. Chapter 08 now uses 'Small lone tree, labelled \"Moot\" (or \"Thing\")'. Minor wording only, no new symbol."
+ },
+ {
+  "from": "08-religious-cultural-and-ancient-sites.md",
+  "note": "13-quick-reference.md has no row for a fortified military-order commandery or castle (the Fantasy twist in 08 says to use a castle symbol for fortified warrior-monk commanderies and a small church with a shield for ordinary ones). Optional: 13 could note 'fortified commandery = castle icon' beside the commandery row."
+ },
+ {
+  "from": "08-religious-cultural-and-ancient-sites.md",
+  "note": "13-quick-reference.md clash table rows that cite chapter 08 (Star: great shrine and synagogue; Circle with a dot: moot site; Triangle: barrow or standing stone; Cross: parish church; Dotted line: pilgrim road) are now resolved in 08. 13 may wish to update those rows to say they are fixed."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13-quick-reference.md master legend lacks: castle refitted with gun bastions (1500s+) - chapter 09 uses 'castle icon inside a star outline (the star-fort symbol)'."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: a castle rebuilt as a non-royal (prince's) palace - 09 uses 'castle icon with gardens, labelled \"palace\"' (royal palaces use 13's small crown)."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: castle kept as a prison or mint - 09 uses 'castle icon in the town, labelled with its new use (\"prison\", \"mint\")'. 13's 'Arsenal or naval base' symbol (anchor plus castle tower) covers only naval arsenals."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: planted colonial grid town (1500s+) - 09 uses 'a small square grid of blocks around a plaza, with church and council house on the plaza' on local maps only, and ordinary tier symbols at kingdom scale."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: blast furnace, ironworks and hammer or furnace ponds. 09 gives no picture symbol, only the labels 'Furnace Pond' or 'Hammer Pond', so they are not read as 13's fishponds (small rectangles in a chain). 13 may want a furnace symbol."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: gunpowder mill and paper mill - 09 uses 'watermill wheel on the stream, labelled \"Powder Mills\" or \"Paper Mill\"'."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: shipyard on local maps - 09 uses 'walled yard with slipways next to a rope-walk' (anchor plus castle tower at kingdom scale, as in 13)."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13 lacks: religious (confessional) area or border - 09 now uses 'a soft colour tint for each faith, never a new line'. 13's Later-era Map tip says 'add ... a religious border', which a reader may draw as a line that clashes with realm borders. Suggest adding 'Faith area (1500s+): soft colour tint only, never a line' next to 'Language or culture area'."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "Neither 13 nor 09 has a symbol for a coastal artillery (gun) fort, such as Henry VIII's round Device Forts. These are not star-shaped, so the star-outline symbol does not fit. 13's 'New fortifications' table lists 'Coastal artillery fort' but its legend has no symbol for it."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "13's Sea lane symbol calls for a season label; 09's label example uses 'out Feb–Apr' (Lisbon departures for India). No problem, noted for consistency only."
+ },
+ {
+  "from": "09-later-era-1500-1650.md",
+  "note": "Chapter 04's Suggested symbols table (04-military-sites.md around line 393) still differs from 13: 'Citadel: Star or castle icon inside the town ring', 'Coastal tower: Small circle on a headland', and 'Motte: ... or a circle with a dot'. Chapter 04 should be aligned by its own job if one has not already done so."
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13-quick-reference.md master legend lacks these fantasy symbols now used in chapter 10's 'Suggested symbols' section (feature: symbol): Walled hilltop village: village symbol on the hilltop (tiny dot at kingdom scale), battlemented wall line around the house marks at local scale"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Hunters' or rangers' lodge: small house mark labelled 'Lodge' (a royal lodge keeps the small crown)"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Wild/dangerous zone: dense cross-hatching (frontier zone uses 13's existing march hatching)"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Monster lair: small skull with the creature's name"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Mage tower or weather tower: slim tower topped with a small open diamond (no battlements, no spire)"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Academy of magic: book beside the city name (13's university symbol) labelled 'Academy'"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Ley line: straight chain of small open diamonds in one colour (e.g. violet); ley nexus: larger open diamond"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Ward stones: small solid diamonds spaced around the warded area"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Magical spring or sacred well: small blue drop (with a green ring of gardens around the town)"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Portal: small spiral, placed beside the town symbol at a portal town"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Aerie: small pair of wings on a crag or on a castle icon"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Dwarf hold gate: small arched doorway (∩) in the mountainside"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Smelter: small chimney with a curl of smoke"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Underground road: thin brown dotted line labelled '(underground)'"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Nomad camp: 2-3 tiny open half-circles (round tents); ruler's camp (ordu): large labelled ring of them. Chapter 01's steppe Map tip uses 'winter-camp dots', which clashes with 13's tiny dot for farmstead/village; 13 may want to adopt the half-circle tent mark"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Raid trail: red dotted line with arrowheads pointing into the farmland"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Frontier market or trading stone: small pair of scales, labelled with market days or 'Trading Stone'"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Truce meeting place: small lone tree (13's moot symbol) labelled 'Truce Day'"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Walled graveyard: small rectangle with a solid wall line and tiny crosses inside, labelled 'Graveyard'"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 lacks: Blighted or dead land: pale grey wash with small black dead-tree ticks, area-labelled, with watchtower triangles along its edge"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13 marks Canal as '(1500s+)', but canals existed earlier (e.g. China's Grand Canal, rebuilt 1411-1415, which chapter 10 cites); 13 may want to drop or qualify the 1500s+ tag"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13's March or frontier zone hatching is described as 10-50 km wide, while chapter 10's danger frontier band is 30-100 km (20-60 mi); different concepts, both drawn with hatching, so 13 may want to note the wider fantasy frontier"
+ },
+ {
+  "from": "10-fantasy-variants.md",
+  "note": "13's 'Fantasy adjustments' section could link to the new chapter 10 anchor 10-fantasy-variants.md#suggested-symbols"
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md master legend lacks a WELL symbol. Chapter 11 now uses a blue \"W\" (the Ordnance Survey abbreviation). It does not clash with any letter 13 uses (U, F, T)."
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md master legend lacks a SPRING symbol. Chapter 11 now suggests \"Spr\" (the Ordnance Survey abbreviation)."
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md master legend lacks a QANAT symbol. Chapter 11 uses chapter 06's symbol from its 'Suggested symbols' section: a straight line of tiny rings, much smaller than the market-town circle, ending at the village gardens."
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md master legend lacks an OLD BORDER DYKE / linear earthwork symbol (Offa's Dyke type). Chapter 11 suggests a line with short ticks on the ditch side, grey if no longer used, labelled with its name. This is close to chapter 06's polder dyke: a bold line with ticks on the water side."
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md has no symbol for a TOWN DEFENDED ONLY BY A BANK, DITCH AND GATES (no stone wall). Chapter 11 used to suggest an undefined 'gate symbol' for market towns. I removed it and now use 13's rule: battlements only if walled. 13 may want an explicit symbol for this case."
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md master legend has no symbols for an OASIS (chapter 11 says to draw a green belt of gardens and palms), a CISTERN or an AQUEDUCT. Chapter 11 mistake 1 tells readers to draw a spring, cistern or aqueduct for a dry site."
+ },
+ {
+  "from": "11-common-mistakes.md",
+  "note": "13-quick-reference.md lists 'Canal (1500s+)' as a straight blue line. Medieval canals existed: chapter 11's Naviglio Grande was dug 1177–1272, and pound locks appear in the Low Countries in the late 14th century. The canal symbol should not be marked 1500s+ only. Chapter 11's symbol table lists it simply as 'Canal'."
+ }
+]
