@@ -21,6 +21,10 @@ This chapter builds one invented kingdom from an empty terrain map to a full kin
 
 The general method is in [Step by Step](00-step-by-step.md). The coordinates of every place, road, river and border are in [worked-example-layout.json](images/worked-example-layout.json) (canvas 1000 × 800 units, 2 units = 1 km).
 
+![Schematic map of the worked-example kingdom](images/worked-example-kingdom.svg)
+
+*Daravel c. 1300, drawn from the layout file. It shows the capital, the 3 cities, all 38 towns and 26 of the ~180 market towns; the ~7,700 villages appear only as texture. Also shown: the 13 cathedrals, the White Keep, the 31 county castles, the 13 other royal and frontier castles, 25 baronial castles, the 9 ports, the 4 bridges on the Ambre and the beacon chain.*
+
 ---
 
 ## The kingdom at a glance
@@ -136,7 +140,7 @@ The other ~355,000 country people live in hamlets (10–75 people) and farmstead
 
 > **Later era (1500s+):** By 1600 draw the capital 2–4 times bigger (80,000–160,000) with suburbs far outside its walls, and grow Brimhaven or Wendmouth fastest if ocean trade arrives ([Population and bigger cities](09-later-era-1500-1650.md#population-and-bigger-cities)).
 
-> **Map tip:** On the kingdom map, draw the capital, the 3 cities, all 38 towns and only 30–40 of the ~180 market towns. Show villages as texture in the vale, not as 7,700 dots.
+> **Map tip:** On the kingdom map, draw the capital, the 3 cities, all 38 towns and only 30–40 of the ~180 market towns (the schematic map at the top shows 26, to keep its labels readable). Show villages as texture in the vale, not as 7,700 dots.
 
 ---
 
