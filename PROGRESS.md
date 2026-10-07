@@ -11,26 +11,29 @@ This guide is being written in stages. This file records what is done, what is l
 
 ## Status
 
-| File | Status |
+| Item | Status |
 |---|---|
-| `research/baseline-numbers.md` | Done; corrected after the chapter fact-checks |
-| `guide/01` – `guide/11` | Written and fact-checked (60–90 claims checked per chapter, 17–30 corrections each) |
-| `guide/00-step-by-step.md` | In progress (stage 2) |
-| `guide/12-worked-example.md` + `guide/images/` map | In progress (stage 2) |
-| `guide/13-quick-reference.md` | To do: write after the audit fixes |
-| Audit (gaps + cross-chapter consistency) | In progress; then apply fixes per chapter |
-| `README.md` | Stub; finish last |
+| `research/baseline-numbers.md` | Done; corrected after the fact-checks and the audit |
+| `guide/01` – `guide/11` | Written, fact-checked, and audit gaps/fixes applied (`research/audit.json`) |
+| Cross-chapter follow-ups (`research/followups.json`) | Running at the end of the last session. Check `git log` and the files to confirm they landed. |
+| `guide/00-step-by-step.md` | Written |
+| `guide/12-worked-example.md` | Written; schematic map (`guide/images/worked-example-kingdom.svg`) was being drawn |
+| `guide/13-quick-reference.md` | Was being written at the end of the last session |
+| `README.md` | Done |
 
-## How to continue (next session)
+## What is left (next session)
 
-Stage 1 (chapters 01–11) is finished. Stage 2 uses `.claude/workflows/assemble-guide.js`. Run it by name, or by `scriptPath` if the name is not listed yet, in this order:
+The workflow is `.claude/workflows/assemble-guide.js`. Run it by name, or by `scriptPath` if the name is not listed:
 
-1. `{"mode": "audit"}` returns `gaps` and `fixes` but does not edit anything.
-2. Group the audit output by file, then run `{"mode": "fix", "jobs": [{"file": "04-military-sites.md", "instructions": ["...", "..."]}]}`. Split the jobs across several parallel runs, because each run only does 2 agents at a time on this machine.
-3. `{"mode": "write", "targets": ["00", "12"]}` can run alongside the fixes. Run `{"mode": "write", "targets": ["13"]}` only after the fixes.
-4. `{"mode": "final"}`, then run `python3 tools/check_links.py` and finish `README.md`.
+1. **Check the last session's runs landed.** `guide/13-quick-reference.md` exists. `guide/images/worked-example-kingdom.svg` exists and is linked near the top of chapter 12. If either is missing, rerun `{"mode": "write", "targets": ["13"]}` or `["12"]`.
+2. **Audit gaps for 00 and 12** (in `research/audit.json`): a "what to draw at which scale" table with target counts for 00, and time slices of the worked kingdom for 12. Run `{"mode": "fix", "files": ["00-step-by-step.md", "12-worked-example.md"]}`.
+3. **Final numbers check:** `{"mode": "final"}` compares 13 and 00 against the owner chapters.
+4. Run `python3 tools/check_links.py`. It should report 0 problems.
+5. Optional: chapters are long (9,000–14,000 words). A later pass could trim repetition.
 
-Known cross-chapter items for the consistency pass: Ghent c. 1300 (02 says 40–65k; 07 was aligned to the old 55–70k baseline), and the "towns above 10k on navigable water" rule now has exceptions (02, 07).
+Process notes:
+- This machine runs only 2 agents at a time per workflow. Launch several workflows in parallel (each with a few files) to go faster.
+- The web-search quota is shared by all agents and runs out. After that, agents check facts by opening known pages directly.
 
 ## Style rules (summary)
 
