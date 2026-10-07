@@ -100,14 +100,14 @@ A sailing ship can be faster than anything on land, or it can sit in port for tw
 
 | Type | What it is | Where | How to draw it |
 |---|---|---|---|
-| Old Roman road | A straight, engineered road on a raised bank (an *agger*). Still used, often decayed | Former Roman lands: Italy, Gaul, Spain, Britain, the Rhineland | Straight thick line; names like "Street", "Strata", "Chaussée" |
-| Royal highway (king's highway) | A main route between cities and towns, under the ruler's protection | Between major towns | Thick line |
-| Local road or lane | Village to market town, village to village, field access | Everywhere | Thin line |
-| Hollow way (holloway, sunken lane) | A lane worn below the land around it by feet, hooves, wheels and rain. Some are 5 m (16 ft) deep | Soft rock (chalk, sandstone, loess) on slopes near towns and fords | Double line or hatching |
-| Causeway | A raised road across marsh or a flood plain, often with small bridges | Fens, flood plains, approaches to bridges | Line on a bank across the marsh |
-| Pack-horse track or bridle way | A narrow track for animals, not carts; narrow pack-horse bridges | Hills and mountains | Dotted line |
-| Drove road | A wide grassy route for walking cattle or sheep to distant markets | From uplands to towns | Dashed line |
-| Caravan route | A track from well to well and from caravanserai to caravanserai | Desert and steppe | Dotted line with a dot at each stage |
+| Old Roman road | A straight, engineered road on a raised bank (an *agger*). Still used, often decayed | Former Roman lands: Italy, Gaul, Spain, Britain, the Rhineland | Straight thick solid line, labelled "Street" or "(Roman)"; grey where abandoned. Real names: "Street", "Strata", "Chaussée" |
+| Royal highway (king's highway) | A main route between cities and towns, under the ruler's protection | Between major towns | Thick solid line |
+| Local road or lane | Village to market town, village to village, field access | Everywhere | Thin solid line |
+| Hollow way (holloway, sunken lane) | A lane worn below the land around it by feet, hooves, wheels and rain. Some are 5 m (16 ft) deep | Soft rock (chalk, sandstone, loess) on slopes near towns and fords | Two thin parallel solid lines (local maps only) |
+| Causeway | A raised road across marsh or a flood plain, often with small bridges | Fens, flood plains, approaches to bridges | Solid road line on a bank across the marsh |
+| Pack-horse track or bridle way | A narrow track for animals, not carts; narrow pack-horse bridges | Hills and mountains | Thin dotted line |
+| Drove road | A wide grassy route for walking cattle or sheep to distant markets | From uplands to towns | Broad dotted line (two rows of dots) |
+| Caravan route | A track from well to well and from caravanserai to caravanserai | Desert and steppe | Dotted line with a larger dot at each stage |
 
 ### The Roman legacy
 
@@ -115,7 +115,7 @@ At its height the Roman road network had more than 400,000 km (250,000 mi) of ro
 
 In 12th-century England, law books placed **four highways** under the king's special peace: Watling Street, Ermine Street and the Fosse Way (all Roman) and the Icknield Way (prehistoric). In Italy the Via Aemilia still formed the spine of the Po plain.
 
-Medieval people did draw road maps. The Gough Map of Britain shows thin red lines between towns, each marked with a distance in Roman numerals. Its date is uncertain. It is conventionally dated c. 1360–70, but a study of its handwriting (Smallwood 2010) suggests it was made one or two decades after 1400, and parts were redone or added later in the 15th century (Solopova 2012; Delano-Smith et al. 2017; both summed up by Oksanen & Brookes 2025). It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances. It also shows how much main road to draw on a kingdom map (see [How much main road to draw](#how-much-main-road-to-draw)).
+Medieval people did draw road maps. The Gough Map of Britain shows about 190 thin red lines between towns, nine out of ten marked with a distance in Roman numerals. Its date is uncertain. It is conventionally dated c. 1360–70, but a study of its handwriting (Smallwood 2010) suggests it was made one or two decades after 1400, and parts were redone or added later in the 15th century (Solopova 2012; Delano-Smith et al. 2017; both summed up by Oksanen & Brookes 2025). It is a good model for a "period" style map: towns, rivers, and the main routes between them with distances. It also shows how much main road to draw on a kingdom map (see [How much main road to draw](#how-much-main-road-to-draw)).
 
 ### Who maintained roads
 
@@ -144,7 +144,7 @@ Medieval people did draw road maps. The Gough Map of Britain shows thin red line
 
 **A Mediterranean example.** In Castile, the Mesta (a guild of sheep owners, with a royal charter from 1273) moved huge flocks between summer pastures in the north and winter pastures in the south. From 1436 to 1549 more than 2.5 million sheep made this journey each year. Flocks from León and Old Castile walked 550–750 km (340–470 mi) each way, along legally protected sheep walks (*cañadas*) that no one could farm, build on or block.
 
-> **Map tip:** Draw a drove road as a broad dashed line from upland breeding grounds (hills, moors, mountain pastures) to a lowland fair or a big city. Put a halt with a pasture and water every 16–25 km (10–15 mi), and a large livestock fair near the end. Keep the route off the main highway where you can: along ridges, across commons and around towns. Inns along it can have names like "Drovers' Arms".
+> **Map tip:** Draw a drove road as a broad dotted line (two rows of dots) from upland breeding grounds (hills, moors, mountain pastures) to a lowland fair or a big city. Put a halt with a pasture and water every 16–25 km (10–15 mi), and a large livestock fair near the end. Keep the route off the main highway where you can: along ridges, across commons and around towns. Inns along it can have names like "Drovers' Arms".
 
 ### Road quality by season
 
@@ -226,7 +226,7 @@ Distances are measured on today's river and rounded, so treat them as rough. Aro
 
 **On the greatest rivers, bridges are much rarer.** Compare the Rhine below Basel, where Cologne had no fixed bridge for centuries (see [Ferries](#ferries)).
 
-> **Map tip:** Use three symbols: a bridge (two short lines across the river), a ford (a dashed line across the river) and a ferry (a small boat or "F"). Put a settlement at almost every bridge on a main road. Put the main port of a river just **downstream** of the lowest bridge. On a settled lowland river, draw a bridge town about every 20 km (12 mi) of river, with ferries and fords between. On a great river, draw only a few fixed bridges, often many tens of km apart, and ferries in between.
+> **Map tip:** Use three symbols: a bridge (two short curved lines ")(" with the road running through), a ford (a short dashed line across the river) and a ferry (a short dotted line across the river with "F"). Put a settlement at almost every bridge on a main road. Put the main port of a river just **downstream** of the lowest bridge. On a settled lowland river, draw a bridge town about every 20 km (12 mi) of river, with ferries and fords between. On a great river, draw only a few fixed bridges, often many tens of km apart, and ferries in between.
 
 > **Fantasy twist:** A troll that charges travellers is just a strict toll collector. Traffic keeps using the bridge as long as the toll is cheaper than the detour. If the detour is short, the troll starves.
 
@@ -249,7 +249,7 @@ Distances are measured on today's river and rounded, so treat them as rough. Aro
 
 **Organization.** Valley villages organized the carrying trade. Local carriers took goods over their own stretch and handed them on to the next village's carriers. Lords and towns took tolls at gorges and narrows on the approach roads.
 
-> **Map tip:** For each mountain range, choose 1–3 main passes and 2–5 minor ones. Draw a chain of villages up each valley, a toll point at the narrowest gorge, a hospice near the summit, and a market town at the foot on each side, often where a lake or navigable river begins. Mark minor passes "mule path" and give them no towns.
+> **Map tip:** For each mountain range, choose 1–3 main passes and 2–5 minor ones. Draw a chain of villages up each valley, a toll (one bar across the road with a "T") at the narrowest gorge, a hospice (a small house with a cross) near the summit, and a market town at the foot on each side, often where a lake or navigable river begins. Draw minor passes as thin dotted lines, label them "mule path" and give them no towns.
 
 > **Fantasy twist:** A dwarven tunnel through a range is a pass with no snow season. It would take most of the traffic from the passes nearby, and the towns at its two ends would grow rich. Whoever holds the tunnel holds the toll.
 
@@ -279,7 +279,7 @@ Distances are measured on today's river and rounded, so treat them as rough. Aro
 - **Hospitals and hospices** sheltered pilgrims and the poor, at town gates, river crossings and mountain passes. Roncesvalles, at the Spanish foot of a Pyrenees pass on the pilgrim road to Santiago, had a large pilgrim hospital.
 - **Caravanserais** (Persian, "caravan palace") were fortified rural inns with one gate, a central courtyard, rooms, stables, water and often a mosque. Depending on the region, the same kind of building is called a *khan*, a *wikala* (Egypt) or a *funduq* (North Africa). A famous example is Sultan Han (1229). The Seljuk sultan Kayqubad I built it about 40 km (25 mi) west of Aksaray, on the road to Konya. Rulers and pious endowments (*waqf*) paid for such buildings. In Seljuk Anatolia they gave travellers free food, fodder and lodging.
 
-> **Map tip:** On a main road, put an inn symbol (or a village or town) every 15–30 km (10–19 mi). In a desert, put a caravanserai or well every 30–40 km (19–25 mi). If two towns on a road are more than 40 km (25 mi) apart, add a village or an inn between them. Label them: "Inn of the Seven Wells", "Han of ...", "Hospice of ...".
+> **Map tip:** On a main road, put an inn (a small house on the road) or a village or town every 15–30 km (10–19 mi). In a desert, put a caravanserai (the same small house, labelled "Han" or "Caravanserai") or a well every 30–40 km (19–25 mi). Mark a hospice with a small house with a cross. If two towns on a road are more than 40 km (25 mi) apart, add a village or an inn between them. Label them: "Inn of the Seven Wells", "Han of ...", "Hospice of ...".
 
 > **Fantasy twist:** Where monsters roam at night, every stop becomes a small fort with walls, a gate and guards, like a caravanserai. Stops may sit closer together than a full day, so that travellers always arrive before dark.
 
@@ -311,7 +311,7 @@ The Aztec capital Tenochtitlan stood on an island in Lake Texcoco. Its tradition
 
 Without pack animals, goods came across the lakes by canoe or on the backs of professional porters (*tlamemeh*). A porter carried about 23 kg (50 lb) for about 21–25 km (13–16 mi) a day, then handed the load on to the next porter.
 
-> **Map tip:** For a people without carts or horses, draw thin roads that climb straight up slopes (mark the steep parts with steps or hatching). Put a way station about every day's walk, about 20–25 km (12–16 mi), closer in mountains. Add small relay huts every few km along the trunk roads, rope-bridge symbols at gorges, and rows of storehouses near provincial towns. A lake capital can sit on an island, joined to the shore by two to four straight causeways with gaps for boats, and fed by canoe traffic across the lake.
+> **Map tip:** For a people without carts or horses, draw thin roads that climb straight up slopes (mark the steep parts with steps or small chevrons ">", as modern road atlases mark steep hills). Put a way station (the inn symbol: a small house on the road) about every day's walk, about 20–25 km (12–16 mi), closer in mountains. Add small relay huts every few km along the trunk roads (on a local map only), the bridge symbol labelled "rope bridge" at gorges, and a labelled group of storehouses near each provincial town. A lake capital can sit on an island, joined to the shore by two to four straight causeways with gaps for boats, and fed by canoe traffic across the lake.
 
 > **Fantasy twist:** This is a good model for any people without draft animals: dwarves in mountain halls, forest elves or a hill people who travel on foot. Their roads can be narrow and stepped, and their relay runners can carry news faster than a medieval royal messenger with fresh horses (see [Speed per day](#speed-per-day)). A flying mount does not change the model for bulk goods: it is still one small load per animal.
 
@@ -329,7 +329,7 @@ Without pack animals, goods came across the lakes by canoe or on the backs of pr
 - **Bridges and towns.** Pontage (bridge tolls), murage (tolls to pay for town walls) and pavage (tolls for paving) were common in England.
 - **Export customs.** From 1275 the English crown taxed every sack of exported wool. From 1363 all wool for export had to go through the wool staple at Calais (see [staple towns](#trade-nodes-markets-fairs-staples-and-entrepots)).
 
-> **Map tip:** Mark tolls with a small bar across the road or river. Put toll castles on river cliffs and islands at narrow points (see [Castles, Forts and Military Outposts](04-military-sites.md)). Too many tolls on one route is a story: merchants will look for another road, and a rival town on that road will grow.
+> **Map tip:** Mark a toll with one bar across the road or river and a "T" (two bars close together mean a lock). Put toll castles (the small castle icon) on river cliffs and islands at narrow points (see [Castles, Forts and Military Outposts](04-military-sites.md)). Too many tolls on one route is a story: merchants will look for another road, and a rival town on that road will grow.
 
 ---
 
@@ -371,7 +371,7 @@ Some river towns forced passing merchants to stop and sell. From 1259 Cologne ma
 
 A river port needs a quay, warehouses, a crane and a customs post. The great treadwheel crane of Gdańsk (1442–44), wrecked in 1945 and rebuilt, can still be seen on the waterfront. Rivers freeze in northern winters, run low in summer droughts and flood in spring, so river traffic has seasons too.
 
-> **Map tip:** Draw navigable stretches of rivers a little thicker, from the head of navigation down to the sea. Put a town at the head of navigation, at confluences and at every portage end. Draw portages as short dotted lines between two rivers. Add weirs and mills on small rivers, and a toll castle at a narrow gorge on big ones.
+> **Map tip:** Draw navigable stretches of rivers a little thicker, from the head of navigation down to the sea, with a small boat at the head of navigation. Put a town at the head of navigation, at confluences and at every portage end. Draw portages as short dotted lines between two rivers, labelled with their length. Add weirs and mills (a wheel on the stream) on small rivers, and a toll castle at a narrow gorge on big ones.
 
 > **Later era (1500s+):** Pound locks spread, and more canals crossed watersheds. The Canal de Briare (1604–42) linked the Loire and the Seine; it was the first canal in Europe to cross a watershed using pound locks. In the Netherlands, horse-drawn passenger canal boats (*trekschuiten*) ran on timetables from 1632 (Amsterdam–Haarlem).
 
@@ -442,7 +442,7 @@ In the Mediterranean, the historian John Pryor showed that the main **trunk rout
 
 **How many ships?** The historian Wendy Childs estimates that England's whole commercial fleet was perhaps 1,000–2,000 vessels at times. In the 1300s about 300 ships a year sailed from England to Bordeaux for wine; most loaded 100–150 tons, and a few over 300 tons. In the later 1300s and the 1400s, most major ports could muster about 20 large ships over a decade. Hundreds of small coastal and fishing boats, often under 10 tons and up to 20 tons, made up the rest. In war the king seized merchant ships as transports: fleets of 150–200 were common, and nearly 700 ships were used for the Crécy campaign (1346).
 
-> **Map tip:** On a kingdom map, draw one large port symbol (quays, customs house, label in capitals) for each head port, about one every 100–150 km (60–95 mi) of coast, at the best harbours and river mouths. Draw several small anchors or dots for member ports between them, and leave most coves and creeks as unlabelled landing places. Add one named anchorage ("the Roads", "the Downs") off the busiest stretch of coast or at the mouth of the main trade estuary.
+> **Map tip:** On a kingdom map, draw a large anchor with a quay, with the name in capitals, for each head port, about one every 100–150 km (60–95 mi) of coast, at the best harbours and river mouths. Draw several small anchors for member ports between them, and leave most coves and creeks as unlabelled landing places. Add one named anchorage (an anchor drawn in open water, labelled "the Roads" or "the Downs") off the busiest stretch of coast or at the mouth of the main trade estuary.
 
 > **Later era (1500s+):** Anchorages became places to defend. Henry VIII guarded the Downs with three artillery forts, Deal, Walmer and Sandown, built in 1539–40 (see [The Later Era, 1500–1650](09-later-era-1500-1650.md)).
 
@@ -454,7 +454,7 @@ Lighthouses were **rare** in medieval Europe. Most coasts had none. Ships relied
 - **St Catherine's Oratory, Isle of Wight (1328):** built by a lord as a penance for stealing wine from a wreck. It is Britain's only surviving medieval lighthouse.
 - **Cordouan (Gironde estuary):** a 14th-century tower built under Edward the Black Prince guarded the Bordeaux wine trade and charged ships "lighthouse dues"; the present tower dates from 1584–1611.
 
-> **Map tip:** Draw sea lanes as dashed lines from port to port, following coasts and island chains, with short open-sea crossings between them. Label each lane with its season ("galleys, April–October"). Put lighthouses only at the mouths of rich estuaries and on dangerous capes near big ports. A port without a river, road or rich hinterland (the farmland and towns behind it) stays small.
+> **Map tip:** Draw sea lanes as dotted lines from port to port, following coasts and island chains, with short open-sea crossings between them. Add arrows where the wind decides the direction, and label each lane with its season ("galleys, April–October"). Put lighthouses (a small tower with short rays; never a star, which means a capital) only at the mouths of rich estuaries and on dangerous capes near big ports. A port without a river, road or rich hinterland (the farmland and towns behind it) stays small.
 
 > **Fantasy twist:** Sea monsters push ships even closer to the coast and into armed convoys, and make every harbour mouth worth a watchtower. Magic that calms storms would open the winter season and make sea trade even cheaper, so port cities grow larger still.
 
@@ -603,11 +603,12 @@ As a rough guide (not a measured rule): a village has 2–3 roads, a market town
 
 **Why:** A kingdom map shows the main roads that a merchant or a royal messenger would plan a journey on. The lanes between villages are many times denser, but drawn at this scale they turn the map into a spider's web. They belong on a local map.
 
-**Numbers:** A good medieval measure is the Gough Map of Britain (conventionally dated c. 1360–70; a handwriting study suggests one or two decades after 1400, with additions later in the 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements, joined by red lines. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
+**Numbers:** A good medieval measure is the Gough Map of Britain (conventionally dated c. 1360–70; a handwriting study suggests one or two decades after 1400, with additions later in the 15th century; see [The Roman legacy](#the-roman-legacy)). It shows over 600 cities, towns and smaller settlements. About 190 red lines join about 180 of them in England and Wales. A GIS study (a study with digital map software) by Eljas Oksanen and Stuart Brookes matched 99% of these lines to real historical routes.
 
 | Measure | Value |
 |---|---|
-| Total length of the red route lines | About 4,540 km (2,820 mi), split into 455 segments in the study's database |
+| Red route lines on the map itself | About 190 |
+| Length of the real roads behind the map's red lines, as reconstructed by Oksanen & Brookes (2025) | About 4,540 km (2,820 mi), stored as 455 segments in their database |
 | Area of England and Wales | About 151,000 km² (58,000 sq mi) |
 | Main road per area | About 30 km per 1,000 km² (48 mi per 1,000 sq mi) |
 | Share of the route length on Roman roads | 35.5% |
@@ -624,16 +625,35 @@ The Gough Map is a selection, not a full road atlas. It leaves out some importan
 
 ### Symbols and labels
 
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). Routes are always solid or dotted lines. On the route network a short dashed line means a ford, and dash-dot lines are borders, never routes.
+
 | Route | Suggested line | Label example |
 |---|---|---|
-| Major sea lane | Dashed line, with arrows if the wind decides direction | "Galley route to Alexandria (Aug–Nov)" |
-| Navigable river | Thicker river line, with a small boat or anchor at the head of navigation | "Navigable to Westbridge" |
+| Major sea lane | Dotted line at sea, with arrows where the wind sets the direction, and a season label | "Galley route to Alexandria (Aug–Nov)" |
+| Navigable river | Thicker river line up to the head of navigation, with a small boat there | "Navigable to Westbridge" |
 | Royal highway | Thick solid line | "The King's Road", "Via Aurelia" |
+| Old Roman or older-empire road | Straight thick solid line; grey where abandoned | "Ermine Street", "Fosse Way (Roman)" |
 | Regional road | Medium solid line | "The Salt Road" |
 | Local road | Thin solid line | Usually unlabelled |
-| Track, bridle way or mule path | Dotted line | "Mule path, closed in winter" |
-| Caravan route | Dotted line with a dot at each stage | "Caravan road, 9 stages" |
-| Portage | Short dashed line between two rivers | "Portage, 12 km" |
+| Pilgrim road | The ordinary road line with small scallop marks along it | "Pilgrims' road to the shrine" |
+| Track, bridle way or mule path | Thin dotted line | "Mule path, closed in winter" |
+| Drove road | Broad dotted line (two rows of dots) | "Drovers' road" |
+| Caravan route | Dotted line with a larger dot at each stage | "Caravan road, 9 stages" |
+| Portage | Short dotted line between two rivers, labelled with its length | "Portage, 12 km" |
+
+| Point on the network | Symbol | Label example |
+|---|---|---|
+| Bridge | Two short curved lines ")(" with the road running through | Usually the town's name |
+| Ford | Short dashed line across the river | "Ford" |
+| Ferry | Short dotted line across the river with "F" | "Ferry" |
+| Toll | One bar across the road or river with a "T" | "Toll" |
+| Lock | Two short bars close together across the river or canal | "Lock" |
+| Inn or caravanserai | Small house on the road | "Inn of the Seven Wells", "Han of ..." |
+| Hospice | Small house with a cross | "Hospice of ..." |
+| Head port | Large anchor with a quay | Name in capitals |
+| Member port | Small anchor | Name in ordinary letters |
+| Anchorage | Anchor in open water | "the Roads", "the Downs" |
+| Lighthouse | Small tower with short rays | "Light" |
 
 **Naming roads.** Real roads were named after where they go ("the London road"), who built them ("Via Appia", after Appius Claudius), or what they carry ("Salt Road", "Amber Road"). Give long distances in days ("12 days to the capital"), because that is how travellers thought.
 
@@ -767,7 +787,8 @@ The Gough Map is a selection, not a full road atlas. It leaves out some importan
 - House of Thurn and Taxis (Wikipedia): https://en.wikipedia.org/wiki/House_of_Thurn_and_Taxis
 - Thurn und Taxis (German Wikipedia; the first permanent relay line of 1490): https://de.wikipedia.org/wiki/Thurn_und_Taxis
 - The afterlife of Roman roads in England (Oksanen and Brookes 2025, open-access text at UCL Discovery): https://discovery.ucl.ac.uk/id/eprint/10207831
-- The Routes and Roads of the Gough Map: GIS Database (Archaeology Data Service): https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm
+- The Routes and Roads of the Gough Map: GIS Database (Archaeology Data Service; "circa 190 lines", nine-tenths with a Roman numeral): https://archaeologydataservice.ac.uk/archives/collections/view/1007268/index.cfm
+- Gough Map general guide (Oksanen and Brookes, database documentation, Archaeology Data Service; about 190 red lines joining about 180 settlement icons in England and Wales, and 455 route segments): https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-7268-1/dissemination/Gough_Map_general_guide.pdf
 - River Thames: distances and measurements for boaters (GOV.UK; lock-to-lock distances used for the Thames bridge table): https://www.gov.uk/guidance/river-thames-distances-and-measurements-for-boaters
 - Teddington Lock (Wikipedia): https://en.wikipedia.org/wiki/Teddington_Lock
 - Kingston Bridge, London (Wikipedia): https://en.wikipedia.org/wiki/Kingston_Bridge,_London

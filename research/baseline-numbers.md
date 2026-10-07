@@ -75,7 +75,8 @@
 | Poland-Lithuania 1500 | 6.6 | 17 |
 | Hungary c. 1200 / c. 1495 | ~7 / ~9–11 | ~18 / ~23–28 |
 | Byzantium 1025 (12m on 1.675m km²) | ~7 | ~19 |
-| Uplands and marginal land (Highlands, Alps, Pyrenees, northern Pennines) | 2–10 | 5–25 |
+| Hill country (farmed valleys with upland grazing), at peak | 8–15 | 21–39 |
+| High uplands, moors, mountains (Highlands, Alps, Pyrenees, northern Pennines) | 2–5 (estimate) | 5–13 |
 | Forest and steppe frontier (Lithuania, Rus') | 1–5 | 3–13 |
 | Steppe nomads | under 1–2 | under 3–5 |
 
@@ -97,7 +98,7 @@
 **Needs per person**
 - About 200–250 kg of grain a year for bread and pottage, plus barley for ale and oats for horses.
 - That works out to about **1 ha (2.5 acres) of arable land per person**, or **2–3 ha (5–7 acres) of all land** once pasture, meadow and woodland are included.
-- Check against England c. 1300: ~11.5m acres of arable including fallow (~7.4m sown each year; Broadberry, Campbell et al. 2010) for 4.75m people gives ≈2.4 acres (1.0 ha) per person. All land comes to ≈2.7 ha per person. Grain supplied only ~1,250–1,800 kcal a day after losses.
+- Check against England c. 1300: ~11.5m acres of arable including fallow (~7.4m sown each year; Broadberry, Campbell et al. 2010) for 4.75m people gives ≈2.4 acres (1.0 ha) per person. All land comes to ≈2.7 ha per person. Crops plus animal products supplied only ~1,300–1,350 kcal per person a day after seed, fodder and processing losses in 1300–19 (grain ~1,200–1,250); grain rose to ~1,800 by the 1380s, after the plague, against ~2,000 kcal needed (Broadberry, Campbell & van Leeuwen 2011, Table 7).
 
 **Hinterland a town needs**
 

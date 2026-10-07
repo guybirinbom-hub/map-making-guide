@@ -56,7 +56,7 @@ Many capitals were really two towns side by side: a palace quarter and a merchan
 - **Prague, Kraków, Buda:** a royal castle on a hill (Hradčany, Wawel, Castle Hill) above or across the river from the merchant town (Prague's Old Town, Kraków's market town, Pest).
 - **Islamic capitals:** rulers often built a new palace city beside the old one. The Fatimids founded al-Qahira (Cairo) in 969 next to the older city of Fustat. The caliph Abd al-Rahman III of Córdoba founded the palace city of Madinat al-Zahra in 936 (main building work perhaps from 940), about 5 km (3 mi) west of Córdoba.
 
-> **Map tip:** On a local or regional map, draw the capital as two linked parts: a fortified palace on the high ground and a larger merchant town by the river, often with a bridge between them. On a kingdom map, one capital symbol is enough.
+> **Map tip:** On a local or regional map, draw the capital as two linked parts: a fortified palace on the high ground and a larger merchant town by the river, often with a bridge between them. On a kingdom map, one capital symbol (a filled star) is enough.
 
 ### Capital is not always the biggest city
 
@@ -114,7 +114,7 @@ The forces that fixed capitals were:
 3. **Money taxes.** When taxes came in coin, food could be bought anywhere, so the court no longer had to travel to eat.
 4. **A bigger staff.** Clerks, judges and accountants needed offices and houses.
 
-> **Map tip:** If your kingdom is in an "early medieval" stage, do not draw one capital. Draw 5–15 royal residences scattered across the royal lands, about a day's travel apart along the main routes, and mark one or two as favourites. If your kingdom is "late medieval", draw one capital and a ring of royal residences around it (see the next section).
+> **Map tip:** If your kingdom is in an "early medieval" stage, do not draw one capital. Draw 5–15 royal residences (small crowns) scattered across the royal lands, about a day's travel apart along the main routes, and mark one or two as favourites. If your kingdom is "late medieval", draw one capital (a filled star) and a ring of royal residences around it (see the next section).
 
 > **Later era (1500s+):** Fixed capitals win everywhere. Philip II fixed Madrid in 1561 and built the Escorial palace-monastery nearby (1563–84). Sigismund III moved the Polish court from Kraków to Warsaw in 1596, closer to Lithuania and the Baltic. German princes settled into fixed *Residenzstädte* (residence towns). See [What Changes After 1500](09-later-era-1500-1650.md).
 
@@ -192,7 +192,7 @@ Within about one day's ride of a fixed capital you usually find:
 
 **Royal forests** were legal hunting zones that could contain villages, fields and heath as well as woods (see [Royal forests](06-villages-and-countryside.md#royal-forests)). Kings used them for hunting and to raise money from fines and licences.
 
-> **Map tip:** Around your capital, draw 3–6 small royal residences within about 60 km (37 mi), at least one big royal forest with a hunting lodge, a great abbey or burial church close by, and, if you want, a separate coronation town within 50–150 km (30–90 mi). Label royal forests in the same colour as the crown's land. These details make a capital feel real.
+> **Map tip:** Around your capital, draw 3–6 small royal residences (small crowns) within about 60 km (37 mi), at least one big royal forest with a hunting lodge, a great abbey or burial church close by, and, if you want, a separate coronation town within 50–150 km (30–90 mi), marked with a small crown beside its town symbol. Draw each royal forest as a green dash-dot boundary with its name in large italics, and leave its villages and fields visible inside. These details make a capital feel real.
 
 ---
 
@@ -242,7 +242,7 @@ Within about one day's ride of a fixed capital you usually find:
 | Holy Roman Empire 1521 | About 400 *imperial estates* (territories and cities with a place in the imperial diet). About 53 were ecclesiastical principalities (archbishops and bishops, three of the archbishops being electors) and 87 were free and imperial cities. The rest were secular princes, counts and lords, abbots and abbesses. | Worms register of 1521 |
 | China (for comparison) | About 1,230 counties (*xian*) under the Song (960–1279); about 1,385 under the Ming (1368–1644) | Skinner 1977 |
 
-> **Map tip:** For a kingdom the size of England (130,000 km², 50,000 sq mi), draw 30–40 counties, each about 50–70 km (30–45 mi) across, each with a county town near its middle. Group them into 4–8 bigger regions held by great lords or old duchies. Draw duchy borders with a thicker line than county borders. Leave 1–3 special zones (a march, a palatinate, a church territory) with their own colour or hatching.
+> **Map tip:** For a kingdom the size of England (130,000 km², 50,000 sq mi), draw 30–40 counties, each about 50–70 km (30–45 mi) across, each with a county town near its middle. Group them into 4–8 bigger regions held by great lords or old duchies. Draw duchy borders as medium dash-dot lines and county borders as thin ones. Leave 1–3 special zones: a march (hatching or a fading colour band), or a palatinate or church territory (its own colour).
 
 ### A different model: the bureaucratic empire (China)
 
@@ -260,7 +260,7 @@ Within about one day's ride of a fixed capital you usually find:
 
 Be careful with Skinner's market figures. They come from the 19th and 20th centuries, when China was far more crowded than medieval Europe. Use them for the pattern, not for exact numbers in 1000–1500.
 
-> **Map tip:** For a bureaucratic empire, draw county seats as walled towns of similar size, spread fairly evenly about 45–55 km (28–34 mi) apart on good farmland, closer on crowded plains and farther apart in the hills. Give each one a regular wall, often a rectangle on flat land. Group every few counties into a prefecture, with a bigger city as its seat. Fill the gaps with unwalled market towns, each in the middle of its ring of villages. Draw few or no private castles: in this kind of state, the walls belong to the government's towns.
+> **Map tip:** For a bureaucratic empire, draw county seats as walled towns of similar size (the walled-town symbol with the county-town dot in the centre), spread fairly evenly about 45–55 km (28–34 mi) apart on good farmland, closer on crowded plains and farther apart in the hills. Give each one a regular wall, often a rectangle on flat land. Group every few counties into a prefecture, with a bigger city as its seat. Fill the gaps with unwalled market towns, each in the middle of its ring of villages. Draw few or no private castles: in this kind of state, the walls belong to the government's towns.
 
 > **Fantasy twist:** Other peoples may divide land differently. Dwarf holds might be counted by mountain or mine, not area; elves by forest; a sea people by islands or harbours. Keep the same rule: one seat per unit, one unit per day or two of travel.
 
@@ -319,7 +319,7 @@ Other frontier words that survive as place names: *Extremadura* (often explained
 - **Crossings:** bridges, fords and passes on main roads, with a toll station, often a border castle on each side, and an inn or hospice. Tolls and customs could be collected at sea straits too: Denmark's Sound Toll at Helsingør (from 1429).
 - **Meeting places:** on the Anglo-Scottish border, wardens met on fixed "truce days" at traditional spots on the line to settle complaints.
 
-> **Map tip:** Draw lines where settled farmland meets, and a hatched band (a "march") across mountains, forests and war zones. Put paired castles facing each other where a main road crosses the border. Add one or two odd features: an enclave, a tiny buffer state, a disputed strip. These make borders look historical rather than planned. Castle spacing along frontiers is covered in [Castles, Forts and Military Outposts](04-military-sites.md).
+> **Map tip:** Draw dash-dot border lines where settled farmland meets, and a hatched band (a "march") across mountains, forests and war zones. Put paired castles (small castle icons) facing each other where a main road crosses the border, with a toll mark (a bar and a "T") on the road between them. Add one or two odd features: an enclave, a tiny buffer state, a disputed strip. These make borders look historical rather than planned. Castle spacing along frontiers is covered in [Castles, Forts and Military Outposts](04-military-sites.md).
 
 > **Fantasy twist:** Monsters behave like an extra enemy. A monster-haunted forest or mountain becomes a frontier zone even between friendly realms, with marcher lords, watchtowers and wide empty bands. A magical barrier (a ward line, a cursed river) can create a sharp line border even in wilderness.
 
@@ -344,7 +344,7 @@ Other frontier words that survive as place names: *Extremadura* (often explained
 | Transylvanian Saxons (a language island) | King Géza II of Hungary (1141–62) began bringing German-speaking settlers to the thinly settled south-eastern edge of his kingdom, to farm it and defend it. The *Diploma Andreanum* (1224) gave them self-government on their own "Royal Land". Their chief towns included Hermannstadt (Sibiu), Kronstadt (Brașov) and Bistritz (Bistrița), and they built about 300 villages with fortified churches. In 1848 the Royal Land still held 271 villages, market towns and towns. | A language island planted by a ruler, lasting for centuries inside another language area |
 | Mudéjar villages in Valencia | After James I of Aragon conquered Valencia (1230s–40s), whole villages of Muslims (*Mudéjars*) kept their Arabic speech and their faith under Christian lords. In the late 1300s they may still have been a majority of the countryside. See [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md#muslims-under-christian-rule). | The border moved at once; the language of the villages did not |
 
-> **Map tip:** Draw languages or cultures as a separate layer: a soft tint or a thin dotted coloured line, never the same line as a border. Let it cross borders, and let one realm hold two or three language areas. Sometimes put the capital on the "wrong" side of the line, like Rennes. Change the place-name endings across the line, for example German-style *-ingen* and *-heim* on one side and French-style *-ville* and *-court* on the other (see [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically)). Add one to three language islands where a ruler planted settlers: on an empty frontier, in a mining district or around a new town.
+> **Map tip:** Draw languages or cultures as a separate layer: a soft colour tint only, never a line, so nobody mistakes a language edge for a border or a track. Let it cross borders, and let one realm hold two or three language areas. Sometimes put the capital on the "wrong" side of the line, like Rennes. Change the place-name endings across the line, for example German-style *-ingen* and *-heim* on one side and French-style *-ville* and *-court* on the other (see [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically)). Add one to three language islands where a ruler planted settlers: on an empty frontier, in a mining district or around a new town.
 
 > **Fantasy twist:** Long-lived peoples change their speech slowly, so elf or dwarf language lines can be even older and more stable than human ones. A dwarf hold or an elven wood inside a human kingdom is a language island: give it its own place names, even if a human king rules the land around it.
 
@@ -369,8 +369,8 @@ Other frontier words that survive as place names: *Extremadura* (often explained
 ### Drawing the unusual kinds
 
 - **City-states:** many small territories, each 1–3 days across, centred on rival walled cities about 50–90 km (30–55 mi) apart.
-- **Leagues:** do not colour an area. Put a shared symbol on each member town (members can sit inside other rulers' kingdoms) and dashed sea routes between them.
-- **Nomadic empires:** show summer and winter pastures, one or two built capitals on rivers or trade routes, and the tributary ring in a lighter tint.
+- **Leagues:** do not colour an area. Underline each member town's name in the league's colour (members can sit inside other rulers' kingdoms) and draw dotted sea lanes between them.
+- **Nomadic empires:** show summer and winter pastures, one or two built capitals on rivers or trade routes, and the tributary ring in a lighter tint of the empire's colour.
 - **Maritime empires:** colour only the islands and harbour towns along the sea route; the land behind them keeps the local ruler's colour.
 
 > **Map tip:** For a continent map, use at least three kinds of state: one or two big feudal kingdoms, one fragmented zone (city-states or a composite empire) and one unusual kind (a league, a church state, a maritime empire or nomads). This mix is what makes a medieval map look medieval.
@@ -444,34 +444,47 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 
 1. **Choose the realm type** and **find the core:** the best farmland on a navigable river, with a defensible hill or island for the capital.
 2. **Add the royal landscape:** 3–6 residences, a royal forest, the burial church, perhaps a separate coronation town.
-3. **Draw the outer border:** lines in settled land, march bands across mountains, forests, marshes and war zones.
+3. **Draw the outer border:** dash-dot lines in settled land, march bands across mountains, forests, marshes and war zones.
 4. **Divide** into 4–8 duchies or great fiefs, then counties 50–70 km (30–45 mi) across, each with a seat near its middle. Add a few oddities (church land, an enclave, a free city, a disputed strip).
 5. **Check distance:** anything more than about 12 days' messenger travel (roughly 700 km or 430 mi by road) from the capital needs a viceroy or becomes semi-independent.
 
 ### Symbols and line styles
 
-| Feature | Suggested symbol |
-|---|---|
-| Capital | Star, or a crowned dot, with the name in bold capitals |
-| Coronation or burial city | Small crown or cross beside the town symbol |
-| Duchy or regional seat | Smaller star or castle-in-circle |
-| County town | Double circle |
-| Royal residence or hunting lodge | Small crown or tower symbol |
-| Realm border | Thick solid line, or a coloured band along the inside edge |
-| Duchy border | Medium dashed line |
-| County border | Thin dotted line (only on regional maps) |
-| Disputed border | Two parallel lines, or alternating colours |
-| March or frontier zone | Hatching, or a fading colour band 10–50 km (6–30 mi) wide |
-| Enclave | Same colour as its owner, with a thin outline |
+> **Rule of thumb:** One symbol, one meaning. A filled star means the capital and nothing else. Borders are always dash-dot lines (a line of dashes with dots between them); roads, tracks and sea lanes are always solid or dotted lines. Then nobody mistakes a border for a road.
+
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). The "town symbol" below means the normal symbol for the place's size (village, town, city and so on), from [Map symbols and labels](02-population-and-sizes.md#map-symbols-and-labels).
+
+| Feature | Symbol | Scale |
+|---|---|---|
+| Realm capital | Filled star in place of the town symbol, bigger for a bigger city; name in bold capitals | Continent, kingdom |
+| Coronation or royal burial town | Small crown beside the town symbol, labelled "(coronations)" or "(royal tombs)" | Kingdom |
+| Duchy or regional seat | Town symbol with a small pennant (flag) on top | Kingdom |
+| County town | Town symbol with a dot in the centre | Kingdom |
+| Royal residence or hunting lodge | Small crown on its own | Kingdom, local |
+| Royal forest | Green dash-dot boundary with a large italic name; villages and fields inside | Kingdom, local |
+| Moot (open-air meeting place of a hundred) | Small lone tree, labelled "Moot" | Local |
+| Toll at a border crossing | One bar across the road or river, with a "T" | Kingdom, local |
+| Realm border | Thick dash-dot line, or a coloured band along the inside edge | Continent, kingdom |
+| Duchy or great fief border | Medium dash-dot line | Continent, kingdom |
+| County border | Thin dash-dot line | Kingdom |
+| Hundred, parish or manor bounds | Thin dash-dot-dot line | Local |
+| Boundary stone | The letters "BS" on the boundary line, as on Ordnance Survey maps | Local |
+| Disputed border | Two parallel dash-dot lines, or alternating colours | Kingdom |
+| March or frontier zone | Hatching, or a fading colour band 10–50 km (6–30 mi) wide | Continent, kingdom |
+| Enclave | Same colour as its owner, with a thin outline | Kingdom |
+| League member town | Town symbol as usual; name underlined in the league's colour | Continent, kingdom |
+| Language or culture area | Soft colour tint only, never a line | Continent, kingdom |
+
+Castles, beacons and watchtowers on the border use the symbols in [Castles, Forts and Military Outposts](04-military-sites.md#suggested-symbols).
 
 ### Colour and labels
 
 - Use pale fills for realms, so roads and towns stay readable. Give vassal duchies a lighter shade of their king's colour.
-- Give church lands, free cities and leagues their own colours or symbols. Do not merge them into the surrounding kingdom.
+- Give church lands and free cities their own colours, and underline league towns' names in the league's colour. Do not merge them into the surrounding kingdom.
 - Write realm names in widely spaced capitals across the whole territory. Write duchies in smaller italic capitals and counties in lower case.
 - Label marches and frontier zones by name ("the West March", "the Debatable Land"). Named empty spaces make a map feel lived-in.
 
-> **Map tip:** On a continent map, show only realms and great fiefs. On a kingdom map, add counties and the capital's royal landscape. On a local map, add hundreds, manors, parish bounds and boundary stones. Do not show every level at every scale.
+> **Map tip:** On a continent map, show only realms and great fiefs. On a kingdom map, add counties and the capital's royal landscape. On a local map, add hundreds, manors and parish bounds (thin dash-dot-dot lines) and boundary stones ("BS"). Do not show every level at every scale.
 
 ---
 
@@ -485,7 +498,7 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 - Mints shrink as kings get stronger: about 70 in late Anglo-Saxon England, 9 in 1189, normally 4 under Henry III. Loose realms like the Holy Roman Empire had more and more.
 - Typical sizes: kingdom 10,000–450,000 km²; duchy 10,000–50,000 km²; county 1,000–10,000 km² (England averaged ~3,300 km² and ~120,000 people); hundred ~130–150 km² in 1086 (~150–200 km² by 1316); manor 2–10 km².
 - A bureaucratic empire (China) looks more regular: about 1,230–1,385 counties, each with a walled seat roughly 45–55 km (28–34 mi) from the next, and periodic market towns between them.
-- Borders are lines in settled land and wide zones (marches) in empty land. They follow old boundaries, crests, rivers, forests and wasteland. Marches, buffer states, enclaves and contested strips were normal: add some.
+- Borders are lines in settled land and wide zones (marches) in empty land. They follow old boundaries, crests, rivers, forests and wasteland. Marches, buffer states, enclaves and contested strips were normal: add some. Draw every border as a dash-dot line and keep the filled star for the capital only.
 - Language lines are older and slower than borders. Draw them as a separate layer that crosses borders, and add a few language islands of planted settlers.
 - Medieval political maps are patchworks: kingdoms, city-states, leagues, church states, maritime chains and nomadic empires side by side. Europe c. 1500 had about 500 political units.
 - Direct rule reaches roughly 500–700 km (300–450 mi), about 8–12 days' messenger travel. Beyond that, rulers need viceroys, vassals, sea routes or relays.
@@ -537,5 +550,6 @@ Realms that grew too big had three choices. They split (the Carolingian Empire a
 - Universität Münster, [Die Wormser Matrikel von 1521](https://www.uni-muenster.de/Staedtegeschichte/istg_digital/CivitasImperialis/WormserMatrikel.html) (87 cities in the register).
 - McGraw-Hill, [Speed of News Traveling to Venice (map, c. 1500)](https://highered.mheducation.com/sites/dl/free/0076632857/314986/Speed_of_News_Traveling_to_Venice1.pdf).
 - Xixerone (travel site), [When and why Madrid became the capital of Spain](https://xixerone.com/en/when-and-why-madrid-became-the-capital-of-spain).
+- Ordnance Survey, [Abbreviations used on Ordnance Survey 1:25 000 and 1:50 000 scale mapping (PDF)](https://digimapforschools.edina.ac.uk/files/resource-hub/downloads/1061204_abreviations_on_25k_and50k.pdf) (BS = boundary stone, BP = boundary post or plate).
 
 Population, area and travel-speed figures follow the guide's shared baseline (Broadberry, Campbell et al.; Russell 1972; McEvedy & Jones 1978; Hill 1961). Figures marked "estimate" or "derived" (duchy populations, county population ranges, travel-time zones, Chinese county sizes and spacing, the distance of the Breton retreat) are worked out by this guide from area, density or map distances and are not measured values.

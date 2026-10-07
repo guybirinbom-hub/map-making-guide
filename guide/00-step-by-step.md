@@ -4,7 +4,8 @@ This chapter is the master method of the guide. It puts the other chapters in or
 
 **In this chapter:**
 
-- [Before you start](#before-you-start)
+- [Step 0: Choose the date, realm type and scale](#step-0-choose-the-date-realm-type-and-scale)
+- [What to draw at each scale](#what-to-draw-at-each-scale)
 - [The order of work](#the-order-of-work)
 - [Part A: Continent and world scale](#part-a-continent-and-world-scale)
 - [Part B: Kingdom and region scale](#part-b-kingdom-and-region-scale)

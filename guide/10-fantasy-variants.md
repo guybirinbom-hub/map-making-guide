@@ -11,6 +11,7 @@ The other chapters describe a world without magic. This chapter shows how to add
 - [Contact zones between peoples](#contact-zones-between-peoples)
 - [Gods, undead and dangerous seas](#gods-undead-and-dangerous-seas)
 - [What changes if: summary table](#what-changes-if-summary-table)
+- [Suggested symbols](#suggested-symbols)
 - [Consistency checklist](#consistency-checklist)
 - [Quick summary](#quick-summary)
 - [Sources and further reading](#sources-and-further-reading)
@@ -51,7 +52,7 @@ The real world already gives us every level of danger. Pick the row that fits ea
 | Threat level | Real analogue | Settlement pattern | Defences | How it looks on the map |
 |---|---|---|---|---|
 | **Low** (wolves, bandits) | England or France c. 1250, away from borders | Normal mix: nucleated (clustered) villages on good land, lone farms in uplands | Working castles about 20–30 km (12–19 mi) apart (see [chapter 04](04-military-sites.md#borderlands-and-conquered-land)); villages unwalled | The baseline map in the other chapters |
-| **Seasonal raids** (a few times a decade) | Anglo-Scottish border, 14th–16th centuries | Lone farms survive but become tower houses; villages huddle | Tower houses and fortified farmhouses. Late medieval England had over 250 tower houses, Scotland ~800, Ireland over 3,000 | Small tower symbols scattered over farmland |
+| **Seasonal raids** (a few times a decade) | Anglo-Scottish border, 14th–16th centuries | Lone farms survive but become tower houses; villages huddle | Tower houses and fortified farmhouses. Late medieval England had over 250 tower houses, Scotland ~800, Ireland over 3,000 | Small solid squares (tower houses) scattered over farmland |
 | **Frequent raids or large monsters** | Latium (central Italy) c. 920–1030; Wessex in the 870s–890s; the Provence coast in the 900s | Farms abandoned; people move into walled or hilltop villages of 300–1,000 | Walled villages; refuge forts within a day's walk; watchtowers; beacons | Fewer, bigger dots on hilltops; empty valley floors; coasts deserted |
 | **Constant danger** | The "Great Wilderness" between the Teutonic Order and Lithuania (13th–14th centuries); Crusader frontier castles | Only fortified towns and garrison castles; fields only near walls | Great garrisons. The Templar castle of Safed (1260s) held 1,700 people in peacetime and 2,200 in war | Islands of settlement in empty land |
 
@@ -91,7 +92,7 @@ A warning network buys time. Two real systems show the range of options:
 
 How close should local watchtowers be? They must see each other's smoke or fire. In broken or wooded country that means a few kilometres apart. Mountain-top beacons can be 55–100 km (35–60 mi) apart. These are rough figures.
 
-> **Later era (1500s+):** Muscovy's Great Abatis Line (complete by 1566) and the later Belgorod Line (1635–54) are real versions of this: belts of felled trees, ditches, palisades (walls of wooden stakes), watchtowers and small forts that slowed raiders so villagers could flee and troops could gather. See [Fortified lines on open frontiers](09-later-era-1500-1650.md#fortified-lines-on-open-frontiers).
+> **Later era (1500s+):** Muscovy's Great Abatis Line (complete by 1566) and the later Belgorod Line (1635–1654; sources differ, and one gives 1646 as the end date) are real versions of this: belts of felled trees, ditches, palisades (walls of wooden stakes), watchtowers and small forts that slowed raiders so villagers could flee and troops could gather. See [Fortified lines on open frontiers](09-later-era-1500-1650.md#fortified-lines-on-open-frontiers).
 
 ### Guarded roads
 
@@ -114,7 +115,7 @@ Kings paid people to fight dangerous animals:
 
 Wolves were rare or gone in England by about 1500. They survived in Scotland until the 1600s or later. Organised hunting with royal support worked, but it took centuries.
 
-> **Map tip:** Put hunters' or rangers' lodges at forest edges, at fords and passes, and where a road enters the wild. Space them about a day's patrol apart, 15–30 km (10–19 mi), which matches a castle's control radius. A monster-hunting order is a military order (like the Templars): give it castles on the frontier and a chapter house (its headquarters building) in a city.
+> **Map tip:** Put hunters' or rangers' lodges (a small house mark labelled "Lodge") at forest edges, at fords and passes, and where a road enters the wild. Space them about a day's patrol apart, 15–30 km (10–19 mi), which matches a castle's control radius. A monster-hunting order is a military order (like the Templars): give it castles on the frontier and a chapter house (its headquarters building) in a city.
 
 ### "Points of light": use it for frontiers, not whole kingdoms
 
@@ -122,7 +123,7 @@ Wolves were rare or gone in England by about 1500. They survived in Scotland unt
 
 You can estimate the size of each "point". Suppose people farm only within 4–5 km (2.5–3 mi) of their walls. That circle covers about 50–80 km². At 30–50 people per km², each point holds roughly **1,500–4,000 people**. Larger towns are possible only where a river or a protected sea route brings food from farther away.
 
-> **Map tip:** Shade your map in three tones: safe core, frontier, and wild. In the core, use the normal rules. On the frontier, use fewer, bigger, walled settlements on hills, with watchtowers, refuge forts about a day's walk apart, and cleared roads with fortified stops. In the wild, draw only ruins, lairs and the occasional ranger lodge. A frontier band of 30–100 km (20–60 mi) is a good default.
+> **Map tip:** Divide your map into three zones: safe core (no shading), frontier (light hatching, the guide's symbol for a march or frontier zone) and wild (dense cross-hatching). Do not use plain colour tints for these zones, because a soft tint means a language or culture area. In the core, use the normal rules. On the frontier, use fewer, bigger, walled settlements on hills, with watchtowers, refuge forts about a day's walk apart, and cleared roads with fortified stops. In the wild, draw only ruins, lairs and the occasional ranger lodge. A frontier band of 30–100 km (20–60 mi) is a good default.
 
 ---
 
@@ -281,7 +282,7 @@ Each common fantasy people matches a real way of life. Use the real way of life 
 
 | People | Real analogue | Settlement type | Density | Map signature |
 |---|---|---|---|---|
-| **Dwarves** | Medieval mining communities (Saxon miners in Bohemia and Serbia); Cappadocian underground refuges | Mountain holds plus trade towns at the mountain gates | Holds like mining towns: a few thousand to perhaps 15,000 | Gate towns on valley floors, mine symbols, smelters, cleared slopes |
+| **Dwarves** | Medieval mining communities (Saxon miners in Bohemia and Serbia); Cappadocian underground refuges | Mountain holds plus trade towns at the mountain gates | Holds like mining towns: a few thousand to perhaps 15,000 | Gate towns on valley floors, mine symbols (crossed hammers), smelters, cleared slopes |
 | **Elves** | Forest peoples of the Baltic: pagan Lithuanians and Prussians | Small clearings, hill-forts, sacred groves | 1–5 per km² (3–13 per sq mi) or less | Big forest, few dots, no roads, wide border wilderness |
 | **Halflings** | Free peasant communities of fertile lowlands: Dithmarschen, Flanders | Dense villages, mills, small market towns | 30–75 per km² (78–190 per sq mi) | Many small villages, few castles |
 | **Orcs and other "horde" peoples** | Steppe nomads: Mongols, Cumans, Crimean Tatars | Seasonal camps, a few royal cities | Under 1–2 per km² (under 3–5 per sq mi) | Pastures, camps, raid trails, frontier markets |
@@ -296,7 +297,7 @@ Each common fantasy people matches a real way of life. Use the real way of life 
 
 **Underground roads:** real tunnels were short. The tunnel said to link Derinkuyu with the next underground town, Kaymaklı, is about 8–9 km (5–5.6 mi) long. A long underground road between holds is a wonder of the world. Draw a few, not a network.
 
-> **Map tip:** For each dwarf hold, draw one gate town on the valley floor, a road climbing to the gate, mine-tip and smelter symbols, and bare slopes where trees were cut for charcoal. Group holds into a league (like the Hanse) with one leading hold.
+> **Map tip:** For each dwarf hold, draw one gate town on the valley floor, a road climbing to the gate (a small arched doorway in the mountainside), a mine symbol (crossed hammers), smelter symbols on the stream below, and bare slopes where trees were cut for charcoal. Group holds into a league (like the Hanse) with one leading hold.
 
 ### Elves: forest realms
 
@@ -323,7 +324,7 @@ Do not draw them as mindless. Model them on real steppe societies, which had law
 - **Dependence on farmers:** nomads needed grain, metal and cloth that they could not produce. They got them by trade or by raiding (Khazanov 1984). Ming China refused the Mongol leader Altan Khan's requests for trade for years, and he raided instead; in 1550 he even burned the suburbs of Beijing. In 1571 the Ming gave him a title and trading rights, and border horse markets opened at Datong, Xuanfu and other garrisons. After that, raiding fell sharply.
 - **Cities too:** nomad rulers built capitals and trade towns. Karakorum was built in the 1220s–1230s. Batu founded Sarai on the lower Volga in the 1240s–1250s. The Franciscan friar William of Rubruck, who passed by in 1253–54, described it as a new town that Batu was still building. The word "horde" comes from *ordu*, the ruler's camp and court.
 
-**What it looks like:** open grassland with seasonal camp symbols; winter camps along rivers; a royal camp or capital; raid trails into farmland (like the Muravsky Trail used by Crimean Tatar raiders into Muscovy); frontier markets and defence lines on the farmers' side.
+**What it looks like:** open grassland with seasonal camps (small open half-circles for round tents, never the dashed rectangle that means an army camp); winter camps along rivers; a royal camp or capital; raid trails into farmland (like the Muravsky Trail used by Crimean Tatar raiders into Muscovy); frontier markets and defence lines on the farmers' side.
 
 > **Rule of thumb:** If a horde raids constantly, ask why the frontier markets are closed. Raids and trade are two ways of getting the same goods.
 
@@ -339,7 +340,7 @@ Do not draw them as mindless. Model them on real steppe societies, which had law
 
 **Food:** a big predator needs a big range. Here is a rough example. Suppose a dragon eats one cow a week, or 52 a year. A herd can lose perhaps 10–20% of its animals a year without shrinking (an assumption). The dragon then needs a herd of about 250–500 cattle. That is the cattle of many villages. A Domesday plough-team, for comparison, had eight oxen.
 
-**No-go zones:** around a lair, draw an empty ring, then a thin belt of tribute villages, then normal land. Giants in the mountains work the same way. Their lands look like a dangerous frontier, with watchtowers on the human side and ruined farms in between.
+**No-go zones:** around a lair (a small skull with the creature's name), draw an empty ring, then a thin belt of tribute villages, then normal land. Giants in the mountains work the same way. Their lands look like a dangerous frontier, with watchtowers on the human side and ruined farms in between.
 
 > **Map tip:** Give each non-human people its own density and pattern. Then draw the **edges**: gate towns for dwarves, trading stones for elves, frontier markets for nomads, shore markets for merfolk, tribute villages for dragons. The edges are where most of the story happens.
 
@@ -452,6 +453,63 @@ If sea monsters or storms make the sea too risky, trade goes inland, even though
 
 ---
 
+## Suggested symbols
+
+> **Rule of thumb:** One symbol, one meaning. Draw ordinary things (castles, churches, ports, tolls, hospices) with the normal symbols. Give magic its own shapes (diamonds for towers, ley lines and wards; a spiral for portals), so it never looks like a town, a border or a road.
+
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). Symbols marked † are fantasy-only. The master legend does not list them yet, so they were chosen not to clash with any symbol it uses.
+
+**Danger and defence:**
+
+| Feature | Symbol | Notes |
+|---|---|---|
+| Tower house or fortified farm | Small solid square | Many in raided borderlands |
+| Walled hilltop village † | Village symbol on the hilltop (a tiny dot at kingdom scale); at local scale, a battlemented wall line around the house marks | Use the town symbol only if it really is a town |
+| Refuge fort or burh | Town symbol with a battlemented ring; a fort with no town inside takes the small castle icon | About a day's walk apart |
+| Watchtower; beacon | Small triangle; flame dot | Draw chains, each in sight of the next |
+| Hunters' or rangers' lodge † | Small house mark labelled "Lodge" | A royal hunting lodge takes the small crown instead |
+| Frontier and wild zones | Frontier: light hatching (the march symbol). Wild †: dense cross-hatching | Never a plain colour tint, which means a language area |
+| Monster lair † | Small skull with the creature's name | Leave an empty ring around it |
+
+**Magic:**
+
+| Feature | Symbol | Notes |
+|---|---|---|
+| Mage tower or weather tower † | Slim tower topped with a small open diamond | No battlements (castle) and no spire (church) |
+| Academy of magic † | Book beside the city name (the university symbol), labelled "Academy" | Only in cities of 10,000+ |
+| Magic crystal mine | Crossed hammers, labelled with the crystal | The normal mine symbol |
+| Ley line and nexus † | Straight chain of small open diamonds in one colour (for example violet); a larger open diamond at the nexus | Not dotted, dashed or dash-dot, so it cannot be read as a road or a border |
+| Ward stones † | Small solid diamonds spaced around the warded area | Not the upright tick, which means a standing stone |
+| Magical spring or sacred well † | Small blue drop, with a green ring of gardens around the town | |
+| Portal † | Small spiral; at a portal town, put it beside the town symbol | Never a star (capital) or a circle (town) |
+| Aerie † | Small pair of wings on a crag or on a castle icon | Relay aeries in a chain, a day's flight apart |
+
+**Peoples and contact:**
+
+| Feature | Symbol | Notes |
+|---|---|---|
+| Dwarf hold gate † | Small arched doorway (∩) in the mountainside | The gate town below uses the normal town symbol |
+| Smelter † | Small chimney with a curl of smoke | On the stream below the mine |
+| Underground road † | Thin brown dotted line between hold gates, labelled "(underground)" | Draw a few, not a network |
+| Nomad camp † | 2–3 tiny **open** half-circles (round tents); the ruler's camp as a large labelled ring of them | Never filled (a filled mound is a barrow) and never the dashed rectangle (an army camp) |
+| Raid trail † | Red dotted line with arrowheads pointing into the farmland, named ("Muravsky Trail") | |
+| Frontier market or trading stone † | Small pair of scales; label the market days or "Trading Stone" | At a gate, ford or garrison |
+| Truce meeting place | Small lone tree (the moot symbol, since it is also a meeting place), labelled "Truce Day" | At a ford, stream or border village |
+
+**Gods, undead and dangerous seas:**
+
+| Feature | Symbol | Notes |
+|---|---|---|
+| Temple or sanctuary | The church symbols; a great sanctuary takes the great-shrine symbol (scallop or reliquary) | Never a star |
+| Walled graveyard † | Small rectangle with a solid wall line and tiny crosses inside, labelled "Graveyard" | Outside the town walls |
+| Quarantine station or plague island | Small house with a cross, labelled "Lazaretto" | The master legend's hospital symbol |
+| Blighted or dead land † | Pale grey wash with small black dead-tree ticks, labelled ("the Blight"); watchtower triangles along its edge | Old villages inside drawn grey, labelled "(ruin)" |
+| Canal | Straight blue line | China's Grand Canal shows canals are not only a 1500s+ feature |
+
+> **Map tip:** Put a small legend on the map itself, listing every fantasy symbol you used. Readers know what a castle icon means; they cannot guess what a spiral or a diamond means.
+
+---
+
 ## Consistency checklist
 
 If something exists in your world, other things must exist or change too. Check each line that applies.
@@ -491,6 +549,7 @@ If something exists in your world, other things must exist or change too. Check 
 - Model each non-human people on a real way of life: dwarves on mining towns, elves on Baltic forest peoples, halflings on free peasant lowlands, orcs on steppe nomads with real logistics, merfolk on sea nomads, dragons on tribute-taking raiders.
 - Peoples meet at fixed places under fixed rules: kontors, strangers' inns, frontier markets, truce days.
 - Gods, undead and deadly seas each create new places (sanctuaries, quarantine islands, canals) and destroy others (empty coasts, deserted villages).
+- Draw ordinary features with the guide's master legend. Give fantasy features their own non-clashing symbols (diamonds for magic, a spiral for portals, a skull for lairs) and explain them in a legend on the map.
 
 ---
 
@@ -517,6 +576,7 @@ If something exists in your world, other things must exist or change too. Check 
 - Wikipedia, *Great Zasechnaya cherta*: https://en.wikipedia.org/wiki/Great_Zasechnaya_cherta
 - Wikipedia, *Belgorod Razriad*: https://en.wikipedia.org/wiki/Belgorod_Razriad
 - Russian Wikipedia, *Белгородская черта* (Belgorod Line: built 1635–1654, about 800 km): https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D0%B5%D1%80%D1%82%D0%B0
+- War History, *Gului-gorod and Lines of Defence* (Belgorod Line from Akhtyrka on the Vorskla to Tambov, about 800 km; gives the end date as 1646): https://warhistory.org/article/gului-gorod-and-lines-of-defence?amp=0
 - *Statute of Winchester* (1285), English text on Wikisource: https://en.wikisource.org/wiki/Statute_of_Winchester
 - Wikipedia, *Edict of Pîtres*: https://en.wikipedia.org/wiki/Edict_of_P%C3%AEtres
 - Wikipedia, *Great St Bernard Pass*: https://en.wikipedia.org/wiki/Great_St_Bernard_Pass

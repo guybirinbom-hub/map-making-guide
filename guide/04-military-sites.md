@@ -301,11 +301,11 @@ Roman armies on campaign built a defended camp at the end of each day's march. O
 
 **How many soldiers?** Pennymuir I is said to have had room for two full legions, roughly 8,000–12,000 men. That is very roughly 500–700 soldiers per hectare (estimate). So an army of 10,000 in a tight, ordered camp needs about 15–20 ha (35–50 acres). A looser medieval camp, with baggage, horses and camp followers, spread far wider: the Viking camp at Torksey covered at least 55 ha for several thousand people.
 
-> **Map tip:** On a local map of a siege, draw the besieged town first. Then draw the camp as a rectangle or ring of huts and tents on dry ground beside the main road or the river landing, a few hundred metres to about 1 km (0.6 mi) from the walls, with a market square and the commander's quarters inside. Give it a name, as real soldiers did (*Villeneuve-la-Hardie*). For 10,000 soldiers, allow about 15–20 ha, roughly 400 × 450 m (1,300 × 1,500 ft), and more for horses and followers. On a kingdom map a siege camp is only a symbol, and only on a map with a date. On a later map, leave old camps as rectangular earthworks labelled "Camp" or "Roman Camp", or, if the besiegers won and stayed, as a small grid-planned town with a religious or military name (*Santa Fe* means "Holy Faith").
+> **Map tip:** On a local map of a siege, draw the besieged town first. Then draw the camp as a rectangle or ring of huts and tents on dry ground beside the main road or the river landing, a few hundred metres to about 1 km (0.6 mi) from the walls, with a market square and the commander's quarters inside. Give it a name, as real soldiers did (*Villeneuve-la-Hardie*). For 10,000 soldiers, allow about 15–20 ha, roughly 400 × 450 m (1,300 × 1,500 ft), and more for horses and followers. On a kingdom map a siege camp is only a symbol (a closed dashed rectangle with rounded corners), and only on a map with a date. On a later map, leave old camps as the same outline drawn grey and labelled "Camp" or "Roman Camp", or, if the besiegers won and stayed, as a small grid-planned town with a religious or military name (*Santa Fe* means "Holy Faith").
 
 > **Later era (1500s+):** Santa Fe's plan, two main streets crossing at a central square with a gate at each end, is often seen as a forerunner of the grid towns that Spain planted in the Americas. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Fantasy twist:** Where monsters roam the wilds, every army halt needs a defended camp, as the Romans built every evening. Draw chains of square earthwork camps a day's march apart along old campaign roads, and let a few of them grow into towns.
+> **Fantasy twist:** Where monsters roam the wilds, every army halt needs a defended camp, as the Romans built every evening. Draw chains of earthwork camps (closed dashed rectangles) a day's march apart along old campaign roads, and let a few of them grow into towns.
 
 ---
 
@@ -344,7 +344,7 @@ When royal power was weak, small lords used their castles to rob travellers, dem
 - **Frontier castles:** the orders held the hardest frontier castles: Krak des Chevaliers, Safed, Montfort, Calatrava, Malbork.
 - **Commanderies in the home countries:** most of the orders' houses in western Europe were not forts. A **commandery** (or **preceptory**) was a manor farm with a chapel and a small community, run to send money, horses and food to the frontier. The Templars had nearly 1,000 commanderies and fortifications at their height, and 15,000–20,000 members, only about one-tenth of them knights.
 
-> **Map tip:** On a frontier, draw a band about 30–80 km (20–50 mi) deep. Put small forts at every ford, pass and well along the front edge and two or three fortress towns behind. Leave the land in front nearly empty. On a busy river gorge, crowd the cliffs with toll castles. Put one military-order commandery in the countryside of each inland county, as a manor, not a castle.
+> **Map tip:** On a frontier, mark the march with hatching or a fading colour band, the guide's symbol for a frontier zone (see [Capitals, Realms and Borders](03-capitals-and-borders.md)). Put small forts at every ford, pass and well along its front edge, and two or three fortress towns a day or two's march behind them. The whole military zone, from the forward forts back to the fortress towns, is then about 30–80 km (20–50 mi) deep. Leave the land in front nearly empty. On a busy river gorge, crowd the cliffs with toll castles (small castle icons, with a toll bar and "T" across the river). Put one military-order commandery in the countryside of each inland county, drawn as a small church with a shield, not as a castle.
 
 > **Fantasy twist:** A wilderness full of monsters works like a hostile neighbour. Its edge becomes a frontier zone even inside one realm, with forward posts, refuge towers and fortified villages, and a rear line of strong towns. Where dwarves or others hold mountain passes, the pass fort may belong to them, not to the human kingdoms on either side.
 
@@ -365,7 +365,7 @@ When royal power was weak, small lords used their castles to rob travellers, dem
 
 > **Later era (1500s+):** Dense chains of coastal towers are mostly a 16th-century answer to Barbary and Ottoman raids. Genoa built about 85–90 towers around Corsica in 1530–1620 (a 1617 list counts 86). Each was usually about 12 m (39 ft) high and held 2–6 guards. Smoke, fire or a conch horn could put the whole island on alert within a few hours. Spain and the Kingdom of Naples built similar chains.
 
-> **Map tip:** Draw beacon chains as small dots on hilltops leading from the border or coast to the nearest castle and on to the capital. Label a few hills "Beacon Hill" or "Watch Hill"; such names are common in Britain. On a raided coast, add a tower on every headland that can see the next one.
+> **Map tip:** Draw beacon chains as flame dots on hilltops leading from the border or coast to the nearest castle and on to the capital. Label a few hills "Beacon Hill" or "Watch Hill"; such names are common in Britain. On a raided coast, add a watchtower (a small triangle) on every headland that can see the next one.
 
 ---
 
@@ -392,24 +392,28 @@ The defender usually picks ground with a slope in front and protected flanks: wo
 
 ### Suggested symbols
 
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).
+
 | Feature | Symbol | Notes |
 |---|---|---|
 | Great royal castle or fortress | Large castle icon (three towers) | Label by name |
 | Ordinary castle | Small castle icon (one tower with battlements) | |
-| Motte or small earthwork castle | Small mound with a flag, or a circle with a dot | Local maps only. A whole motte-and-bailey is only about 100–150 m (330–490 ft) long (estimate), about 1–1.5 mm at 1 cm = 1 km, so use a symbol, not a plan (see [Footprints](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map)) |
-| Tower house or peel | Small solid square | Many in raided borderlands |
-| Walled town | Town symbol with a ring of battlements | Thicker ring for a city |
-| Citadel | Star or castle icon inside the town ring | |
+| Motte or small earthwork castle | Small mound with a tower tick on top | Local maps only. A whole motte-and-bailey is only about 100–150 m (330–490 ft) long (estimate), about 1–1.5 mm at 1 cm = 1 km, so use a symbol, not a plan (see [Footprints](08-religious-cultural-and-ancient-sites.md#footprints-how-big-to-draw-them-on-a-local-map)) |
+| Tower house, peel or bastle | Small solid square | Many in raided borderlands |
+| Fortified or moated manor house | Small open square; double outline if moated | An open square, so it does not look like a tower house |
+| Walled town | Town symbol (a circle with a ring) with battlements on the ring | A city has a thick battlemented ring |
+| Citadel | Small castle icon at the edge of the town ring | Not a star: a filled star means a capital |
 | Fortified bridge | Bridge symbol with a small tower | |
-| Fortified church | Church cross with battlements | |
-| Watchtower or beacon | Small triangle, or a flame dot | Draw chains of them |
-| Coastal tower | Small circle on a headland | Later era especially |
+| Fortified church | Church with battlements | |
+| Watchtower or coastal tower | Small triangle | Draw chains of them; on a raided coast, one on each headland (coastal chains are mostly 1500s+) |
+| Beacon | Flame dot | Draw chains of them from the border or coast to the capital |
+| Military-order commandery | Small church with a shield | A manor farm, not a fort. Use a castle icon only for the orders' real frontier castles |
 | Arsenal or naval base | Anchor plus a castle tower | |
 | Siege castle | Small dashed castle near its target | Short-lived; show only for a dated map |
-| Army or siege camp | Dashed rectangle with rounded corners, labelled with its name or "camp" | Dated maps only. An old Roman or abandoned camp: the same outline drawn grey, labelled "Camp" |
+| Army or siege camp | Closed dashed rectangle with rounded corners, labelled with its name or "camp" | Dated maps only. Always a closed shape, never an open line. An old Roman or abandoned camp: the same outline drawn grey, labelled "Camp" |
 | Battlefield | Crossed swords and the year | |
-| Star fort (1500s+) | Five- or six-pointed star outline | Later era only |
-| Ruin | Any symbol drawn broken, grey or dotted, labelled "(ruin)" | |
+| Star fort or fortress town (1500s+) | Five- or six-pointed star outline, or a star-edged town outline; never filled | Later era only |
+| Ruin | The feature's own symbol, broken or grey, labelled "(ruin)" | |
 
 ### Ruined and active castles
 
@@ -429,7 +433,7 @@ Per 1,000 km² (about 390 sq mi) of land, at about 1300:
 | Peaceful lowland core | 4–8 | 1–3 | The county town's castle, plus 1 major baronial castle per 2,000–3,000 km² | All active castles plus ruins |
 | Average (England and Wales overall) | ~12 | ~4 | Royal and major castles only, about 1 per 1,000 km² | All |
 | Hilly lands with many small lords (German type) | ~25 | ~8–12 (estimate) | Major castles and toll castles | All, clustered on spurs and river cliffs |
-| March or contested border | 35–60 | 12–20 | All major castles; draw the border as a castle-studded band | All, including mottes and towers |
+| March or contested border | 35–60 | 12–20 | All major castles; draw the border as a hatched band studded with castle icons | All, including mottes and towers |
 | Raided border of the late Middle Ages | 8–10 castles plus many tower houses | Most of them | Castles and the main tower houses | Every tower house and bastle |
 | Thin conquered frontier (Prussia type) | 1–3 | 1–3 | All of them, each paired with a town | All |
 

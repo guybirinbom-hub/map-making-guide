@@ -139,7 +139,7 @@ A related mistake is to space villages a day's journey apart, about 25–35 km (
 - **Harbourless:** long, straight dune coasts, such as the Landes of Gascony, had few ports.
 - **Raided:** on Mediterranean coasts exposed to raiders, people lived in hilltop villages a few kilometres inland and used a small landing place on the shore.
 
-> **Later era (1500s+):** Barbary corsair raids in the 16th century led the Spanish rulers of southern Italy and Spain to build chains of coastal watchtowers. Draw small towers on headlands within sight of each other.
+> **Later era (1500s+):** Barbary corsair raids in the 16th century led the Spanish rulers of southern Italy and Spain to build chains of coastal watchtowers. Draw them as small triangles (the guide's watchtower symbol) on headlands within sight of each other.
 
 ### 10. Empty interiors
 
@@ -202,7 +202,7 @@ The full treatment is in [Capitals, Realms and Borders](03-capitals-and-borders.
 
 **Exception:** Realms that controlled a pass usually held both sides of it. Savoy held lands on both sides of the western Alps, Tyrol on both sides of the Brenner Pass, and Navarre on both sides of the western Pyrenees. If a realm lives from a pass, its border runs beyond the pass, not along the crest.
 
-> **Map tip:** For every border segment, ask "what is this line following?" Mark the answer in your notes: crest, river, forest, old county line or treaty. If the answer is "nothing", bend the line to the nearest real feature. Draw frontier zones as soft, wide bands rather than hard lines.
+> **Map tip:** For every border segment, ask "what is this line following?" Mark the answer in your notes: crest, river, forest, old county line or treaty. If the answer is "nothing", bend the line to the nearest real feature. Draw borders as dash-dot lines, and frontier zones as soft, wide bands of hatching or fading colour rather than hard lines.
 
 ---
 
@@ -214,7 +214,7 @@ Full details are in [Trade Routes, Roads and Transport](05-trade-routes-and-tran
 
 ### 15. No roads at all
 
-**Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map of Britain (late 14th or early 15th century; scholars disagree on the exact date, and parts were redrawn later in the 15th century) shows about 190 thin red route lines between towns. Nine out of ten have the distance between the towns written on them. A modern study traced the real roads behind these lines: about 4,540 km (2,820 mi) of route across England and Wales, split into 455 segments. About a third of that length runs on Roman roads, still in use 1,000 years after they were built. See [How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw).
+**Why it looks wrong:** A map with towns but no roads suggests that nobody travels or trades. Medieval England had a real road network. The Gough Map of Britain (conventionally dated c. 1360–70; a handwriting study (Smallwood 2010) suggests one or two decades after 1400, with parts redone or added later in the 15th century) shows about 190 thin red route lines between towns. Nine out of ten have the distance between the towns written on them. A modern study traced the real roads behind these lines: about 4,540 km (2,820 mi) of route across England and Wales, split into 455 segments. About a third of that length runs on Roman roads, still in use 1,000 years after they were built. See [How much main road to draw](05-trade-routes-and-transport.md#how-much-main-road-to-draw).
 
 **Fix:** Connect every town to its neighbours. Draw main roads between cities and along valleys. At kingdom scale you can leave out minor tracks. As a guide from the Gough Map, draw about 30 km of main road for every 1,000 km² of settled land (about 50 mi per 1,000 sq mi).
 
@@ -287,7 +287,7 @@ Use the speeds in [Speed per day](05-trade-routes-and-transport.md#speed-per-day
 
 > **Fantasy twist:** Teleport circles, flying mounts or fast magic messengers shrink travel time only for the few who can use them. Grain, stone and armies still move at cart and boat speed, so towns still need farmland and waterways. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Draw main roads in one style and tracks in another. Put a small inn or village symbol every 15–30 km (10–19 mi) on main roads, a caravanserai every 30–40 km (19–25 mi) in desert, and a hospice at each high pass. Write travel days on long routes: for example, 1,300 km (800 mi) by camel caravan at 25–40 km (15–25 mi) a day takes about 5–7 weeks. Check every port: is it in a bay, an estuary, a river mouth or a valley gap?
+> **Map tip:** Draw main roads as solid lines (thicker for more important roads) and tracks as thin dotted lines. Put an inn (a small house on the road) or a village every 15–30 km (10–19 mi) on main roads. In desert, put a caravanserai (the same small house, labelled "Caravanserai" or "Han") every 30–40 km (19–25 mi), and draw the caravan route as a dotted line with a larger dot at each stage. Put a hospice (a small house with a cross) at each high pass. Write travel days on long routes: for example, 1,300 km (800 mi) by camel caravan at 25–40 km (15–25 mi) a day takes about 5–7 weeks. Check every port: is it in a bay, an estuary, a river mouth or a valley gap?
 
 ---
 
@@ -349,7 +349,7 @@ Full details are in [Castles, Forts and Military Outposts](04-military-sites.md)
 
 > **Fantasy twist:** Flying enemies or monsters change the rules. If dragons or flying mounts are common, walls matter less than towers, roofs and shelters, and castles move to places that are hard to see from the air. If monsters roam the countryside, more villages get palisades (fences of sharpened stakes) and fewer people live on isolated farms. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Next to each castle symbol, write one word for what it controls: "ford", "pass", "port", "town", "march" (border province). Use one symbol for great royal castles, a smaller one for lords' castles, and a third for ruins. Draw a full wall ring only around cities and frontier towns; give market towns a simple dot or a gate symbol.
+> **Map tip:** Next to each castle symbol, write one word for what it controls: "ford", "pass", "port", "town", "march" (border province). Use a large castle icon (three towers) for great royal castles, a small castle icon (one tower) for lords' castles, and the same icon broken or grey, labelled "(ruin)", for ruins. Put battlements on a town's ring only if it was walled: walled cities and frontier towns get them, unwalled towns get a plain ringed circle, and market towns a small open circle. Do not use a plain dot for a market town; at kingdom scale a tiny dot means a village.
 
 ---
 
@@ -376,7 +376,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 **Why it looks wrong:** A town far from all others, off every road and river, with no special resource. Readers ask how it got there and who buys from it.
 
-**Fix:** Give every isolated settlement one strong reason, and draw its sign: a mine symbol, a chapel, a castle, a well. The usual reasons are a mine or salt, a pilgrimage shrine, a monastery, a fortress guarding a pass, a river crossing, an oasis or a harbour.
+**Fix:** Give every isolated settlement one strong reason, and draw its sign: crossed hammers for a mine, a small plain cross for a chapel, a scallop shell for a great shrine, a castle icon for a fortress, an anchor for a harbour, or a blue "W" for a well. The usual reasons are a mine or salt, a pilgrimage shrine, a monastery, a fortress guarding a pass, a river crossing, an oasis or a harbour.
 
 **Exception:** Real remote places, each with its reason:
 
@@ -437,7 +437,7 @@ Full details are in [Industry, Resources and Special Towns](07-industry-and-reso
 
 > **Later era (1500s+):** If your map is set after 1500, see [What Changes After 1500](09-later-era-1500-1650.md) for star forts, postal relays, ocean ports and much bigger capitals.
 
-> **Map tip:** Put a date in the map's title box ("The Kingdom of X, Year 1312"). Then use three styles: working features, old but still used features (like an ancient road), and ruins (grey or dashed).
+> **Map tip:** Put a date in the map's title box ("The Kingdom of X, Year 1312"). Then use three styles: working features in normal ink; old but still used features, such as a Roman road labelled "Street" or "(Roman)"; and ruins, drawn as the feature's own symbol broken or grey and labelled "(ruin)". Do not use dashed lines for ruins: in this guide, dashes mean fords and camp outlines.
 
 ---
 

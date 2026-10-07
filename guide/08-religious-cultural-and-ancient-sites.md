@@ -112,7 +112,7 @@ The distances above are the geometric limit (the curve of the earth). Haze, tree
 
 > **Later era (1500s+):** Parishes barely change. In Protestant lands, side altars, chantries (endowed chapels for prayers for the dead) and many shrines go; England dissolved its chantries in 1547. Printed county maps such as Christopher Saxton's atlas of England and Wales (1579) mark towns and villages with small church-tower symbols, because the church was what defined a place.
 
-> **Map tip:** On a local map, give each village one church symbol: a small cross, or a tiny tower if your style allows. Use a spire for richer towns and a cross with no tower for chapels. In hill country, draw fewer churches and add 2–4 chapel symbols per parish in the outlying hamlets. In an old town, scatter many small church symbols inside the walls; in a planted grid town, draw only one.
+> **Map tip:** On a local map, give each village one church symbol: a small church with a tower. Use a spire for richer towns, and a small plain cross with no tower for chapels. In hill country, draw fewer churches and add 2–4 chapel symbols per parish in the outlying hamlets. In an old town, scatter many small church symbols inside the walls; in a planted grid town, draw only one.
 
 ---
 
@@ -152,7 +152,7 @@ Bishops wanted to sit in towns. After the Norman Conquest, the Council of London
 - In England, nine cathedrals were also Benedictine monasteries (Canterbury, Durham, Winchester, Norwich, Ely, Worcester, Rochester, Bath and Coventry), and Carlisle was served by Augustinian canons. This was rare elsewhere.
 - Extra business: courts of the church, lawyers, pilgrims, craftsmen, and a big building site for centuries.
 
-> **Map tip:** On a kingdom map, mark each cathedral with a double-tower or mitre symbol, and each archbishop's seat with a double cross or a bigger symbol. For an English-style realm, use about one diocese per 5,000–10,000 km² (2,000–4,000 sq mi). For an Italian-style land, use one per 500–2,000 km² (190–770 sq mi), and let many cathedral towns be small. Draw diocese borders only on special church maps; they often follow old Roman or tribal borders, not the current political ones.
+> **Map tip:** On a kingdom map, mark each cathedral with a two-towered church or a mitre, and each archbishop's seat with a double cross beside the city symbol. For an English-style realm, use about one diocese per 5,000–10,000 km² (2,000–4,000 sq mi). For an Italian-style land, use one per 500–2,000 km² (190–770 sq mi), and let many cathedral towns be small. Draw diocese borders only on special church maps; they often follow old Roman or tribal borders, not the current political ones.
 
 ---
 
@@ -213,7 +213,7 @@ In England, friars reached further down the town ladder: many county towns of 3,
 
 > **Later era (1500s+):** Protestant rulers close the monasteries: Sweden from 1527, Denmark in 1536, England and Wales in 1536–41, and many German states. Abbey churches become parish churches, country houses or roofless ruins; the land goes to nobles. In Catholic lands, new orders such as the Jesuits (1540) build colleges and churches inside towns, not in the countryside. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Fantasy twist:** A religious order of warrior-monks in a monster-haunted land behaves like the Templars or the Teutonic Order: fortified commanderies along dangerous roads and frontiers, each with farms to pay for it. Treat them as castles on your map (see [chapter 04](04-military-sites.md)).
+> **Fantasy twist:** A religious order of warrior-monks in a monster-haunted land behaves like the Templars or the Teutonic Order: fortified commanderies along dangerous roads and frontiers, each with farms to pay for it. Treat the fortified ones as castles on your map and use a castle symbol (see [chapter 04](04-military-sites.md)); keep the small church with a shield for ordinary farm commanderies.
 
 > **Map tip:** Put about 1 religious house per 150 km² (60 sq mi) in a settled kingdom. Place Cistercian and Carthusian houses in empty, well-watered valleys away from villages. Put Benedictine abbeys in old towns or at the centre of a "monastery town". Put friaries in towns of about 3,000–5,000 and up, near the walls or gates, and nunneries in quiet rural spots. Give each big abbey 5–40 granges, most within about 25 km (15 mi) and a few much farther. Name some farms "Grange", "Temple ..." or "... Abbey Farm". On a local map, a great abbey is a walled precinct 350–600 m (0.2–0.4 mi) across, not a single church; see [Footprints](#footprints-how-big-to-draw-them-on-a-local-map).
 
@@ -253,7 +253,7 @@ Archbishop Sigeric of Canterbury wrote down his route home from Rome in about 99
 
 > **Fantasy twist:** If miracles at a shrine are real and visible (healing, oracles), pilgrimage becomes a major industry. Make the shrine town 2–5× bigger than its farmland could support, with many inns and hospitals, and draw a pilgrim road with hospices every 20 km (12 mi) all the way to the nearest big cities.
 
-> **Map tip:** Pick one or two great shrines for your continent and several regional ones for each kingdom. Draw the pilgrim road along existing roads, and label it ("Pilgrims' Way", "Saint's Road"). Put a hospice at every mountain pass and dangerous crossing, a small pilgrim town every 2–4 days' walk, and a leper house on the last stretch before the shrine. Use a scallop shell, a star or a small reliquary as the shrine symbol.
+> **Map tip:** Pick one or two great shrines for your continent and several regional ones for each kingdom. Draw the pilgrim road along existing roads: keep the ordinary road line, add small scallop marks along it, and label it ("Pilgrims' Way", "Saint's Road"). Put a hospice at every mountain pass and dangerous crossing, a small pilgrim town every 2–4 days' walk, and a leper house on the last stretch before the shrine. Use a scallop shell or a small reliquary as the shrine symbol, never a star (a filled star means a capital).
 
 ---
 
@@ -283,7 +283,7 @@ Most almshouses and small hospitals had **4–13 residents**. Thirteen was a fav
 
 Place names show where these were: "Spital", "Spittal", "Spitalfields", "Maudlin" (from Mary Magdalene, a common leper-house saint), "Lazar", or "Saint-Lazare".
 
-> **Map tip:** Give every market town one hospital, and every walled town 2–5. Put a leper house on one main road 1–2 km outside each town of 2,000+; big cities may have one on each main road. On a local map, label them ("St John's Hospital", "the Lazar House"). In an Islamic city, place the hospital near the great mosque and the main market instead.
+> **Map tip:** Give every market town one hospital, and every walled town 2–5. Put a leper house on one main road 1–2 km outside each town of 2,000+; big cities may have one on each main road. On a local map, draw each as a small house with a cross and label it ("St John's Hospital", "the Lazar House"). In an Islamic city, place the hospital near the great mosque and the main market instead.
 
 ---
 
@@ -363,7 +363,7 @@ Gallows were meant to be seen. They marked the lord's right to judge and kill (*
 
 > **Fantasy twist:** Where the dead can rise, gallows and execution grounds are not left with bodies hanging. Expect burning places or burial under stones at crossroads, and a guard house or shrine nearby.
 
-> **Map tip:** On a local map, put one gallows symbol on a hill by the main road outside each town and at the edge of each great lord's land; label it "Gallows Hill". Put the town hall, market cross and pillory together in the market place. Mark the hundred or district meeting place at a mound, stone or ford roughly central to its area, often on an old road.
+> **Map tip:** On a local map, put one gallows symbol (a small "Π") on a hill by the main road outside each town and at the edge of each great lord's land; label it "Gallows Hill". Put the town hall, market cross and pillory together in the market place. Mark the hundred or district meeting place at a mound, stone or ford roughly central to its area, often on an old road; draw it as a small lone tree labelled "Moot".
 
 ---
 
@@ -378,7 +378,7 @@ Gallows were meant to be seen. They marked the lord's right to judge and kill (*
 - **Muslim cemeteries:** outside the city gates, sometimes very large (Cairo's great cemeteries east and south of the city).
 - **Criminals and outcasts:** at gallows sites and parish boundaries.
 
-> **Map tip:** You do not need to draw churchyards on most maps; the church symbol implies one. On a local or town-edge map, draw a Jewish cemetery or a Muslim cemetery as a walled plot outside a gate, and a plague pit or charnel chapel if your story has had a plague.
+> **Map tip:** You do not need to draw churchyards on most maps; the church symbol implies one. On a local or town-edge map, draw a Jewish cemetery or a Muslim cemetery as a small walled plot outside a gate, with a name label (for example "Jewbury", as at York) so it is not read as a friary or a garden. Add a plague pit or charnel chapel if your story has had a plague.
 
 ---
 
@@ -413,7 +413,7 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 
 > **Later era (1500s+):** Segregation becomes stricter. Venice created the first "ghetto" in 1516; in 1555 Venice had 923 Jews among 160,000 people. Rome followed in 1555. Spain expelled the Moriscos (Muslims forced to convert) in 1609–14, emptying hundreds of villages in Valencia and Aragon.
 
-> **Map tip:** On a city or town-edge map, give a trading town of 5,000+ a small minority quarter: a cluster of houses with a synagogue, or a mosque in a reconquered land, near the castle or market. Put its cemetery outside a gate. On a kingdom map, a border region where two faiths meet can have villages of both: use different church and mosque symbols. Show recent expulsions with names like "Old Jewry" or "Moorish Quarter" and no symbol for a working temple.
+> **Map tip:** On a city or town-edge map, give a trading town of 5,000+ a small minority quarter: a cluster of houses with a synagogue (a lamp symbol, never a star), or a mosque in a reconquered land (a dome with a crescent), near the castle or market. Put its cemetery outside a gate. On a kingdom map, a border region where two faiths meet can have villages of both: use the church symbol for one and the dome with a crescent for the other. Show recent expulsions with names like "Old Jewry" or "Moorish Quarter" and no symbol for a working temple.
 
 ---
 
@@ -455,7 +455,7 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 
 > **Fantasy twist:** An older, vanished race (elves, giants, an ancient empire) leaves the same kinds of layers: roads, forts on hills, tombs on ridges, stones in circles. If its ruins are still whole near living towns, there must be a reason: fear, a curse, a monster, or a law. Otherwise people would have carted the stone away. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Give a kingdom map a few long, straight "old roads" that link cities in near-straight lines, with later towns along them. On local maps, add 1–3 hillforts per 100 km² (39 sq mi) in hilly country, scattered barrows along ridges, a stone circle or two on moorland, a faint rectangular Roman camp beside an old road, a ruined motte by an old crossing, and one or two deserted villages shown by a lone church. Label them in the local style: "Old Fort", "Giant's Grave", "Kings' Stones", "Castle Hill", "Old Street".
+> **Map tip:** Give a kingdom map a few long, straight "old roads" that link cities in near-straight lines, with later towns along them. On local maps, add 1–3 hillforts per 100 km² (39 sq mi) in hilly country (ovals of rings on hilltops), scattered barrows along ridges (small filled mounds), a stone circle or two on moorland (small rings of dots), a Roman camp beside an old road (a grey, closed dashed rectangle with rounded corners), a ruined motte by an old crossing (the motte symbol drawn grey), and one or two deserted villages shown by a grey lone church labelled "(lost village)". Label them in the local style: "Old Fort", "Giant's Grave", "Kings' Stones", "Castle Hill", "Old Street".
 
 ---
 
@@ -465,28 +465,36 @@ Christians and Jews were "protected peoples" (*dhimmi*) in Islamic lands. They k
 
 ### Suggested symbols
 
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).
+
 | Feature | Symbol idea | Show at which scale |
 |---|---|---|
-| Archbishop's seat | Double cross, or cathedral symbol with a ring | Continent, kingdom |
+| Archbishop's seat | Double cross beside the city symbol | Continent, kingdom |
 | Cathedral | Church with two towers, or a mitre | Kingdom, local |
-| Parish church | Small cross or tower; spire for rich towns | Local |
-| Chapel | Small cross without tower | Local |
+| Parish church | Small church with a tower; spire for rich towns | Local |
+| Chapel | Small plain cross, no tower | Local |
+| Wayside cross | Tiny cross on a base, set on the road or path | Local |
 | Abbey or priory | Church with a square cloister beside it | Kingdom (great abbeys), local (all) |
-| Friary | Small church inside a town symbol, or just a name | Local and town maps |
-| Grange | Small farm square with a cross or the label "Grange" | Local |
+| Friary | Name only, or a small church inside the town outline | Local and town maps |
+| Grange | Small open square topped with a cross, or the label "Grange" | Local |
 | Commandery (military order) | Small church with a shield | Kingdom, local |
-| Great shrine | Star, scallop shell or reliquary | Continent, kingdom |
-| Pilgrim road | Dotted line with a small shell, along an existing road | Kingdom |
+| Great shrine | Scallop shell or small reliquary (never a star: a filled star means a capital) | Continent, kingdom |
+| Pilgrim road | The ordinary road line with small scallop marks along it (not a dotted line) | Kingdom |
 | Hospice at a pass | Small house with a cross | Kingdom, local |
-| Hospital or leper house | House with a cross; "Lazar House" label | Local |
+| Hospital or leper house | Small house with a cross; leper house labelled "Lazar House" | Local |
 | University | Book, or a "U" next to the city name | Continent, kingdom |
-| Gallows | Small "Π" or T-shape on a hill | Local |
-| Moot or thing site | Small mound or circle with a dot | Local |
-| Mosque, synagogue | Crescent or dome; six-pointed star or a lamp | Kingdom (big mosques), town edge |
-| Ruin | Broken outline of the building's symbol | Kingdom (big ones), local |
+| Gallows | Small "Π" on a hill | Local |
+| Moot or thing site | Small lone tree, labelled "Moot" (or "Thing") | Local |
+| Mosque | Dome with a crescent | Kingdom (great mosques), local |
+| Synagogue | Lamp (never a star) | Local, town edge |
+| Ruin | The feature's own symbol, broken or grey, labelled "(ruin)" | Kingdom (big ones), local |
+| Deserted village | Grey church alone in a field, labelled "(lost village)" | Kingdom (a few), local |
 | Hillfort | Oval of rings or hachures on a hill | Local |
-| Barrow, standing stone | Small dot or triangle; small circle of dots | Local |
-| Roman road | Straight line, sometimes labelled "Old Street" or "(Roman)" | Kingdom, local |
+| Barrow | Small filled mound; a long barrow as a longer mound | Local |
+| Standing stone | Small upright tick | Local |
+| Stone circle | Small ring of dots | Local |
+| Old or Roman camp | Grey closed dashed rectangle with rounded corners, labelled "Camp" | Local |
+| Roman road | Straight thick solid line labelled "Street" or "(Roman)"; grey where abandoned | Kingdom, local |
 
 ### Footprints: how big to draw them on a local map
 
@@ -511,7 +519,7 @@ Most of England's ~900 religious houses were small priories with much smaller pr
 
 "Rough size across" is the side of a square with the same area, calculated by this guide. Real precincts were irregular: they followed rivers, roads and valley sides. For a sense of scale, Fountains' precinct (28 ha) could hold the whole walled town of Castle Acre (3.8 ha) seven times.
 
-> **Map tip:** On a local map at 1 cm = 1 km, draw a great abbey as a walled outline 3.5–6 mm across, with a gatehouse on the road side and the church and cloister inside. At a larger scale, such as 4 cm = 1 km (1:25,000, where the precinct is 14–24 mm across), add the inner and outer courts, a mill on the stream, a chain of fishponds, barns and orchards. Draw a friary as a small walled plot against the town wall or at a gate. A moated manor or a small motte is under 1 mm at 1 cm = 1 km, so use a symbol (see [chapter 06](06-villages-and-countryside.md) and [chapter 04](04-military-sites.md)).
+> **Map tip:** On a local map at 1 cm = 1 km, draw a great abbey as a walled outline 3.5–6 mm across, with a gatehouse on the road side and the church and cloister inside. At a larger scale, such as 4 cm = 1 km (1:25,000, where the precinct is 14–24 mm across), add the inner and outer courts, a mill on the stream, a chain of fishponds, barns and orchards. Draw a friary as a small walled plot against the town wall or at a gate. A moated manor or a small motte is under 1 mm at 1 cm = 1 km, so use a symbol: a small open square with a double outline for a moated manor, and a small mound with a tower tick for a motte (see [chapter 06](06-villages-and-countryside.md) and [chapter 04](04-military-sites.md)).
 
 ### Density checklist for a kingdom of 50,000 km² (19,000 sq mi)
 

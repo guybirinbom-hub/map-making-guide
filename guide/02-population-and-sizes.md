@@ -82,13 +82,15 @@ The village row is a rough estimate.
 
 | Tier | Continent map | Kingdom map | Local map | Label size |
 |---|---|---|---|---|
-| Farmstead | — | — | Tiny square | None |
-| Hamlet | — | — | 2–5 small house marks | 6–7 pt italic, or none |
-| Village | — | A tiny dot, only for notable villages | House marks around a church cross | 7–8 pt |
+| Farmstead | — | — | Tiny dot | None |
+| Hamlet | — | — | 2–5 small house marks, no church | 6–7 pt italic, or none |
+| Village | — | A tiny dot, only for notable villages | House marks around a church | 7–8 pt |
 | Small market town | — | Small open circle | Houses around a market square | 8–9 pt |
-| Town | Only the important ones, as a dot | Circle with a ring, or a tiny wall symbol | Real outline with wall and gates | 9–10 pt |
-| City | Dot or circle | Larger walled symbol | Full outline | 11–12 pt, bold or small capitals |
-| Great city | Circle with ring or star | Large symbol | Full outline with suburbs | 13–14 pt CAPITALS |
+| Town | Only the important ones, as a dot | Circle with a ring; battlements on the ring if walled | Real outline with wall and gates | 9–10 pt |
+| City | Dot or circle | Circle with a thick battlemented ring (a larger walled symbol) | Full outline | 11–12 pt, bold or small capitals |
+| Great city | Large circle with a ring | Large walled symbol | Full outline with suburbs | 13–14 pt CAPITALS |
+
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy). A realm capital takes a filled star in place of its tier symbol, so do not use a star for any other place.
 
 > **Fantasy twist:** Where monsters roam the countryside, people give up isolated farmsteads and crowd into fewer, larger, walled villages. Italy did this for human reasons in the 10th–12th centuries (*incastellamento*, the move into hilltop *castelli*). Shift some of your hamlet population into fortified villages of 300–1,000 people. See [Fantasy Variants](10-fantasy-variants.md).
 
@@ -200,7 +202,8 @@ Medieval reality did not follow the rule neatly:
 | Very urban, rich lowland | 50–75 | 130–190 | Flanders and Holland in the 15th century (estimate) |
 | Average mixed farmland | 15–30 | 40–80 | Suffolk ~23–25 in 1086; England ~19 in 1377 |
 | Poorer land, young kingdoms | 7–15 | 18–40 | Hungary ~7 (c. 1200) and ~9–11 (c. 1495); Crown of Poland 8.6 (1370) and 13 (1500) |
-| Hills, uplands, mountains | 2–10 | 5–25 | Scottish Highlands, Alps, Pyrenees, northern Pennines; northern and western England under 5 in 1086 |
+| Hill country (farmed valleys with upland grazing), peak times | 8–15 | 21–39 | Cumberland and Westmorland about 15–17 in 1290, as whole counties that include the Eden valley and the Solway plain, so the fells themselves held fewer. The same two counties had about 6–7 in 1377, and northern and western England had under 5 in 1086. (Derived from county estimates in Broadberry, Campbell & van Leeuwen 2011.) |
+| High uplands, moors, mountains | 2–5 | 5–13 | Scottish Highlands, high Alps, Pyrenees, northern Pennines (estimate; few direct counts exist). Upland parishes covered 50–100+ km² (20–40+ sq mi) each. |
 | Forest or steppe frontier | 1–5 | 3–13 | Lithuania, the Rus' forest zone (estimate) |
 | Shifting (swidden) farming in tropical forest | about 6 on average; 12–35 in busier districts; at most about 55–56 | about 14 on average; 30–90; at most about 145 | World average about 6 in the 1950s (FAO); modern Southeast Asia from 12 in northern Laos to 35 in northern Thailand (Warner 1991, FAO); ceiling about 55–56 (Ruthenberg 1980) |
 | Steppe nomads | under 1–2 | under 3–5 | Herders need huge pastures |
@@ -221,7 +224,7 @@ Medieval reality did not follow the rule neatly:
 
 **How to read this:** A realm's average hides big differences. In 1086 Suffolk was five times denser than northern England. Even at the 1290 peak, much of England's upland was nearly empty while East Anglia was crowded.
 
-> **Map tip:** Before placing villages, lightly shade your map into three or four density zones: crowded lowland, ordinary farmland, thin hill country and empty land (mountain, marsh, forest, desert). Then place settlements to match. Lowland villages sit 1.5–4 km (1–2.5 mi) apart. In uplands, parish churches may be 7–10 km (4–6 mi) apart, with scattered farms and hamlets between them. Leave real gaps: empty land makes the full land look full.
+> **Map tip:** Before placing villages, lightly shade your map in pencil (or on a layer you hide later) into three or four density zones: crowded lowland, ordinary farmland, thin hill country and empty land (mountain, marsh, forest, desert). Then place settlements to match. Lowland villages sit 1.5–4 km (1–2.5 mi) apart. In uplands, parish churches may be 7–10 km (4–6 mi) apart, with scattered farms and hamlets between them. Leave real gaps: empty land makes the full land look full.
 
 ---
 
@@ -239,7 +242,7 @@ Medieval reality did not follow the rule neatly:
 - **Wheat yields:** English demesne wheat (grown on the lord's own farm) yielded about 8–12 bushels per acre (0.55–0.8 tonnes per hectare). A bushel is an old measure of volume, about 36 litres.
 - **Result:** About 250–350 kg of food grain per hectare of arable land per year. A person ate about 200–250 kg of grain a year, plus barley for ale and oats for horses.
 
-**Check against history:** England c. 1300 had about 11.5 million acres of arable, counting the fallow field. About 7.4 million acres of it were sown each year (Broadberry, Campbell et al. 2010). For 4.75 million people, that is about 2.4 acres (1.0 ha) of arable per person, of which only about 1.6 acres (0.6 ha) carried a crop in any one year. Counting all land, it is about 2.7 ha per person. Even so, people got only about 1,300 kcal a day from farm produce (Broadberry, Campbell & van Leeuwen 2011). England was at its limit.
+**Check against history:** England c. 1300 had about 11.5 million acres of arable, counting the fallow field. About 7.4 million acres of it were sown each year (Broadberry, Campbell et al. 2010). For 4.75 million people, that is about 2.4 acres (1.0 ha) of arable per person, of which only about 1.6 acres (0.6 ha) carried a crop in any one year. Counting all land, it is about 2.7 ha per person. Even so, in 1300–1319 the main crops and animal products supplied only about 1,300–1,350 kcal per person a day. That is after seed, fodder, storage losses and the waste of milling and brewing are taken out. Grain gave about 1,200–1,250 kcal of it, and meat and dairy about 120 (Broadberry, Campbell & van Leeuwen 2011). Grain calories rose to about 1,800 a day by the 1380s, because the plague had cut the number of mouths. The same authors reckon a well-fed population needs about 2,000 kcal a day, with at least 1,500 of it from these main crops and animal products. Garden vegetables, poultry, fish and game filled only part of the gap. England was at its limit.
 
 ### Village territory
 
@@ -275,7 +278,7 @@ A **hinterland** is the area of countryside that feeds a town. The model below a
 
 > **Fantasy twist:** Magic that raises harvests changes everything downstream. If priests can bless fields from a 4 : 1 to an 8 : 1 yield, the same land feeds about twice as many people. You can then double densities, enlarge towns and shrink hinterlands. Cheap magical transport (portals, flying freight) would also free great cities from the "must be on water" rule. See [Fantasy Variants](10-fantasy-variants.md).
 
-> **Map tip:** Draw a faint circle around each town at the overland radius from the table. If two towns' circles overlap heavily, one of them should be smaller or should be on water. Put most places over 10,000 people on a navigable river or a coast. Inland exceptions existed, but they sat in very rich farmland with good roads: Coventry in England (about 12,000 c. 1300) and hilltop Siena in Italy (perhaps 50,000) had no navigable river. Places over 50,000 almost always need water transport.
+> **Map tip:** Draw a faint pencil circle around each town at the overland radius from the table, and erase it when you are done (on the finished map, rings around a place belong to the town symbol). If two towns' circles overlap heavily, one of them should be smaller or should be on water. Put most places over 10,000 people on a navigable river or a coast. Inland exceptions existed, but they sat in very rich farmland with good roads: Coventry in England (about 12,000 c. 1300) and hilltop Siena in Italy (perhaps 50,000) had no navigable river. Places over 50,000 almost always need water transport.
 
 ---
 
@@ -397,7 +400,7 @@ Most cities in the Americas were far smaller than Tenochtitlan. Of 87 Mesoameric
 
 > **Later era (1500s+):** After falling during the Mongol conquest, China's population grew strongly under the Ming: estimates for c. 1600 run from about 160 million to 200 million. In Mexico the opposite happened. After the Spanish conquest (1519–21), epidemics and war cut the native population by at least half in the 16th century, and perhaps by as much as nine-tenths over wide areas (McCaa 2000; estimates vary widely). Tenochtitlan was rebuilt as Mexico City. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Map tip:** For a rice empire, shade the deltas and river basins as your densest zone, link the capital to them by canals or rivers, and draw many small villages on dikes and mounds among the paddies (see [Villages, Farms and the Countryside](06-villages-and-countryside.md)). For an Angkor-type capital, draw a walled square core with large rectangular reservoirs, then a wide speckled zone of house mounds and fields with no outer wall. For a Tenochtitlan-type capital, draw a dense island city, causeways to the shore and a band of narrow garden plots in the shallow lake. For shifting farmers, scatter small villages far apart with clearings of different ages around them. Terrain and biome patterns are in [Where Settlements Are Built](01-settlement-placement.md), and canal and causeway transport in [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md).
+> **Map tip:** For a rice empire, shade the deltas and river basins as your densest zone, link the capital to them by canals or rivers, and draw many small villages on dikes and mounds among the paddies (see [Villages, Farms and the Countryside](06-villages-and-countryside.md)). For an Angkor-type capital, draw a walled square core with large rectangular reservoirs, then a wide zone of tiny house-mound dots, small ponds and rice fields with no outer wall. (Avoid stipple here: the master legend keeps it for commons and heath.) For a Tenochtitlan-type capital, draw a dense island city, causeways to the shore and a band of narrow garden plots in the shallow lake. For shifting farmers, scatter small villages far apart with clearings of different ages around them. Terrain and biome patterns are in [Where Settlements Are Built](01-settlement-placement.md), and canal and causeway transport in [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md).
 
 ---
 
@@ -407,7 +410,7 @@ Use this to get believable numbers for any realm.
 
 **Step 1: Measure the area.** Count grid squares or hexes and multiply by the area of one square or hex. A hex's area is about 0.866 × (width across the flat sides)². For example, a 30 km hex is about 780 km²; a 30 mi hex is about 780 sq mi.
 
-**Step 2: Split the land by quality and apply a density** (from the [Population density](#population-density) tables). Typical values: rich lowland 30–40 per km², average land 15–25, hills 8–15, uplands, forest and marsh 2–5, desert 0. For rice basins and tropical forest farming, use the figures in [Beyond Europe](#beyond-europe-asia-africa-and-the-americas).
+**Step 2: Split the land by quality and apply a density** (from the [Population density](#population-density) tables). Typical values: rich lowland 30–40 per km², average land 15–25, hill country 8–15, high uplands, mountains, forest and marsh 2–5, desert 0. For rice basins and tropical forest farming, use the figures in [Beyond Europe](#beyond-europe-asia-africa-and-the-americas).
 
 **Step 3: Add up to get the total population.**
 
@@ -510,7 +513,7 @@ Using the **average** profile:
 
 > **Later era (1500s+):** Population grew again after c. 1500, and big towns grew fastest. Italy suffered new plagues in 1629–31 and 1656–57, each killing 20% or more of the people in the regions they hit. The Thirty Years' War (1618–48) devastated parts of Germany. See [What Changes After 1500](09-later-era-1500-1650.md).
 
-> **Map tip:** For a post-plague setting, mark a few "ruined village" or "lost village" symbols in the lowland, often next to a lone church or a manor house in sheep pasture. Show towns with open green space inside their walls, and push the hill-farm line downhill. For a 1300 setting, do the opposite: farms right up the valley sides and suburbs spilling outside the town gates.
+> **Map tip:** For a post-plague setting, mark a few deserted villages in the lowland: a grey church alone in a field, labelled "(lost village)". Sometimes a manor house (small open square) survives beside it in sheep pasture. Show towns with open green space inside their walls, and push the hill-farm line downhill. For a 1300 setting, do the opposite: farms right up the valley sides and suburbs spilling outside the town gates.
 
 ---
 
@@ -528,7 +531,7 @@ Using the **average** profile:
 
 **Towns needed newcomers.** Medieval towns had more deaths than births. Death rates could be as high as 6% a year even in normal years. Towns grew only by drawing people in from the countryside, and a quarter to a half of a growing town's people were migrants from nearby villages (Nicholas 2014, via Jedwab et al. 2020). This is why towns sit inside a ring of villages that feed them both food and people.
 
-> **Map tip:** Put a manor house in most lowland villages (some English villages had two or more). Place castles much more sparsely. Religious houses were common but mostly small: England had nearly 900 in the 1530s, roughly one per 140 km² (55 sq mi). Friaries sit in towns, while abbeys often sit in remote valleys (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)). Specialists are rare: a university, a great cathedral school or a famous library belongs to only one or two cities in a kingdom.
+> **Map tip:** Put a manor house (small open square) in most lowland villages (some English villages had two or more). Place castles much more sparsely. Religious houses were common but mostly small: England had nearly 900 in the 1530s, roughly one per 140 km² (55 sq mi). Friaries sit in towns, while abbeys (a church with a square cloister beside it) often sit in remote valleys (see [Religious, Cultural, Legal and Ancient Sites](08-religious-cultural-and-ancient-sites.md)). Specialists are rare: a university, a great cathedral school or a famous library belongs to only one or two cities in a kingdom.
 
 ---
 
@@ -627,7 +630,8 @@ Many worldbuilders use S. John Ross's free article *Medieval Demographics Made E
 - Hutchings (1969), PDF via Archaeology Data Service: https://archaeologydataservice.ac.uk/catalogue/adsdata/arch-5499-1/dissemination/vol_4/BedsArch4-69-78.pdf
 - Florence city walls (Castelli Toscani): https://www.castellitoscani.com/firenze.htm
 - Review of Borsch (2005) in *American Journal of Islamic Social Sciences* 24(4): https://www.ajis.org/index.php/ajiss/article/view/1518
-- Broadberry, S., Campbell, B. M. S. & van Leeuwen, B. (2011). "English Medieval Population: Reconciling Time Series and Cross Sectional Evidence" (working paper): https://warwick.ac.uk/fac/soc/economics/seminars/seminars/conferences/venice3/programme/english_medieval_population.pdf
+- Broadberry, S., Campbell, B. M. S. & van Leeuwen, B. (2011). "English Medieval Population: Reconciling Time Series and Cross Sectional Evidence" (working paper; Table 7 gives daily kilocalories per head from farm produce, Table 8 county populations for 1086, 1290, 1377 and 1600): https://warwick.ac.uk/fac/soc/economics/seminars/seminars/conferences/venice3/programme/english_medieval_population.pdf
+- Wikipedia: *Cumberland* https://en.wikipedia.org/wiki/Cumberland and *Westmorland* https://en.wikipedia.org/wiki/Westmorland (historic county areas, about 3,940 km² and 2,045 km² in 1911, from Vision of Britain; used to turn the county populations into densities)
 - Jedwab, R., Johnson, N. D. & Koyama, M. (2020). "Medieval Cities Through the Lens of Urban Economic Theories." IIEP Working Paper 2020-9: https://www2.gwu.edu/~iiep/assets/docs/papers/2020WP/JedwabIIEP2020-9.pdf
 - Dittmar, J. (2008). "Cities, Institutions, and Growth: The Emergence of Zipf's Law" (working paper): https://eml.berkeley.edu/~webfac/cromer/e211_sp08/dittmar.pdf
 - Cesaretti et al. (2016), full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC5051806/

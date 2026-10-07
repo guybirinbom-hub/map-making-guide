@@ -37,9 +37,9 @@ The baseline is Europe c. 1000–1500, with England as the best-documented examp
 | **Polyfocal village** (several centres) | Two or three small clusters (church end, manor end, green end) that grew together | Common in England | Two or three knots joined by a lane |
 | **Forest strip village** (*Waldhufendorf*) | Farms spaced along a valley road or stream. Behind each farm a long strip of land runs uphill to the forest | First in the northern Black Forest c. 1000; spread in the 12th–13th centuries to the Odenwald, Ore Mountains, Bohemia and Silesia. Chains of these villages run up to 25 km (15 mi) along valleys in Saxony | Farms like beads on a string; parallel strips behind them |
 | **Marsh and dyke village** (*Marschhufendorf*) | Farms in a line along a dyke or drainage ditch, with long narrow plots behind | North Sea marshes, Holland | A line along the dyke, thin strips at right angles |
-| **Round village** (*Rundling*) | A horseshoe or circle of farms around a green, with one entrance | The German–Slavic border zone, mostly founded in the 12th century. Usually 5–7 farms at first; farms were divided until there were about 20 by the 16th century. The church stands outside the ring. About 93 survive, in the Wendland (Lower Saxony) | A small ring, with the church outside it |
-| **Hamlet** | 2–15 households, no church | Everywhere. Main form in Devon, Cornwall, Wales, Ireland (*clachan*) and Scotland (*fermtoun*) | A small cluster with no church |
-| **Dispersed farmsteads** | Single farms, each in its own fields | Uplands, Alps, Norway, forest clearings; Kent, Essex and the Weald | Scattered dots joined by lanes |
+| **Round village** (*Rundling*) | A horseshoe or circle of farms around a green, with one entrance | The German–Slavic border zone, mostly founded in the 12th century. Usually 5–7 farms at first; farms were divided until there were about 20 by the 16th century. The church stands outside the ring. About 93 survive, in the Wendland (Lower Saxony) | A small horseshoe of house marks round a green, with the church outside it (not a plain circle, which means a market town) |
+| **Hamlet** | 2–15 households, no church | Everywhere. Main form in Devon, Cornwall, Wales, Ireland (*clachan*) and Scotland (*fermtoun*) | 2–5 small house marks with no church |
+| **Dispersed farmsteads** | Single farms, each in its own fields | Uplands, Alps, Norway, forest clearings; Kent, Essex and the Weald | Scattered tiny dots joined by lanes |
 | **Mediterranean hill village** | A dense, walled cluster of stone houses on a hilltop or spur, with castle and church at the top | Lazio and Tuscany (*incastellamento*, the move into fortified hill villages, 10th–12th centuries); Provence (*villages perchés*); Catalonia | A dense blob on a hill, with a wall |
 | **Agro-town** | 2,000–10,000 people, mostly farmers, in one big settlement | Sicily, Apulia, southern Spain | A town-sized symbol, but with few town functions |
 
@@ -63,7 +63,7 @@ England is the classic case of mixed patterns. A central belt of nucleated villa
 
 **Real example: Wharram Percy (Yorkshire, England).** This deserted village on the chalk Wolds had about 40 peasant house plots in planned rows, two manor houses, a church and a green. It also had two watermills, and their millponds were fished. At its height, in the late 13th and early 14th centuries, it had perhaps 200 people. About 30 houses were occupied around 1368 and at least 16 in 1436. Around 1500 the lord evicted the last four families and turned the land into sheep pasture.
 
-> **Map tip:** Pick one village form for each region of your map and stick to it. Draw the church as the biggest symbol, the manor house beside it, and the mill on the stream a short way off. On a local map, show tofts as a row of small rectangles along the street, with crofts as long narrow plots behind. Most villages need a green, a pond or a road junction as their centre.
+> **Map tip:** Pick one village form for each region of your map and stick to it. Draw the church (a small church with a tower) as the biggest symbol, the manor house (a small open square) beside it, and the mill (a wheel on the stream) a short way off. On a local map, show tofts as a row of narrow plot outlines along the street, each with a small house mark at the street end, and crofts as long narrow plots behind. Do not draw them as plain small rectangles: in the guide's legend, a chain of small rectangles means fishponds. Most villages need a green, a pond or a road junction as their centre.
 
 > **Fantasy twist:** If wolves, raiders or monsters roam the countryside at night, dispersed farmsteads become rare and dangerous. People crowd into nucleated or hilltop villages with a ditch and palisade, as Italian peasants did during *incastellamento*. Isolated farms survive only as fortified towers or inside a lord's protection. See [Fantasy Variants](10-fantasy-variants.md).
 
@@ -192,7 +192,7 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 - **The northern limit was farther north than today's wine map.** Domesday Book (1086) lists over 40 vineyards in England, and 139 were recorded in 1509, when Henry VIII became king. In the 14th century, vineyards worked in Poland, for example in Silesia and at Kraków, Toruń and Zielona Góra. Most of these made thin wine for monks and lords. Put northern vineyards on south-facing slopes, near monasteries or castles. Commercial wine regions are in [Industry, Resources and Special Towns](07-industry-and-resources.md#wine-regions).
 - **Olives** mark the true Mediterranean climate. They do not grow where winters are hard. If your region has olives, it has dry summers, terraces and probably biennial fallow.
 
-> **Map tip:** Draw open fields as large unhedged areas with faint hatching in different directions (each block of hatching is a furlong). Draw hedged, enclosed fields as a patchwork of small irregular shapes. Draw meadow as a pale green ribbon along streams, and heath or moor with tufts. In dry lands, put green gardens along canals and below qanat outlets, and leave the slopes above them brown. A line of small circles across dry country is a qanat: put the village and its gardens where the line ends.
+> **Map tip:** Draw open fields as large unhedged areas with faint hatching in different directions (each block of hatching is a furlong). Draw hedged, enclosed fields as a patchwork of small irregular shapes. Draw meadow as a pale green ribbon along streams, and heath or moor with tufts. In dry lands, put green gardens along canals and below qanat outlets, and leave the slopes above them brown. Draw a qanat as a straight line of tiny rings across dry country: each ring is a shaft mouth with its heap of spoil (dug-out earth) around it, and from the air a qanat looks like a line of holes or anthills. Put the village and its gardens where the line ends. Keep the rings much smaller than the small open circle used for a market town.
 
 > **Later era (1500s+):** In England, landlords enclosed many open fields for sheep pasture in the 15th and 16th centuries. How much was enclosed, and when, is debated. J. R. Wordie (1983) estimated that about 45% of England was already enclosed by 1500, 47% by 1600 and 71% by 1700. Other historians think more than half the farmland was still open in 1700. Either way, most remaining open fields went in the parliamentary enclosures of the 18th–19th centuries. "Floated" water meadows (channels that flooded meadows on purpose to get an early crop of grass) appear in the early 1600s; Rowland Vaughan described his in Herefordshire in 1610. Maize from the Americas spreads in Iberia and northern Italy in the 16th century. See [What Changes After 1500](09-later-era-1500-1650.md).
 
@@ -234,7 +234,7 @@ In Egypt, villages sat on mounds above the Nile flood, with basins of fields tha
 | **Rabbit warren** | Rabbits farmed for meat and fur | The Normans brought rabbits in the late 11th or 12th century. In the 13th century one rabbit was worth more than a workman's daily wage. Warrens sit on dry, sandy, poor land such as the Breckland (Norfolk and Suffolk). Artificial burrows are long low mounds called **pillow mounds**. Thetford Warren Lodge (c. 1400) is a fortified warrener's house |
 | **Hunting lodge** | A house for the lord's hunting visits, inside a forest or park | Clarendon (Wiltshire): a hunting lodge stood in its park by 1130; Henry II and Henry III turned it into a royal palace |
 
-> **Map tip:** Do not paint a royal forest as solid trees. Draw its boundary as a dotted line with a name ("Forest of ..."), and inside it show woods, heath, villages and fields. Give a county 1–3 royal forests in the hunting country nearest the king's palaces. Draw deer parks as rounded enclosures of 0.5–1 km (0.3–0.6 mi) across, next to castles and great manor houses, with a lodge inside. Put rabbit warrens on sandy heaths.
+> **Map tip:** Do not paint a royal forest as solid trees. Draw its boundary as a green dash-dot line with a large italic name ("Forest of ..."), and inside it show woods, heath, villages and fields. Do not use a dotted line: dotted lines mean tracks and other routes. Give a county 1–3 royal forests in the hunting country nearest the king's palaces. Draw deer parks as rounded pale (fence) lines 0.5–1 km (0.3–0.6 mi) across, with scattered trees inside, next to castles and great manor houses, and put a lodge inside. Mark a royal hunting lodge with a small crown. Put rabbit warrens on sandy heaths.
 
 > **Later era (1500s+):** Charcoal for blast furnaces and glassworks raised the value of coppice, and more woods were enclosed and managed. Many deer parks became landscaped parks around country houses. Forest law faded away by the mid-17th century.
 
@@ -284,7 +284,7 @@ Woods were spread very unevenly. Heavy clays, steep slopes and parish edges kept
 
 **After a plague:** England's arable shrank by about a quarter between 1300 and 1380, and by about a third by 1450. The lost fields became sheep and cattle pasture, and some went back to scrub and wood. Whole villages were deserted (see [chapter 01](01-settlement-placement.md#deserted-medieval-villages)).
 
-> **Map tip:** On a kingdom map of settled lowland, colour about a third of the land as fields, in broad patches around each cluster of villages. Spread the woods in many separate patches (on parish edges, heavy clay, steep slopes and hunting grounds) adding up to about a tenth, not one solid block. Give the rest to pasture, heath, moor and marsh, mostly on poor soil, hills and wet ground. In hill country, shrink the fields to small patches in the valleys. Show royal forests as a named boundary line, not as solid trees.
+> **Map tip:** On a kingdom map of settled lowland, colour about a third of the land as fields, in broad patches around each cluster of villages. Spread the woods in many separate patches (on parish edges, heavy clay, steep slopes and hunting grounds) adding up to about a tenth, not one solid block. Give the rest to pasture, heath, moor and marsh, mostly on poor soil, hills and wet ground. In hill country, shrink the fields to small patches in the valleys. Show royal forests as a named green dash-dot boundary, not as solid trees.
 
 > **Later era (1500s+):** By 1600 English arable had climbed back to about 28% of the land, and much less of it lay fallow: 2.2 of 8.9 million acres in 1600, against 4.1 of 11.5 million in 1300. More of the sown land grew peas, beans and other crops. Enclosure also turned some fields into hedged pasture (see [above](#fields-and-farming-systems)).
 
@@ -309,10 +309,10 @@ Woods were spread very unevenly. Heavy clays, steep slopes and parish edges kept
 | Type | Where | Dates and facts | How to draw it |
 |---|---|---|---|
 | **Watermill** | On streams and small rivers with a steady flow; a weir and leat create the fall of water the wheel needs | Vertical wheels in most of Europe: *undershot* (the water pushes the bottom of the wheel) or *overshot* (the water pours onto the top); small horizontal-wheeled "Norse" mills in Ireland, Scotland, Scandinavia and the mountains | A wheel symbol on the stream, with its leat |
-| **Windmill** | Flat, open or dry country: eastern England, Flanders, northern France, the Low Countries | Earliest certain reference in northern Europe: **1185**, at Weedley in Yorkshire. The first type was the **post mill** (the whole body turns on a post). Masonry **tower mills** appeared by c. 1300. Dutch drainage mills appeared from 1408 | A mill with four sails on a hill or mound, away from trees |
-| **Tide mill** | Estuaries and sheltered coasts with a strong tide | Nendrum (Northern Ireland) c. 619, rebuilt c. 787; Ebbsfleet (Kent) 691–692 (dated by tree rings); Woodbridge (Suffolk) first recorded 1170. A pond fills at high tide through a one-way gate and drives the wheel as the tide falls | A mill on a dam across a tidal creek |
+| **Windmill** | Flat, open or dry country: eastern England, Flanders, northern France, the Low Countries | Earliest certain reference in northern Europe: **1185**, at Weedley in Yorkshire. The first type was the **post mill** (the whole body turns on a post). Masonry **tower mills** appeared by c. 1300. Dutch drainage mills appeared from 1408 | An X of four sails on a dot or small mound, on high ground away from trees |
+| **Tide mill** | Estuaries and sheltered coasts with a strong tide | Nendrum (Northern Ireland) c. 619, rebuilt c. 787; Ebbsfleet (Kent) 691–692 (dated by tree rings); Woodbridge (Suffolk) first recorded 1170. A pond fills at high tide through a one-way gate and drives the wheel as the tide falls | A mill wheel on a dam across a tidal creek |
 | **Horse or donkey mill** | Castles, besieged towns, dry places with no stream | Slow but independent of water | No special symbol; inside a castle or town |
-| **Ship mill and bridge mill** | Big rivers with no space for weirs | Floating mills on the Tiber, Danube and other large rivers; Paris had a bridge lined with mills | Small boats moored midstream; mills on a bridge |
+| **Ship mill and bridge mill** | Big rivers with no space for weirs | Floating mills on the Tiber, Danube and other large rivers; Paris had a bridge lined with mills | Small mill wheels in midstream, labelled "ship mills"; mill wheels on the bridge symbol. Do not draw boats: a small boat on a river marks the head of navigation |
 
 ### Leats, ponds and weirs
 
@@ -322,7 +322,7 @@ Woods were spread very unevenly. Heavy clays, steep slopes and parish edges kept
 - **Tail race:** returns water to the river below the mill.
 - **Conflicts:** mill weirs blocked boats and fish. Rivers with many mills were hard to navigate (see [Trade Routes, Roads and Transport](05-trade-routes-and-transport.md)). Mills also drove fulling, forges and other industry (see [Industry, Resources and Special Towns](07-industry-and-resources.md)).
 
-> **Map tip:** Give almost every village a mill. Draw the river, a weir, the leat running parallel to the river, the mill, and the tail race rejoining the river. On a good stream, mills can follow each other every 1–2 km (0.6–1.2 mi). In flat, dry country, put windmills on the highest ground near the village, often on an old mound. Label them "Mill", "Mill Hill" or "Windmill Hill". Put tide mills on creeks near a coastal town.
+> **Map tip:** Give almost every village a mill. Draw the river, a weir, the leat running parallel to the river as a thin blue line, the mill as a wheel on the water, and the tail race rejoining the river. On a good stream, mills can follow each other every 1–2 km (0.6–1.2 mi). In flat, dry country, put windmills (an X of four sails on a dot) on the highest ground near the village, often on an old mound. Label them "Mill", "Mill Hill" or "Windmill Hill". Put tide mills on creeks near a coastal town.
 
 > **Later era (1500s+):** Wind-pumped drainage made the great Dutch land reclamations possible (see below). Wind-driven sawmills appeared in Holland from the 1590s. Mills multiplied again for paper, gunpowder and metalworking.
 
@@ -353,10 +353,10 @@ Woods were spread very unevenly. Heavy clays, steep slopes and parish edges kept
 
 | Type | Region | Distance | Season | On the map |
 |---|---|---|---|---|
-| **Shielings** (summer huts on hill pasture) | Scotland (*àirigh*), northern England, Wales (*hafod* = summer house, *hendre* = winter house), Ireland (*booley*), Norway (*seter*) | Usually within a day's walk, uphill | Scotland: families went up "about midsummer" for "a month or six weeks" to make butter and cheese | Clusters of small huts by a stream on high pasture. Scottish huts were mostly rectangular, 5.7–14 m (19–46 ft) long, of dry stone or turf. A 1995–2001 survey in Scotland recorded about 3,100 shieling huts |
-| **Alpine pastures** | Alps, Pyrenees, Carpathians | From the valley village up to the high meadows | Summer | Huts and cheese-making above the tree line |
+| **Shielings** (summer huts on hill pasture) | Scotland (*àirigh*), northern England, Wales (*hafod* = summer house, *hendre* = winter house), Ireland (*booley*), Norway (*seter*) | Usually within a day's walk, uphill | Scotland: families went up "about midsummer" for "a month or six weeks" to make butter and cheese | A cluster of tiny squares (the huts) by a stream on high pasture. Scottish huts were mostly rectangular, 5.7–14 m (19–46 ft) long, of dry stone or turf. A 1995–2001 survey in Scotland recorded about 3,100 shieling huts |
+| **Alpine pastures** | Alps, Pyrenees, Carpathians | From the valley village up to the high meadows | Summer | Tiny squares (huts and cheese-making dairies) above the tree line |
 | **Long-distance transhumance** | Castile (the **Mesta**, royal charter 1273) | 550–750 km (340–470 mi) from León and Old Castile to Extremadura and Andalusia; rarely more than 250 km (155 mi) from New Castile and La Mancha | South in autumn (arriving in October), north in April–May | More than 2.5 million sheep moved each year in 1436–1549. The royal drove roads (*cañadas reales*) were given a fixed width only where they crossed farmland: 90 *varas* (Castilian yards), about 75 m (250 ft) |
-| **Tratturi** | Abruzzo to Apulia (southern Italy) | The main route, L'Aquila to Foggia, is about 244 km (152 mi) | Winter in the Apulian lowlands, summer in the mountains | Wide grassy drove roads (*tratturi*); King Alfonso V of Aragon organised them as a royal toll system (the *Dogana*) in 1447 |
+| **Tratturi** | Abruzzo to Apulia (southern Italy) | The main route, L'Aquila to Foggia, is about 244 km (152 mi) | Winter in the Apulian lowlands, summer in the mountains | Wide grassy drove roads (*tratturi*), drawn as broad dotted lines (two rows of dots); King Alfonso V of Aragon organised them as a royal toll system (the *Dogana*) in 1447 |
 
 Place names often record shielings: English and Scots "shiel" or "shield" (Galashiels, Pollokshields), Old Norse *sætr* ("-side", "-seat") and *ærgi* ("-ergh", "-argh"), and Gaelic *àirigh* ("Airie", "Arie").
 
@@ -367,7 +367,7 @@ Place names often record shielings: English and Scots "shiel" or "shield" (Galas
 - **Hollow ways** (sunken lanes) are tracks worn deep by centuries of feet, hooves and rainwater, especially on chalk and soft sandstone. One estimate puts England's total at over 1,600 km (1,000 mi); in Germany some reach 5 m (16 ft) deep.
 - **Footpaths and church paths:** every hamlet had a path to its parish church and mill. In big northern parishes, "corpse roads" carried the dead from distant hamlets to the parish churchyard.
 
-> **Map tip:** On a local map, add a manor house with a moat, a dovecote and a chain of fishponds below it. Put a grange with a great barn in a monastery's outlying land. Mark the parish boundary with a dash-dot line that follows streams and ridges, and put a cross or stone where paths meet it. Draw a few dotted tracks from the village up to summer huts on the hills, and a wide drove road in sheep country.
+> **Map tip:** On a local map, add a manor house with a moat (a small open square with a double outline), a dovecote and a chain of fishponds (small rectangles along the stream) below it. Put a grange (a small open square topped with a cross, or the label "Grange") with a great barn in a monastery's outlying land. Mark the parish boundary with a thin dash-dot-dot line that follows streams and ridges. Where paths cross it, put a wayside cross (a tiny cross on a base) or a boundary stone (just the letters "BS" written on the line, as on Ordnance Survey maps; a tick would read as a standing stone, and a dot as a farmstead). Draw a few thin dotted tracks from the village up to summer huts on the hills, and a drove road (a broad dotted line, two rows of dots) in sheep country.
 
 ---
 
@@ -377,9 +377,9 @@ Place names often record shielings: English and Scots "shiel" or "shield" (Galas
 
 | Type | What it is | Real examples | On the map |
 |---|---|---|---|
-| **Silt fen and salt-marsh reclamation** | Banks built against the sea or floods; marsh drained by ditches | The Fens (about 3,900 km², 1,500 sq mi): medieval farmers embanked the silt land around the Wash. Romney Marsh (about 260 km², 100 sq mi): land "inned" (enclosed by walls) in stages; much of Walland and Denge Marsh by the 14th century | Long sea banks, straight drains, villages in a line along the old banks, sheep on the marsh |
+| **Silt fen and salt-marsh reclamation** | Banks built against the sea or floods; marsh drained by ditches | The Fens (about 3,900 km², 1,500 sq mi): medieval farmers embanked the silt land around the Wash. Romney Marsh (about 260 km², 100 sq mi): land "inned" (enclosed by walls) in stages; much of Walland and Denge Marsh by the 14th century | Long sea banks (bold lines with short ticks on the water side), straight drains, villages in a line along the old banks, sheep on the marsh |
 | **Peat fen** | Wet inland marsh | The southern Fens stayed mostly undrained: fish, eels, wildfowl, reeds, turf, summer grazing. Monasteries (Ely, Thorney, Crowland, Ramsey, Peterborough) stood on dry "islands"; the Isle of Ely is about 60 km² (23 sq mi) | Islands of dry land with a church or abbey, surrounded by marsh and meres |
-| **Polders and dykes** | Land below water level, enclosed by dykes and drained | Netherlands: first polders in the 11th century; a cooperative to build and keep up a dam on the Rhine near Wijk bij Duurstede (south-east of Utrecht) c. 1122; the Rijnland water board in 1255; the first drainage windmill near Alkmaar in 1408. Drained peat shrinks and sinks, so dykes had to be raised again and again | Dykes as thick lines, villages strung along them, a grid of drains |
+| **Polders and dykes** | Land below water level, enclosed by dykes and drained | Netherlands: first polders in the 11th century; a cooperative to build and keep up a dam on the Rhine near Wijk bij Duurstede (south-east of Utrecht) c. 1122; the Rijnland water board in 1255; the first drainage windmill near Alkmaar in 1408. Drained peat shrinks and sinks, so dykes had to be raised again and again | A grid of drains inside a dyke. Draw the dyke as a bold line with short ticks on the water side (a plain thick line means a highway). Villages strung along the dykes; drainage windmills only from 1408 |
 | **Assarts** | Fields cleared from woodland | Peak in the 13th century, by single farmers, village groups, lords and monasteries (especially the Cistercians). In royal forests a licence or a fine was needed. Many went back to woodland after the Black Death | Irregular hedged fields biting into woodland, with isolated farms |
 
 **Place-name clues:** English assart names include Stocking, Stubbings, Ridding, Royd and Breach. Older English clearing names end in *-ley* or *-leigh* (Old English *lēah*, "wood, clearing"), and Norse ones in *-thwaite*. French *essart* and *-sart* and German *-rode*, *-rath* and *-reuth* (as in Bayreuth) mean "cleared land". For more name endings and how to use them, see [Naming settlements realistically](01-settlement-placement.md#naming-settlements-realistically). German eastward settlement (*Ostsiedlung*, 12th–14th centuries) cleared forest in the same way, with Waldhufendörfer and standard farm holdings (the Frankish *Hufe*, about 24 ha or 60 acres).
@@ -407,7 +407,7 @@ Place names often record shielings: English and Scots "shiel" or "shield" (Galas
 
 **Moot sites:** A *moot* is an assembly. Assemblies met in the open at places everyone could find. Secklow Mound (in modern Milton Keynes) was the meeting place of Secklow hundred. Tynwald Hill (Isle of Man) and Thingwall (Wirral) come from the Norse *thing* (assembly). Place-name clues are -low or -law (mound), "Moot Hill", "Gallows Hill", "Court Hill", and names with Thing- or -ting.
 
-> **Map tip:** On a county map, divide the land into hundreds about 12–15 km (7–9 mi) across, smaller in rich, crowded country and larger in the hills. Name each hundred after its meeting place, and mark that place with a small mound or tree symbol, often on a road or at a ford near the middle of the hundred and away from any village. Gallows often stand nearby.
+> **Map tip:** On a county map, divide the land into hundreds about 12–15 km (7–9 mi) across, smaller in rich, crowded country and larger in the hills. Draw their boundaries as thin dash-dot-dot lines. Name each hundred after its meeting place, and mark that place with a small lone tree labelled "Moot", even when the real meeting place was a mound, a stone or a ford (a small mound symbol would read as a barrow). The site is often on a road or at a ford near the middle of the hundred and away from any village. Gallows (a small "Π" on a hill) often stand nearby.
 
 ---
 
@@ -442,31 +442,49 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 
 ### Suggested symbols
 
+These symbols match the guide's [master legend](13-quick-reference.md#master-legend-and-label-hierarchy).
+
 | Feature | Symbol |
 |---|---|
-| Parish church | Small cross or a church with a tower |
-| Manor house | Small square; double outline if moated (a real moated site is only about 40–80 m across, so on a 1 cm = 1 km map this is a symbol, not to scale) |
+| Farmstead | Tiny dot |
+| Hamlet | 2–5 small house marks, no church |
+| Village | House marks around a church; on a kingdom map, a tiny dot (notable villages only) |
+| Parish church | Small church with a tower (a small plain cross with no tower means a chapel) |
+| Manor house | Small open square; double outline if moated (a real moated site is only about 40–80 m across, so on a 1 cm = 1 km map this is a symbol, not to scale) |
+| Grange | Small open square topped with a cross, or the label "Grange" |
 | Watermill | Wheel on the stream, with the leat as a thin blue line |
-| Windmill | Four-armed cross on a dot or small mound |
-| Open fields | Unhedged areas with hatching in blocks |
+| Windmill | X of four sails on a dot or small mound |
+| Tide mill | Mill wheel on a dam across a tidal creek |
+| Open fields | Unhedged areas with blocks of hatching |
 | Enclosed fields | Small irregular polygons |
 | Meadow | Pale green band along streams |
+| Vineyards | Hatched strips on south-facing slopes |
 | Wood | Tree symbols with a firm edge (managed wood) |
-| Wood-pasture or park | Scattered single trees on grass; a park inside a rounded pale line |
-| Royal forest | Dotted boundary and a large italic name |
+| Wood-pasture | Scattered single trees on grass |
+| Deer park | Rounded pale (fence) line with scattered trees inside |
+| Royal forest | Green dash-dot boundary with a large italic name; villages and fields inside |
 | Commons, heath, moor | Tufts or stipple |
 | Fishponds | Small rectangles in a chain along a stream |
-| Summer huts (shielings) | Tiny squares in a cluster on high ground |
+| Shielings (summer huts) | Cluster of tiny squares on high pasture |
+| Track or footpath | Thin dotted line |
+| Drove road | Broad dotted line (two rows of dots) |
+| Wayside cross | Tiny cross on a base, set on the road or path |
+| Boundary stone | The letters "BS" on the boundary line |
+| Moot (assembly) site | Small lone tree, labelled "Moot" |
+| Gallows | Small "Π" on a hill |
+| Deserted village | Grey church alone in a field, labelled "(lost village)" |
+| Dyke or sea bank | Bold line with short ticks on the water side |
+| Qanat | Straight line of tiny rings (shaft mouths) ending in green gardens |
 | Rice terraces | Tight parallel lines that follow the contours |
 | Tank (reservoir) | Curved dam line with water behind it and a fan of small fields below |
-| Boundary | Dash-dot line along streams and ridges |
+| Parish, manor or hundred boundary | Thin dash-dot-dot line along streams and ridges |
 
 ### A method for a local map
 
 1. Draw relief and water: streams, springs, flood plains, marsh.
 2. Choose the settlement pattern for each part (nucleated, dispersed, linear).
 3. Place villages 1.5–4 km (1–2.5 mi) apart on good land, near water and on the edge of the flood plain. Place hamlets and farms in the uplands, forest and marsh.
-4. Draw the parish boundaries through the land between villages.
+4. Draw the parish boundaries (thin dash-dot-dot lines) through the land between villages.
 5. Draw the rings: fields around each village, meadow along streams, pasture and wood at the parish edges.
 6. Add one mill per village, with its leat or on its hill.
 7. Add manor houses, moats, dovecotes, fishponds and one or two deer parks near the richest manors.
@@ -549,4 +567,7 @@ For castles, abbeys and roads, see [Castles, Forts and Military Outposts](04-mil
 - Amazing Lanka, Parakrama Samudraya: https://amazinglanka.com/wp/parakrama-samudraya/
 - Evans et al. 2007 (Angkor map), full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC1964867
 - Britannica, "Chinampa": https://www.britannica.com/topic/chinampa
+- Livius.org, "Qanat" (from the air, a qanat looks like a straight line of holes in the ground): https://www.livius.org/articles/misc/qanat/
+- WaterHistory.org, "Qanats" (shafts every 20–30 m, spoil dumped round each shaft mouth, "a line of anthills" from the air; PDF copy): https://www.literature.wolkersdorfer.info/literature/qanats.pdf
+- National Library of Scotland, Ordnance Survey abbreviations, letter B ("BS" = boundary stone): https://maps.nls.uk/os/abbrev/b.html
 - Wikipedia (starting points; follow their citations): [Open-field system](https://en.wikipedia.org/wiki/Open-field_system), [Ridge and furrow](https://en.wikipedia.org/wiki/Ridge_and_furrow), [Waldhufendorf](https://en.wikipedia.org/wiki/Waldhufendorf), [Rundling](https://en.wikipedia.org/wiki/Rundling), [Angerdorf](https://en.wikipedia.org/wiki/Angerdorf), [Watermill](https://en.wikipedia.org/wiki/Watermill), [Windmill](https://en.wikipedia.org/wiki/Windmill), [Tide mill](https://en.wikipedia.org/wiki/Tide_mill), [Horse mill](https://en.wikipedia.org/wiki/Horse_mill), [Royal forest](https://en.wikipedia.org/wiki/Royal_forest), [Deer park (England)](https://en.wikipedia.org/wiki/Deer_park_(England)), [Hatfield Forest](https://en.wikipedia.org/wiki/Hatfield_Forest), [Coppicing](https://en.wikipedia.org/wiki/Coppicing), [Pollarding](https://en.wikipedia.org/wiki/Pollarding), [Pannage](https://en.wikipedia.org/wiki/Pannage), [Qanat](https://en.wikipedia.org/wiki/Qanat), [Noria](https://en.wikipedia.org/wiki/Noria), [Terrace (earthworks)](https://en.wikipedia.org/wiki/Terrace_(earthworks)), [Mesta](https://en.wikipedia.org/wiki/Mesta), [Shieling](https://en.wikipedia.org/wiki/Shieling), [Polder](https://en.wikipedia.org/wiki/Polder), [Water board (Netherlands)](https://en.wikipedia.org/wiki/Water_board_(Netherlands)), [The Fens](https://en.wikipedia.org/wiki/The_Fens), [Romney Marsh](https://en.wikipedia.org/wiki/Romney_Marsh), [Assart](https://en.wikipedia.org/wiki/Assart), [Hundred (county division)](https://en.wikipedia.org/wiki/Hundred_(county_division)), [Moot hill](https://en.wikipedia.org/wiki/Moot_hill), [Great Coxwell Barn](https://en.wikipedia.org/wiki/Great_Coxwell_Barn), [Tithe barn](https://en.wikipedia.org/wiki/Tithe_barn), [Monastic grange](https://en.wikipedia.org/wiki/Monastic_grange), [Animal pound (Pinfold)](https://en.wikipedia.org/wiki/Pinfold), [Sunken lane](https://en.wikipedia.org/wiki/Sunken_lane), [Beating the bounds](https://en.wikipedia.org/wiki/Beating_the_bounds), [Wayside cross](https://en.wikipedia.org/wiki/Wayside_cross), [Lime kiln](https://en.wikipedia.org/wiki/Lime_kiln), [Dovecote](https://en.wikipedia.org/wiki/Dovecote), [English wine](https://en.wikipedia.org/wiki/English_wine), [Polish wine](https://en.wikipedia.org/wiki/Polish_wine), [Virgate](https://en.wikipedia.org/wiki/Virgate), [Sherwood Forest](https://en.wikipedia.org/wiki/Sherwood_Forest), [Clarendon Palace](https://en.wikipedia.org/wiki/Clarendon_Palace), [Cranborne Chase](https://en.wikipedia.org/wiki/Cranborne_Chase), [Nendrum Monastery](https://en.wikipedia.org/wiki/Nendrum_Monastery), [Quern-stone](https://en.wikipedia.org/wiki/Quern-stone), [Dartmoor crosses](https://en.wikipedia.org/wiki/Dartmoor_crosses), [Beemster](https://en.wikipedia.org/wiki/Beemster), [Schermer](https://en.wikipedia.org/wiki/Schermer), [Rowland Vaughan](https://en.wikipedia.org/wiki/Rowland_Vaughan), [Laxton, Nottinghamshire](https://en.wikipedia.org/wiki/Laxton,_Nottinghamshire), [Subak (irrigation)](https://en.wikipedia.org/wiki/Subak_(irrigation)), [Honghe Hani Rice Terraces](https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces), [Parakrama Samudra](https://en.wikipedia.org/wiki/Parakrama_Samudra), [Chinampa](https://en.wikipedia.org/wiki/Chinampa), [Lake Chalco](https://en.wikipedia.org/wiki/Lake_Chalco), [West Baray](https://en.wikipedia.org/wiki/West_Baray).
