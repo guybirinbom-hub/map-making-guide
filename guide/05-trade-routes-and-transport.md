@@ -128,7 +128,7 @@ Medieval people did draw road maps. The Gough Map of Britain (probably 1370s, re
 
 > **Rule of thumb:** A drove moves at the speed of a grazing cow: about 16–30 km (10–20 mi) a day, with a field or pasture for the night at the end of each day's stage.
 
-**Why:** Live animals walk themselves to market, so they are the one farm product that can cross a kingdom cheaply over land. But they must eat and drink on the way, or they arrive thin and sell for less. So drovers move slowly, let the animals graze, and keep to open hill tracks and broad green lanes. They avoid towns, crops and, where they can, tolls. One Welsh account says drovers "would lose a day goin' round sooner'n they'd pass a [toll] gate".
+**Why:** Live animals walk themselves to market, so they can cross a kingdom over land far more cheaply than grain. But they must eat and drink on the way, or they arrive thin and sell for less. So drovers move slowly, let the animals graze, and keep to open hill tracks and broad green lanes. They avoid towns, crops and, where they can, tolls. A 19th-century saying about Welsh drovers was that "they'd lose a day goin' round sooner'n they'd pass a gate": they would rather lose a day going round than pay at a toll gate.
 
 **When:** Cattle were driven from Wales to England from at least the 13th century. There are records of cattle driven from Wales to London, and sheep from Lincolnshire to York, in the early 14th century. Scottish drovers were being licensed by 1359. The great age of droving came later, in the 1600s–1800s, and most of the numbers below come from that time. Use them as the best guide we have for the Middle Ages too.
 
