@@ -487,25 +487,67 @@ def star_pts(x, y, R, r, n=5, rot=-90):
     return pts
 
 
+# Symbols follow the master legend in chapter 13 (13-quick-reference.md,
+# "Master legend and label hierarchy"): one symbol, one meaning; borders are
+# dash-dot lines, routes are solid or dotted lines, dashes only for fords.
+RUIN_FILL = '#b9b0a0'
+
+
 def g_capital(x, y, k=1.0):
-    return (circ(x, y, 7.2 * k, C['red'], C['ink'], 1.2) +
-            '<path d="%s" fill="#fff6dc"/>' % poly_d(star_pts(x, y, 5.6 * k, 2.3 * k)))
+    """Realm capital: a filled star in place of the tier symbol."""
+    d = poly_d(star_pts(x, y, 8.4 * k, 3.6 * k))
+    return ('<path d="%s" fill="none" stroke="#fffaf0" stroke-width="%s" stroke-linejoin="round"/>' % (d, f1(2.6 * k)) +
+            '<path d="%s" fill="%s" stroke="%s" stroke-width="%s" stroke-linejoin="round"/>' % (
+                d, C['red'], C['ink'], f1(0.9 * k)))
 
 
-def g_city(x, y, k=1.0):
-    return (circ(x, y, 5.6 * k, '#fffaf0', C['ink'], 1.3) +
-            circ(x, y, 3.4 * k, C['red']))
+def merlons(x, y, r, n, s, col, rot=0.0):
+    """Battlements: n small squares standing on a ring of radius r."""
+    out = []
+    for i in range(n):
+        a = math.radians(rot + i * 360.0 / n)
+        nx, ny = math.cos(a), math.sin(a)
+        tx, ty = -ny, nx
+        cx, cy = x + nx * (r + s * 0.4), y + ny * (r + s * 0.4)
+        pts = [(cx + tx * s / 2 - nx * s / 2, cy + ty * s / 2 - ny * s / 2),
+               (cx + tx * s / 2 + nx * s / 2, cy + ty * s / 2 + ny * s / 2),
+               (cx - tx * s / 2 + nx * s / 2, cy - ty * s / 2 + ny * s / 2),
+               (cx - tx * s / 2 - nx * s / 2, cy - ty * s / 2 - ny * s / 2)]
+        out.append(poly_d(pts))
+    return '<path d="%s" fill="%s"/>' % (''.join(out), col)
 
 
-def g_town(x, y, walled=False, k=1.0):
+def g_city(x, y, county=True, k=1.0):
+    """City: circle with a thick battlemented ring; county town adds a centre dot."""
+    s = (merlons(x, y, 4.4 * k, 10, 1.55 * k, C['ink']) +
+         circ(x, y, 4.4 * k, '#fffaf0', C['ink'], 1.7 * k))
+    if county:
+        s += circ(x, y, 1.35 * k, C['ink'])
+    return s
+
+
+def g_town(x, y, walled=False, county=False, k=1.0, col=None):
+    """Town: circle with a ring; battlements on the ring if walled; centre dot if county town."""
+    col = col or C['ink']
     s = ''
     if walled:
-        s += circ(x, y, 5.0 * k, 'none', C['ink'], 0.9)
-    return s + circ(x, y, 3.0 * k, C['ink'])
+        s += merlons(x, y, 3.8 * k, 8, 1.2 * k, col, rot=22.5)
+    s += circ(x, y, 3.8 * k, '#fffaf0', col, 0.9 * k)
+    s += circ(x, y, 2.1 * k, 'none', col, 0.75 * k)
+    if county:
+        s += circ(x, y, 0.95 * k, col)
+    return s
 
 
 def g_market(x, y):
     return circ(x, y, 2.1, '#fffaf0', C['ink'], 1.0)
+
+
+def g_pennant(x, y):
+    """Duchy or regional seat: a small pennant; (x, y) is the foot of the staff."""
+    return ('<path d="M%s,%sV%s" stroke="%s" stroke-width="0.8"/>' % (f1(x), f1(y), f1(y - 6.2), C['ink']) +
+            '<path d="M%s,%sL%s,%sL%s,%sZ" fill="%s" stroke="%s" stroke-width="0.35"/>' % (
+                f1(x), f1(y - 6.4), f1(x + 4.2), f1(y - 5.2), f1(x), f1(y - 4.0), C['red'], C['ink']))
 
 
 def tower_path(x, y, k):
@@ -514,7 +556,21 @@ def tower_path(x, y, k):
     return poly_d([(x + k * a, y + k * b) for a, b in pts])
 
 
+def great_castle_path(x, y, k):
+    """Large castle icon: three towers, the middle one tallest."""
+    pts = [(-5, 3.4), (-5, -2.8), (-4.2, -2.8), (-4.2, -2.0), (-3.4, -2.0), (-3.4, -2.8), (-2.6, -2.8),
+           (-2.6, -0.6), (-1.5, -0.6), (-1.5, -4.8), (-0.9, -4.8), (-0.9, -4.0), (-0.3, -4.0), (-0.3, -4.8),
+           (0.3, -4.8), (0.3, -4.0), (0.9, -4.0), (0.9, -4.8), (1.5, -4.8), (1.5, -0.6), (2.6, -0.6),
+           (2.6, -2.8), (3.4, -2.8), (3.4, -2.0), (4.2, -2.0), (4.2, -2.8), (5, -2.8), (5, 3.4)]
+    return poly_d([(x + k * a, y + k * b) for a, b in pts])
+
+
+BARONIAL = '#8a6845'
+
+
 def g_castle(x, y, kind='royal'):
+    if kind == 'great':
+        return '<path d="%s" fill="%s" stroke="#fffaf0" stroke-width="0.6"/>' % (great_castle_path(x, y, 0.9), C['ink'])
     if kind == 'royal':
         return '<path d="%s" fill="%s" stroke="#fffaf0" stroke-width="0.5"/>' % (tower_path(x, y, 1.0), C['ink'])
     if kind == 'county':
@@ -522,20 +578,25 @@ def g_castle(x, y, kind='royal'):
     if kind == 'frontier':
         return '<path d="%s" fill="%s" stroke="#fffaf0" stroke-width="0.4"/>' % (tower_path(x, y, 0.8), C['border'])
     if kind == 'baronial':
-        return '<path d="%s" fill="#fffaf0" stroke="%s" stroke-width="0.8"/>' % (tower_path(x, y, 0.75), C['ink'])
+        return '<path d="%s" fill="%s" stroke="#fffaf0" stroke-width="0.4"/>' % (tower_path(x, y, 0.72), BARONIAL)
     if kind == 'foreign':
         return '<path d="%s" fill="%s"/>' % (tower_path(x, y, 0.8), C['grey'])
     raise ValueError(kind)
 
 
 def g_motte(x, y):
-    return (circ(x, y, 2.5, '#e4dccb', C['grey'], 0.8, ' stroke-dasharray="1.2 0.9"') +
-            circ(x, y, 0.8, C['grey']))
+    """Abandoned motte: a grey mound with a tower tick on top."""
+    return ('<path d="M%s,%sQ%s,%s %s,%sZ" fill="%s" stroke="%s" stroke-width="0.6"/>' % (
+        f1(x - 3.2), f1(y + 2.2), f1(x), f1(y - 3.0), f1(x + 3.2), f1(y + 2.2), RUIN_FILL, C['grey']) +
+        '<path d="M%s,%sV%s" stroke="%s" stroke-width="0.9"/>' % (f1(x), f1(y - 0.2), f1(y - 3.4), C['grey']))
 
 
 def g_hillfort(x, y):
-    return (circ(x, y, 3.6, 'none', C['grey'], 0.9, ' stroke-dasharray="1.6 1"') +
-            circ(x, y, 1.8, 'none', C['grey'], 0.8))
+    """Hillfort: an oval of rings."""
+    return ('<ellipse cx="%s" cy="%s" rx="4" ry="2.9" fill="none" stroke="%s" stroke-width="0.8"/>' % (
+        f1(x), f1(y), C['grey']) +
+        '<ellipse cx="%s" cy="%s" rx="2.4" ry="1.6" fill="none" stroke="%s" stroke-width="0.8"/>' % (
+            f1(x), f1(y), C['grey']))
 
 
 def g_stones(x, y):
@@ -544,19 +605,38 @@ def g_stones(x, y):
 
 
 def g_barrows(x, y):
-    return ''.join('<ellipse cx="%s" cy="%s" rx="1.6" ry="1.1" fill="%s"/>' % (f1(x + dx), f1(y + dy), C['grey'])
-                   for dx, dy in ((-2.5, 0.8), (1, -1.5), (2.8, 1.5)))
+    """Barrows: small filled mounds."""
+    return ''.join('<path d="M%s,%sQ%s,%s %s,%sZ" fill="%s"/>' % (
+        f1(x + dx - 1.9), f1(y + dy + 0.9), f1(x + dx), f1(y + dy - 2.0), f1(x + dx + 1.9), f1(y + dy + 0.9), C['grey'])
+        for dx, dy in ((-2.5, 0.8), (1, -1.5), (2.8, 1.5)))
 
 
 def g_ruin_town(x, y):
-    return '<rect x="%s" y="%s" width="8" height="8" fill="none" stroke="%s" stroke-width="1" stroke-dasharray="1.6 1"/>' % (
-        f1(x - 4), f1(y - 4), C['grey'])
+    """Ruined walled town: the walled-town symbol in grey."""
+    return (merlons(x, y, 3.6, 8, 1.2, C['grey'], rot=22.5) +
+            circ(x, y, 3.6, RUIN_FILL, C['grey'], 0.9) + circ(x, y, 1.9, 'none', C['grey'], 0.7))
+
+
+def church_path(x, y, k=1.0):
+    """Small church: a tower with a spire at the west end and a nave."""
+    pts = [(-2.8, 2.4), (-2.8, -2.4), (-1.8, -4.2), (-0.8, -2.4), (-0.8, -0.4), (2.8, -0.4), (2.8, 2.4)]
+    return poly_d([(x + k * a, y + k * b) for a, b in pts])
 
 
 def g_deserted(x, y):
-    return (circ(x, y, 1.9, 'none', C['grey'], 0.9) +
-            '<path d="M%s,%sL%s,%s" stroke="%s" stroke-width="0.8"/>' % (
-                f1(x - 2.6), f1(y + 2.6), f1(x + 2.6), f1(y - 2.6), C['grey']))
+    """Deserted village: a grey church alone in a field."""
+    return '<path d="%s" fill="%s" stroke="%s" stroke-width="0.6"/>' % (church_path(x, y), RUIN_FILL, C['grey'])
+
+
+def g_cathedral(x, y, k=1.0):
+    """Cathedral: a church front with two towers."""
+    pts = [(-3.3, 3.0), (-3.3, -1.9), (-2.5, -3.9), (-1.7, -1.9), (-1.7, -0.6), (0, -2.0), (1.7, -0.6),
+           (1.7, -1.9), (2.5, -3.9), (3.3, -1.9), (3.3, 3.0)]
+    d = poly_d([(x + k * a, y + k * b) for a, b in pts])
+    return ('<path d="%s" fill="none" stroke="#fffaf0" stroke-width="%s" stroke-linejoin="round"/>' % (d, f1(1.8 * k)) +
+            '<path d="%s" fill="%s"/>' % (d, C['purple']) +
+            '<path d="M%s,%sV%s" stroke="#fffaf0" stroke-width="%s"/>' % (f1(x), f1(y + 3.0 * k), f1(y + 0.9 * k),
+                                                                         f1(1.1 * k)))
 
 
 def g_dyke_tick(path_pts):
